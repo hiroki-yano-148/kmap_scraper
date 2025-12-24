@@ -1,0 +1,159 @@
+import { SupabaseClient } from "@supabase/supabase-js";
+import { nanoid } from "nanoid";
+import sharp from "sharp";
+
+type StorageFileApi = ReturnType<SupabaseClient["storage"]["from"]>;
+
+export class SupabaseStorage {
+	private readonly storage: StorageFileApi;
+
+	constructor(storage: StorageFileApi) {
+		this.storage = storage;
+	}
+
+	static async init() {
+		if (!process.env.SUPABASE_URL) {
+			throw new Error("supabase url is missing");
+		}
+
+		if (!process.env.SUPABASE_ANON_KEY) {
+			throw new Error("supabase anon key is missing");
+		}
+
+		const supabase = new SupabaseClient(
+			process.env.SUPABASE_URL,
+			process.env.SUPABASE_ANON_KEY,
+		);
+
+		await supabase.auth.signInWithPassword({
+			email: "hiroki_yano@c-spec.net",
+			password: "Password2",
+		});
+
+		const storage = supabase.storage.from("kmap-bucket");
+		return new SupabaseStorage(storage);
+	}
+
+	private async uploadImage(path: string, file: Buffer) {
+		const { data: isExists } = await this.storage.exists(path);
+
+		if (isExists) {
+			const { error, data: updated } = await this.storage.update(path, file, {
+				upsert: true,
+			});
+			const { data } = this.storage.getPublicUrl(path);
+			if (error) {
+				return { error };
+			} else {
+				return { data: { id: updated?.id, photoUrl: data.publicUrl } };
+			}
+		}
+
+		const { error, data: uploaded } = await this.storage.upload(path, file);
+		const { data } = this.storage.getPublicUrl(path);
+		if (error) {
+			return { error };
+		} else {
+			return { data: { id: uploaded?.id, photoUrl: data.publicUrl } };
+		}
+	}
+
+	// public async getPaths(): Promise<string[]> {
+	// 	const path = `public/users/${this.userId}/contents/${this.contentId}`;
+	// 	const supabase = await createClient();
+	// 	const storage = supabase.storage.from("kmap-bucket");
+	// 	const { data } = await storage.list(path);
+	// 	return data?.map((file) => `${path}/${file.name}`) ?? [];
+	// }
+
+	// public async remove(paths: string[]): Promise<any> {
+	// 	const { error, data: deleted } = await this.storage.remove(paths);
+	// 	if (error) {
+	// 		console.error(error);
+	// 		throw error;
+	// 	}
+
+	// 	return deleted;
+	// }
+
+	public async uploadContentPhoto(
+		photo: File,
+		userId: string,
+		contentId?: string,
+	) {
+		const extension = photo.name.split(".").pop()?.toLowerCase();
+
+		if (!extension) {
+			throw new Error("file extension not found");
+		}
+
+		const id = nanoid();
+		const buffer = await photo.arrayBuffer();
+		const optimizedPhoto = await sharp(buffer)
+			.toFormat("webp", { quality: 75 })
+			.toBuffer();
+		const thumbnail = await sharp(buffer)
+			.toFormat("webp", { quality: 25 })
+			.resize(40, 40)
+			.toBuffer();
+
+		const photoPath = `public/users/${userId}/contents/${contentId}/${id}.webp`;
+		const thumbnailPath = `public/users/${userId}/contents/${contentId}/${id}.min.webp`;
+
+		const [photoUrlResult, thumbnailUrlResult] = await Promise.all([
+			this.uploadImage(photoPath, optimizedPhoto),
+			this.uploadImage(thumbnailPath, thumbnail),
+		]);
+
+		if (photoUrlResult.error || thumbnailUrlResult.error) {
+			return {
+				error: { ...photoUrlResult.error, ...thumbnailUrlResult.error },
+			};
+		}
+
+		const photoUrl = { ...photoUrlResult.data, type: "PHOTO" } as const;
+
+		const thumbnailUrl = {
+			...thumbnailUrlResult.data,
+			type: "THUMBNAIL",
+		} as const;
+
+		return { data: { photoUrl, thumbnailUrl } };
+	}
+
+	public async uploadContentPhotos(
+		photos: File[],
+		userId: string,
+		contentId?: string,
+	) {
+		const photoUrls: {
+			id: string;
+			photoUrl: string;
+			type: "PHOTO" | "THUMBNAIL";
+			order: number;
+		}[] = [];
+
+		if (!contentId) {
+			throw new Error("contentId not found");
+		}
+
+		for (const [order, photo] of photos.entries()) {
+			if (!photo || photo.size === 0) continue;
+
+			const { error, data } = await this.uploadContentPhoto(
+				photo,
+				userId,
+				contentId,
+			);
+
+			if (error) {
+				return { error };
+			}
+
+			photoUrls.push({ ...data.photoUrl, order });
+			photoUrls.push({ ...data.thumbnailUrl, order });
+		}
+
+		return { data: photoUrls };
+	}
+}
