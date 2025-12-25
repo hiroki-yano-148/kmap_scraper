@@ -159,4 +159,28 @@ export class SupabaseStorage {
 
 		return { data: photoUrls };
 	}
+
+	public async remove(prefix: string) {
+		const { data, error } = await this.storage.list(prefix);
+
+		if (error) throw error;
+
+		const files = [];
+		for (const item of data) {
+			const fullPath = `${prefix}/${item.name}`;
+			if (item.metadata) {
+				// ファイル
+				files.push(fullPath);
+			} else {
+				// ディレクトリ
+				await this.remove(fullPath);
+			}
+		}
+
+		console.log({ files });
+
+		if (files.length > 0) {
+			await this.storage.remove(files);
+		}
+	}
 }

@@ -17,7 +17,7 @@ const translator = new v2.Translate({
 });
 
 export async function requestOpenAI<T>(prompt: string): Promise<T> {
-	const start = performance.now();
+	// const start = performance.now();
 	const tokens = tiktoken.encode(prompt);
 	console.info("input:", prompt.length, "char ->", tokens.length, "token");
 	const response = await client.chat.completions.create({
@@ -36,8 +36,8 @@ export async function requestOpenAI<T>(prompt: string): Promise<T> {
 		"token",
 	);
 	console.info("total:", tokens.length + tokens2.length, "token");
-	const end = performance.now();
-	console.info("time:", end - start, "ms");
+	// const end = performance.now();
+	// console.info("time:", end - start, "ms");
 	return result;
 }
 
@@ -176,14 +176,14 @@ export async function guessInfo(
 				- sports
 				- artisans
 				- anime
-			- Google Mapで検索するとした場合に最も適切な地名を1つ推定してください。わからなくとも、必ず日本のどこかの地名を返してください。
+			- テキストからGoogle Mapの検索にヒットしそうな地名を推定してください。ない場合も、必ず日本のどこかの地名を返してください。
 	
 			出力は必ずJSON形式で行ってください。
 			例：
 			{
 				"description": "要約",
 				"category": ["attractions", "events"],
-				"location": "名古屋城",
+				"address": "名古屋城",
 			}
 	`);
 }

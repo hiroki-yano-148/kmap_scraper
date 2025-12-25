@@ -7,6 +7,7 @@ import {
 	writeFileSync,
 } from "node:fs";
 import path from "node:path";
+import { chromium } from "playwright";
 import { CATEGORY_MAPPING } from "./data.js";
 import {
 	countGrapheme,
@@ -47,21 +48,20 @@ type FileNames = Record<(typeof OUTPUT_FILE_NAMES)[number], string>;
 
 type Location = { lat: number | string; lng: number | string };
 
-export async function scrape(
-	urls: string[],
-	config: {
-		dir: string;
-		lang?: "en" | "ja";
-		type: "ARTICLE" | "SPOT";
-		timeout?: number;
-		convertTitle?: (title: string) => string;
-		getLocation: (
-			html: string,
-			search: (address: string) => Promise<Location | null>,
-		) => Location | Promise<Location | null> | null;
-		getPhotos: (html: string) => string[] | null;
-	},
-) {
+export async function scrape(config: {
+	dir: string;
+	lang?: "en" | "ja";
+	type: "ARTICLE" | "SPOT";
+	timeout?: number;
+	listUrls: string[];
+	getDetailUrls: (html: string) => string[];
+	convertTitle?: (title: string) => string;
+	getLocation: (
+		html: string,
+		search: (address: string) => Promise<Location | null>,
+	) => Location | Promise<Location | null> | null;
+	getPhotos: (html: string) => string[] | null;
+}) {
 	const { dir, type, timeout = 1000, convertTitle = (title) => title } = config;
 
 	const root = path.join("./result", dir);
@@ -87,186 +87,216 @@ export async function scrape(
 			: [],
 	);
 
-	for (const url of urls) {
-		if (doneSet.has(url)) continue;
+	const browser = await chromium.launch({ headless: false });
+	const page = await browser.newPage();
 
-		console.info("start:", url);
+	for (const [i, listUrl] of config.listUrls.entries()) {
+		console.info("\n", i + 1, "/", config.listUrls.length, "\n");
 
-		const invalidData = {
-			INVALID_URL: [] as string[],
-			INVALID_LANG: [] as string[],
-			INVALID_LOCATION: [] as string[],
-			INVALID_PHOTO: [] as string[],
-			INVALID_FETCH_PHOTO: [] as string[],
-			UPLOAD_ERROR: [] as string[],
-		};
+		if (doneSet.has(listUrl)) continue;
 
-		const html = await getHtml(url);
+		// NOTE: fetch でもよかったが、デバッグ用に
+		await page.goto(listUrl, { waitUntil: "domcontentloaded" });
+		// await page.waitForSelector(".article-list", {
+		// 	state: "attached",
+		// 	timeout: 30000,
+		// });
+		const html = await page.content();
+		const urls = config.getDetailUrls(html);
 
-		const info = getTextInfo(html);
+		for (const url of urls) {
+			if (doneSet.has(url)) continue;
 
-		if (!info) {
-			invalidData.INVALID_URL.push(url);
-			continue;
-		}
+			console.info("start:", url);
+			const start = performance.now();
 
-		const title = convertTitle(info.title);
+			const invalidData = {
+				INVALID_URL: [] as string[],
+				INVALID_LANG: [] as string[],
+				INVALID_LOCATION: [] as string[],
+				INVALID_PHOTO: [] as string[],
+				INVALID_FETCH_PHOTO: [] as string[],
+				UPLOAD_ERROR: [] as string[],
+			};
 
-		const photoUrls = config.getPhotos(html);
+			const html = await getHtml(url);
 
-		if (!photoUrls || !photoUrls.length) {
-			invalidData.INVALID_PHOTO.push(url);
-			continue;
-		}
+			const info = getTextInfo(html);
 
-		const photos: File[] = await Promise.all(
-			photoUrls
-				.filter((photoUrl) => URL.canParse(photoUrl))
-				.map((photoUrl) => fetchImage(photoUrl)),
-		).then((photos) => photos.filter((photo): photo is File => Boolean(photo)));
-
-		if (photoUrls.length !== photos.length) {
-			invalidData.INVALID_FETCH_PHOTO.push(url);
-			// NOTE: これは許容する
-			// continue;
-		}
-
-		const lang =
-			config.lang ??
-			(await detectLanguage(title, info.description.slice(0, 200)));
-
-		if (!lang) {
-			invalidData.INVALID_LANG.push(url);
-			continue;
-		}
-
-		const { description, category, address } = await guessInfo(
-			title,
-			info.description.slice(0, 2000),
-			lang === "ja"
-				? "日本語で400文字程度で要約してください。"
-				: "英語で200語程度で要約してください。",
-		);
-
-		let location = config.getLocation(html, getCoodinates);
-
-		if (location instanceof Promise) {
-			location = await location;
-		}
-
-		if (!location) {
-			const location2 = await getCoodinates(address);
-			console.info({ address, location2 });
-			if (!location2) {
-				invalidData.INVALID_LOCATION.push(url);
+			if (!info) {
+				invalidData.INVALID_URL.push(url);
 				continue;
 			}
-			location = location2;
-		}
 
-		const { lat, lng } = location;
+			const title = convertTitle(info.title);
 
-		const actual_language = toUpperCase(lang);
+			const photoUrls = config.getPhotos(html);
 
-		const base_language =
-			actual_language !== "JA" && actual_language !== "EN"
-				? "EN"
-				: (actual_language as "JA" | "EN");
+			if (!photoUrls || !photoUrls.length) {
+				invalidData.INVALID_PHOTO.push(url);
+				continue;
+			}
 
-		const content_id = nanoid();
-
-		const content: Content = {
-			id: content_id,
-			content_url: url,
-			base_language,
-			actual_language,
-			status: "PRIVATED",
-			lat: typeof lat === "string" ? Number.parseFloat(lat) : lat,
-			lng: typeof lng === "string" ? Number.parseFloat(lng) : lng,
-		};
-
-		const translatedContents = await toTranslatedContents({
-			title,
-			description:
-				countGrapheme(description, lang) > 1000
-					? `${description.slice(0, 996)} ...`
-					: description,
-			language: base_language,
-		});
-
-		const contentBodies: ContentBoby[] = translatedContents.map((content) => ({
-			id: nanoid(),
-			...content,
-			content_id,
-		}));
-
-		const contentCategoryMapping: ContentCategoryMapping[] = category.map(
-			(category) => ({
-				content_id,
-				content_category_id:
-					CATEGORY_MAPPING[category as keyof typeof CATEGORY_MAPPING],
-			}),
-		);
-
-		const content_type_id = nanoid();
-		const contentType: ContentType = {
-			id: content_type_id,
-			type,
-			content_id,
-		};
-
-		const contentTypeDetail: Article | SpotInformation = {
-			id: nanoid(),
-			content_type_id,
-		};
-
-		const storage = await SupabaseStorage.init();
-
-		const { error, data } = await storage.uploadContentPhotos(
-			photos,
-			"mapzamurai",
-			content_id,
-		);
-
-		if (error) {
-			console.error(error);
-			invalidData.UPLOAD_ERROR.push(url);
-			continue;
-		}
-
-		const contentPhotos: ContentPhoto[] = data.map((d) => ({
-			id: d.id,
-			photo_url: d.photoUrl,
-			type: d.type,
-			order: d.order,
-			content_id,
-		}));
-
-		appendFileSync(jsonls.contents, toJsonl(content));
-		appendFileSync(jsonls.content_bodies, toJsonl(contentBodies));
-		appendFileSync(
-			jsonls.content_category_mappings,
-			toJsonl(contentCategoryMapping),
-		);
-		appendFileSync(jsonls.content_photos, toJsonl(contentPhotos));
-		appendFileSync(jsonls.content_types, toJsonl(contentType));
-		if (type === "ARTICLE") {
-			appendFileSync(jsonls.articles, toJsonl(contentTypeDetail));
-		} else {
-			appendFileSync(jsonls.spot_informations, toJsonl(contentTypeDetail));
-		}
-		appendFileSync(doneTxtPath, `${url}\n`);
-
-		for (const [name, data] of Object.entries(invalidData)) {
-			const inputs = data.map((url) => JSON.stringify({ url }));
-			appendFileSync(
-				path.join(reportPath, `${name}.jsonl`),
-				inputs.length ? `${inputs.join("\n")}\n` : "",
+			const photos: File[] = await Promise.all(
+				photoUrls
+					.filter((photoUrl) => URL.canParse(photoUrl))
+					.map((photoUrl) => fetchImage(photoUrl)),
+			).then((photos) =>
+				photos.filter((photo): photo is File => Boolean(photo)),
 			);
+
+			if (photoUrls.length !== photos.length) {
+				invalidData.INVALID_FETCH_PHOTO.push(url);
+				// NOTE: これは許容する
+				// continue;
+			}
+
+			const lang =
+				config.lang ??
+				(await detectLanguage(title, info.description.slice(0, 200)));
+
+			if (!lang) {
+				invalidData.INVALID_LANG.push(url);
+				continue;
+			}
+
+			const { description, category, address } = await guessInfo(
+				title,
+				info.description.slice(0, 2000),
+				lang === "ja"
+					? "日本語で400文字程度で要約してください。"
+					: "英語で200語程度で要約してください。",
+			);
+
+			let location = config.getLocation(html, getCoodinates);
+
+			if (location instanceof Promise) {
+				location = await location;
+			}
+
+			if (!location) {
+				const location2 = await getCoodinates(address);
+				console.info({ address, location2 });
+				if (!location2) {
+					invalidData.INVALID_LOCATION.push(url);
+					continue;
+				}
+				location = location2;
+			}
+
+			const { lat, lng } = location;
+
+			const actual_language = toUpperCase(lang);
+
+			const base_language =
+				actual_language !== "JA" && actual_language !== "EN"
+					? "EN"
+					: (actual_language as "JA" | "EN");
+
+			const content_id = nanoid();
+
+			const content: Content = {
+				id: content_id,
+				content_url: url,
+				base_language,
+				actual_language,
+				status: "PRIVATED",
+				lat: typeof lat === "string" ? Number.parseFloat(lat) : lat,
+				lng: typeof lng === "string" ? Number.parseFloat(lng) : lng,
+			};
+
+			const translatedContents = await toTranslatedContents({
+				title,
+				description:
+					countGrapheme(description, lang) > 1000
+						? `${description.slice(0, 996)} ...`
+						: description,
+				language: base_language,
+			});
+
+			const contentBodies: ContentBoby[] = translatedContents.map(
+				(content) => ({
+					id: nanoid(),
+					...content,
+					content_id,
+				}),
+			);
+
+			const contentCategoryMapping: ContentCategoryMapping[] = category.map(
+				(category) => ({
+					content_id,
+					content_category_id:
+						CATEGORY_MAPPING[category as keyof typeof CATEGORY_MAPPING],
+				}),
+			);
+
+			const content_type_id = nanoid();
+			const contentType: ContentType = {
+				id: content_type_id,
+				type,
+				content_id,
+			};
+
+			const contentTypeDetail: Article | SpotInformation = {
+				id: nanoid(),
+				content_type_id,
+			};
+
+			const storage = await SupabaseStorage.init();
+
+			const { error, data } = await storage.uploadContentPhotos(
+				photos,
+				"mapzamurai",
+				content_id,
+			);
+
+			if (error) {
+				console.error(error);
+				invalidData.UPLOAD_ERROR.push(url);
+				continue;
+			}
+
+			const contentPhotos: ContentPhoto[] = data.map((d) => ({
+				id: d.id,
+				photo_url: d.photoUrl,
+				type: d.type,
+				order: d.order,
+				content_id,
+			}));
+
+			appendFileSync(jsonls.contents, toJsonl(content));
+			appendFileSync(jsonls.content_bodies, toJsonl(contentBodies));
+			appendFileSync(
+				jsonls.content_category_mappings,
+				toJsonl(contentCategoryMapping),
+			);
+			appendFileSync(jsonls.content_photos, toJsonl(contentPhotos));
+			appendFileSync(jsonls.content_types, toJsonl(contentType));
+			if (type === "ARTICLE") {
+				appendFileSync(jsonls.articles, toJsonl(contentTypeDetail));
+			} else {
+				appendFileSync(jsonls.spot_informations, toJsonl(contentTypeDetail));
+			}
+			appendFileSync(doneTxtPath, `${url}\n`);
+
+			for (const [name, data] of Object.entries(invalidData)) {
+				const inputs = data.map((url) => JSON.stringify({ url }));
+				appendFileSync(
+					path.join(reportPath, `${name}.jsonl`),
+					inputs.length ? `${inputs.join("\n")}\n` : "",
+				);
+			}
+
+			await sleep(timeout);
+
+			const end = performance.now();
+			console.info("time:", end - start, "ms");
 		}
 
-		await sleep(timeout);
+		appendFileSync(doneTxtPath, `${listUrl}\n`);
 	}
+
+	await browser.close();
 
 	for (const name of OUTPUT_FILE_NAMES) {
 		const csv = readJsonlToCsv(jsonls[name]);
