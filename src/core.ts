@@ -33,15 +33,6 @@ import type {
 	SpotInformation,
 } from "./types.js";
 
-const invalidData = {
-	INVALID_URL: [] as string[],
-	INVALID_LANG: [] as string[],
-	INVALID_LOCATION: [] as string[],
-	INVALID_PHOTO: [] as string[],
-	INVALID_FETCH_PHOTO: [] as string[],
-	UPLOAD_ERROR: [] as string[],
-};
-
 const OUTPUT_FILE_NAMES = [
 	"contents",
 	"content_bodies",
@@ -54,23 +45,24 @@ const OUTPUT_FILE_NAMES = [
 
 type FileNames = Record<(typeof OUTPUT_FILE_NAMES)[number], string>;
 
+type Location = { lat: number | string; lng: number | string };
+
 export async function scrape(
 	urls: string[],
-	callbacks: {
+	config: {
 		dir: string;
+		lang?: "en" | "ja";
 		type: "ARTICLE" | "SPOT";
 		timeout?: number;
 		convertTitle?: (title: string) => string;
-		getLocation: (html: string) => { lat: number; lng: number } | null;
+		getLocation: (
+			html: string,
+			search: (address: string) => Promise<Location | null>,
+		) => Location | Promise<Location | null> | null;
 		getPhotos: (html: string) => string[] | null;
 	},
 ) {
-	const {
-		dir,
-		type,
-		timeout = 1000,
-		convertTitle = (title) => title,
-	} = callbacks;
+	const { dir, type, timeout = 1000, convertTitle = (title) => title } = config;
 
 	const root = path.join("./result", dir);
 	const reportPath = path.join(root, "report");
@@ -100,6 +92,15 @@ export async function scrape(
 
 		console.info("start:", url);
 
+		const invalidData = {
+			INVALID_URL: [] as string[],
+			INVALID_LANG: [] as string[],
+			INVALID_LOCATION: [] as string[],
+			INVALID_PHOTO: [] as string[],
+			INVALID_FETCH_PHOTO: [] as string[],
+			UPLOAD_ERROR: [] as string[],
+		};
+
 		const html = await getHtml(url);
 
 		const info = getTextInfo(html);
@@ -111,7 +112,7 @@ export async function scrape(
 
 		const title = convertTitle(info.title);
 
-		const photoUrls = callbacks.getPhotos(html);
+		const photoUrls = config.getPhotos(html);
 
 		if (!photoUrls || !photoUrls.length) {
 			invalidData.INVALID_PHOTO.push(url);
@@ -119,7 +120,9 @@ export async function scrape(
 		}
 
 		const photos: File[] = await Promise.all(
-			photoUrls.map((photoUrl) => fetchImage(photoUrl)),
+			photoUrls
+				.filter((photoUrl) => URL.canParse(photoUrl))
+				.map((photoUrl) => fetchImage(photoUrl)),
 		).then((photos) => photos.filter((photo): photo is File => Boolean(photo)));
 
 		if (photoUrls.length !== photos.length) {
@@ -128,7 +131,9 @@ export async function scrape(
 			// continue;
 		}
 
-		const lang = await detectLanguage(title, info.description.slice(0, 200));
+		const lang =
+			config.lang ??
+			(await detectLanguage(title, info.description.slice(0, 200)));
 
 		if (!lang) {
 			invalidData.INVALID_LANG.push(url);
@@ -143,10 +148,15 @@ export async function scrape(
 				: "英語で200語程度で要約してください。",
 		);
 
-		let location = callbacks.getLocation(html);
+		let location = config.getLocation(html, getCoodinates);
+
+		if (location instanceof Promise) {
+			location = await location;
+		}
 
 		if (!location) {
 			const location2 = await getCoodinates(address);
+			console.info({ address, location2 });
 			if (!location2) {
 				invalidData.INVALID_LOCATION.push(url);
 				continue;
@@ -171,8 +181,8 @@ export async function scrape(
 			base_language,
 			actual_language,
 			status: "PRIVATED",
-			lat,
-			lng,
+			lat: typeof lat === "string" ? Number.parseFloat(lat) : lat,
+			lng: typeof lng === "string" ? Number.parseFloat(lng) : lng,
 		};
 
 		const translatedContents = await toTranslatedContents({
@@ -214,7 +224,7 @@ export async function scrape(
 
 		const { error, data } = await storage.uploadContentPhotos(
 			photos,
-			"test",
+			"mapzamurai",
 			content_id,
 		);
 
@@ -247,12 +257,15 @@ export async function scrape(
 		}
 		appendFileSync(doneTxtPath, `${url}\n`);
 
-		await sleep(timeout);
-	}
+		for (const [name, data] of Object.entries(invalidData)) {
+			const inputs = data.map((url) => JSON.stringify({ url }));
+			appendFileSync(
+				path.join(reportPath, `${name}.jsonl`),
+				inputs.length ? `${inputs.join("\n")}\n` : "",
+			);
+		}
 
-	for (const [name, data] of Object.entries(invalidData)) {
-		const inputs = data.map((url) => JSON.stringify({ url }));
-		appendFileSync(path.join(reportPath, `${name}.jsonl`), inputs.join("\n"));
+		await sleep(timeout);
 	}
 
 	for (const name of OUTPUT_FILE_NAMES) {

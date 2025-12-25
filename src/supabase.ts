@@ -3,6 +3,7 @@ import { nanoid } from "nanoid";
 import sharp from "sharp";
 
 type StorageFileApi = ReturnType<SupabaseClient["storage"]["from"]>;
+type StorageResult = Awaited<ReturnType<StorageFileApi["upload"]>>;
 
 export class SupabaseStorage {
 	private readonly storage: StorageFileApi;
@@ -20,14 +21,22 @@ export class SupabaseStorage {
 			throw new Error("supabase anon key is missing");
 		}
 
+		if (!process.env.SUPABASE_EMAIL) {
+			throw new Error("supabase url is missing");
+		}
+
+		if (!process.env.SUPABASE_PASSWORD) {
+			throw new Error("supabase anon key is missing");
+		}
+
 		const supabase = new SupabaseClient(
 			process.env.SUPABASE_URL,
 			process.env.SUPABASE_ANON_KEY,
 		);
 
 		await supabase.auth.signInWithPassword({
-			email: "hiroki_yano@c-spec.net",
-			password: "Password2",
+			email: process.env.SUPABASE_EMAIL,
+			password: process.env.SUPABASE_PASSWORD,
 		});
 
 		const storage = supabase.storage.from("kmap-bucket");
@@ -35,27 +44,21 @@ export class SupabaseStorage {
 	}
 
 	private async uploadImage(path: string, file: Buffer) {
+		const { data } = this.storage.getPublicUrl(path);
 		const { data: isExists } = await this.storage.exists(path);
 
+		let result: StorageResult;
+
 		if (isExists) {
-			const { error, data: updated } = await this.storage.update(path, file, {
-				upsert: true,
-			});
-			const { data } = this.storage.getPublicUrl(path);
-			if (error) {
-				return { error };
-			} else {
-				return { data: { id: updated?.id, photoUrl: data.publicUrl } };
-			}
+			result = await this.storage.update(path, file, { upsert: true });
+		} else {
+			result = await this.storage.upload(path, file);
 		}
 
-		const { error, data: uploaded } = await this.storage.upload(path, file);
-		const { data } = this.storage.getPublicUrl(path);
-		if (error) {
-			return { error };
-		} else {
-			return { data: { id: uploaded?.id, photoUrl: data.publicUrl } };
+		if (result.error) {
+			return { error: result.error };
 		}
+		return { data: { id: result.data.id, photoUrl: data.publicUrl } };
 	}
 
 	// public async getPaths(): Promise<string[]> {

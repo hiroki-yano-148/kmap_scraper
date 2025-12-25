@@ -8,7 +8,7 @@ async function main() {
 	const browser = await chromium.launch({ headless: false });
 	const page = await browser.newPage();
 
-	for (let i = 0; i < 1; i++) {
+	for (let i = 0; i < 1159; i++) {
 		console.info("\n", i + 1, "/", 1159, "\n");
 
 		const url = `${base}&p=${i + 1}`;
@@ -27,6 +27,7 @@ async function main() {
 
 		await scrape(urls, {
 			dir: "japantravel/article",
+			lang: "en",
 			type: "ARTICLE",
 			timeout: 6000,
 			convertTitle: (title) => title.split("-")[0]?.trim() || title,
@@ -39,9 +40,7 @@ async function main() {
 
 				const [lat, lng] = center.split(",");
 
-				return lat && lng
-					? { lat: Number.parseFloat(lat), lng: Number.parseFloat(lng) }
-					: null;
+				return lat && lng ? { lat, lng } : null;
 			},
 			getPhotos: (html) => {
 				const $ = cheerio.load(html);

@@ -176,7 +176,7 @@ export async function guessInfo(
 				- sports
 				- artisans
 				- anime
-			- Google Mapで検索するとした場合に最も適切な地名を1つ推定してください。わからない場合は、都道府県など大雑把でかまいません。
+			- Google Mapで検索するとした場合に最も適切な地名を1つ推定してください。わからなくとも、必ず日本のどこかの地名を返してください。
 	
 			出力は必ずJSON形式で行ってください。
 			例：
@@ -345,9 +345,16 @@ export async function fetchImage(url: string): Promise<File | undefined> {
 		const name = decodeURIComponent(
 			rawName?.split("?")[0]?.split("#")[0] ?? "file",
 		);
+
+		const ext = name.split(".").pop()?.toLowerCase();
+		if (!["png", "jpg", "jpeg", "webp", "svg"].includes(ext ?? "")) {
+			return undefined;
+		}
+
 		const photo = new File([blob], name, { type: blob.type });
 		return photo;
 	} catch (e) {
+		console.info(url);
 		console.error(e);
 		return undefined;
 	}
