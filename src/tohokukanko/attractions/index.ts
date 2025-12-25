@@ -1,4 +1,3 @@
-import * as cheerio from "cheerio";
 import { scrape } from "../../core.js";
 
 async function main() {
@@ -13,8 +12,7 @@ async function main() {
 			{ length: 76 },
 			(_, i) => new URL(`index_${i + 1}_2______0___.html`, base).href,
 		),
-		getDetailUrls: (html) => {
-			const $ = cheerio.load(html);
+		getDetailUrls: ($) => {
 			return $("#itemList  a")
 				.map((_, a) => $(a).attr("href"))
 				.get()
@@ -22,15 +20,12 @@ async function main() {
 				.map((url) => new URL(url, base).href);
 		},
 		convertTitle: (title) => title.split("｜")[0]?.trim() || title,
-		getLocation: async (html, search) => {
-			const $ = cheerio.load(html);
-
+		getLocation: async ($, search) => {
 			const address = $('dt:contains("Address")').next("dd").text().trim();
 
 			return await search(address);
 		},
-		getPhotos: (html) => {
-			const $ = cheerio.load(html);
+		getPhotos: ($) => {
 			return $("#detailImage")
 				.first()
 				.find("img")
@@ -46,7 +41,7 @@ main();
 
 // function getPhotosHelper(selector: string) {
 // 	return (html: string) => {
-// 		const $ = cheerio.load(html);
+//
 // 		return $("#detailImage")
 // 			.first()
 // 			.find("img")

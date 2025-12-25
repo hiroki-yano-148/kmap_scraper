@@ -1,3 +1,5 @@
+import type { CheerioAPI } from "cheerio";
+import * as cheerio from "cheerio";
 import { nanoid } from "nanoid";
 import {
 	appendFileSync,
@@ -7,6 +9,7 @@ import {
 	writeFileSync,
 } from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { chromium } from "playwright";
 import { CATEGORY_MAPPING } from "./data.js";
 import {
@@ -54,15 +57,20 @@ export async function scrape(config: {
 	type: "ARTICLE" | "SPOT";
 	timeout?: number;
 	listUrls: string[];
-	getDetailUrls: (html: string) => string[];
+	getDetailUrls: ($: CheerioAPI) => string[];
 	convertTitle?: (title: string) => string;
 	getLocation: (
-		html: string,
+		$: CheerioAPI,
 		search: (address: string) => Promise<Location | null>,
 	) => Location | Promise<Location | null> | null;
-	getPhotos: (html: string) => string[] | null;
+	getPhotos: ($: CheerioAPI) => string[] | null;
 }) {
 	const { dir, type, timeout = 1000, convertTitle = (title) => title } = config;
+
+	const __filename = fileURLToPath(import.meta.url);
+	const __dirname = path.dirname(__filename);
+	const middlePath = path.relative("dist", __dirname);
+	console.log({ middlePath });
 
 	const root = path.join("./result", dir);
 	const reportPath = path.join(root, "report");
@@ -102,7 +110,8 @@ export async function scrape(config: {
 		// 	timeout: 30000,
 		// });
 		const html = await page.content();
-		const urls = config.getDetailUrls(html);
+		const $ = cheerio.load(html);
+		const urls = config.getDetailUrls($);
 
 		for (const url of urls) {
 			if (doneSet.has(url)) continue;
@@ -130,7 +139,7 @@ export async function scrape(config: {
 
 			const title = convertTitle(info.title);
 
-			const photoUrls = config.getPhotos(html);
+			const photoUrls = config.getPhotos($);
 
 			if (!photoUrls || !photoUrls.length) {
 				invalidData.INVALID_PHOTO.push(url);
@@ -160,7 +169,11 @@ export async function scrape(config: {
 				continue;
 			}
 
-			const { description, category, address } = await guessInfo(
+			const {
+				description,
+				category = [],
+				address,
+			} = await guessInfo(
 				title,
 				info.description.slice(0, 2000),
 				lang === "ja"
@@ -168,7 +181,7 @@ export async function scrape(config: {
 					: "英語で200語程度で要約してください。",
 			);
 
-			let location = config.getLocation(html, getCoodinates);
+			let location = config.getLocation($, getCoodinates);
 
 			if (location instanceof Promise) {
 				location = await location;

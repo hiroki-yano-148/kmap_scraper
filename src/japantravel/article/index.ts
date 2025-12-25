@@ -1,4 +1,3 @@
-import * as cheerio from "cheerio";
 import { scrape } from "../../core.js";
 
 async function main() {
@@ -10,8 +9,7 @@ async function main() {
 		type: "ARTICLE",
 		timeout: 0,
 		listUrls: Array.from({ length: 1159 }, (_, i) => `${base}&p=${i + 1}`),
-		getDetailUrls: (html) => {
-			const $ = cheerio.load(html);
+		getDetailUrls: ($) => {
 			return $(".article-list > a")
 				.map((_, a) => $(a).attr("href"))
 				.get()
@@ -19,9 +17,7 @@ async function main() {
 				.map((url) => new URL(url, "https://en.japantravel.com/").href);
 		},
 		convertTitle: (title) => title.split("-")[0]?.trim() || title,
-		getLocation: (html) => {
-			const $ = cheerio.load(html);
-
+		getLocation: ($) => {
 			const center = $("[data-center]").first().attr("data-center");
 
 			if (!center) return null;
@@ -30,8 +26,7 @@ async function main() {
 
 			return lat && lng ? { lat, lng } : null;
 		},
-		getPhotos: (html) => {
-			const $ = cheerio.load(html);
+		getPhotos: ($) => {
 			return $(".article")
 				.first()
 				.children(":not(.article-user)")
