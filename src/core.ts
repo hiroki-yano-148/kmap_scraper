@@ -70,10 +70,24 @@ export async function scrape(config: {
 	const __filename = fileURLToPath(import.meta.url);
 	const __dirname = path.dirname(__filename);
 	const middlePath = path.relative("dist", __dirname);
-	console.log({ middlePath });
+	console.log({ __filename, __dirname, middlePath });
 
 	const root = path.join("./result", dir);
 	const reportPath = path.join(root, "report");
+
+	function appendReport(
+		key:
+			| "INVALID_URL"
+			| "INVALID_LANG"
+			| "INVALID_LOCATION"
+			| "INVALID_PHOTO"
+			| "INVALID_FETCH_PHOTO"
+			| "UPLOAD_ERROR",
+		url: string,
+	) {
+		const input = `${JSON.stringify({ url })}\n`;
+		appendFileSync(path.join(reportPath, `${key}.jsonl`), input);
+	}
 
 	// biome-ignore lint/suspicious/noExplicitAny: allow any
 	const jsonls: FileNames = {} as any;
@@ -99,9 +113,9 @@ export async function scrape(config: {
 	const page = await browser.newPage();
 
 	for (const [i, listUrl] of config.listUrls.entries()) {
-		console.info("\n", i + 1, "/", config.listUrls.length, "\n");
-
 		if (doneSet.has(listUrl)) continue;
+
+		console.info("\n", i + 1, "/", config.listUrls.length, "\n");
 
 		// NOTE: fetch でもよかったが、デバッグ用に
 		await page.goto(listUrl, { waitUntil: "domcontentloaded" });
@@ -119,30 +133,22 @@ export async function scrape(config: {
 			console.info("start:", url);
 			const start = performance.now();
 
-			const invalidData = {
-				INVALID_URL: [] as string[],
-				INVALID_LANG: [] as string[],
-				INVALID_LOCATION: [] as string[],
-				INVALID_PHOTO: [] as string[],
-				INVALID_FETCH_PHOTO: [] as string[],
-				UPLOAD_ERROR: [] as string[],
-			};
-
 			const html = await getHtml(url);
+			const $$ = cheerio.load(html);
 
 			const info = getTextInfo(html);
 
 			if (!info) {
-				invalidData.INVALID_URL.push(url);
+				appendReport("INVALID_URL", url);
 				continue;
 			}
 
 			const title = convertTitle(info.title);
 
-			const photoUrls = config.getPhotos($);
+			const photoUrls = config.getPhotos($$);
 
 			if (!photoUrls || !photoUrls.length) {
-				invalidData.INVALID_PHOTO.push(url);
+				appendReport("INVALID_PHOTO", url);
 				continue;
 			}
 
@@ -155,7 +161,7 @@ export async function scrape(config: {
 			);
 
 			if (photoUrls.length !== photos.length) {
-				invalidData.INVALID_FETCH_PHOTO.push(url);
+				appendReport("INVALID_FETCH_PHOTO", url);
 				// NOTE: これは許容する
 				// continue;
 			}
@@ -165,7 +171,7 @@ export async function scrape(config: {
 				(await detectLanguage(title, info.description.slice(0, 200)));
 
 			if (!lang) {
-				invalidData.INVALID_LANG.push(url);
+				appendReport("INVALID_LANG", url);
 				continue;
 			}
 
@@ -181,7 +187,7 @@ export async function scrape(config: {
 					: "英語で200語程度で要約してください。",
 			);
 
-			let location = config.getLocation($, getCoodinates);
+			let location = config.getLocation($$, getCoodinates);
 
 			if (location instanceof Promise) {
 				location = await location;
@@ -191,7 +197,7 @@ export async function scrape(config: {
 				const location2 = await getCoodinates(address);
 				console.info({ address, location2 });
 				if (!location2) {
-					invalidData.INVALID_LOCATION.push(url);
+					appendReport("INVALID_LOCATION", url);
 					continue;
 				}
 				location = location2;
@@ -265,7 +271,7 @@ export async function scrape(config: {
 
 			if (error) {
 				console.error(error);
-				invalidData.UPLOAD_ERROR.push(url);
+				appendReport("UPLOAD_ERROR", url);
 				continue;
 			}
 
@@ -291,14 +297,6 @@ export async function scrape(config: {
 				appendFileSync(jsonls.spot_informations, toJsonl(contentTypeDetail));
 			}
 			appendFileSync(doneTxtPath, `${url}\n`);
-
-			for (const [name, data] of Object.entries(invalidData)) {
-				const inputs = data.map((url) => JSON.stringify({ url }));
-				appendFileSync(
-					path.join(reportPath, `${name}.jsonl`),
-					inputs.length ? `${inputs.join("\n")}\n` : "",
-				);
-			}
 
 			await sleep(timeout);
 
