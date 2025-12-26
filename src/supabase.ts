@@ -140,21 +140,21 @@ export class SupabaseStorage {
 			throw new Error("contentId not found");
 		}
 
-		for (const [order, photo] of photos.entries()) {
-			if (!photo || photo.size === 0) continue;
+		const validPhotos = photos.filter((photo) => photo.size > 0);
 
-			const { error, data } = await this.uploadContentPhoto(
-				photo,
-				userId,
-				contentId,
-			);
+		const results = await Promise.all(
+			validPhotos.map((photo) =>
+				this.uploadContentPhoto(photo, userId, contentId),
+			),
+		);
 
-			if (error) {
-				return { error };
+		for (const [order, result] of results.entries()) {
+			if (result.error) {
+				return { error: result.error };
 			}
 
-			photoUrls.push({ ...data.photoUrl, order });
-			photoUrls.push({ ...data.thumbnailUrl, order });
+			photoUrls.push({ ...result.data.photoUrl, order });
+			photoUrls.push({ ...result.data.thumbnailUrl, order });
 		}
 
 		return { data: photoUrls };

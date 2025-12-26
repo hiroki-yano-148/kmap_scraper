@@ -1,4 +1,5 @@
 import { scrape } from "../../core.js";
+import { getBackgroundImageFromStyle } from "../../helpers.js";
 
 async function main() {
 	await scrape({
@@ -15,11 +16,7 @@ async function main() {
 		getLocation: () => null,
 		getPhotos: ($) => {
 			const style = $(".mod-slider-video__poster").attr("style") ?? "";
-
-			const match = style.match(/background-image\s*:\s*url\((['"]?)(.*?)\1\)/);
-
-			const bgImageUrl = match ? match[2] : null;
-
+			const bgImageUrl = getBackgroundImageFromStyle(style);
 			return bgImageUrl ? [bgImageUrl] : null;
 		},
 	});

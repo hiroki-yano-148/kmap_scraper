@@ -298,10 +298,11 @@ export async function scrape(config: {
 			}
 			appendFileSync(doneTxtPath, `${url}\n`);
 
-			await sleep(timeout);
-
 			const end = performance.now();
-			console.info("time:", end - start, "ms");
+			const time = end - start;
+			console.info("time:", time, "ms");
+
+			await sleep(Math.max(timeout - time, 0));
 		}
 
 		appendFileSync(doneTxtPath, `${listUrl}\n`);

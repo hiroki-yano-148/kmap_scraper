@@ -382,3 +382,11 @@ export function toJsonl(obj: object | Array<object>) {
 	}
 	return `${JSON.stringify(obj)}\n`;
 }
+
+export function getBackgroundImageFromStyle(style: string) {
+	const match = style.match(/background-image\s*:\s*url\((['"]?)(.*?)\1\)/);
+
+	const bgImageUrl = match ? match[2] : null;
+
+	return bgImageUrl ? bgImageUrl : null;
+}

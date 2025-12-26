@@ -7,7 +7,7 @@ async function main() {
 		dir: "japantravel/article",
 		lang: "en",
 		type: "ARTICLE",
-		timeout: 0,
+		timeout: 10000,
 		listUrls: Array.from({ length: 1159 }, (_, i) => `${base}&p=${i + 1}`),
 		getDetailUrls: ($) => {
 			return $(".article-list > a")
@@ -27,11 +27,10 @@ async function main() {
 			return lat && lng ? { lat, lng } : null;
 		},
 		getPhotos: ($) => {
-			return $(".article")
+			return $(".coverphoto")
 				.first()
-				.children(":not(.article-user)")
 				.find("img")
-				.map((_, img) => $(img).attr("src") || $(img).attr("data-src"))
+				.map((_, img) => $(img).attr("src"))
 				.get()
 				.filter(Boolean);
 		},
