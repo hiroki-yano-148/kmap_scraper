@@ -8,7 +8,7 @@ async function main() {
 		lang: "en",
 		type: "ARTICLE",
 		timeout: 10000,
-		listUrls: Array.from({ length: 1159 }, (_, i) => `${base}&p=${i + 1}`),
+		listUrls: Array.from({ length: 12 }, (_, i) => `${base}&p=${i + 1}`),
 		getDetailUrls: ($) => {
 			return $(".article-list > a")
 				.map((_, a) => $(a).attr("href"))

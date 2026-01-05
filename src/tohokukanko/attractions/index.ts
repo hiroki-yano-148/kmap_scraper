@@ -29,6 +29,7 @@ async function main() {
 			return $("#detailImage")
 				.first()
 				.find("img")
+				.first()
 				.map((_, img) => $(img).attr("src") || $(img).attr("data-src"))
 				.get()
 				.filter(Boolean)

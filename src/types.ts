@@ -22,6 +22,7 @@ export interface Content {
 	status: "PRIVATED" | "SUSPENDED";
 	lat: number;
 	lng: number;
+	metadata: string | undefined;
 }
 
 export interface ContentBoby {

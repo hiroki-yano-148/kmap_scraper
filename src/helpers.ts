@@ -145,9 +145,12 @@ export async function guessInfo(
 	title: string,
 	description: string,
 	langPrompt: string,
+	langPrompt2: string,
 ) {
 	return await requestOpenAI<{
-		description: string;
+		title: string;
+		jaDescription: string;
+		enDescription: string;
 		category: string[];
 		address: string;
 	}>(`
@@ -158,6 +161,7 @@ export async function guessInfo(
 			\`\`\`
 	
 			- ${langPrompt}コンテンツの内容が少ない場合は、無理に増やさなくて大丈夫です。読んだ人が訪れたくなるような文章にしてください。推論は書かないでください。
+			- ${langPrompt2}
 			- 当てはまるカテゴリを以下から複数選択してください。
 				- attractions
 				- castles
@@ -181,7 +185,9 @@ export async function guessInfo(
 			出力は必ずJSON形式で行ってください。
 			例：
 			{
-				"description": "要約",
+				"title": "translated title",
+				"jaDescription": "要約",
+				"enDescription": "Description",
 				"category": ["attractions", "events"],
 				"address": "名古屋城",
 			}
@@ -389,4 +395,8 @@ export function getBackgroundImageFromStyle(style: string) {
 	const bgImageUrl = match ? match[2] : null;
 
 	return bgImageUrl ? bgImageUrl : null;
+}
+
+export function compact<T>(arr: Array<T | null | undefined>): Array<T> {
+	return arr.filter((value): value is T => Boolean(value));
 }

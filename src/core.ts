@@ -13,7 +13,7 @@ import { fileURLToPath } from "node:url";
 import { chromium } from "playwright";
 import { CATEGORY_MAPPING } from "./data.js";
 import {
-	countGrapheme,
+	compact,
 	detectLanguage,
 	fetchImage,
 	getCoodinates,
@@ -23,7 +23,6 @@ import {
 	readJsonlToCsv,
 	sleep,
 	toJsonl,
-	toTranslatedContents,
 	toUpperCase,
 } from "./helpers.js";
 import { SupabaseStorage } from "./supabase.js";
@@ -156,9 +155,7 @@ export async function scrape(config: {
 				photoUrls
 					.filter((photoUrl) => URL.canParse(photoUrl))
 					.map((photoUrl) => fetchImage(photoUrl)),
-			).then((photos) =>
-				photos.filter((photo): photo is File => Boolean(photo)),
-			);
+			).then(compact);
 
 			if (photoUrls.length !== photos.length) {
 				appendReport("INVALID_FETCH_PHOTO", url);
@@ -176,7 +173,9 @@ export async function scrape(config: {
 			}
 
 			const {
-				description,
+				title: translatedTitle,
+				jaDescription,
+				enDescription,
 				category = [],
 				address,
 			} = await guessInfo(
@@ -185,6 +184,9 @@ export async function scrape(config: {
 				lang === "ja"
 					? "日本語で400文字程度で要約してください。"
 					: "英語で200語程度で要約してください。",
+				lang === "ja"
+					? "タイトルと要約したテキストを英語に翻訳してください。"
+					: "タイトルと要約したテキストを日本語に翻訳してください。",
 			);
 
 			let location = config.getLocation($$, getCoodinates);
@@ -193,9 +195,11 @@ export async function scrape(config: {
 				location = await location;
 			}
 
+			let metadata: { guess_location: boolean } | undefined;
 			if (!location) {
 				const location2 = await getCoodinates(address);
 				console.info({ address, location2 });
+				metadata = { guess_location: true };
 				if (!location2) {
 					appendReport("INVALID_LOCATION", url);
 					continue;
@@ -222,24 +226,41 @@ export async function scrape(config: {
 				status: "PRIVATED",
 				lat: typeof lat === "string" ? Number.parseFloat(lat) : lat,
 				lng: typeof lng === "string" ? Number.parseFloat(lng) : lng,
+				metadata: metadata ? JSON.stringify(metadata) : "",
 			};
 
-			const translatedContents = await toTranslatedContents({
-				title,
-				description:
-					countGrapheme(description, lang) > 1000
-						? `${description.slice(0, 996)} ...`
-						: description,
-				language: base_language,
-			});
+			// const translatedContents = await toTranslatedContents({
+			// 	title,
+			// 	description:
+			// 		countGrapheme(description, lang) > 1000
+			// 			? `${description.slice(0, 996)} ...`
+			// 			: description,
+			// 	language: base_language,
+			// });
 
-			const contentBodies: ContentBoby[] = translatedContents.map(
-				(content) => ({
+			const contentBodies: ContentBoby[] = [
+				{
 					id: nanoid(),
-					...content,
+					title,
+					description: base_language === "EN" ? enDescription : jaDescription,
+					language: base_language,
 					content_id,
-				}),
-			);
+				},
+				{
+					id: nanoid(),
+					title: translatedTitle,
+					description: base_language === "EN" ? jaDescription : enDescription,
+					language: base_language === "EN" ? "JA" : "EN",
+					content_id,
+				},
+			];
+			// translatedContents.map(
+			// 	(content) => ({
+			// 		id: nanoid(),
+			// 		...content,
+			// 		content_id,
+			// 	}),
+			// );
 
 			const contentCategoryMapping: ContentCategoryMapping[] = category.map(
 				(category) => ({
@@ -265,7 +286,7 @@ export async function scrape(config: {
 
 			const { error, data } = await storage.uploadContentPhotos(
 				photos,
-				"mapzamurai",
+				`mapzamurai/${dir}`,
 				content_id,
 			);
 
