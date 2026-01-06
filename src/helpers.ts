@@ -10,7 +10,10 @@ import OpenAI from "openai";
 import Papa from "papaparse";
 
 const tiktoken = new Tiktoken(o200k_base);
-const client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+const client = new OpenAI({
+	apiKey: process.env.OPENAI_API_KEY,
+	timeout: 30000,
+});
 const translator = new v2.Translate({
 	// biome-ignore lint/style/noNonNullAssertion: not null
 	key: process.env.GOOGLE_TRANSLATION_API_KEY!,
@@ -147,13 +150,14 @@ export async function guessInfo(
 	langPrompt: string,
 	langPrompt2: string,
 ) {
-	return await requestOpenAI<{
-		title: string;
-		jaDescription: string;
-		enDescription: string;
-		category: string[];
-		address: string;
-	}>(`
+	try {
+		return await requestOpenAI<{
+			title: string;
+			jaDescription: string;
+			enDescription: string;
+			category: string[];
+			address: string;
+		}>(`
 			次のテキストを参照し、後述のタスクを実行してください。
 			\`\`\`text
 			title: ${title ?? ""}
@@ -192,6 +196,9 @@ export async function guessInfo(
 				"address": "名古屋城",
 			}
 	`);
+	} catch {
+		return null;
+	}
 }
 
 export async function getCoodinates(

@@ -81,7 +81,8 @@ export async function scrape(config: {
 			| "INVALID_LOCATION"
 			| "INVALID_PHOTO"
 			| "INVALID_FETCH_PHOTO"
-			| "UPLOAD_ERROR",
+			| "UPLOAD_ERROR"
+			| "OPENAI_ERROR",
 		url: string,
 	) {
 		const input = `${JSON.stringify({ url })}\n`;
@@ -172,13 +173,7 @@ export async function scrape(config: {
 				continue;
 			}
 
-			const {
-				title: translatedTitle,
-				jaDescription,
-				enDescription,
-				category = [],
-				address,
-			} = await guessInfo(
+			const info2 = await guessInfo(
 				title,
 				info.description.slice(0, 2000),
 				lang === "ja"
@@ -188,6 +183,19 @@ export async function scrape(config: {
 					? "タイトルと要約したテキストを英語に翻訳してください。"
 					: "タイトルと要約したテキストを日本語に翻訳してください。",
 			);
+
+			if (!info2) {
+				appendReport("OPENAI_ERROR", url);
+				continue;
+			}
+
+			const {
+				title: translatedTitle,
+				jaDescription,
+				enDescription,
+				category = [],
+				address,
+			} = info2;
 
 			let location = config.getLocation($$, getCoodinates);
 
