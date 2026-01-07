@@ -214,7 +214,7 @@ export async function scrape(config: {
 			}
 
 			let metadata: { guess_location: boolean } | undefined;
-			if (!location) {
+			if (!location || location.lat === 0 || location.lng === 0) {
 				const location2 = await getCoodinates(address);
 				console.info({ address, location2 });
 				metadata = { guess_location: true };
