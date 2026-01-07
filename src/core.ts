@@ -85,8 +85,16 @@ export async function scrape(config: {
 			| "OPENAI_ERROR",
 		url: string,
 	) {
+		const inputPath = path.join(reportPath, `${key}.jsonl`);
+		const invalidUrls = readFileSync(inputPath, "utf-8")
+			.split("\n")
+			.filter(Boolean)
+			.map((value) => JSON.parse(value).url);
+
+		if (invalidUrls.includes(url)) return;
+
 		const input = `${JSON.stringify({ url })}\n`;
-		appendFileSync(path.join(reportPath, `${key}.jsonl`), input);
+		appendFileSync(inputPath, input);
 	}
 
 	// biome-ignore lint/suspicious/noExplicitAny: allow any
@@ -126,6 +134,8 @@ export async function scrape(config: {
 		const html = await page.content();
 		const $ = cheerio.load(html);
 		const urls = config.getDetailUrls($);
+
+		let doneCount = 0;
 
 		for (const url of urls) {
 			if (doneSet.has(url)) continue;
@@ -327,6 +337,8 @@ export async function scrape(config: {
 			}
 			appendFileSync(doneTxtPath, `${url}\n`);
 
+			doneCount++;
+
 			const end = performance.now();
 			const time = end - start;
 			console.info("time:", time, "ms");
@@ -334,7 +346,11 @@ export async function scrape(config: {
 			await sleep(Math.max(timeout - time, 0));
 		}
 
-		appendFileSync(doneTxtPath, `${listUrl}\n`);
+		console.info(doneCount);
+
+		if (doneCount + 1 === urls.length) {
+			appendFileSync(doneTxtPath, `${listUrl}\n`);
+		}
 	}
 
 	await browser.close();
