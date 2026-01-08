@@ -138,7 +138,11 @@ export async function scrape(config: {
 		let doneCount = 0;
 
 		for (const url of urls) {
-			if (doneSet.has(url)) continue;
+			if (doneSet.has(url)) {
+				doneCount++;
+				await sleep(1000);
+				continue;
+			}
 
 			console.info("start:", url);
 			const start = performance.now();
