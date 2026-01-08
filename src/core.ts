@@ -348,7 +348,7 @@ export async function scrape(config: {
 
 		console.info(doneCount);
 
-		if (doneCount + 1 === urls.length) {
+		if (doneCount === urls.length) {
 			appendFileSync(doneTxtPath, `${listUrl}\n`);
 		}
 	}
