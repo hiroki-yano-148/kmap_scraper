@@ -14,6 +14,8 @@
 // 	status?: "privated" | "suspended";
 // }
 
+import type { OUTPUT_FILE_NAMES } from "./config.js";
+
 export interface Content {
 	id: string;
 	content_url: string;
@@ -48,7 +50,7 @@ export interface ContentPhoto {
 
 export interface ContentType {
 	id: string;
-	type: "ARTICLE" | "SPOT";
+	type: "ARTICLE" | "SPOT" | "VIDEO";
 	content_id: string;
 }
 
@@ -61,3 +63,7 @@ export interface SpotInformation {
 	id: string;
 	content_type_id: string;
 }
+
+export type FileNames = Record<(typeof OUTPUT_FILE_NAMES)[number], string>;
+
+export type Location = { lat: number | string; lng: number | string };

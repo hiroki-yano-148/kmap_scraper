@@ -11,6 +11,7 @@ import {
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { chromium } from "playwright";
+import { OUTPUT_FILE_NAMES } from "./config.js";
 import { CATEGORY_MAPPING } from "./data.js";
 import {
 	compact,
@@ -33,22 +34,10 @@ import type {
 	ContentCategoryMapping,
 	ContentPhoto,
 	ContentType,
+	FileNames,
+	Location,
 	SpotInformation,
 } from "./types.js";
-
-const OUTPUT_FILE_NAMES = [
-	"contents",
-	"content_bodies",
-	"content_category_mappings",
-	"content_photos",
-	"content_types",
-	"articles",
-	"spot_informations",
-] as const;
-
-type FileNames = Record<(typeof OUTPUT_FILE_NAMES)[number], string>;
-
-type Location = { lat: number | string; lng: number | string };
 
 export async function scrape(config: {
 	dir: string;
@@ -116,6 +105,8 @@ export async function scrape(config: {
 			? readFileSync(doneTxtPath, "utf-8").split("\n").filter(Boolean)
 			: [],
 	);
+
+	const storage = await SupabaseStorage.init();
 
 	const browser = await chromium.launch({ headless: false });
 	const page = await browser.newPage();
@@ -284,13 +275,13 @@ export async function scrape(config: {
 			// 	}),
 			// );
 
-			const contentCategoryMapping: ContentCategoryMapping[] = category.map(
-				(category) => ({
+			const contentCategoryMapping: ContentCategoryMapping[] = category
+				.map((category) => ({
 					content_id,
 					content_category_id:
 						CATEGORY_MAPPING[category as keyof typeof CATEGORY_MAPPING],
-				}),
-			);
+				}))
+				.filter((mapping) => !!mapping.content_category_id);
 
 			const content_type_id = nanoid();
 			const contentType: ContentType = {
@@ -303,8 +294,6 @@ export async function scrape(config: {
 				id: nanoid(),
 				content_type_id,
 			};
-
-			const storage = await SupabaseStorage.init();
 
 			const { error, data } = await storage.uploadContentPhotos(
 				photos,
