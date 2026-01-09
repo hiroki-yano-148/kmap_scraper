@@ -20,7 +20,7 @@ const translator = new v2.Translate({
 });
 
 export async function requestOpenAI<T>(prompt: string): Promise<T> {
-	// const start = performance.now();
+	const start = performance.now();
 	const tokens = tiktoken.encode(prompt);
 	console.info("input:", prompt.length, "char ->", tokens.length, "token");
 	const response = await client.chat.completions.create({
@@ -39,8 +39,8 @@ export async function requestOpenAI<T>(prompt: string): Promise<T> {
 		"token",
 	);
 	console.info("total:", tokens.length + tokens2.length, "token");
-	// const end = performance.now();
-	// console.info("time:", end - start, "ms");
+	const end = performance.now();
+	console.info("time:", end - start, "ms");
 	return result;
 }
 

@@ -1,11 +1,23 @@
 import { nanoid } from "nanoid";
-import { appendFileSync, existsSync, mkdirSync, readFileSync } from "node:fs";
+import {
+	appendFileSync,
+	existsSync,
+	mkdirSync,
+	readFileSync,
+	writeFileSync,
+} from "node:fs";
 import path from "node:path";
-import { title } from "node:process";
 import Papa from "papaparse";
 import { OUTPUT_FILE_NAMES } from "../config.js";
-import { CATEGORY_MAPPING } from "../data.js";
-import { fetchImage, requestOpenAI, toJsonl, toUpperCase } from "../helpers.js";
+import { CATEGORY_MAPPING, CATEGORY_MAPPING2 } from "../data.js";
+import {
+	fetchImage,
+	getCoodinates,
+	readJsonlToCsv,
+	requestOpenAI,
+	toJsonl,
+	toUpperCase,
+} from "../helpers.js";
 import { SupabaseStorage } from "../supabase.js";
 import type {
 	Article,
@@ -26,8 +38,10 @@ interface CSV {
 	status: string;
 	latitude: string;
 	longitude: string;
-	// categories: string;
+	categories: string;
 }
+
+const addressMap = new Map<string, { lat: number; lng: number }>();
 
 async function main() {
 	const root = path.join("./result", "video");
@@ -77,26 +91,31 @@ async function main() {
 	);
 
 	const csv = readFileSync("./src/youtube/source.csv", "utf-8");
-	const { errors, data: rows } = Papa.parse(csv, { header: true });
-	if (errors) {
+	const { errors, data: rows } = Papa.parse(csv, {
+		header: true,
+		skipEmptyLines: true,
+	});
+	if (errors.length) {
 		console.error(errors);
 		return;
 	}
 
+	// console.log({ rows });
+
 	const storage = await SupabaseStorage.init();
 
-	for (const data of rows.slice(0, 5) as CSV[]) {
+	for (const data of rows.slice(6, 10) as CSV[]) {
 		if (doneSet.has(data.url)) continue;
+
+		console.info("start:", data.url);
 
 		const content_id = nanoid();
 
-		// const lang = await detectLanguage(data.title, data.description.slice(0, 100));
-
-		const metadata = { channel_id: data.channel_id };
+		let metadata: any = { channel_id: data.channel_id };
 
 		const result = await requestOpenAI<{
 			lang: "en" | "ja";
-			title: string;
+			translatedTitle: string;
 			jaDescription: string;
 			enDescription: string;
 			category: string[];
@@ -109,8 +128,12 @@ async function main() {
           \`\`\`
       
           - テキストの英語か日本語か判定してください。
-          - テキストが英語ならば日本語に、日本語ならば英語に翻訳してください。
-          - 当てはまるカテゴリを以下から複数選択してください。
+          - タイトルと説明を英語ならば日本語に、日本語ならば英語に翻訳してください。
+					${
+						data.categories
+							? ""
+							: `
+					- 当てはまるカテゴリを以下から複数選択してください。
             - attractions
             - castles
             - cultural_sites
@@ -127,51 +150,71 @@ async function main() {
             - technology
             - sports
             - artisans
-            - anime
-          - テキストからGoogle Mapの検索にヒットしそうな地名を推定してください。ない場合も、必ず日本のどこかの地名を返してください。
+            - anime	
+					`
+					}
+          - テキスト中に明確に住所情報があれば、それを返してください。でなければ、テキストからGoogle Mapの検索にヒットしそうな地名を推定してください。推定できない場合も、必ず日本のどこかの地名を返してください。
       
           出力は必ずJSON形式で行ってください。
           例：
           {
             "lang": "ja" // or "en",
-            "title": "translated title",
+            "translatedTitle": "translated title",
             "jaDescription": "要約",
             "enDescription": "Description",
-            "category": ["attractions", "events"],
+            ${data.categories ? "" : '"category": ["attractions", "events"],'}
             "address": "名古屋城",
           }
       `);
 
+		let location = {
+			lat: Number.parseFloat(data.latitude),
+			lng: Number.parseFloat(data.longitude),
+		};
+
+		console.log({ location });
+
+		if (
+			Number.isNaN(location.lat) ||
+			Number.isNaN(location.lng) ||
+			location.lat === 0 ||
+			location.lng === 0
+		) {
+			metadata = { ...metadata, guess_location: true };
+			console.log({ metadata });
+			if (addressMap.has(result.address)) {
+				// biome-ignore lint/style/noNonNullAssertion: non null
+				location = addressMap.get(result.address)!;
+			} else {
+				const location2 = await getCoodinates(result.address);
+				console.info({ address: result.address, location2 });
+
+				if (!location2) {
+					appendReport("INVALID_LOCATION", data.url);
+					continue;
+				}
+				location = location2;
+				addressMap.set(result.address, location2);
+			}
+		}
+
+		const { lat, lng } = location;
+
 		const content: Content = {
 			id: content_id,
 			content_url: data.url,
-			base_language: result.lang,
-			actual_language: result.lang,
+			base_language: toUpperCase(result.lang),
+			actual_language: toUpperCase(result.lang),
 			status: "PRIVATED",
-			lat:
-				typeof data.latitude === "string"
-					? Number.parseFloat(data.latitude)
-					: data.latitude,
-			lng:
-				typeof data.longitude === "string"
-					? Number.parseFloat(data.longitude)
-					: data.longitude,
+			lat,
+			lng,
 			metadata: metadata ? JSON.stringify(metadata) : "",
 		};
-
-		// const translatedContents = await toTranslatedContents({
-		// 	title,
-		// 	description:
-		// 		countGrapheme(description, lang) > 1000
-		// 			? `${description.slice(0, 996)} ...`
-		// 			: description,
-		// 	language: base_language,
-		// });
 
 		const contentBodies: ContentBoby[] = [
 			{
 				id: nanoid(),
-				title,
+				title: data.title,
 				description:
 					result.lang === "en" ? result.enDescription : result.jaDescription,
 				language: toUpperCase(result.lang),
@@ -179,7 +222,7 @@ async function main() {
 			},
 			{
 				id: nanoid(),
-				title: result.title,
+				title: result.translatedTitle,
 				description:
 					result.lang === "en" ? result.jaDescription : result.enDescription,
 				language: result.lang === "en" ? "JA" : "EN",
@@ -187,7 +230,11 @@ async function main() {
 			},
 		];
 
-		const contentCategoryMapping: ContentCategoryMapping[] = result.category
+		const categories = data.categories
+			? data.categories.split(",").map((value) => CATEGORY_MAPPING2[value])
+			: result.category;
+
+		const contentCategoryMapping: ContentCategoryMapping[] = categories
 			.map((category) => ({
 				content_id,
 				content_category_id:
@@ -243,6 +290,13 @@ async function main() {
 		appendFileSync(jsonls.content_types, toJsonl(contentType));
 		appendFileSync(jsonls.videos, toJsonl(contentTypeDetail));
 		appendFileSync(doneTxtPath, `${data.url}\n`);
+	}
+
+	for (const name of OUTPUT_FILE_NAMES) {
+		const csv = readJsonlToCsv(jsonls[name]);
+		if (csv) {
+			writeFileSync(path.join(root, `${name}.csv`), csv);
+		}
 	}
 }
 

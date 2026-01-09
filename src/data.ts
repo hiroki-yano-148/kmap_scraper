@@ -17,3 +17,22 @@ export const CATEGORY_MAPPING = {
 	experiences: "phlunt5HJ3fBcZXrezlHN",
 	artisans: "tqy6nsKbGDANBHHt7CQaG",
 };
+
+export const CATEGORY_MAPPING2: Record<string, string> = {
+	Sports: "sports",
+	Lodging: "lodging",
+	"Temples & Shrines": "temples_and_shrines",
+	Attractions: "attractions",
+	Castles: "castles",
+	"Scene Spots": "scenic_spots",
+	Events: "events",
+	"Food & Drink": "food_and_drink",
+	technology: "technology",
+	anime: "anime",
+	"Nature & Outdoors": "nature_and_outdoors",
+	Transportation: "transportation",
+	"Historical Sites": "historical_sites",
+	"Cultural Sites": "cultural_sites",
+	"Hot Springs": "hot_springs",
+	Experiences: "experiences",
+};

@@ -39,6 +39,8 @@ import type {
 	SpotInformation,
 } from "./types.js";
 
+const addressMap = new Map<string, { lat: number; lng: number }>();
+
 export async function scrape(config: {
 	dir: string;
 	lang?: "en" | "ja";
@@ -210,14 +212,21 @@ export async function scrape(config: {
 
 			let metadata: { guess_location: boolean } | undefined;
 			if (!location || location.lat === 0 || location.lng === 0) {
-				const location2 = await getCoodinates(address);
-				console.info({ address, location2 });
-				metadata = { guess_location: true };
-				if (!location2) {
-					appendReport("INVALID_LOCATION", url);
-					continue;
+				metadata = { ...metadata, guess_location: true };
+				if (addressMap.has(address)) {
+					// biome-ignore lint/style/noNonNullAssertion: non null
+					location = addressMap.get(address)!;
+				} else {
+					const location2 = await getCoodinates(address);
+					console.info({ address, location2 });
+
+					if (!location2) {
+						appendReport("INVALID_LOCATION", url);
+						continue;
+					}
+					location = location2;
+					addressMap.set(address, location2);
 				}
-				location = location2;
 			}
 
 			const { lat, lng } = location;
