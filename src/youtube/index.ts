@@ -24,6 +24,7 @@ import type {
 	Content,
 	ContentBoby,
 	ContentCategoryMapping,
+	ContentPhoto,
 	ContentType,
 	FileNames,
 	SpotInformation,
@@ -100,14 +101,12 @@ async function main() {
 		return;
 	}
 
-	// console.log({ rows });
-
 	const storage = await SupabaseStorage.init();
 
-	for (const data of rows.slice(6, 10) as CSV[]) {
+	for (const [i, data] of (rows as CSV[]).entries()) {
 		if (doneSet.has(data.url)) continue;
 
-		console.info("start:", data.url);
+		console.info("start:", i + 1, data.url);
 
 		const content_id = nanoid();
 
@@ -261,24 +260,24 @@ async function main() {
 			continue;
 		}
 
-		// const { error, data: a } = await storage.uploadContentPhotos(
-		// 	[photo],
-		// 	`mapzamurai/video`,
-		// 	content_id,
-		// );
+		const { error, data: a } = await storage.uploadContentPhotos(
+			[photo],
+			`mapzamurai/video`,
+			content_id,
+		);
 
-		// if (error) {
-		// 	appendReport("UPLOAD_ERROR", data.url);
-		// 	continue;
-		// }
+		if (error) {
+			appendReport("UPLOAD_ERROR", data.url);
+			continue;
+		}
 
-		// const contentPhotos: ContentPhoto[] = a.map((d) => ({
-		// 	id: d.id,
-		// 	photo_url: d.photoUrl,
-		// 	type: d.type,
-		// 	order: d.order,
-		// 	content_id,
-		// }));
+		const contentPhotos: ContentPhoto[] = a.map((d) => ({
+			id: d.id,
+			photo_url: d.photoUrl,
+			type: d.type,
+			order: d.order,
+			content_id,
+		}));
 
 		appendFileSync(jsonls.contents, toJsonl(content));
 		appendFileSync(jsonls.content_bodies, toJsonl(contentBodies));
@@ -286,7 +285,7 @@ async function main() {
 			jsonls.content_category_mappings,
 			toJsonl(contentCategoryMapping),
 		);
-		// appendFileSync(jsonls.content_photos, toJsonl(contentPhotos));
+		appendFileSync(jsonls.content_photos, toJsonl(contentPhotos));
 		appendFileSync(jsonls.content_types, toJsonl(contentType));
 		appendFileSync(jsonls.videos, toJsonl(contentTypeDetail));
 		appendFileSync(doneTxtPath, `${data.url}\n`);
