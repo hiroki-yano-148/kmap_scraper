@@ -77,6 +77,9 @@ export async function scrape(config: {
 		url: string,
 	) {
 		const inputPath = path.join(reportPath, `${key}.jsonl`);
+		if (!existsSync(inputPath)) {
+			writeFileSync(inputPath, "");
+		}
 		const invalidUrls = readFileSync(inputPath, "utf-8")
 			.split("\n")
 			.filter(Boolean)
@@ -235,7 +238,9 @@ export async function scrape(config: {
 
 			const base_language =
 				actual_language !== "JA" && actual_language !== "EN"
-					? "EN"
+					? actual_language === "ZH"
+						? "JA"
+						: "EN"
 					: (actual_language as "JA" | "EN");
 
 			const content_id = nanoid();

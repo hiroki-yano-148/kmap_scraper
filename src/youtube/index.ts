@@ -60,6 +60,9 @@ async function main() {
 		url: string,
 	) {
 		const inputPath = path.join(reportPath, `${key}.jsonl`);
+		if (!existsSync(inputPath)) {
+			writeFileSync(inputPath, "");
+		}
 		const invalidUrls = readFileSync(inputPath, "utf-8")
 			.split("\n")
 			.filter(Boolean)
@@ -199,11 +202,20 @@ async function main() {
 
 		const { lat, lng } = location;
 
+		const actual_language = toUpperCase(result.lang);
+
+		const base_language =
+			actual_language !== "JA" && actual_language !== "EN"
+				? actual_language === "ZH"
+					? "JA"
+					: "EN"
+				: (actual_language as "JA" | "EN");
+
 		const content: Content = {
 			id: content_id,
 			content_url: data.url,
-			base_language: toUpperCase(result.lang),
-			actual_language: toUpperCase(result.lang),
+			base_language,
+			actual_language,
 			status: "PRIVATED",
 			lat,
 			lng,
