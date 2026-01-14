@@ -113,6 +113,14 @@ async function main() {
 
 		const content_id = nanoid();
 
+		const photo = await fetchImage(data.thumbnail_url);
+
+		if (!photo) {
+			appendReport("INVALID_PHOTO", data.url);
+			continue;
+		}
+
+		// biome-ignore lint/suspicious/noExplicitAny: allow any
 		let metadata: any = { channel_id: data.channel_id };
 
 		const result = await requestOpenAI<{
@@ -264,13 +272,6 @@ async function main() {
 			id: nanoid(),
 			content_type_id,
 		};
-
-		const photo = await fetchImage(data.thumbnail_url);
-
-		if (!photo) {
-			appendReport("INVALID_PHOTO", data.url);
-			continue;
-		}
 
 		const { error, data: a } = await storage.uploadContentPhotos(
 			[photo],
