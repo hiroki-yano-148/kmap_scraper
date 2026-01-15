@@ -213,7 +213,9 @@ export async function scrape(config: {
 				location = await location;
 			}
 
-			let metadata: { guess_location: boolean } | undefined;
+			let metadata:
+				| { guess_location?: boolean; actual_language?: string }
+				| undefined;
 			if (!location || location.lat === 0 || location.lng === 0) {
 				metadata = { ...metadata, guess_location: true };
 				if (addressMap.has(address)) {
@@ -245,11 +247,15 @@ export async function scrape(config: {
 
 			const content_id = nanoid();
 
+			if (actual_language === "JA" || actual_language === "EN") {
+				metadata = { ...metadata, actual_language };
+			}
+
 			const content: Content = {
 				id: content_id,
 				content_url: url,
 				base_language,
-				actual_language,
+				// actual_language,
 				status: "PRIVATED",
 				lat: typeof lat === "string" ? Number.parseFloat(lat) : lat,
 				lng: typeof lng === "string" ? Number.parseFloat(lng) : lng,

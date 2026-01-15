@@ -95,7 +95,7 @@ async function main() {
 	);
 
 	const csv = readFileSync("./src/youtube/source.csv", "utf-8");
-	const { errors, data: rows } = Papa.parse(csv, {
+	const { errors, data: rows } = Papa.parse<CSV>(csv, {
 		header: true,
 		skipEmptyLines: true,
 	});
@@ -106,7 +106,7 @@ async function main() {
 
 	const storage = await SupabaseStorage.init();
 
-	for (const [i, data] of (rows as CSV[]).entries()) {
+	for (const [i, data] of rows.entries()) {
 		if (doneSet.has(data.url)) continue;
 
 		console.info("start:", i + 1, data.url);
@@ -120,7 +120,7 @@ async function main() {
 			continue;
 		}
 
-		// biome-ignore lint/suspicious/noExplicitAny: allow any
+		// biome-ignore lint/suspicious/noExplicitAny: allow
 		let metadata: any = { channel_id: data.channel_id };
 
 		const result = await requestOpenAI<{
@@ -223,7 +223,7 @@ async function main() {
 			id: content_id,
 			content_url: data.url,
 			base_language,
-			actual_language,
+			// actual_language,
 			status: "PRIVATED",
 			lat,
 			lng,

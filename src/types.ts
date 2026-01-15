@@ -20,7 +20,7 @@ export interface Content {
 	id: string;
 	content_url: string;
 	base_language: string;
-	actual_language: string;
+	// actual_language: string;
 	status: "PRIVATED" | "SUSPENDED";
 	lat: number;
 	lng: number;
