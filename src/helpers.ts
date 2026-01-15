@@ -12,7 +12,7 @@ import Papa from "papaparse";
 const tiktoken = new Tiktoken(o200k_base);
 const client = new OpenAI({
 	apiKey: process.env.OPENAI_API_KEY,
-	timeout: 30000,
+	timeout: 60000,
 });
 const translator = new v2.Translate({
 	// biome-ignore lint/style/noNonNullAssertion: not null
