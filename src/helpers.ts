@@ -294,6 +294,9 @@ export const Language = {
 	JA: "JA",
 } as const;
 
+/**
+ * @deprecated
+ */
 export async function toTranslatedContents(content: {
 	title: string;
 	description: string;
@@ -406,4 +409,15 @@ export function getBackgroundImageFromStyle(style: string) {
 
 export function compact<T>(arr: Array<T | null | undefined>): Array<T> {
 	return arr.filter((value): value is T => Boolean(value));
+}
+
+export function readCsv<T>(path: string) {
+	const { errors, data } = Papa.parse<T>(readFileSync(path, "utf-8"), {
+		header: true,
+		skipEmptyLines: true,
+	});
+	if (errors) {
+		console.error(errors);
+	}
+	return data;
 }
