@@ -65,10 +65,8 @@ async function main() {
 		"./src/youtube/source.csv",
 	);
 
-	const urls1 = csv1.map((row) => row.content_url);
-	const urls2 = csv2.map((row) => row.content_url);
 	// 5574件
-	const urls = [...urls1, ...urls2];
+	// const urls = [...urls1, ...urls2];
 
 	// 10516件
 	const done = readFileSync("./result/video/done.txt", "utf-8")
@@ -91,38 +89,8 @@ async function main() {
 	// 	csv2.map((row) => row.content_url).includes(row.url),
 	// );
 
-	// let count1 = 0;
-	// let count2 = 0;
-	// for (const x of a) {
-	// 	const titles = csv1.map((row) => row.title);
-	// 	const descs = csv1.map((row) => row.description);
-
-	// 	if (!titles.includes(x.title)) {
-	// 		console.log(x.url);
-	// 		count1++;
-	// 	}
-	// 	if (!descs.includes(x.description)) {
-	// 		count2++;
-	// 	}
-	// }
-
-	// let count3 = 0;
-	// let count4 = 0;
-	// for (const x of b) {
-	// 	const titles = csv2.map((row) => row.title);
-	// 	const descs = csv2.map((row) => row.description);
-	// 	if (titles.includes(x.title)) {
-	// 		count3++;
-	// 	}
-	// 	if (descs.includes(x.description)) {
-	// 		count4++;
-	// 	}
-	// }
-
-	// console.log(a.length, b.length, count1, count2, count3, count4);
-
-	// 英語が日本語
-	for (const row of csv1.slice(0, 10)) {
+	// 英語が日本語 / 日本語が英語
+	for (const row of csv2.slice(0, 10)) {
 		const a = result.filter((a) => a.content_id === row.id);
 		const s = source.find((a) => a.url === row.content_url);
 		const ja = a.find((a) => a.language === "JA");
@@ -147,12 +115,6 @@ async function main() {
 
 		// appendFileSync("./result/video/done.txt", `${row.content_url}\n`);
 
-		// console.log({
-		// 	lang: lang === "en" ? "日本語" : "英語",
-		// 	title: `${s.title} -> ${title}`,
-		// 	description: `${s.description} -> ${description}`,
-		// });
-
 		const jaResult = {
 			id: ja.id,
 			title: lang === "ja" ? s.title : title,
@@ -169,10 +131,6 @@ async function main() {
 		appendFileSync("./src/youtube/tmp.jsonl", `${JSON.stringify(enResult)}\n`);
 
 		sleep(1000);
-	}
-
-	// 日本語が英語
-	for (const url of csv2.map((row) => row.content_url)) {
 	}
 }
 
