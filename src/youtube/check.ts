@@ -117,7 +117,7 @@ async function main() {
 			s.description,
 		);
 
-		// appendFileSync("./result/video/done.txt", `${row.content_url}\n`);
+		appendFileSync("./result/video/done.txt", `${row.content_url}\n`);
 
 		const jaResult = {
 			id: ja.id,
