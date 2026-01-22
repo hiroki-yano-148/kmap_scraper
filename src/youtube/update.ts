@@ -35,7 +35,7 @@ delete from contents where id in (${d})
 		result[index].description = data.description;
 
 		sqls.push(
-			`update content_bodies set title = ${data.title}, description = ${data.description};`,
+			`update content_bodies set title = '${data.title.replace(/'/g, "''")}', description = '${data.description.replace(/'/g, "''")}' where id = '${data.id}';`,
 		);
 	}
 

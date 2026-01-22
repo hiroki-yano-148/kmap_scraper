@@ -69,9 +69,11 @@ async function main() {
 	// const urls = [...urls1, ...urls2];
 
 	// 10516件
-	const done = readFileSync("./result/video/done.txt", "utf-8")
-		.split("\n")
-		.filter(Boolean);
+	const done = new Set(
+		readFileSync("./result/video/done.txt", "utf-8")
+			.split("\n")
+			.filter(Boolean),
+	);
 
 	// 4942件
 	// writeFileSync(
@@ -90,7 +92,9 @@ async function main() {
 	// );
 
 	// 英語が日本語 / 日本語が英語
-	for (const row of csv2.slice(0, 10)) {
+	for (const row of [...csv1, ...csv2].slice(0, 10)) {
+		if (done.has(row.content_url)) continue;
+
 		const a = result.filter((a) => a.content_id === row.id);
 		const s = source.find((a) => a.url === row.content_url);
 		const ja = a.find((a) => a.language === "JA");
