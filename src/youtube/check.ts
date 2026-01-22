@@ -1,5 +1,5 @@
 import { appendFileSync, readFileSync } from "node:fs";
-import { readCsv, requestOpenAI, sleep } from "../helpers.js";
+import { readCsv, requestOpenAI } from "../helpers.js";
 import type { ContentBoby } from "../types.js";
 
 async function detect(title: string, description: string) {
@@ -91,8 +91,10 @@ async function main() {
 	// 	csv2.map((row) => row.content_url).includes(row.url),
 	// );
 
+	const csvs = [...csv1, ...csv2];
+
 	// 英語が日本語 / 日本語が英語
-	for (const row of [...csv1, ...csv2].slice(0, 10)) {
+	for (const [i, row] of csvs.entries()) {
 		if (done.has(row.content_url)) continue;
 
 		const a = result.filter((a) => a.content_id === row.id);
@@ -134,7 +136,9 @@ async function main() {
 		appendFileSync("./src/youtube/tmp.jsonl", `${JSON.stringify(jaResult)}\n`);
 		appendFileSync("./src/youtube/tmp.jsonl", `${JSON.stringify(enResult)}\n`);
 
-		sleep(1000);
+		console.info("completed:", i, "/", csvs.length);
+
+		// sleep(1000);
 	}
 }
 
