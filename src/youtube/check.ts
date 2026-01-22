@@ -2,25 +2,40 @@ import { appendFileSync, readFileSync } from "node:fs";
 import { readCsv, requestOpenAI, sleep } from "../helpers.js";
 import type { ContentBoby } from "../types.js";
 
-async function t(title: string, description: string) {
+async function detect(title: string, description: string) {
 	const result = await requestOpenAI<{
-		lang: "en" | "ja";
+		lang: "ja" | "en";
+	}>(`
+          次のテキストが「英語」か「日本語」か判定してください。
+          \`\`\`text
+          title: ${title.slice(0, 20) ?? ""}
+          description: ${description.slice(0, 20) ?? ""}
+          \`\`\`
+      
+          出力は必ずJSON形式で行ってください。
+          例：
+          {
+            "lang": "ja" // or "en",
+          }
+      `);
+
+	return result;
+}
+
+async function translate(lang: string, title: string, description: string) {
+	const result = await requestOpenAI<{
 		title: string;
 		description: string;
 	}>(`
-          次のテキストを参照し、後述のタスクを実行してください。
+          次の title と description を${lang}に翻訳してください。翻訳は改行ごとに行い、元の文章構成を保持してください。URLが含まれる場合、そのまま残してください。
           \`\`\`text
           title: ${title ?? ""}
           description: ${description ?? ""}
           \`\`\`
       
-          - テキストが「英語」か「日本語」か判定してください。
-          - title と description を英語ならば日本語に、日本語ならば英語に翻訳してください。翻訳した内容を返してください。
-
           出力は必ずJSON形式で行ってください。
           例：
           {
-            "lang": "ja" // or "en",
 						"title": "title",
 						"description": "desc"
           }
@@ -45,6 +60,10 @@ async function main() {
 	}>("./src/youtube/invalid_ja.csv");
 
 	const result = readCsv<ContentBoby>("./result/video/content_bodies.csv");
+
+	const source = readCsv<{ title: string; description: string; url: string }>(
+		"./src/youtube/source.csv",
+	);
 
 	const urls1 = csv1.map((row) => row.content_url);
 	const urls2 = csv2.map((row) => row.content_url);
@@ -103,14 +122,52 @@ async function main() {
 	// console.log(a.length, b.length, count1, count2, count3, count4);
 
 	// 英語が日本語
-	for (const row of csv1.slice(0, 5)) {
-		const index = result.findIndex((a) => a.content_id === row.id);
-		const { lang, title, description } = await t(row.title, row.description);
-		if (!result[index]) continue;
-		result[index].title = title;
-		result[index].description = description;
-		console.log(lang, row.title, row.description, title, description);
-		appendFileSync("./result/video/done.txt", row.content_url);
+	for (const row of csv1.slice(0, 10)) {
+		const a = result.filter((a) => a.content_id === row.id);
+		const s = source.find((a) => a.url === row.content_url);
+		const ja = a.find((a) => a.language === "JA");
+		const en = a.find((a) => a.language === "EN");
+
+		if (!s) {
+			console.warn(row.content_url, "not found");
+			continue;
+		}
+
+		if (!ja || !en) {
+			appendFileSync("./src/youtube/delete.txt", `${row.id}\n`);
+			continue;
+		}
+
+		const { lang } = await detect(s.title, s.description);
+		const { title, description } = await translate(
+			lang === "en" ? "日本語" : "英語",
+			s.title,
+			s.description,
+		);
+
+		// appendFileSync("./result/video/done.txt", `${row.content_url}\n`);
+
+		// console.log({
+		// 	lang: lang === "en" ? "日本語" : "英語",
+		// 	title: `${s.title} -> ${title}`,
+		// 	description: `${s.description} -> ${description}`,
+		// });
+
+		const jaResult = {
+			id: ja.id,
+			title: lang === "ja" ? s.title : title,
+			description: lang === "ja" ? s.description : description,
+		};
+
+		const enResult = {
+			id: en.id,
+			title: lang === "en" ? s.title : title,
+			description: lang === "en" ? s.description : description,
+		};
+
+		appendFileSync("./src/youtube/tmp.jsonl", `${JSON.stringify(jaResult)}\n`);
+		appendFileSync("./src/youtube/tmp.jsonl", `${JSON.stringify(enResult)}\n`);
+
 		sleep(1000);
 	}
 
