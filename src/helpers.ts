@@ -12,7 +12,7 @@ import Papa from "papaparse";
 const tiktoken = new Tiktoken(o200k_base);
 const client = new OpenAI({
 	apiKey: process.env.OPENAI_API_KEY,
-	timeout: 60000,
+	timeout: 30000,
 });
 const translator = new v2.Translate({
 	// biome-ignore lint/style/noNonNullAssertion: not null
@@ -45,20 +45,20 @@ export async function requestOpenAI<T>(prompt: string): Promise<T> {
 }
 
 // NOTE: 表示言語
-export async function detectLanguage(title: string, description: string) {
-	const [[titleResult, descResult]] = await translator.detect([
-		title,
-		description,
-	]);
+// export async function detectLanguage(title: string, description: string) {
+// 	const [[titleResult, descResult]] = await translator.detect([
+// 		title,
+// 		description,
+// 	]);
 
-	if (!titleResult || !descResult) {
-		return null;
-	}
+// 	if (!titleResult || !descResult) {
+// 		return null;
+// 	}
 
-	return titleResult.confidence > descResult.confidence
-		? titleResult.language
-		: descResult.language;
-}
+// 	return titleResult.confidence > descResult.confidence
+// 		? titleResult.language
+// 		: descResult.language;
+// }
 
 async function fetchWithTimeout(
 	url: string,
@@ -279,55 +279,55 @@ export function extractLatLng(
 	return null;
 }
 
-async function translate(input: string[], from: "en" | "ja", to: "en" | "ja") {
-	try {
-		const [result] = await translator.translate(input, { from, to });
-		return result;
-	} catch (e) {
-		console.error(e);
-		return input;
-	}
-}
+// async function translate(input: string[], from: "en" | "ja", to: "en" | "ja") {
+// 	try {
+// 		const [result] = await translator.translate(input, { from, to });
+// 		return result;
+// 	} catch (e) {
+// 		console.error(e);
+// 		return input;
+// 	}
+// }
 
 export const Language = {
 	EN: "EN",
 	JA: "JA",
 } as const;
 
-/**
- * @deprecated
- */
-export async function toTranslatedContents(content: {
-	title: string;
-	description: string;
-	language: "EN" | "JA";
-}) {
-	// ベース言語をセット
-	const contents = [
-		{
-			title: content.title,
-			description: content.description,
-			language: content.language,
-		},
-	];
+// /**
+//  * @deprecated
+//  */
+// export async function toTranslatedContents(content: {
+// 	title: string;
+// 	description: string;
+// 	language: "EN" | "JA";
+// }) {
+// 	// ベース言語をセット
+// 	const contents = [
+// 		{
+// 			title: content.title,
+// 			description: content.description,
+// 			language: content.language,
+// 		},
+// 	];
 
-	const languages = Object.values(Language).filter(
-		(lang) => lang !== content.language,
-	);
+// 	const languages = Object.values(Language).filter(
+// 		(lang) => lang !== content.language,
+// 	);
 
-	// ベース言語以外を翻訳してセット
-	for (const language of languages) {
-		const [title, description] = await translate(
-			[content.title, content.description],
-			toLowerCase(content.language),
-			toLowerCase(language),
-		);
-		if (!title || !description) continue;
-		contents.push({ title, description, language });
-	}
+// 	// ベース言語以外を翻訳してセット
+// 	for (const language of languages) {
+// 		const [title, description] = await translate(
+// 			[content.title, content.description],
+// 			toLowerCase(content.language),
+// 			toLowerCase(language),
+// 		);
+// 		if (!title || !description) continue;
+// 		contents.push({ title, description, language });
+// 	}
 
-	return contents;
-}
+// 	return contents;
+// }
 
 export function toLowerCase<T extends string>(string: T): Lowercase<T> {
 	return string.toLowerCase() as Lowercase<T>;
@@ -420,4 +420,50 @@ export function readCsv<T>(path: string) {
 		console.error(errors);
 	}
 	return data;
+}
+
+export async function detectLanguage(title: string, description: string) {
+	const result = await requestOpenAI<{
+		lang: "ja" | "en";
+	}>(`
+          次のテキストが「英語」か「日本語」か判定してください。1文字でも日本語が含まれる場合は、日本語判定にしてください。
+          \`\`\`text
+          title: ${title ?? ""}
+          description: ${description.slice(0, 20) ?? ""}
+          \`\`\`
+      
+          出力は必ずJSON形式で行ってください。
+          例：
+          {
+            "lang": "ja" // or "en",
+          }
+      `);
+
+	return result;
+}
+
+export async function translate(
+	lang: string,
+	title: string,
+	description: string,
+) {
+	const result = await requestOpenAI<{
+		title: string;
+		description: string;
+	}>(`
+          次の title と description を${lang}に翻訳してください。翻訳は改行ごとに行い、元の文章構成を保持してください。URLが含まれる場合、そのまま残してください。
+          \`\`\`text
+          title: ${title ?? ""}
+          description: ${description ?? ""}
+          \`\`\`
+      
+          出力は必ずJSON形式で行ってください。
+          例：
+          {
+						"title": "title",
+						"description": "desc"
+          }
+      `);
+
+	return result;
 }

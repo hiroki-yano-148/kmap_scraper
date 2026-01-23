@@ -271,7 +271,9 @@ async function main() {
 				tmp.postalcode = row["Postal code"];
 			}
 			if (tmp.title && tmp.description) {
-				const lang = await detectLanguage(tmp.title, tmp.description);
+				const lang = await detectLanguage(tmp.title, tmp.description).then(
+					({ lang }) => lang,
+				);
 				if (!lang || lang === ("und" as any)) {
 					if (metadata.external_id && metadata.experience_id) {
 						id5.add({

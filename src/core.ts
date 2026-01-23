@@ -176,7 +176,9 @@ export async function scrape(config: {
 
 			const lang =
 				config.lang ??
-				(await detectLanguage(title, info.description.slice(0, 200)));
+				(await detectLanguage(title, info.description.slice(0, 200)).then(
+					({ lang }) => lang,
+				));
 
 			if (!lang) {
 				appendReport("INVALID_LANG", url);

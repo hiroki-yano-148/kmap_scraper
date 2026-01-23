@@ -6,9 +6,9 @@ async function detect(title: string, description: string) {
 	const result = await requestOpenAI<{
 		lang: "ja" | "en";
 	}>(`
-          次のテキストが「英語」か「日本語」か判定してください。
+          次のテキストが「英語」か「日本語」か判定してください。1文字でも日本語が含まれる場合は、日本語判定にしてください。
           \`\`\`text
-          title: ${title.slice(0, 20) ?? ""}
+          title: ${title ?? ""}
           description: ${description.slice(0, 20) ?? ""}
           \`\`\`
       
@@ -71,6 +71,7 @@ async function main() {
 	// 10516件
 	const done = new Set(
 		readFileSync("./result/video/done.txt", "utf-8")
+			.replace(/\r\n/g, "\n")
 			.split("\n")
 			.filter(Boolean),
 	);
@@ -108,35 +109,56 @@ async function main() {
 		}
 
 		if (!ja || !en) {
-			appendFileSync("./src/youtube/delete.txt", `${row.id}\n`);
+			const a = readFileSync("./src/youtube/delete.txt", "utf-8")
+				.replace(/\r\n/g, "\n")
+				.split("\n")
+				.filter(Boolean);
+			if (!a.includes(row.id)) {
+				appendFileSync("./src/youtube/delete.txt", `${row.id}\n`);
+			}
 			continue;
 		}
 
 		const { lang } = await detect(s.title, s.description);
-		const { title, description } = await translate(
-			lang === "en" ? "日本語" : "英語",
-			s.title,
-			s.description,
-		);
+		// console.log(lang, s.title, s.description);
+		try {
+			const { title, description } = await translate(
+				lang === "en" ? "日本語" : "英語",
+				s.title,
+				s.description,
+			);
 
-		appendFileSync("./result/video/done.txt", `${row.content_url}\n`);
+			// console.log(lang, s.title, title, s.description, description);
 
-		const jaResult = {
-			id: ja.id,
-			title: lang === "ja" ? s.title : title,
-			description: lang === "ja" ? s.description : description,
-		};
+			appendFileSync("./result/video/done.txt", `${row.content_url}\n`);
 
-		const enResult = {
-			id: en.id,
-			title: lang === "en" ? s.title : title,
-			description: lang === "en" ? s.description : description,
-		};
+			const jaResult = {
+				id: ja.id,
+				title: lang === "ja" ? s.title : title,
+				description: lang === "ja" ? s.description : description,
+				url: s.url,
+			};
 
-		appendFileSync("./src/youtube/tmp.jsonl", `${JSON.stringify(jaResult)}\n`);
-		appendFileSync("./src/youtube/tmp.jsonl", `${JSON.stringify(enResult)}\n`);
+			const enResult = {
+				id: en.id,
+				title: lang === "en" ? s.title : title,
+				description: lang === "en" ? s.description : description,
+				url: s.url,
+			};
 
-		console.info("completed:", i, "/", csvs.length);
+			appendFileSync(
+				"./src/youtube/tmp.jsonl",
+				`${JSON.stringify(jaResult)}\n`,
+			);
+			appendFileSync(
+				"./src/youtube/tmp.jsonl",
+				`${JSON.stringify(enResult)}\n`,
+			);
+		} catch {
+			continue;
+		}
+
+		console.info("\n", "completed:", i + 1, "/", csvs.length);
 
 		// sleep(1000);
 	}
