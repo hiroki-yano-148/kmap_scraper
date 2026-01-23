@@ -1,3 +1,527 @@
+update content_bodies set title = 'Easy at Home! How to Make a Refreshing Summer Parfait Full of Fruits from Okayama!', description = '[Let''s Enjoy Parfaits at Home Using Okayama Fruits!] 
+
+This parfait is made using Okayama''s specialty fruits: white peaches, Shine Muscat grapes, and Asahi melons, allowing you to fully savor the summer flavors of the fruit kingdom Okayama! 
+Since it only uses ingredients available at supermarkets, please give it a try at home! 
+
+Parfait Ingredients [00:06] 
+
+♥ Okayama White Peach Parfait Days 
+https://okayama-kanko.net/8910/ 
+
+#Fruits #OkayamaFruits #WhitePeach #ShineMuscat #AsahiMelon #Parfait #FruitParfaitCityOkayama #OkayamaWhitePeachParfaitDays #Recipe #Okayama #OkayamaPrefecture #OkayamaCity #OkayamaTourism' where id = 'weh70qzHPLjo7lNX_PI0g';
+update content_bodies set title = '体験！桃太郎伝説（日本遺産「桃太郎伝説の生まれたまち　おかやま」プロモーション動画）', description = '★日本遺産「桃太郎伝説の生まれたまち　おかやま」プロモーション動画
+【体験！桃太郎伝説編】
+
+平成30年５月、岡山市、倉敷市、総社市、赤磐市で共同申請した「桃太郎伝説の生まれたまち　おかやま」が日本遺産に認定されました。
+日本遺産とは地域の歴史的魅力や特色を通じて我が国の文化・伝統を語るストーリーを文化庁が認定するもので、平成30年度までに全国で67のストーリーが認定されています。
+
+おかやまには桃太郎と鬼のモデルになったと言われる「吉備津彦と温羅」の物語に登場する場所が今もなお多く残っており、古くから地域の方々によって大切に保存されてきました。
+
+このたび、日本遺産「桃太郎伝説の生まれたまち　おかやま」の魅力をわかりやすくお伝えするプロモーション動画が完成しましたので、ぜひご覧ください！
+
+古代吉備の遺産群があなたを鬼退治の物語に誘ってくれますよ。
+
+【本編】
+https://www.youtube.com/watch?v=Bq4VmjFf9ao&t=3s
+
+【桃太郎伝説と古代吉備の古墳群編】
+https://www.youtube.com/watch?v=-zusdHlXfLk
+
+◆ホームページ
+https://momotaro-ura.jp/
+
+
+#岡山 #岡山市 #日本遺産  #桃太郎伝説' where id = 'UgO3304SSgoZg8oNPENeh';
+update content_bodies set title = 'Experience! Momotaro Legend (Promotional Video for the Japanese Heritage ''The Town Where the Momotaro Legend Was Born - Okayama'')', description = '★Promotional video for the Japanese Heritage ''The Town Where the Momotaro Legend Was Born - Okayama''
+[Experience! Momotaro Legend Edition]
+
+In May 2018, the cities of Okayama, Kurashiki, Soja, and Akaiwa jointly applied for and were recognized as a Japanese Heritage site for ''The Town Where the Momotaro Legend Was Born - Okayama''.
+Japanese Heritage is a designation by the Agency for Cultural Affairs that tells the story of Japan''s culture and traditions through the historical charm and characteristics of a region. As of the fiscal year 2018, 67 stories have been recognized nationwide.
+
+Okayama still has many locations that are said to be associated with the story of ''Kibitsuhiko and Ura'', which served as the model for Momotaro and the demons, and these have been carefully preserved by the local community for a long time.
+
+We have completed a promotional video that clearly conveys the charm of the Japanese Heritage ''The Town Where the Momotaro Legend Was Born - Okayama'', so please take a look!
+
+The ancient heritage of Kibi invites you into the story of demon-slaying.
+
+[Main Video]
+https://www.youtube.com/watch?v=Bq4VmjFf9ao&t=3s
+
+[Momotaro Legend and Ancient Kibi Burial Mounds Edition]
+https://www.youtube.com/watch?v=-zusdHlXfLk
+
+◆Website
+https://momotaro-ura.jp/
+
+#Okayama #OkayamaCity #JapaneseHeritage #MomotaroLegend' where id = 'Yvm1J07SjMH5YFAo4ydzs';
+update content_bodies set title = '日本遺産「桃太郎伝説の生まれたまち　おかやま」プロモーション動画', description = '★日本遺産「桃太郎伝説の生まれたまち　おかやま」プロモーション動画
+【本編】
+
+
+平成30年５月、岡山市、倉敷市、総社市、赤磐市で共同申請した「桃太郎伝説の生まれたまち　おかやま」が日本遺産に認定されました。
+日本遺産とは地域の歴史的魅力や特色を通じて我が国の文化・伝統を語るストーリーを文化庁が認定するもので、平成30年度までに全国で67のストーリーが認定されています。
+
+おかやまには桃太郎と鬼のモデルになったと言われる「吉備津彦と温羅」の物語に登場する場所が今もなお多く残っており、古くから地域の方々によって大切に保存されてきました。
+
+このたび、日本遺産「桃太郎伝説の生まれたまち　おかやま」の魅力をわかりやすくお伝えするプロモーション動画が完成しましたので、ぜひご覧ください！
+
+古代吉備の遺産群があなたを鬼退治の物語に誘ってくれますよ。
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+※この動画の1分13秒に　≪ 総社市の「鬼城山」には、»　という日本語字幕が出てきますが、
+　「鬼城山」（きのうじょうざん）ではなく、正しくは「鬼城山」（きのじょうざん）です。
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+【体験！桃太郎伝説編】
+https://www.youtube.com/watch?v=fjSYOgJ-W8o&t=12s
+
+【桃太郎伝説と古代吉備の古墳群編】
+https://www.youtube.com/watch?v=-zusdHlXfLk
+
+◆ホームページ
+https://momotaro-ura.jp/
+
+
+
+#岡山 #岡山市 #日本遺産  #桃太郎伝説' where id = '4_8LLlaEFYBrV8erwEOhf';
+update content_bodies set title = 'Japan Heritage ''The Town Where the Momotaro Legend Was Born - Okayama'' Promotional Video', description = '★Japan Heritage ''The Town Where the Momotaro Legend Was Born - Okayama'' Promotional Video
+【Main Content】
+
+In May 2018, ''The Town Where the Momotaro Legend Was Born - Okayama,'' jointly applied by Okayama City, Kurashiki City, Soja City, and Akaiwa City, was certified as a Japan Heritage.
+Japan Heritage is a designation by the Agency for Cultural Affairs that recognizes stories that convey the culture and traditions of our country through the historical charm and characteristics of regions. As of the fiscal year 2018, 67 stories have been certified nationwide.
+
+Okayama still has many locations associated with the story of ''Kibitsuhiko and Ura,'' which is said to have inspired the characters of Momotaro and the demons, and these have been carefully preserved by the local community for a long time.
+
+We have completed a promotional video that clearly conveys the charm of Japan Heritage ''The Town Where the Momotaro Legend Was Born - Okayama,'' so please take a look!
+
+The ancient heritage of Kibi invites you into the story of demon-slaying.
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+*At 1 minute and 13 seconds into this video, the Japanese subtitle ''In Soja City''s ' where id = 'bsW20STMKOkaujmaq39e-';
+update content_bodies set title = '古代吉備国の声が聞こえる 造山古墳', description = '国内4番目の大きさを誇り、『日本遺産「桃太郎伝説」の生まれたまち おかやま～古代吉備の遺産が誘う鬼退治の物語～』の構成文化財の一つである、造山古墳をテーマとした映像です。
+小学校高学年をメインターゲットとしていますが、大人にも分かりやすく、楽しく、造山古墳及びその背景にある古代吉備国の繁栄について知っていただける内容となっています。
+
+
+
+#岡山市  #日本遺産 #古墳 #造山古墳 #岡山 #岡山県#岡山旅行 #岡山観光 #日本 #観光 #古墳 #歴史 #古墳時代 #古墳巡り #古代 #古代吉備国 #吉備国 #前方後円墳#桃太郎伝説 #文化財
+#造山古墳ビジターセンター #okayama #japan #japantour #sightseeing' where id = 'X0vytr8B03GQY6fWu3QyL';
+update content_bodies set title = 'The Voice of Ancient Kibi Can Be Heard: Zōsankofun', description = 'This is a video themed around Zōsankofun, which boasts the fourth largest size in Japan and is one of the cultural properties that make up the Japanese heritage "The Town Where the Legend of Momotaro Was Born: Okayama - The Story of Demon Slaying Invoked by the Ancient Kibi Heritage." 
+The main target audience is upper-grade elementary school students, but it is designed to be easy to understand and enjoyable for adults as well, providing insights into Zōsankofun and the prosperity of the ancient Kibi region.' where id = '2BnsS2rj39g2c2ZvUTCkA';
+update content_bodies set title = '【旭川さくらみち・岡山後楽園】 2021桜 ～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市の桜スポットを空から眺めるドローン映像です。
+新型コロナウイルスの影響で花見を自粛された方、花見に行けなかった方々も、岡山市内で咲き誇る桜を見ていただき、お花見気分を満喫してください！
+
+岡山を代表するお花見スポットといえば、旭川さくらみち。岡山後楽園の東岸、約1.3kmに連なるソメイヨシノは、全国に名だたる桜の名所として知られています。桜の季節には、毎年多くのお花見客でにぎわいます。
+
+上空から眺める岡山後楽園にも、見事な桜が咲いています。
+
+
+＃岡山 ＃岡山県 ＃岡山市 ＃岡山旅行 ＃岡山観光 ＃日本 ＃観光 ＃ドローン ＃空撮  ＃桜  ＃さくら
+#okayama #japan #japantour #sightseeing #cherryblossoms
+
+▼岡山市公式観光情報サイト【おかやま観光ネット】
+https://okayama-kanko.net/sightseeing/
+
+▼おかやま観光コンベンション協会【公式】Instagram
+https://www.instagram.com/okayama_cit...
+
+▼おかやま観光コンベンション協会【公式】Facebook
+https://www.facebook.com/okayama.kanko
+
+▼岡山市ももたろう観光センター Twitter
+https://twitter.com/momokan36/' where id = '0c_Ywtor91IFNB7uys0em';
+update content_bodies set title = '[Asahikawa Sakura Road & Okayama Korakuen] 2021 Cherry Blossoms ~Sky Travel Time~ A Skywalk to Experience Okayama City', description = 'This is a drone video capturing the cherry blossom spots in Okayama City from the sky.
+Due to the impact of the COVID-19 pandemic, those who refrained from hanami and those who couldn''t go out to enjoy cherry blossoms can still see the beautiful sakura blooming in Okayama City and enjoy the hanami atmosphere!
+
+When it comes to representative cherry blossom viewing spots in Okayama, Asahikawa Sakura Road is a must-visit. The Somei Yoshino cherry trees lining the eastern bank of Okayama Korakuen stretch about 1.3 km and are known as one of the famous cherry blossom spots in the country. During the cherry blossom season, it is bustling with many hanami visitors every year.
+
+There are also magnificent cherry blossoms blooming in Okayama Korakuen, viewed from above.
+
+#Okayama #OkayamaPrefecture #OkayamaCity #OkayamaTravel #OkayamaSightseeing #Japan #Tourism #Drone #AerialPhotography #CherryBlossoms #Sakura
+#okayama #japan #japantour #sightseeing #cherryblossoms
+
+▼ Okayama City Official Tourism Information Site [Okayama Tourism Net]
+https://okayama-kanko.net/sightseeing/
+
+▼ Okayama Tourism Convention Association [Official] Instagram
+https://www.instagram.com/okayama_cit...
+
+▼ Okayama Tourism Convention Association [Official] Facebook
+https://www.facebook.com/okayama.kanko
+
+▼ Okayama City Momotaro Tourism Center Twitter
+https://twitter.com/momokan36/' where id = 'EYIK3hxlqBf20dqT_HHGB';
+update content_bodies set title = '【金川桜並木・百間川せせらぎ広場】2021桜 ～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市の桜スポットを空から眺めるドローン映像です。
+新型コロナウイルスの影響で花見を自粛された方、花見に行けなかった方々も、岡山市内で咲き誇る桜を見ていただき、お花見気分を満喫してください！
+
+
+●金川桜並木
+岡山市北区御津金川の宇甘川堤防にある約200mの桜並木。
+
+●百間川せせらぎ広場
+岡山市中消防署の南西にある河川敷には約100本のソメイヨシノが植えられており、満開時には河川敷一帯がピンク色に染まります。豊かな自然の中、開放的な気分でお花見を楽しむことできます。天気の良い日には、家族や友達とお弁当を広げて過ごすのにぴったり！
+
+
+＃岡山＃岡山県＃岡山市＃岡山旅行＃岡山観光＃日本＃観光＃ドローン＃空撮＃桜＃さくら#okayama ​#japan #japantour #sightseeing #cherryblossoms
+
+
+▼岡山市公式観光情報サイト【おかやま観光ネット】
+https://okayama-kanko.net/sightseeing/
+
+▼おかやま観光コンベンション協会【公式】Instagram
+https://www.instagram.com/okayama_cit...
+
+▼おかやま観光コンベンション協会【公式】Facebook
+https://www.facebook.com/okayama.kanko
+
+▼岡山市ももたろう観光センター Twitter
+https://twitter.com/momokan36/' where id = 'hQAMHcOUcMgVzuXiAvDf0';
+update content_bodies set title = '[Kanagawa Cherry Blossom Avenue & Hyakken River Serenity Square] 2021 Cherry Blossoms ~Sky Travel Time~ A Skywalk to Experience Okayama City', description = 'This is a drone video capturing the cherry blossom spots in Okayama City.
+For those who refrained from hanami due to the impact of the COVID-19 pandemic or couldn''t go out for cherry blossom viewing, please enjoy the beautiful cherry blossoms blooming in Okayama City and indulge in the hanami atmosphere!
+
+● Kanagawa Cherry Blossom Avenue
+A 200-meter cherry blossom avenue located on the Ugan River embankment in Mitsu Kanagawa, Okayama City.
+
+● Hyakken River Serenity Square
+About 100 Somei Yoshino cherry trees are planted in the riverbed southwest of the Okayama City Fire Department, and during full bloom, the entire riverbed area is dyed pink. You can enjoy hanami in a rich natural setting with an open and relaxed feeling. On sunny days, it''s perfect for spreading out a picnic with family and friends!
+
+#Okayama #OkayamaPrefecture #OkayamaCity #OkayamaTravel #OkayamaSightseeing #Japan #Tourism #Drone #AerialPhotography #CherryBlossoms #Sakura #okayama #japan #japantour #sightseeing #cherryblossoms
+
+▼ Okayama City Official Tourism Information Site [Okayama Tourism Net]
+https://okayama-kanko.net/sightseeing/
+
+▼ Okayama Tourism Convention Association [Official] Instagram
+https://www.instagram.com/okayama_cit...
+
+▼ Okayama Tourism Convention Association [Official] Facebook
+https://www.facebook.com/okayama.kanko
+
+▼ Okayama City Momotaro Tourism Center Twitter
+https://twitter.com/momokan36/' where id = '6nhLUN1Ok-l5Zb1v-g2gQ';
+update content_bodies set title = '【宗堂桜】 2021桜 ～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市の桜スポットを空から眺めるドローン映像です。
+新型コロナウイルスの影響で花見を自粛された方、花見に行けなかった方々も、岡山市内で咲き誇る桜を見ていただき、お花見気分を満喫してください！
+
+岡山市東区瀬戸町にある「宗堂の桜」。八重桜の一種で、花弁の数が約60枚もあり、花弁の内側の20枚ほどは反転してカール状になっており、非常に豪華な見栄えのする名花です。桜を愛した同地の住職の死を嘆いて、それ以後花弁を開ききらなくなったという言い伝えが残っています。
+
+
+＃岡山＃岡山県＃岡山市＃岡山旅行＃岡山観光＃日本＃観光＃ドローン＃空撮＃桜＃さくら#okayama ​#japan #japantour #sightseeing #cherryblossoms
+
+▼岡山市公式観光情報サイト【おかやま観光ネット】
+https://okayama-kanko.net/sightseeing/
+
+▼おかやま観光コンベンション協会【公式】Instagram
+https://www.instagram.com/okayama_cit...
+
+▼おかやま観光コンベンション協会【公式】Facebook
+https://www.facebook.com/okayama.kanko
+
+▼岡山市ももたろう観光センター Twitter
+https://twitter.com/momokan36/' where id = 'hetR_lmHbTia44syWprbJ';
+update content_bodies set title = '[Soudou Sakura] 2021 Cherry Blossoms ~Sky Travel Time~ Skywalk to Experience Okayama City', description = 'This is a drone video capturing the cherry blossom spots in Okayama City from the sky.
+For those who refrained from hanami due to the impact of the COVID-19 pandemic, and for those who couldn''t go out for cherry blossom viewing, please enjoy the beautiful cherry blossoms blooming in Okayama City and indulge in the hanami spirit!
+
+''Soudou no Sakura'' located in Seto Town, Higashi Ward, Okayama City. It is a type of double-flowered cherry blossom with about 60 petals, and around 20 of the inner petals are inverted and curled, making it a remarkably luxurious and beautiful flower. There is a legend that after the death of the local priest who loved the cherry blossoms, the petals stopped fully blooming.
+
+#Okayama #OkayamaPrefecture #OkayamaCity #OkayamaTravel #OkayamaSightseeing #Japan #Tourism #Drone #AerialPhotography #CherryBlossoms #Sakura #okayama #japan #japantour #sightseeing #cherryblossoms
+
+▼ Okayama City Official Tourism Information Site [Okayama Tourism Net]
+https://okayama-kanko.net/sightseeing/
+
+▼ Okayama Convention & Visitors Bureau [Official] Instagram
+https://www.instagram.com/okayama_cit...
+
+▼ Okayama Convention & Visitors Bureau [Official] Facebook
+https://www.facebook.com/okayama.kanko
+
+▼ Okayama City Momotaro Tourism Center Twitter
+https://twitter.com/momokan36/' where id = 'dmmeuPSTDky79RZBpF9vW';
+update content_bodies set title = '【忍者が本気で歌ってみた】さらば岡山城　Amazing Ninja Singing - Goodbye Okayama Castle', description = 'さらば岡山城サイト　https://kin-ujo.jp/
+
+岡山城、ついに閉館。そしてリニューアルへ。
+その事実を日本全国へと伝えるため、いま「岡山忍者」の暗躍がはじまる――。
+
+黒の忍者、金の忍者。ふたりの忍が黒と金のマイクを握りしめバラードを熱唱します。
+甘く切ない歌声は、岡山の街から世界を揺さぶるでしょうか。
+
+かつて岡山城には本当に忍者がいました。忍者なのに、しっかりと記録も残っているのです。
+律儀でうっかりな忍者の末裔は、今もこの街のどこかにいるのかもしれません。
+
+閉館は2021年5月31日。リニューアルオープンは2022年11月の予定です。
+岡山市出身の歴史学者・磯田道史氏の展示監修により、岡山城が大きく生まれ変わります。ご期待ください。
+
+------
+
+■「さらば岡山城」
+うた：岡山忍者
+作詞：黒戸金也
+作曲・編曲：ツキダタダシ
+
+
+あのとき秀吉が言うたんじゃ
+この丘に城をつくれ言うて
+
+ウキウキと宇喜多は張り切って
+黒と金の城を建てたんじゃ
+
+400年以上見守ってきた
+岡山の街に突然の知らせが
+閉館！
+
+さらば岡山城
+またいつか会いましょう
+どんな時代になったって
+わしらの城はここにある
+
+さらば岡山城
+みんなでさぁ集まりましょう
+だって新しゅうなるんよ
+2022年 リニューアル
+オープンするんじゃ
+
+ところで拙者は忍者なんじゃ
+岡山城にもおったんじゃ
+
+じゃじゃじゃじゃ忍者　岡山忍者
+岡山城の岡山忍者
+
+
+#ninja #ninjutsu #japanesecastle
+#japan #japanesesong #japaneseculture
+#Japanesecommercial #okayama
+
+ーーーーーーーーーーーーーーーーーーーーー' where id = 'U4HxD9PPmNbFu7YtIGGN3';
+update content_bodies set title = '[Ninja Singing Seriously] Goodbye Okayama Castle - Amazing Ninja Singing', description = 'Goodbye Okayama Castle site https://kin-ujo.jp/
+
+Okayama Castle has finally closed its doors. And it is set for renewal.
+To convey this fact to the entire nation of Japan, the ''Okayama Ninja'' is now beginning its covert operations――.
+
+The black ninja and the gold ninja. The two ninjas grip black and gold microphones and passionately sing a ballad.
+Will their sweet and bittersweet voices shake the world from Okayama city?
+
+Once, there were indeed ninjas at Okayama Castle. Despite being ninjas, they left behind solid records.
+The diligent yet careless descendants of the ninjas may still be somewhere in this city.
+
+The closing date is May 31, 2021. The renewal opening is scheduled for November 2022.
+With the exhibition supervision of historian Michifumi Isoda from Okayama City, Okayama Castle will undergo a significant transformation. Please look forward to it.
+
+------
+
+■ ''Goodbye Okayama Castle''
+Song: Okayama Ninja
+Lyrics: Kuroto Kanya
+Composition & Arrangement: Tsukida Tadashi
+
+At that time, Hideyoshi said,
+''Build a castle on this hill.''
+
+Excitedly, Ukita was eager,
+And built a black and gold castle.
+
+For over 400 years, it has watched over,
+The city of Okayama, suddenly receiving the news:
+Closing down!
+
+Goodbye Okayama Castle,
+Let’s meet again someday.
+No matter what era it becomes,
+Our castle will always be here.
+
+Goodbye Okayama Castle,
+Everyone, let’s gather together.
+Because it will become new,
+In 2022, it will be renewed
+And open again.
+
+By the way, I am a ninja.
+I was also at Okayama Castle.
+
+Ja ja ja ja ninja, Okayama Ninja,
+Okayama Ninja of Okayama Castle.
+
+#ninja #ninjutsu #japanesecastle
+#japan #japanesesong #japaneseculture
+#Japanesecommercial #okayama
+
+ーーーーーーーーーーーーーーーーーーーーー' where id = '7MX5c28NT_4KlpAUPzJkm';
+update content_bodies set title = '【安仁神社】～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市のあの有名な名所や実は知らなかったあのスポット。
+空から旅してみませんか？
+
+西大寺一宮の宮城山（みやしろやま、別名、鶴山）にある神社で、もと国弊中社。主祭神は五瀬命（いつせのみこと）で、他に稲氷命（いなひのみこと）、御毛沼命（みけぬのみこと）を祀っています。社名の「安仁」は神武天皇の「兄」を仮名書きしたことに由来するといわれています。毎年7月11日には、無病息災を祈る「茅の輪くぐり」の行事が行われます。
+
+＃岡山＃岡山県＃岡山市＃安仁神社＃岡山旅行＃岡山観光＃神社＃神社巡り＃日本＃観光＃ドローン＃空撮＃okayama＃japan＃japanshrine＃japantour＃sightseeing
+
+▼岡山市公式観光情報サイト【おかやま観光ネット】
+https://okayama-kanko.net/sightseeing/
+
+▼おかやま観光コンベンション協会【公式】Instagram
+https://www.instagram.com/okayama_city_kanko/
+
+▼おかやま観光コンベンション協会【公式】Facebook
+https://www.facebook.com/okayama.kanko
+
+▼岡山市ももたろう観光センター Twitter
+https://twitter.com/momokan36/' where id = 'KAKNIq_ptk2stgZ-MQ83g';
+update content_bodies set title = '[Anin Shrine] ~Sky Travel Time~ A Skywalk to Experience Okayama City', description = 'The famous landmarks of Okayama City and those spots you may not have known about. 
+Why not travel from the sky?
+
+Located on Miyashiroyama (also known as Tsuruyama), the Ichinomiya of Nishi-Okayama, this shrine was once a national shrine. The main deity is Itsuse no Mikoto, along with Inahime no Mikoto and Mikenu no Mikoto. The name ''Anin'' is said to be derived from the phonetic writing of ''brother'' of Emperor Jimmu. Every year on July 11th, a ceremony called ''Chinowa Kuguri'' is held to pray for good health and safety.
+
+#Okayama #OkayamaPrefecture #OkayamaCity #AninShrine #OkayamaTravel #OkayamaSightseeing #Shrine #ShrineTour #Japan #Tourism #Drone #AerialPhotography #okayama #japan #japanshrine #japantour #sightseeing
+
+▼ Okayama City Official Tourism Information Site [Okayama Tourism Net] 
+https://okayama-kanko.net/sightseeing/
+
+▼ Okayama Tourism Convention Association [Official] Instagram 
+https://www.instagram.com/okayama_city_kanko/
+
+▼ Okayama Tourism Convention Association [Official] Facebook 
+https://www.facebook.com/okayama.kanko
+
+▼ Okayama City Momotaro Tourism Center Twitter 
+https://twitter.com/momokan36/' where id = '0Njw5N7HlJTuz7BDApkzJ';
+update content_bodies set title = '【高嶋神社】～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市のあの有名な名所や実は知らなかったあのスポット。
+空から旅してみませんか？
+
+児島湾に浮かぶ「高島」に鎮座する社。神武天皇が御東遷の砌（みぎり）、当地に行宮（あんぐう）を創設されたのにはじまると伝えられています。神社の秋祭りでは、豊作祈願をこめて、宮浦郷土芸能保存会により伝えられている獅子舞が奉納されます。
+
+＃岡山＃岡山県＃岡山市＃高嶋神社＃岡山旅行＃岡山観光＃神社＃神社巡り＃日本＃観光＃ドローン＃空撮＃okayama＃japan＃japanshrine＃japantour＃sightseeing
+
+▼岡山市公式観光情報サイト【おかやま観光ネット】
+https://okayama-kanko.net/sightseeing/
+
+▼おかやま観光コンベンション協会【公式】Instagram
+https://www.instagram.com/okayama_city_kanko/
+
+▼おかやま観光コンベンション協会【公式】Facebook
+https://www.facebook.com/okayama.kanko
+
+▼岡山市ももたろう観光センター Twitter
+https://twitter.com/momokan36/' where id = 'UJkBtHuHxOoTPlfMpMC6_';
+update content_bodies set title = '[Takahama Shrine] ~Sky Travel Time~ A Skywalk to Experience Okayama City', description = 'Famous landmarks in Okayama City and spots you may not have known about. 
+Why not travel from the sky?
+
+A shrine located on ''Takahama'' floating in Kojima Bay. It is said to have begun when Emperor Jimmu established a temporary palace here during his eastern expedition. During the autumn festival at the shrine, a lion dance, passed down by the Miyauura Local Performing Arts Preservation Society, is dedicated with prayers for a bountiful harvest.
+
+#Okayama #OkayamaPrefecture #OkayamaCity #TakahamaShrine #OkayamaTravel #OkayamaSightseeing #Shrine #ShrineTour #Japan #Tourism #Drone #AerialPhotography #okayama #japan #japanshrine #japantour #sightseeing
+
+▼ Okayama City Official Tourism Information Site [Okayama Tourism Net] 
+https://okayama-kanko.net/sightseeing/
+
+▼ Okayama Convention & Visitors Bureau [Official] Instagram 
+https://www.instagram.com/okayama_city_kanko/
+
+▼ Okayama Convention & Visitors Bureau [Official] Facebook 
+https://www.facebook.com/okayama.kanko
+
+▼ Okayama City Momotaro Tourism Center Twitter 
+https://twitter.com/momokan36/' where id = 'wnBmwLtfcgl9Aws80GtDw';
+update content_bodies set title = '【近水園】～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市のあの有名な名所や実は知らなかったあのスポット。
+空から旅してみませんか？
+
+近水園は足守藩主木下家の庭園で、池庭は単純な地割がなされ、モミジやサクラ、エノキが池を囲み、池中に鶴島・亀島の二島を巧に配しています。そして、山のふもとから池面にのり出すように、吟風閣が建ち、水面に影を映しています。池畔にあるこの吟風閣の造りなど、地方まれな情緒をたたえており、吟風閣からの眺めが一番美しいとされます。
+
+＃岡山市＃岡山県＃岡山市＃近水園＃岡山旅行#岡山観光＃日本＃観光＃ドローン＃空撮＃okayama＃japan＃japantour＃sightseeing
+
+▼岡山市公式観光情報サイト【おかやま観光ネット】
+https://okayama-kanko.net/sightseeing/
+
+▼おかやま観光コンベンション協会【公式】Instagram
+https://www.instagram.com/okayama_city_kanko/
+
+▼おかやま観光コンベンション協会【公式】Facebook
+https://www.facebook.com/okayama.kanko
+
+▼岡山市ももたろう観光センター Twitter
+https://twitter.com/momokan36/' where id = 'YprLKh70doRGKdO59JtUp';
+update content_bodies set title = '[Kinsui-en] ~Sky Travel Time~ A Skywalk to Experience Okayama City', description = 'The famous landmarks of Okayama City and those spots you may not have known about. 
+Why not travel from the sky?
+
+Kinsui-en is a garden of the Ashimori domain''s Kinoshita family, featuring a simple layout with a pond surrounded by maple, cherry, and hackberry trees, and skillfully arranged with two islands, Tsuru Island and Kame Island, in the pond. The Ginpuu Pavilion is built to extend from the foot of the mountain over the pond''s surface, casting its shadow on the water. The structure of this Ginpuu Pavilion, located by the pond, embodies a rare local charm, and the view from the Ginpuu Pavilion is considered the most beautiful.
+
+#OkayamaCity #OkayamaPrefecture #OkayamaCity #KinsuiEn #OkayamaTravel #OkayamaSightseeing #Japan #Tourism #Drone #AerialPhotography #okayama #japan #japantour #sightseeing
+
+▼ Okayama City Official Tourism Information Site [Okayama Tourism Net] 
+https://okayama-kanko.net/sightseeing/
+
+▼ Okayama Tourism Convention Association [Official] Instagram 
+https://www.instagram.com/okayama_city_kanko/
+
+▼ Okayama Tourism Convention Association [Official] Facebook 
+https://www.facebook.com/okayama.kanko
+
+▼ Okayama City Momotaro Tourism Center Twitter 
+https://twitter.com/momokan36/' where id = '34WDv_DdhZTeENruThvFT';
+update content_bodies set title = '【旧足守藩侍屋敷】～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市のあの有名な名所や実は知らなかったあのスポット。
+空から旅してみませんか？
+
+白壁の長屋門と土塀に囲まれた家老杉原家旧宅。明治維新後急速に姿を消した武家屋敷ですが、それだけに保存状態の良いこの邸は、武家の生活様式を知る上で貴重な存在です。母屋は伝統的な武家書院造の構造を持ち、今日の和風住宅の原型とも言われています。
+
+＃岡山＃岡山県＃岡山市＃旧足守藩侍屋敷＃岡山旅行＃岡山観光＃日本＃ドローン＃空撮＃okayama＃japan＃japantour＃sightseeing
+
+▼岡山市公式観光情報サイト【おかやま観光ネット】
+https://okayama-kanko.net/sightseeing/
+
+▼おかやま観光コンベンション協会【公式】Instagram
+https://www.instagram.com/okayama_city_kanko/
+
+▼おかやま観光コンベンション協会【公式】Facebook
+https://www.facebook.com/okayama.kanko
+
+▼岡山市ももたろう観光センター Twitter
+https://twitter.com/momokan36/' where id = '7PlK--C_vuMxUluByOvnr';
+update content_bodies set title = 'Old Asahi Domain Samurai Residence - Sky Travel Time - A Skywalk to Experience Okayama City', description = 'The famous landmarks of Okayama City and those spots you may not have known about. 
+Why not travel from the sky?
+
+The former residence of the chief retainer Sugihara, surrounded by a white-walled Nagaya gate and earthen walls. This samurai residence rapidly disappeared after the Meiji Restoration, but this well-preserved estate is a valuable resource for understanding the lifestyle of the samurai. The main house features a traditional samurai study-style structure, which is said to be the prototype of today''s Japanese-style homes.
+
+#Okayama #OkayamaPrefecture #OkayamaCity #OldAsahiDomainSamuraiResidence #OkayamaTravel #OkayamaSightseeing #Japan #Drone #AerialPhotography #okayama #japan #japantour #sightseeing
+
+▼ Okayama City Official Tourism Information Site [Okayama Tourism Net] 
+https://okayama-kanko.net/sightseeing/
+
+▼ Okayama Tourism Convention Association [Official] Instagram 
+https://www.instagram.com/okayama_city_kanko/
+
+▼ Okayama Tourism Convention Association [Official] Facebook 
+https://www.facebook.com/okayama.kanko
+
+▼ Okayama City Momotaro Tourism Center Twitter 
+https://twitter.com/momokan36/' where id = 'm4lU23HgKK-4SdXF4-q04';
+update content_bodies set title = '【備中高松城址】～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市のあの有名な名所や実は知らなかったあのスポット。
+空から旅してみませんか？
+
+かつて毛利氏の堅固な要塞だった備中高松城は、羽柴秀吉（豊臣秀吉）の参謀・黒田官兵衛の奇策「水攻め」にあい、城主・清水宗治の自刃とともに落城しました。現在は歴史公園として整備され、公園内の本丸跡には清水宗治の首塚があるほか、資料館には水攻めの資料などが展示されています。夏には花菖蒲や宗治蓮（むねはるはす）が咲き、来園者を楽しませています。
+
+＃岡山＃岡山県＃岡山市＃備中高松城址＃岡山旅行＃岡山観光＃日本＃観光＃ドローン＃空撮＃麒麟が来る＃備中高松城＃水攻め＃明智光秀＃okayama＃japan＃japantour＃sightseeing
+
+▼岡山市公式観光情報サイト【おかやま観光ネット】
+https://okayama-kanko.net/sightseeing/
+
+▼おかやま観光コンベンション協会【公式】Instagram
+https://www.instagram.com/okayama_city_kanko/
+
+▼おかやま観光コンベンション協会【公式】Facebook
+https://www.facebook.com/okayama.kanko
+
+▼岡山市ももたろう観光センター Twitter
+https://twitter.com/momokan36/' where id = 'Q36P03J5LJ7vlXFJu57cA';
+update content_bodies set title = 'Bichu Takamatsu Castle Ruins - Sky Travel Time - A Skywalk to Experience Okayama City', description = 'The famous landmarks of Okayama City and those spots you may not have known about. 
+Why not travel from the sky?
+
+Once a stronghold of the Mouri clan, Bichu Takamatsu Castle fell to the clever strategy of ''water attack'' by Kuroda Kanbei, a strategist for Toyotomi Hideyoshi, leading to the castle''s downfall along with the seppuku of its lord, Shimizu Munenari. Today, it has been developed into a historical park, where the main keep ruins house the grave of Shimizu Munenari, and the museum displays materials related to the water attack. In summer, irises and Muneharu lotus flowers bloom, delighting visitors.
+
+#Okayama #OkayamaPrefecture #OkayamaCity #BichuTakamatsuCastleRuins #OkayamaTravel #OkayamaSightseeing #Japan #Tourism #Drone #AerialPhotography #KirinGaKuru #BichuTakamatsuCastle #WaterAttack #AkechiMitsuhide #okayama #japan #japantour #sightseeing
+
+▼ Okayama City Official Tourism Information Site [Okayama Tourism Net] 
+https://okayama-kanko.net/sightseeing/
+
+▼ Okayama Tourism Convention Association [Official] Instagram 
+https://www.instagram.com/okayama_city_kanko/
+
+▼ Okayama Tourism Convention Association [Official] Facebook 
+https://www.facebook.com/okayama.kanko
+
+▼ Okayama City Momotaro Tourism Center Twitter 
+https://twitter.com/momokan36/' where id = '1sJF9wQQg4CclL8cSs91n';
 update content_bodies set title = '【造山古墳・千足古墳】～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市のあの有名な名所や実は知らなかったあのスポット。 
 空から旅してみませんか？
  
@@ -9482,519 +10006,3 @@ EAT & LEADは、
 さまざまな食と向き合える機会をつくり、
 ひとりひとりの本来的な幸せと成長へとつながるよう
 リードし、伴走していきます。' where id = 'eIABWqm_GCT3Yx9jmOA0I';
-update content_bodies set title = 'EAT & LEAD', description = 'WEB SITE
-https://etooto.jp/
-
-食という扉から
-その先に広がる世界をイメージする
-自然の中で日々向き合い続ける人がいる
-日々、食材と対話をする人がいる
-目の前のその料理から、何を感じるでしょう
-ひとりひとりの生き方を考えさせられる今だからこそ、
-私たちは強く「食べること」の価値を信じたいと思うのです
-ひとりひとりが向き合い、喜び、笑い合い、つながり合う
-食べることが、私たちをかたちづくる
-
-EAT & LEADは、
-さまざまな食と向き合える機会をつくり、
-ひとりひとりの本来的な幸せと成長へとつながるよう
-リードし、伴走していきます。' where id = 'sjCWk1JQU4nGzPaviTOVm';
-update content_bodies set title = 'いま、わたしにできること。', description = 'WEB SITE
-https://etooto.jp/
-
-2021年5月
-新型コロナウイルスの感染拡大による未曾有の事態。
-
-新型コロナ宿泊療養施設のキッチンで
-軽症患者への食事提供を自ら志願した女性。
-自分の家族、巻き込む部下への申し訳なさがあったと言う。
-
-それでも、彼女には届けたい想いがある。
-大切な人から引き離された、隔離生活。
-「せめて食事の時間だけでも楽しみにしてもらいたい」
-それは食を通した“心のケア”。
-
-彼女の熱い想いに触れた、このまちのたくさんの仲間が
-それぞれの想いを込めて、いま出来ることを紡ぐ。
-
-味覚や嗅覚がない方にも彩りや食感で楽しんでもらえるように
-大切に育てられた新鮮な食材、心を込めて調理する。
-明日が楽しみになるように。
-元気になって、ここを後にしてもらえるように。
-彼女の想い、みんなの想いが、届きますように____' where id = 'hsXEL0WD4H1KZ3oaiDrNq';
-update content_bodies set title = 'What I Can Do Now.', description = 'WEB SITE
-https://etooto.jp/
-
-May 2021
-An unprecedented situation due to the spread of the novel coronavirus.
-
-A woman who volunteered to provide meals for mild patients in the kitchen of a COVID-19 accommodation facility.
-She says she felt sorry for her family and her subordinates who were involved.
-
-Even so, she has feelings she wants to convey.
-A life of isolation, separated from loved ones.
-"I want them to at least look forward to mealtime."
-It is "emotional care" through food.
-
-Many friends in this town, touched by her passionate feelings,
-weave together what they can do now, each with their own thoughts.
-
-To ensure that those who lack taste and smell can enjoy the colors and textures,
-fresh ingredients, carefully nurtured, are cooked with heart.
-So that they can look forward to tomorrow.
-So that they can regain their health and leave this place.
-May her feelings and everyone''s feelings reach them.' where id = 'In1gUVYs9HHtHFDc7dm3s';
-update content_bodies set title = 'BOTANICA BAKE B-ROLL', description = 'ウェブサイト
-https://etooto.jp/' where id = 'rJlpyRSbYhnQBSqPz8GMZ';
-update content_bodies set title = 'BOTANICA BAKE  B-ROLL', description = 'WEB SITE
-https://etooto.jp/' where id = 'Fjma8qt2GrAg8JXCFOu7W';
-update content_bodies set title = 'THE ROOTS #06 山の神から恵まれたジビエ', description = 'WEB SITE
-https://etooto.jp/
-
-瀬戸内海もほど近い、福山市熊野町。
-
-
-
-田畑に囲まれた広い空を望めるこの場所で
-
-
-
-狩猟、農業、さらには養蜂まで
-
-
-
-地でサスティナブルな暮らしをしている
-
-
-
-岡田臣司（おかだしんじ）さん。
-
-「食べることは環境を考えることと同義」
-
-
-
-僕らが毎日口に運ぶ、たくさんの食材は
-
-
-
-それらを育んだ自然環境と一緒に食べている。
-
-
-
-「海を汚さない」「農業は土作りから」
-
-
-
-すべての答え合わせのようなお話だった。
-
-そんな岡田さんが辿り着いた狩猟採集。
-
-
-
-毎年11月15日からの可猟期間には、
-
-
-
-猟銃を持って里山へ足を運ぶ。
-すべては身体性を取り戻すため。
-
-天候、気温、猟場によって日々変わる
-
-
-
-鳥獣の行動パターンを読んで。
-
-
-
-五感を頼りにその痕跡を追いかける。
-
-
-
-里山を熟知し、鳥獣を熟知して成せる
-
-
-
-流し猟という自然との対話。
-
-グリコーゲンを多く含む鹿肉は
-
-
-
-効果的にエネルギーへと変わる。
-
-すなわち、猟師飯にはうってつけ。
-
-しかし、“ジビエ”という響きは
-
-
-
-猟師にとっては“命の循環”。
-
-生を終えさせるということ。
-
-
-
-今日もまた、静かに
-祈りで己を律する。
-
-
-
-
-
-山の神の恵みに感謝して
-
-
-
-まずはひとくち、めしあがれ。' where id = 'RCThMGgePxegQsdXskOso';
-update content_bodies set title = 'THE ROOTS #06 Blessed Game from the Mountain God', description = 'WEB SITE
-https://etooto.jp/
-
-Near the Seto Inland Sea, in Kumano Town, Fukuyama.
-
-In this place where you can see the wide sky surrounded by fields,
-
-hunting, agriculture, and even beekeeping
-
-are part of a sustainable lifestyle.
-
-Shinji Okada is living this way.
-
-"Eating is synonymous with considering the environment."
-
-The many ingredients we consume daily
-
-are eaten together with the natural environment that nurtured them.
-
-"Do not pollute the sea" and "Agriculture starts with soil preparation"
-
-were all part of a conversation that felt like piecing together answers.
-
-This is the hunting and gathering path that Okada has arrived at.
-
-During the hunting season starting from November 15 each year,
-
-he heads to the satoyama with a hunting rifle.
-
-Everything is to regain a sense of physicality.
-
-Reading the daily changing behavior patterns of birds and beasts
-
-based on weather, temperature, and hunting grounds.
-
-Chasing their traces relying on the five senses.
-
-This is a dialogue with nature through the method of running game hunting,
-
-which can only be achieved by being well-acquainted with the satoyama and the wildlife.
-
-Deer meat, rich in glycogen,
-
-is effectively converted into energy.
-
-In other words, it is perfect for hunter''s meals.
-
-However, the sound of "game" for hunters
-
-is about the "cycle of life."
-
-It means bringing life to an end.
-
-Today again, quietly,
-
-he disciplines himself with prayer.
-
-Grateful for the blessings of the mountain god,
-
-first, take a bite and enjoy.' where id = '_hV4dK4mSbLaheGcKNsDq';
-update content_bodies set title = '1825', description = 'ウェブサイト
-https://etooto.jp/' where id = 'TLYDr5pYHw8pjATtNXaJD';
-update content_bodies set title = '1825', description = 'WEB SITE
-https://etooto.jp/' where id = 'EoE-NOyuKchLdTb75GdTR';
-update content_bodies set title = '1460', description = 'ウェブサイト
-https://etooto.jp/' where id = '9LdjTaE_gn5KPyloyQw9O';
-update content_bodies set title = '1460', description = 'WEB SITE
-https://etooto.jp/' where id = '1sOzr659FGOkNcyZpnjBV';
-update content_bodies set title = 'KAKU', description = '【2018年 HADC TV/CM/モーショングラフィック部門賞 受賞作】
-”書家 角”　Calligrapher Kaku→日本の漢字文化を世界に 【JCAT in New York 所属】  第50回記念スペイン美術賞展🇪🇸ヒホン市旧王立博物館〜6/10開催中     Japan Expo Paris 2018出展決定' where id = 'EDD9Fj1IdDgEVan4oMqSO';
-update content_bodies set title = 'KAKU', description = '【2018 HADC TV/CM/Motion Graphics Division Award Winning Work】
-"Calligrapher Kaku" → Bringing Japanese Kanji culture to the world 【Affiliated with JCAT in New York】
-The 50th Anniversary Spain Art Award Exhibition 🇪🇸 at the Old Royal Museum of Gijón ~ Ongoing until 6/10
-Participation confirmed for Japan Expo Paris 2018' where id = '-fjqTnPQ5zUCg8wV6I_gy';
-update content_bodies set title = '津軽あかつきの会「故郷の味を100年先まで」', description = '青森県弘前市で、津軽地方の郷土料理と食文化を伝える「伝承料理」活動をしている女性だけの料理研究ユニット、「津軽あかつきの会」のオリジナルショートムービーです。（※2021年に撮影）
- 
- 
-「母の味を食べたい」
- 
- 
-そんな想いから、代表の会長の工藤良子さんが始めたこの活動が伝わる映像となっています。
-いつか現地で、この味を、味わっていただける日を楽しみにしています！
- 
- 
-#津軽あかつきの会 #津軽伝承料理
-#母の味 #故郷の味 #青森 #弘前 #aomori #japanesefood #津軽
-
-【まるごと青森ブログ】http://www.marugotoaomori.jp/ 
-【まるごと青森Twitter】https://twitter.com/marugotoaomori/ 
-【まるごと青森Instagram】https://www.instagram.com/marugotoaomori/ 
-【腹ぺこあおもりInstagram】https://www.instagram.com/harapekoaomori/ 
-
-© Aomori Prefectural Government' where id = 'kwQLgHe-MKq4oMSMk3EYn';
-update content_bodies set title = 'Tsugaru Akatsuki Association: ''The Taste of Home for 100 Years Ahead''', description = 'This is an original short movie of the ''Tsugaru Akatsuki Association'', a cooking research unit composed solely of women, which conveys the local cuisine and food culture of the Tsugaru region through ''traditional cooking'' activities in Hirosaki City, Aomori Prefecture. (Filmed in 2021)
-
-''I want to taste my mother''s cooking''
-
-This video conveys the activity that was started by the representative, Chairperson Yoshiko Kudo, from such feelings. We look forward to the day when you can savor this taste on-site!
-
-#TsugaruAkatsukiAssociation #TsugaruTraditionalCooking
-#TasteofMother #TasteofHome #Aomori #Hirosaki #aomori #japanesefood #Tsugaru
-
-【Marugoto Aomori Blog】http://www.marugotoaomori.jp/ 
-【Marugoto Aomori Twitter】https://twitter.com/marugotoaomori/ 
-【Marugoto Aomori Instagram】https://www.instagram.com/marugotoaomori/ 
-【Harapeko Aomori Instagram】https://www.instagram.com/harapekoaomori/ 
-
-© Aomori Prefectural Government' where id = 'G5Ao3rlkDfkSrtk65iIm0';
-update content_bodies set title = '冬の八甲田山 バックカントリースキー編', description = '冬の八甲田山の雄大な自然の中を滑り降りる
-バックカントリースキーの映像を公開します。
-なお、八甲田山への入山にあたっては、
-八甲田山岳スキー安全対策協議会により制定されております、
-Mt.八甲田ローカルルールをご確認くださるようお願いします。' where id = 'nkbD9kZecm3QTrO9-Huo6';
-update content_bodies set title = 'Backcountry Skiing in Winter at Mount Hakkoda', description = 'We will release footage of backcountry skiing down the majestic nature of Mount Hakkoda in winter.
-
-Please be sure to check the Mt. Hakkoda Local Rules established by the Hakkoda Mountain Ski Safety Measures Council before entering Mount Hakkoda.' where id = 'fli7kvzHzwWuMV1_NGaIP';
-update content_bodies set title = '冬の八甲田山 銀世界編', description = 'ドローンにより撮影した冬の八甲田山の映像を公開します。
-なお、八甲田山への入山にあたっては、
-八甲田山岳スキー安全対策協議会により制定されております、
-Mt.八甲田ローカルルールをご確認くださるようお願いします。' where id = 'vi13Br4PjKZFkdkd-PCYZ';
-update content_bodies set title = 'Winter Hakkoda Mountain: Silver World Edition', description = 'We will be releasing footage of winter Hakkoda Mountain captured by drone.
-
-Please be sure to check the Mt. Hakkoda Local Rules established by the Hakkoda Mountain Ski Safety Measures Council before entering Hakkoda Mountain.' where id = 'xLLr1l10GywzV4yxhe5w-';
-update content_bodies set title = 'ドローン空撮　青森の紅葉（城ヶ倉大橋、中野もみじ山、蔦沼）', description = '新型コロナウイルス感染症の収束後には、
-再び、国内外から多くの方々に
-青森県を訪れていただきたいという願いを込めて、
-ドローンで撮影した青森県（城ヶ倉大橋、中野もみじ山、蔦沼）の
-紅葉の映像を公開します。
-
-なお、紅葉シーズンの蔦沼は非常に混雑するため、
-例年、路上駐車対策や混雑対策の取組を行っております。
-周辺には蔦沼以外にも魅力的な場所が数多くあり、
-四季を通じて美しい景観を楽しむことができますので、
-混雑時期以外の観光もお勧めします。
-
-【関連動画】
-2020 世界でいちばん美しい桜　～弘前公園　Part1～
-https://youtu.be/59NkCCehUNs
-2020 世界でいちばん美しい桜　～弘前公園　Part2～
-https://youtu.be/vZCqJwYnGzE
-ドローンで見る五所川原立佞武多2020 PART１
-https://youtu.be/H2k4oDytj8Y
-ドローンで見る五所川原立佞武多2020 PART２
-https://youtu.be/GSTnj1EDJTU
-
-© Aomori Prefectural Government' where id = 'M-KgXqPgJmgkSYDSZtBt4';
-update content_bodies set title = 'Drone Aerial Photography: Autumn Leaves in Aomori (Jōgakura Ohashi, Nakano Momijiyama, Tsutanuma)', description = 'After the resolution of the COVID-19 pandemic, 
-we hope to welcome many visitors from both domestic and international locations 
-to Aomori Prefecture once again. 
-With this wish in mind, we are releasing footage of the autumn leaves in Aomori Prefecture 
-(Jōgakura Ohashi, Nakano Momijiyama, Tsutanuma) captured by drone.
-
-Please note that Tsutanuma during the autumn foliage season is extremely crowded, 
-and every year we implement measures to address roadside parking and congestion.
-There are many other attractive locations in the vicinity of Tsutanuma, 
-and you can enjoy beautiful scenery throughout the four seasons, 
-so we also recommend visiting during non-peak times.
-
-【Related Videos】
-2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 1 -
-https://youtu.be/59NkCCehUNs
-2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 2 -
-https://youtu.be/vZCqJwYnGzE
-Viewing Goshogawara Tachineputa 2020 by Drone PART 1
-https://youtu.be/H2k4oDytj8Y
-Viewing Goshogawara Tachineputa 2020 by Drone PART 2
-https://youtu.be/GSTnj1EDJTU
-
-© Aomori Prefectural Government' where id = 'TQTVVYTezV7Fig2TNS8nq';
-update content_bodies set title = '2020 蔦沼の朝焼け ドローン映像', description = '青森県では、美しい蔦沼の朝焼けをご自宅でご覧いただけるよう
-地域の関係者の協力のもと撮影したドローン映像を公開します。
-
-なお、紅葉シーズンの蔦沼は非常に混雑するため、
-例年、路上駐車対策や混雑対策の取組を行っております。
-周辺には蔦沼以外にも魅力的な場所が数多くあり、
-四季を通じて美しい景観を楽しむことができますので、
-混雑時期以外の観光もお勧めします。
-
-【関連動画】
-2020 世界でいちばん美しい桜　～弘前公園　Part1～
-https://youtu.be/59NkCCehUNs
-2020 世界でいちばん美しい桜　～弘前公園　Part2～
-https://youtu.be/vZCqJwYnGzE
-ドローンで見る五所川原立佞武多2020 PART１
-https://youtu.be/H2k4oDytj8Y
-ドローンで見る五所川原立佞武多2020 PART２
-https://youtu.be/GSTnj1EDJTU
-
-© Aomori Prefectural Government' where id = 'wUUvi89XXJG6w-RyRjfaU';
-update content_bodies set title = '2020 Tsutanuma Sunrise Drone Footage', description = 'In Aomori Prefecture, we are releasing drone footage captured with the cooperation of local stakeholders so that you can enjoy the beautiful sunrise at Tsutanuma from the comfort of your home.
-
-Please note that Tsutanuma can get very crowded during the autumn foliage season, and every year we implement measures to address roadside parking and congestion.
-There are many other attractive places in the vicinity of Tsutanuma, and you can enjoy beautiful scenery throughout the four seasons, so we also recommend visiting during non-peak times.
-
-【Related Videos】
-2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 1 -
-https://youtu.be/59NkCCehUNs
-2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 2 -
-https://youtu.be/vZCqJwYnGzE
-Viewing Goshogawara Tachineputa 2020 with a Drone PART 1
-https://youtu.be/H2k4oDytj8Y
-Viewing Goshogawara Tachineputa 2020 with a Drone PART 2
-https://youtu.be/GSTnj1EDJTU
-
-© Aomori Prefectural Government' where id = 'wrmjShIGZGN3SlVrFv8Qj';
-update content_bodies set title = 'ドローンで見る五所川原立佞武多2020 PART２', description = '今年は、新型コロナウイルス感染症の拡大を防止するため、
-やむを得ず、五所川原立佞武多の運行は中止となりました。
-
-青森県では、五所川原市をはじめ、地域の皆様のご協力のもと、
-ドローンにより撮影する高さ２３mの立佞武多出陣の迫力映像を
-ライブ配信いたしました。
-
-立佞武多ドローンLIVE配信
-https://youtu.be/NQek7FfsV6M
-
-LIVEで配信した映像を再編集した映像を公開します。
-
-新型コロナウイルスの収束後には、
-再び、国内外から多くの方々に青森県を訪れていただきたいと願っています。
-
-
-【関連動画】
-2020 世界でいちばん美しい桜　～弘前公園　Part1～
-https://youtu.be/59NkCCehUNs
-2020 世界でいちばん美しい桜　～弘前公園　Part2～
-https://youtu.be/vZCqJwYnGzE
-
-© Aomori Prefectural Government' where id = 'yZEqbMq3gWRXLYhNHb0LH';
-update content_bodies set title = 'Viewing Goshogawara Tachineputa 2020 PART 2 from a Drone', description = 'This year, in order to prevent the spread of the novel coronavirus, 
-the operation of the Goshogawara Tachineputa has unfortunately been canceled.
-
-In Aomori Prefecture, with the cooperation of the local community, 
-a powerful video of the 23m tall Tachineputa''s departure, filmed by drone, 
-was live-streamed.
-
-Tachineputa Drone LIVE Stream
-https://youtu.be/NQek7FfsV6M
-
-We will release a re-edited version of the footage that was streamed live.
-
-After the resolution of the novel coronavirus, 
-we hope to welcome many visitors from both domestic and international locations to Aomori Prefecture once again.
-
-【Related Videos】
-2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 1 -
-https://youtu.be/59NkCCehUNs
-2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 2 -
-https://youtu.be/vZCqJwYnGzE
-
-© Aomori Prefectural Government' where id = 'yLhzcddxDZNsO0sIFOE6t';
-update content_bodies set title = 'ドローンで見る五所川原立佞武多2020　PART１', description = '今年は、新型コロナウイルス感染症の拡大を防止するため、
-やむを得ず、五所川原立佞武多の運行は中止となりました。
-
-青森県では、五所川原市をはじめ、地域の皆様のご協力のもと、
-ドローンにより撮影する高さ２３mの立佞武多出陣の迫力映像を
-ライブ配信いたしました。
-
-立佞武多ドローンLIVE配信
-https://youtu.be/NQek7FfsV6M
-
-LIVEで配信した映像を再編集した映像を公開します。
-
-新型コロナウイルスの収束後には、
-再び、国内外から多くの方々に青森県を訪れていただきたいと願っています。
-
-
-【関連動画】
-2020 世界でいちばん美しい桜　～弘前公園　Part1～
-https://youtu.be/59NkCCehUNs
-2020 世界でいちばん美しい桜　～弘前公園　Part2～
-https://youtu.be/vZCqJwYnGzE
-
-© Aomori Prefectural Government' where id = '1NjcYiUVhQ__wH9Vn8qrs';
-update content_bodies set title = 'Viewing Goshogawara Tachineputa 2020 by Drone PART 1', description = 'This year, in order to prevent the spread of the novel coronavirus, 
-the operation of the Goshogawara Tachineputa has unfortunately been canceled.
-
-In Aomori Prefecture, with the cooperation of the local community, 
-a powerful video of the 23m tall Tachineputa''s departure, filmed by drone, 
-was live-streamed.
-
-Tachineputa Drone LIVE Stream
-https://youtu.be/NQek7FfsV6M
-
-We will release a re-edited version of the footage that was streamed live.
-
-After the resolution of the novel coronavirus, 
-we hope to welcome many visitors from both domestic and international locations to Aomori Prefecture once again.
-
-【Related Videos】
-2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 1 -
-https://youtu.be/59NkCCehUNs
-2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 2 -
-https://youtu.be/vZCqJwYnGzE
-
-© Aomori Prefectural Government' where id = 'EgY7bPL6YEf1BrQsaCQKe';
-update content_bodies set title = '“まるで海外”な青森の絶景スポットを紹介！「ここも青森」CM', description = '青森には、ハワイやカッパドキア、北欧などを連想させる絶景スポットがあります。
-新型コロナウイルスの影響でなかなか海外旅行に行けない状況ですが、
-ちょっと海外気分を味わえる青森のスポットをぜひご覧ください！
-もちろん海外にはない、青森ならではの魅力も満載です。
-
-【まるごと青森ブログ】http://www.marugotoaomori.jp/ 
-【まるごと青森Twitter】https://twitter.com/marugotoaomori 
-【まるごと青森Instagram】https://www.instagram.com/marugotoaomori/
-【腹ぺこあおもりInstagram】https://www.instagram.com/harapekoaomori/
-© Aomori Prefectural Government' where id = 'ruC5Zza9FVpzCyR4lQKD6';
-update content_bodies set title = 'Introducing Aomori''s breathtaking spots that feel just like overseas! ''This is Aomori'' commercial', description = 'Aomori has breathtaking spots that evoke images of Hawaii, Cappadocia, and Scandinavia.
-Due to the impact of the COVID-19 pandemic, it''s been difficult to travel abroad,
-but please take a look at these Aomori spots where you can experience a bit of that overseas vibe!
-Of course, there are also plenty of unique charms that only Aomori can offer.
-
-【Marugoto Aomori Blog】http://www.marugotoaomori.jp/ 
-【Marugoto Aomori Twitter】https://twitter.com/marugotoaomori 
-【Marugoto Aomori Instagram】https://www.instagram.com/marugotoaomori/
-【Hara Peko Aomori Instagram】https://www.instagram.com/harapekoaomori/
-© Aomori Prefectural Government' where id = 'EYCSwJRqfyWkqg1yc3CxS';
-update content_bodies set title = '透明な海、左右からの波　～尻屋埼灯台～1', description = '「まるごと青森ブログ」
-日本でオンリーワンの絶景が解禁！尻屋埼灯台に登ってみた
-http://www.marugotoaomori.jp/blog/2018/06/18226.html
-
-画面左が津軽海峡、右が太平洋です。
-2018年6月1日、一般公開が開始された尻屋埼灯台から。' where id = '7OTFa99K2zvcXVu1Gl8rO';
-update content_bodies set title = 'Transparent Sea, Waves from Both Sides - Shiriya Cape Lighthouse - 1', description = '"Marugoto Aomori Blog" 
-Japan''s one and only breathtaking view is now open! I climbed the Shiriya Cape Lighthouse 
-http://www.marugotoaomori.jp/blog/2018/06/18226.html 
-
-On the left side of the screen is the Tsugaru Strait, and on the right is the Pacific Ocean. 
-From the Shiriya Cape Lighthouse, which opened to the public on June 1, 2018.' where id = 'PY84OGZ88eiMODf4ja3CG';
-update content_bodies set title = 'DELISH AOMORI「風間浦村のあんこうのベーコン巻き」', description = 'まるごと青森がお届けするレシピ動画「Delish Aomori」は今回の第１２弾でついに最終回。ラストを飾る食材は風間浦鮟鱇です。風間浦村は鮟鱇の漁場がとても近く、とびきり新鮮な鮟鱇が水揚げされます。鮟鱇といえば、まっ先に思い浮かぶのは鮟鱇鍋でしょうか。今回紹介するレシピは洋風に美味しくいただける「あんこうのベーコン巻き」。淡白な鮟鱇の身とベーコンの旨味と塩気の組み合わせが絶妙です。風間浦村で年に１度開催される風間浦鮟鱇感謝祭の賑わいの様子もお届けします。' where id = 'e2e9Vj2GTkZVJWbaz7Nof';
-update content_bodies set title = 'DELISH AOMORI ''Bacon-Wrapped Monkfish from Kazamaura Village''', description = 'The recipe video series ''Delish Aomori'', brought to you by All Aomori, reaches its final episode with this 12th installment. The star ingredient for the grand finale is the monkfish from Kazamaura. Kazamaura Village is very close to the fishing grounds for monkfish, ensuring that the freshest monkfish is landed. When we think of monkfish, the first dish that comes to mind is probably monkfish hot pot. The recipe we are introducing this time is ''Bacon-Wrapped Monkfish'', which can be enjoyed in a Western style. The combination of the mild monkfish flesh and the umami and saltiness of the bacon is exquisite. We will also share the lively atmosphere of the Kazamaura Monkfish Appreciation Festival, held once a year in Kazamaura Village.' where id = 'U7TTVKgqnlDQFanF1-GY_';
-update content_bodies set title = 'DELISH AOMORI「津軽百年食堂　清おばあちゃん」', description = '黒石市の弘南鉄道黒石駅前に店を構える「すごう食堂」は大正時代から４代に渡って受け継がれ、「津軽百年食堂」の１店に数えられます。現在の店主、須郷清さんは８７歳となった今でも、調理担当として現役で店に立ち続けているおばあちゃんです。店とともに百年受け継がれる変わらない味と、どこか懐かしさを覚える店の雰囲気をお伝えする、DELISH AOMORIがお届けするSpecial Movieです。' where id = 'kZyIsFHLKmRsJmod3u7sR';
-update content_bodies set title = 'DELISH AOMORI ''Tsugaru Hyakunen Shokudo - Grandma Kiyo''', description = 'The ''Sugou Shokudo'', located in front of Kōnan Railway Kuroishi Station in Kuroishi City, has been passed down through four generations since the Taisho era and is counted as one of the ''Tsugaru Hyakunen Shokudo''. The current owner, Grandma Kiyo Sugou, who is now 87 years old, still stands at the restaurant as the chef. This is a special movie brought to you by DELISH AOMORI, conveying the unchanged taste that has been inherited for a hundred years along with the nostalgic atmosphere of the restaurant.' where id = 'o7OPwL21Qbl0y2eJScTdI';
-update content_bodies set title = 'DELISH AOMORI「ミサオおばあちゃんの笹餅」', description = '五所川原市金木町で、大人気の笹餅を作り続ける９０歳の元気なおばあちゃん、桑田ミサオさん。食べたひとを幸せな気持ちにしてくれる笹餅を作る風景と、その笹餅を作るミサオさんの温かい人柄。その両方に触れられる、DELISH AOMORIがお届けするSpecial Movieです。' where id = 'vqv3Ip_xxPJ-fnS9sWCwf';
-update content_bodies set title = 'DELISH AOMORI ''Grandma Misao''s Sasa Mochi''', description = 'In Goshogawara City, Kanagi Town, the lively 90-year-old grandma, Misao Kuwata, continues to make the very popular sasa mochi. 
-This is a Special Movie brought to you by DELISH AOMORI, showcasing the scene of making sasa mochi that brings happiness to those who eat it, along with the warm personality of Misao-san who makes it.' where id = 'F67k97Hd4ArbqVUA4IYL9';
-update content_bodies set title = 'DELISH AOMORI「南部太ねぎのグラタンスープ」', description = 'まるごと青森がお届けするレシピ動画「DELISH AOMORI」の第５弾。青森県南部地方の伝統野菜「南部太ねぎ」は驚くほどの太さと、とろけるような食感と甘さが特徴。その「南部太ねぎ」を使ったグラタンスープは絶品です。
-「DELISH AOMORI」はまるごと青森Facebookで随時公開します。
-https://www.facebook.com/marugotoaomori/' where id = 'mxiGspDnt8ZQEhOPkyXJr';
-update content_bodies set title = 'DELISH AOMORI ''Nanbu Tai Negi Gratin Soup''', description = 'The fifth installment of the recipe video series ''DELISH AOMORI'' brought to you by Marugoto Aomori. The traditional vegetable ''Nanbu Tai Negi'' from the southern region of Aomori Prefecture is characterized by its astonishing thickness, melt-in-your-mouth texture, and sweetness. The gratin soup made with ''Nanbu Tai Negi'' is exquisite.
-''DELISH AOMORI'' will be released periodically on the Marugoto Aomori Facebook page.
-https://www.facebook.com/marugotoaomori/' where id = 'qqGMfb4Fm3VimgrcCiIMv';
-update content_bodies set title = 'DELISH AOMORI「いたや毛豆のレアチーズムース」', description = 'まるごと青森がお届けするレシピ動画「DELISH AOMORI」の第４弾は、ほっくりしていて甘味の強い毛豆の特徴を生かしてスイーツに仕上げました。「いたや毛豆」は板柳町で栽培される青森在来の「毛豆」です。
-「DELISH AOMORI」はまるごと青森Facebookで随時公開します。
-https://www.facebook.com/marugotoaomori/' where id = 'LNkVfHon1hRm0aFl8IVsh';
-update content_bodies set title = 'DELISH AOMORI ''Itaya Edamame Rare Cheese Mousse''', description = 'The fourth installment of the recipe video series ''DELISH AOMORI'', brought to you by Marugoto Aomori, features a dessert that highlights the characteristics of the sweet and fluffy Itaya edamame. ''Itaya edamame'' is a local variety of edamame grown in Itayanagi Town, Aomori.
-''DELISH AOMORI'' will be released periodically on the Marugoto Aomori Facebook page.
-https://www.facebook.com/marugotoaomori/' where id = 'Mob5zhB2xkVdUESbqdd2k';
-update content_bodies set title = 'DELISH AOMORI「田舎館村のイチゴフィズ」', description = 'まるごと青森がお届けするレシピ動画「DELISH AOMORI」の第２弾。今回は田舎館村産のいちごを使った、ちょっとおしゃれで甘酸っぱい「イチゴフィズ」をご紹介。
-「DELISH AOMORI」はまるごと青森Facebookで随時公開します。https://www.facebook.com/marugotoaomori' where id = 'xqPZPSBNHvWr3QZIjOEvW';
-update content_bodies set title = 'DELISH AOMORI ''Inakadate Village Strawberry Fizz''', description = 'The second installment of the recipe video series ''DELISH AOMORI'' brought to you by Marugoto Aomori. This time, we introduce a slightly stylish and sweet-sour ''Strawberry Fizz'' made with strawberries from Inakadate Village.
-''DELISH AOMORI'' will be released periodically on the Marugoto Aomori Facebook page. https://www.facebook.com/marugotoaomori' where id = 'J-PHc5MmAL9nJM3qE_Br9';
-update content_bodies set title = '寒立馬の横断', description = '尻屋崎灯台へ向かう途中、一時通行止めに遭遇しました。' where id = 'ZqewWm1S7XoPKPw-c1whe';
-update content_bodies set title = 'Crossing of the Cold Standing Horse', description = 'On the way to Shiriya Cape Lighthouse, I encountered a temporary road closure.' where id = 'hfFdWmCTKpzuYX898vAuZ';

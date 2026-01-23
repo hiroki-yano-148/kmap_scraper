@@ -1,3 +1,519 @@
+update content_bodies set title = 'EAT & LEAD', description = 'WEB SITE
+https://etooto.jp/
+
+食という扉から
+その先に広がる世界をイメージする
+自然の中で日々向き合い続ける人がいる
+日々、食材と対話をする人がいる
+目の前のその料理から、何を感じるでしょう
+ひとりひとりの生き方を考えさせられる今だからこそ、
+私たちは強く「食べること」の価値を信じたいと思うのです
+ひとりひとりが向き合い、喜び、笑い合い、つながり合う
+食べることが、私たちをかたちづくる
+
+EAT & LEADは、
+さまざまな食と向き合える機会をつくり、
+ひとりひとりの本来的な幸せと成長へとつながるよう
+リードし、伴走していきます。' where id = 'sjCWk1JQU4nGzPaviTOVm';
+update content_bodies set title = 'いま、わたしにできること。', description = 'WEB SITE
+https://etooto.jp/
+
+2021年5月
+新型コロナウイルスの感染拡大による未曾有の事態。
+
+新型コロナ宿泊療養施設のキッチンで
+軽症患者への食事提供を自ら志願した女性。
+自分の家族、巻き込む部下への申し訳なさがあったと言う。
+
+それでも、彼女には届けたい想いがある。
+大切な人から引き離された、隔離生活。
+「せめて食事の時間だけでも楽しみにしてもらいたい」
+それは食を通した“心のケア”。
+
+彼女の熱い想いに触れた、このまちのたくさんの仲間が
+それぞれの想いを込めて、いま出来ることを紡ぐ。
+
+味覚や嗅覚がない方にも彩りや食感で楽しんでもらえるように
+大切に育てられた新鮮な食材、心を込めて調理する。
+明日が楽しみになるように。
+元気になって、ここを後にしてもらえるように。
+彼女の想い、みんなの想いが、届きますように____' where id = 'hsXEL0WD4H1KZ3oaiDrNq';
+update content_bodies set title = 'What I Can Do Now.', description = 'WEB SITE
+https://etooto.jp/
+
+May 2021
+An unprecedented situation due to the spread of the novel coronavirus.
+
+A woman who volunteered to provide meals for mild patients in the kitchen of a COVID-19 accommodation facility.
+She says she felt sorry for her family and her subordinates who were involved.
+
+Even so, she has feelings she wants to convey.
+A life of isolation, separated from loved ones.
+"I want them to at least look forward to mealtime."
+It is "emotional care" through food.
+
+Many friends in this town, touched by her passionate feelings,
+weave together what they can do now, each with their own thoughts.
+
+To ensure that those who lack taste and smell can enjoy the colors and textures,
+fresh ingredients, carefully nurtured, are cooked with heart.
+So that they can look forward to tomorrow.
+So that they can regain their health and leave this place.
+May her feelings and everyone''s feelings reach them.' where id = 'In1gUVYs9HHtHFDc7dm3s';
+update content_bodies set title = 'BOTANICA BAKE B-ROLL', description = 'ウェブサイト
+https://etooto.jp/' where id = 'rJlpyRSbYhnQBSqPz8GMZ';
+update content_bodies set title = 'BOTANICA BAKE  B-ROLL', description = 'WEB SITE
+https://etooto.jp/' where id = 'Fjma8qt2GrAg8JXCFOu7W';
+update content_bodies set title = 'THE ROOTS #06 山の神から恵まれたジビエ', description = 'WEB SITE
+https://etooto.jp/
+
+瀬戸内海もほど近い、福山市熊野町。
+
+
+
+田畑に囲まれた広い空を望めるこの場所で
+
+
+
+狩猟、農業、さらには養蜂まで
+
+
+
+地でサスティナブルな暮らしをしている
+
+
+
+岡田臣司（おかだしんじ）さん。
+
+「食べることは環境を考えることと同義」
+
+
+
+僕らが毎日口に運ぶ、たくさんの食材は
+
+
+
+それらを育んだ自然環境と一緒に食べている。
+
+
+
+「海を汚さない」「農業は土作りから」
+
+
+
+すべての答え合わせのようなお話だった。
+
+そんな岡田さんが辿り着いた狩猟採集。
+
+
+
+毎年11月15日からの可猟期間には、
+
+
+
+猟銃を持って里山へ足を運ぶ。
+すべては身体性を取り戻すため。
+
+天候、気温、猟場によって日々変わる
+
+
+
+鳥獣の行動パターンを読んで。
+
+
+
+五感を頼りにその痕跡を追いかける。
+
+
+
+里山を熟知し、鳥獣を熟知して成せる
+
+
+
+流し猟という自然との対話。
+
+グリコーゲンを多く含む鹿肉は
+
+
+
+効果的にエネルギーへと変わる。
+
+すなわち、猟師飯にはうってつけ。
+
+しかし、“ジビエ”という響きは
+
+
+
+猟師にとっては“命の循環”。
+
+生を終えさせるということ。
+
+
+
+今日もまた、静かに
+祈りで己を律する。
+
+
+
+
+
+山の神の恵みに感謝して
+
+
+
+まずはひとくち、めしあがれ。' where id = 'RCThMGgePxegQsdXskOso';
+update content_bodies set title = 'THE ROOTS #06 Blessed Game from the Mountain God', description = 'WEB SITE
+https://etooto.jp/
+
+Near the Seto Inland Sea, in Kumano Town, Fukuyama.
+
+In this place where you can see the wide sky surrounded by fields,
+
+hunting, agriculture, and even beekeeping
+
+are part of a sustainable lifestyle.
+
+Shinji Okada is living this way.
+
+"Eating is synonymous with considering the environment."
+
+The many ingredients we consume daily
+
+are eaten together with the natural environment that nurtured them.
+
+"Do not pollute the sea" and "Agriculture starts with soil preparation"
+
+were all part of a conversation that felt like piecing together answers.
+
+This is the hunting and gathering path that Okada has arrived at.
+
+During the hunting season starting from November 15 each year,
+
+he heads to the satoyama with a hunting rifle.
+
+Everything is to regain a sense of physicality.
+
+Reading the daily changing behavior patterns of birds and beasts
+
+based on weather, temperature, and hunting grounds.
+
+Chasing their traces relying on the five senses.
+
+This is a dialogue with nature through the method of running game hunting,
+
+which can only be achieved by being well-acquainted with the satoyama and the wildlife.
+
+Deer meat, rich in glycogen,
+
+is effectively converted into energy.
+
+In other words, it is perfect for hunter''s meals.
+
+However, the sound of "game" for hunters
+
+is about the "cycle of life."
+
+It means bringing life to an end.
+
+Today again, quietly,
+
+he disciplines himself with prayer.
+
+Grateful for the blessings of the mountain god,
+
+first, take a bite and enjoy.' where id = '_hV4dK4mSbLaheGcKNsDq';
+update content_bodies set title = '1825', description = 'ウェブサイト
+https://etooto.jp/' where id = 'TLYDr5pYHw8pjATtNXaJD';
+update content_bodies set title = '1825', description = 'WEB SITE
+https://etooto.jp/' where id = 'EoE-NOyuKchLdTb75GdTR';
+update content_bodies set title = '1460', description = 'ウェブサイト
+https://etooto.jp/' where id = '9LdjTaE_gn5KPyloyQw9O';
+update content_bodies set title = '1460', description = 'WEB SITE
+https://etooto.jp/' where id = '1sOzr659FGOkNcyZpnjBV';
+update content_bodies set title = 'KAKU', description = '【2018年 HADC TV/CM/モーショングラフィック部門賞 受賞作】
+”書家 角”　Calligrapher Kaku→日本の漢字文化を世界に 【JCAT in New York 所属】  第50回記念スペイン美術賞展🇪🇸ヒホン市旧王立博物館〜6/10開催中     Japan Expo Paris 2018出展決定' where id = 'EDD9Fj1IdDgEVan4oMqSO';
+update content_bodies set title = 'KAKU', description = '【2018 HADC TV/CM/Motion Graphics Division Award Winning Work】
+"Calligrapher Kaku" → Bringing Japanese Kanji culture to the world 【Affiliated with JCAT in New York】
+The 50th Anniversary Spain Art Award Exhibition 🇪🇸 at the Old Royal Museum of Gijón ~ Ongoing until 6/10
+Participation confirmed for Japan Expo Paris 2018' where id = '-fjqTnPQ5zUCg8wV6I_gy';
+update content_bodies set title = '津軽あかつきの会「故郷の味を100年先まで」', description = '青森県弘前市で、津軽地方の郷土料理と食文化を伝える「伝承料理」活動をしている女性だけの料理研究ユニット、「津軽あかつきの会」のオリジナルショートムービーです。（※2021年に撮影）
+ 
+ 
+「母の味を食べたい」
+ 
+ 
+そんな想いから、代表の会長の工藤良子さんが始めたこの活動が伝わる映像となっています。
+いつか現地で、この味を、味わっていただける日を楽しみにしています！
+ 
+ 
+#津軽あかつきの会 #津軽伝承料理
+#母の味 #故郷の味 #青森 #弘前 #aomori #japanesefood #津軽
+
+【まるごと青森ブログ】http://www.marugotoaomori.jp/ 
+【まるごと青森Twitter】https://twitter.com/marugotoaomori/ 
+【まるごと青森Instagram】https://www.instagram.com/marugotoaomori/ 
+【腹ぺこあおもりInstagram】https://www.instagram.com/harapekoaomori/ 
+
+© Aomori Prefectural Government' where id = 'kwQLgHe-MKq4oMSMk3EYn';
+update content_bodies set title = 'Tsugaru Akatsuki Association: ''The Taste of Home for 100 Years Ahead''', description = 'This is an original short movie of the ''Tsugaru Akatsuki Association'', a cooking research unit composed solely of women, which conveys the local cuisine and food culture of the Tsugaru region through ''traditional cooking'' activities in Hirosaki City, Aomori Prefecture. (Filmed in 2021)
+
+''I want to taste my mother''s cooking''
+
+This video conveys the activity that was started by the representative, Chairperson Yoshiko Kudo, from such feelings. We look forward to the day when you can savor this taste on-site!
+
+#TsugaruAkatsukiAssociation #TsugaruTraditionalCooking
+#TasteofMother #TasteofHome #Aomori #Hirosaki #aomori #japanesefood #Tsugaru
+
+【Marugoto Aomori Blog】http://www.marugotoaomori.jp/ 
+【Marugoto Aomori Twitter】https://twitter.com/marugotoaomori/ 
+【Marugoto Aomori Instagram】https://www.instagram.com/marugotoaomori/ 
+【Harapeko Aomori Instagram】https://www.instagram.com/harapekoaomori/ 
+
+© Aomori Prefectural Government' where id = 'G5Ao3rlkDfkSrtk65iIm0';
+update content_bodies set title = '冬の八甲田山 バックカントリースキー編', description = '冬の八甲田山の雄大な自然の中を滑り降りる
+バックカントリースキーの映像を公開します。
+なお、八甲田山への入山にあたっては、
+八甲田山岳スキー安全対策協議会により制定されております、
+Mt.八甲田ローカルルールをご確認くださるようお願いします。' where id = 'nkbD9kZecm3QTrO9-Huo6';
+update content_bodies set title = 'Backcountry Skiing in Winter at Mount Hakkoda', description = 'We will release footage of backcountry skiing down the majestic nature of Mount Hakkoda in winter.
+
+Please be sure to check the Mt. Hakkoda Local Rules established by the Hakkoda Mountain Ski Safety Measures Council before entering Mount Hakkoda.' where id = 'fli7kvzHzwWuMV1_NGaIP';
+update content_bodies set title = '冬の八甲田山 銀世界編', description = 'ドローンにより撮影した冬の八甲田山の映像を公開します。
+なお、八甲田山への入山にあたっては、
+八甲田山岳スキー安全対策協議会により制定されております、
+Mt.八甲田ローカルルールをご確認くださるようお願いします。' where id = 'vi13Br4PjKZFkdkd-PCYZ';
+update content_bodies set title = 'Winter Hakkoda Mountain: Silver World Edition', description = 'We will be releasing footage of winter Hakkoda Mountain captured by drone.
+
+Please be sure to check the Mt. Hakkoda Local Rules established by the Hakkoda Mountain Ski Safety Measures Council before entering Hakkoda Mountain.' where id = 'xLLr1l10GywzV4yxhe5w-';
+update content_bodies set title = 'ドローン空撮　青森の紅葉（城ヶ倉大橋、中野もみじ山、蔦沼）', description = '新型コロナウイルス感染症の収束後には、
+再び、国内外から多くの方々に
+青森県を訪れていただきたいという願いを込めて、
+ドローンで撮影した青森県（城ヶ倉大橋、中野もみじ山、蔦沼）の
+紅葉の映像を公開します。
+
+なお、紅葉シーズンの蔦沼は非常に混雑するため、
+例年、路上駐車対策や混雑対策の取組を行っております。
+周辺には蔦沼以外にも魅力的な場所が数多くあり、
+四季を通じて美しい景観を楽しむことができますので、
+混雑時期以外の観光もお勧めします。
+
+【関連動画】
+2020 世界でいちばん美しい桜　～弘前公園　Part1～
+https://youtu.be/59NkCCehUNs
+2020 世界でいちばん美しい桜　～弘前公園　Part2～
+https://youtu.be/vZCqJwYnGzE
+ドローンで見る五所川原立佞武多2020 PART１
+https://youtu.be/H2k4oDytj8Y
+ドローンで見る五所川原立佞武多2020 PART２
+https://youtu.be/GSTnj1EDJTU
+
+© Aomori Prefectural Government' where id = 'M-KgXqPgJmgkSYDSZtBt4';
+update content_bodies set title = 'Drone Aerial Photography: Autumn Leaves in Aomori (Jōgakura Ohashi, Nakano Momijiyama, Tsutanuma)', description = 'After the resolution of the COVID-19 pandemic, 
+we hope to welcome many visitors from both domestic and international locations 
+to Aomori Prefecture once again. 
+With this wish in mind, we are releasing footage of the autumn leaves in Aomori Prefecture 
+(Jōgakura Ohashi, Nakano Momijiyama, Tsutanuma) captured by drone.
+
+Please note that Tsutanuma during the autumn foliage season is extremely crowded, 
+and every year we implement measures to address roadside parking and congestion.
+There are many other attractive locations in the vicinity of Tsutanuma, 
+and you can enjoy beautiful scenery throughout the four seasons, 
+so we also recommend visiting during non-peak times.
+
+【Related Videos】
+2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 1 -
+https://youtu.be/59NkCCehUNs
+2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 2 -
+https://youtu.be/vZCqJwYnGzE
+Viewing Goshogawara Tachineputa 2020 by Drone PART 1
+https://youtu.be/H2k4oDytj8Y
+Viewing Goshogawara Tachineputa 2020 by Drone PART 2
+https://youtu.be/GSTnj1EDJTU
+
+© Aomori Prefectural Government' where id = 'TQTVVYTezV7Fig2TNS8nq';
+update content_bodies set title = '2020 蔦沼の朝焼け ドローン映像', description = '青森県では、美しい蔦沼の朝焼けをご自宅でご覧いただけるよう
+地域の関係者の協力のもと撮影したドローン映像を公開します。
+
+なお、紅葉シーズンの蔦沼は非常に混雑するため、
+例年、路上駐車対策や混雑対策の取組を行っております。
+周辺には蔦沼以外にも魅力的な場所が数多くあり、
+四季を通じて美しい景観を楽しむことができますので、
+混雑時期以外の観光もお勧めします。
+
+【関連動画】
+2020 世界でいちばん美しい桜　～弘前公園　Part1～
+https://youtu.be/59NkCCehUNs
+2020 世界でいちばん美しい桜　～弘前公園　Part2～
+https://youtu.be/vZCqJwYnGzE
+ドローンで見る五所川原立佞武多2020 PART１
+https://youtu.be/H2k4oDytj8Y
+ドローンで見る五所川原立佞武多2020 PART２
+https://youtu.be/GSTnj1EDJTU
+
+© Aomori Prefectural Government' where id = 'wUUvi89XXJG6w-RyRjfaU';
+update content_bodies set title = '2020 Tsutanuma Sunrise Drone Footage', description = 'In Aomori Prefecture, we are releasing drone footage captured with the cooperation of local stakeholders so that you can enjoy the beautiful sunrise at Tsutanuma from the comfort of your home.
+
+Please note that Tsutanuma can get very crowded during the autumn foliage season, and every year we implement measures to address roadside parking and congestion.
+There are many other attractive places in the vicinity of Tsutanuma, and you can enjoy beautiful scenery throughout the four seasons, so we also recommend visiting during non-peak times.
+
+【Related Videos】
+2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 1 -
+https://youtu.be/59NkCCehUNs
+2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 2 -
+https://youtu.be/vZCqJwYnGzE
+Viewing Goshogawara Tachineputa 2020 with a Drone PART 1
+https://youtu.be/H2k4oDytj8Y
+Viewing Goshogawara Tachineputa 2020 with a Drone PART 2
+https://youtu.be/GSTnj1EDJTU
+
+© Aomori Prefectural Government' where id = 'wrmjShIGZGN3SlVrFv8Qj';
+update content_bodies set title = 'ドローンで見る五所川原立佞武多2020 PART２', description = '今年は、新型コロナウイルス感染症の拡大を防止するため、
+やむを得ず、五所川原立佞武多の運行は中止となりました。
+
+青森県では、五所川原市をはじめ、地域の皆様のご協力のもと、
+ドローンにより撮影する高さ２３mの立佞武多出陣の迫力映像を
+ライブ配信いたしました。
+
+立佞武多ドローンLIVE配信
+https://youtu.be/NQek7FfsV6M
+
+LIVEで配信した映像を再編集した映像を公開します。
+
+新型コロナウイルスの収束後には、
+再び、国内外から多くの方々に青森県を訪れていただきたいと願っています。
+
+
+【関連動画】
+2020 世界でいちばん美しい桜　～弘前公園　Part1～
+https://youtu.be/59NkCCehUNs
+2020 世界でいちばん美しい桜　～弘前公園　Part2～
+https://youtu.be/vZCqJwYnGzE
+
+© Aomori Prefectural Government' where id = 'yZEqbMq3gWRXLYhNHb0LH';
+update content_bodies set title = 'Viewing Goshogawara Tachineputa 2020 PART 2 from a Drone', description = 'This year, in order to prevent the spread of the novel coronavirus, 
+the operation of the Goshogawara Tachineputa has unfortunately been canceled.
+
+In Aomori Prefecture, with the cooperation of the local community, 
+a powerful video of the 23m tall Tachineputa''s departure, filmed by drone, 
+was live-streamed.
+
+Tachineputa Drone LIVE Stream
+https://youtu.be/NQek7FfsV6M
+
+We will release a re-edited version of the footage that was streamed live.
+
+After the resolution of the novel coronavirus, 
+we hope to welcome many visitors from both domestic and international locations to Aomori Prefecture once again.
+
+【Related Videos】
+2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 1 -
+https://youtu.be/59NkCCehUNs
+2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 2 -
+https://youtu.be/vZCqJwYnGzE
+
+© Aomori Prefectural Government' where id = 'yLhzcddxDZNsO0sIFOE6t';
+update content_bodies set title = 'ドローンで見る五所川原立佞武多2020　PART１', description = '今年は、新型コロナウイルス感染症の拡大を防止するため、
+やむを得ず、五所川原立佞武多の運行は中止となりました。
+
+青森県では、五所川原市をはじめ、地域の皆様のご協力のもと、
+ドローンにより撮影する高さ２３mの立佞武多出陣の迫力映像を
+ライブ配信いたしました。
+
+立佞武多ドローンLIVE配信
+https://youtu.be/NQek7FfsV6M
+
+LIVEで配信した映像を再編集した映像を公開します。
+
+新型コロナウイルスの収束後には、
+再び、国内外から多くの方々に青森県を訪れていただきたいと願っています。
+
+
+【関連動画】
+2020 世界でいちばん美しい桜　～弘前公園　Part1～
+https://youtu.be/59NkCCehUNs
+2020 世界でいちばん美しい桜　～弘前公園　Part2～
+https://youtu.be/vZCqJwYnGzE
+
+© Aomori Prefectural Government' where id = '1NjcYiUVhQ__wH9Vn8qrs';
+update content_bodies set title = 'Viewing Goshogawara Tachineputa 2020 by Drone PART 1', description = 'This year, in order to prevent the spread of the novel coronavirus, 
+the operation of the Goshogawara Tachineputa has unfortunately been canceled.
+
+In Aomori Prefecture, with the cooperation of the local community, 
+a powerful video of the 23m tall Tachineputa''s departure, filmed by drone, 
+was live-streamed.
+
+Tachineputa Drone LIVE Stream
+https://youtu.be/NQek7FfsV6M
+
+We will release a re-edited version of the footage that was streamed live.
+
+After the resolution of the novel coronavirus, 
+we hope to welcome many visitors from both domestic and international locations to Aomori Prefecture once again.
+
+【Related Videos】
+2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 1 -
+https://youtu.be/59NkCCehUNs
+2020 The Most Beautiful Cherry Blossoms in the World - Hirosaki Park Part 2 -
+https://youtu.be/vZCqJwYnGzE
+
+© Aomori Prefectural Government' where id = 'EgY7bPL6YEf1BrQsaCQKe';
+update content_bodies set title = '“まるで海外”な青森の絶景スポットを紹介！「ここも青森」CM', description = '青森には、ハワイやカッパドキア、北欧などを連想させる絶景スポットがあります。
+新型コロナウイルスの影響でなかなか海外旅行に行けない状況ですが、
+ちょっと海外気分を味わえる青森のスポットをぜひご覧ください！
+もちろん海外にはない、青森ならではの魅力も満載です。
+
+【まるごと青森ブログ】http://www.marugotoaomori.jp/ 
+【まるごと青森Twitter】https://twitter.com/marugotoaomori 
+【まるごと青森Instagram】https://www.instagram.com/marugotoaomori/
+【腹ぺこあおもりInstagram】https://www.instagram.com/harapekoaomori/
+© Aomori Prefectural Government' where id = 'ruC5Zza9FVpzCyR4lQKD6';
+update content_bodies set title = 'Introducing Aomori''s breathtaking spots that feel just like overseas! ''This is Aomori'' commercial', description = 'Aomori has breathtaking spots that evoke images of Hawaii, Cappadocia, and Scandinavia.
+Due to the impact of the COVID-19 pandemic, it''s been difficult to travel abroad,
+but please take a look at these Aomori spots where you can experience a bit of that overseas vibe!
+Of course, there are also plenty of unique charms that only Aomori can offer.
+
+【Marugoto Aomori Blog】http://www.marugotoaomori.jp/ 
+【Marugoto Aomori Twitter】https://twitter.com/marugotoaomori 
+【Marugoto Aomori Instagram】https://www.instagram.com/marugotoaomori/
+【Hara Peko Aomori Instagram】https://www.instagram.com/harapekoaomori/
+© Aomori Prefectural Government' where id = 'EYCSwJRqfyWkqg1yc3CxS';
+update content_bodies set title = '透明な海、左右からの波　～尻屋埼灯台～1', description = '「まるごと青森ブログ」
+日本でオンリーワンの絶景が解禁！尻屋埼灯台に登ってみた
+http://www.marugotoaomori.jp/blog/2018/06/18226.html
+
+画面左が津軽海峡、右が太平洋です。
+2018年6月1日、一般公開が開始された尻屋埼灯台から。' where id = '7OTFa99K2zvcXVu1Gl8rO';
+update content_bodies set title = 'Transparent Sea, Waves from Both Sides - Shiriya Cape Lighthouse - 1', description = '"Marugoto Aomori Blog" 
+Japan''s one and only breathtaking view is now open! I climbed the Shiriya Cape Lighthouse 
+http://www.marugotoaomori.jp/blog/2018/06/18226.html 
+
+On the left side of the screen is the Tsugaru Strait, and on the right is the Pacific Ocean. 
+From the Shiriya Cape Lighthouse, which opened to the public on June 1, 2018.' where id = 'PY84OGZ88eiMODf4ja3CG';
+update content_bodies set title = 'DELISH AOMORI「風間浦村のあんこうのベーコン巻き」', description = 'まるごと青森がお届けするレシピ動画「Delish Aomori」は今回の第１２弾でついに最終回。ラストを飾る食材は風間浦鮟鱇です。風間浦村は鮟鱇の漁場がとても近く、とびきり新鮮な鮟鱇が水揚げされます。鮟鱇といえば、まっ先に思い浮かぶのは鮟鱇鍋でしょうか。今回紹介するレシピは洋風に美味しくいただける「あんこうのベーコン巻き」。淡白な鮟鱇の身とベーコンの旨味と塩気の組み合わせが絶妙です。風間浦村で年に１度開催される風間浦鮟鱇感謝祭の賑わいの様子もお届けします。' where id = 'e2e9Vj2GTkZVJWbaz7Nof';
+update content_bodies set title = 'DELISH AOMORI ''Bacon-Wrapped Monkfish from Kazamaura Village''', description = 'The recipe video series ''Delish Aomori'', brought to you by All Aomori, reaches its final episode with this 12th installment. The star ingredient for the grand finale is the monkfish from Kazamaura. Kazamaura Village is very close to the fishing grounds for monkfish, ensuring that the freshest monkfish is landed. When we think of monkfish, the first dish that comes to mind is probably monkfish hot pot. The recipe we are introducing this time is ''Bacon-Wrapped Monkfish'', which can be enjoyed in a Western style. The combination of the mild monkfish flesh and the umami and saltiness of the bacon is exquisite. We will also share the lively atmosphere of the Kazamaura Monkfish Appreciation Festival, held once a year in Kazamaura Village.' where id = 'U7TTVKgqnlDQFanF1-GY_';
+update content_bodies set title = 'DELISH AOMORI「津軽百年食堂　清おばあちゃん」', description = '黒石市の弘南鉄道黒石駅前に店を構える「すごう食堂」は大正時代から４代に渡って受け継がれ、「津軽百年食堂」の１店に数えられます。現在の店主、須郷清さんは８７歳となった今でも、調理担当として現役で店に立ち続けているおばあちゃんです。店とともに百年受け継がれる変わらない味と、どこか懐かしさを覚える店の雰囲気をお伝えする、DELISH AOMORIがお届けするSpecial Movieです。' where id = 'kZyIsFHLKmRsJmod3u7sR';
+update content_bodies set title = 'DELISH AOMORI ''Tsugaru Hyakunen Shokudo - Grandma Kiyo''', description = 'The ''Sugou Shokudo'', located in front of Kōnan Railway Kuroishi Station in Kuroishi City, has been passed down through four generations since the Taisho era and is counted as one of the ''Tsugaru Hyakunen Shokudo''. The current owner, Grandma Kiyo Sugou, who is now 87 years old, still stands at the restaurant as the chef. This is a special movie brought to you by DELISH AOMORI, conveying the unchanged taste that has been inherited for a hundred years along with the nostalgic atmosphere of the restaurant.' where id = 'o7OPwL21Qbl0y2eJScTdI';
+update content_bodies set title = 'DELISH AOMORI「ミサオおばあちゃんの笹餅」', description = '五所川原市金木町で、大人気の笹餅を作り続ける９０歳の元気なおばあちゃん、桑田ミサオさん。食べたひとを幸せな気持ちにしてくれる笹餅を作る風景と、その笹餅を作るミサオさんの温かい人柄。その両方に触れられる、DELISH AOMORIがお届けするSpecial Movieです。' where id = 'vqv3Ip_xxPJ-fnS9sWCwf';
+update content_bodies set title = 'DELISH AOMORI ''Grandma Misao''s Sasa Mochi''', description = 'In Goshogawara City, Kanagi Town, the lively 90-year-old grandma, Misao Kuwata, continues to make the very popular sasa mochi. 
+This is a Special Movie brought to you by DELISH AOMORI, showcasing the scene of making sasa mochi that brings happiness to those who eat it, along with the warm personality of Misao-san who makes it.' where id = 'F67k97Hd4ArbqVUA4IYL9';
+update content_bodies set title = 'DELISH AOMORI「南部太ねぎのグラタンスープ」', description = 'まるごと青森がお届けするレシピ動画「DELISH AOMORI」の第５弾。青森県南部地方の伝統野菜「南部太ねぎ」は驚くほどの太さと、とろけるような食感と甘さが特徴。その「南部太ねぎ」を使ったグラタンスープは絶品です。
+「DELISH AOMORI」はまるごと青森Facebookで随時公開します。
+https://www.facebook.com/marugotoaomori/' where id = 'mxiGspDnt8ZQEhOPkyXJr';
+update content_bodies set title = 'DELISH AOMORI ''Nanbu Tai Negi Gratin Soup''', description = 'The fifth installment of the recipe video series ''DELISH AOMORI'' brought to you by Marugoto Aomori. The traditional vegetable ''Nanbu Tai Negi'' from the southern region of Aomori Prefecture is characterized by its astonishing thickness, melt-in-your-mouth texture, and sweetness. The gratin soup made with ''Nanbu Tai Negi'' is exquisite.
+''DELISH AOMORI'' will be released periodically on the Marugoto Aomori Facebook page.
+https://www.facebook.com/marugotoaomori/' where id = 'qqGMfb4Fm3VimgrcCiIMv';
+update content_bodies set title = 'DELISH AOMORI「いたや毛豆のレアチーズムース」', description = 'まるごと青森がお届けするレシピ動画「DELISH AOMORI」の第４弾は、ほっくりしていて甘味の強い毛豆の特徴を生かしてスイーツに仕上げました。「いたや毛豆」は板柳町で栽培される青森在来の「毛豆」です。
+「DELISH AOMORI」はまるごと青森Facebookで随時公開します。
+https://www.facebook.com/marugotoaomori/' where id = 'LNkVfHon1hRm0aFl8IVsh';
+update content_bodies set title = 'DELISH AOMORI ''Itaya Edamame Rare Cheese Mousse''', description = 'The fourth installment of the recipe video series ''DELISH AOMORI'', brought to you by Marugoto Aomori, features a dessert that highlights the characteristics of the sweet and fluffy Itaya edamame. ''Itaya edamame'' is a local variety of edamame grown in Itayanagi Town, Aomori.
+''DELISH AOMORI'' will be released periodically on the Marugoto Aomori Facebook page.
+https://www.facebook.com/marugotoaomori/' where id = 'Mob5zhB2xkVdUESbqdd2k';
+update content_bodies set title = 'DELISH AOMORI「田舎館村のイチゴフィズ」', description = 'まるごと青森がお届けするレシピ動画「DELISH AOMORI」の第２弾。今回は田舎館村産のいちごを使った、ちょっとおしゃれで甘酸っぱい「イチゴフィズ」をご紹介。
+「DELISH AOMORI」はまるごと青森Facebookで随時公開します。https://www.facebook.com/marugotoaomori' where id = 'xqPZPSBNHvWr3QZIjOEvW';
+update content_bodies set title = 'DELISH AOMORI ''Inakadate Village Strawberry Fizz''', description = 'The second installment of the recipe video series ''DELISH AOMORI'' brought to you by Marugoto Aomori. This time, we introduce a slightly stylish and sweet-sour ''Strawberry Fizz'' made with strawberries from Inakadate Village.
+''DELISH AOMORI'' will be released periodically on the Marugoto Aomori Facebook page. https://www.facebook.com/marugotoaomori' where id = 'J-PHc5MmAL9nJM3qE_Br9';
+update content_bodies set title = '寒立馬の横断', description = '尻屋崎灯台へ向かう途中、一時通行止めに遭遇しました。' where id = 'ZqewWm1S7XoPKPw-c1whe';
+update content_bodies set title = 'Crossing of the Cold Standing Horse', description = 'On the way to Shiriya Cape Lighthouse, I encountered a temporary road closure.' where id = 'hfFdWmCTKpzuYX898vAuZ';
 update content_bodies set title = '風間浦鮟鱇、めがった～（おいしかったー）', description = '作家・大岡玲さん、浦風親方、カメラマン・松隈直樹さん、紀行作家・山内史子さんの4人で行く「冬の青森旅」vol4.「風間浦鮟鱇」編その2です。' where id = 'eiTNP3hEyNQ-X_pbQ1Aor';
 update content_bodies set title = 'Kazamaura Anglerfish, it was delicious~', description = 'This is vol.4 of the ''Winter Aomori Trip'' featuring four people: writer Rei Ooka, master of the Ura-kaze, photographer Naoki Matsukuma, and travel writer Fumiko Yamauchi. This is part 2 about ''Kazamaura Anglerfish''.' where id = 'RCkI5itnlZSMNKpgScjyY';
 update content_bodies set title = '下北の酒と風間浦鮟鱇、め～よ～（うまいよー）！', description = '作家・大岡玲さん、浦風親方、カメラマン・松隈直樹さん、紀行作家・山内史子さんの4人で行く「冬の青森旅」vol4.「風間浦鮟鱇」編その1です。' where id = 'aQd9Ze0YmrUxya4YIvDZN';
@@ -9504,497 +10020,3 @@ https://kumanoijunet.jimdofree.com/
 @Lyrical Rural Living
 
 #RuralLiving #RuralRelocation #SustainableLiving' where id = 'oJsnOjdv15X5tJfFC1EUi';
-update content_bodies set title = '伊勢と奈良、神話からの古代の道', description = '伊勢と奈良、神話からの古代の道
-
-日本の起源の地、神話の時代から。日本の神道の頂点である伊勢神宮、相撲、酒、修験道、巨大な古代の墳墓など。これは、今日の政治と文化の起源を感じることができる道です。「古代日本」を体験してください。
-
-伊勢と奈良の地域は、精神性の道を導き、日本の神秘主義の起源へと至ります。
-
-関西の中心に位置する奈良は、日本で最も古い仏教寺院や神社で世界的に有名です。それらは、シカが生息する森林公園の中心にある緑豊かな草原に位置しています。8世紀の古代首都は、日本の政治と宗教の中心でした。奈良の計り知れない芸術的な富は、今なお彼女を精神性の大きな中心にしています。近くには、法隆寺の五重塔があり、世界最古の木造建築とされています。
-
-聖なる土地は、神聖な山々であふれる紀伊半島まで広がっています。そこでは、百年の杉の深い森の中で、神々がほぼ二千年にわたり崇拝されてきました。伊勢神宮は、日本で最も神聖で崇敬される場所の一つです。日本人はそれを「日本の魂の揺りかご」と考えています。
-
-寺院周辺の精神性と修験道の修行に加えて、伊勢と奈良の地域は、相撲や酒の蒸留などの古代の伝統を育んでいます。海側では、紀伊半島の沿岸で、真珠、貝、魚、甲殻類を求めてシュノーケリングをする女性たち、あま文化が生まれました。半島とその沿岸は、日本の最も古い伝統に抱かれ、集団的な想像力にとって最も印象的なものです。' where id = 'HYenAH-VlmrvuAVByddt5';
-update content_bodies set title = 'ISE and NARA,Ancient paths from mythology', description = 'ISE and NARA,Ancient paths from mythology
-
-The place of origin of Japan since mythical times. Ise Jingu, the pinnacle of Japanese Shintoism, Sumo, Sake, Shugendo, giant ancient tombs, etc. This is the path where you can feel the origin of today''s politics and culture.Experience the "ancient Japan"
-
-The region of Ise and Nara leads on the paths of spirituality, to the origins of Japanese mysticism.
-
-In the heart of Kansai, Nara is world famous for its Buddhist temples and Shinto shrines, some of the oldest in Japan. They are set on lush meadows, in the heart of a wooded park populated by Sika deer. The ancient capital of the 8th century was the political and religious center of Japan. Nara''s inestimable artistic wealth still makes her a great center of spirituality. Nearby, the 5-story pagoda of Hōryū-ji Buddhist temple is considered the oldest wooden building in the world.
-
-The sacred lands extend to the Kii Peninsula, which is teeming with sacred mountains. There, in deep forests of hundred-year-old cedars, the kami have been revered for nearly two millennia. Ise-jingu (Ise Shrine) is one of the holiest and most revered sites in Japan. The Japanese consider it to be a “cradle of the Japanese soul.
-
-In addition to the spirituality and ascetic practice of shugendō around the temples, the region of Ise and Nara cultivates ancient traditions, foremost among them sumo and the distillation of sake. On the sea side, the coasts of the Kii peninsula have seen the emergence of the culture of the ama, these women who snorkel in search of pearls, shellfish, fish and crustaceans. The peninsula and its coasts are cradled by the oldest traditions of Japan, and the most striking for the collective imagination.' where id = 'MuOgyPpLYgODLBL_FMcm9';
-update content_bodies set title = 'ショート【日本語】Royal Food of Japan 御食国　～歴史に愛された美味がある。～', description = '福井県 若狭・三重県 志摩・兵庫県 淡路島
-この地域は約1,200年前から、かつての朝廷・京都に食材を献上してきた『御食国（みけつくに）』と呼ばれた場所。
-長い歴史の中で磨かれ続けた和食文化とロイヤルフードに出会う旅へ。
-歴史に愛された美味がある。Royal Food of Japan 御食国' where id = 'eH370SGsGZyXU7bxtV5b-';
-update content_bodies set title = 'Short 【Japanese】 Royal Food of Japan - The Land of Offerings: A Taste Loved by History.', description = 'Fukui Prefecture, Wakasa; Mie Prefecture, Shima; Hyogo Prefecture, Awaji Island
-This region has been known as ''Miketsukuni'' (the Land of Offerings) for about 1,200 years, where ingredients were presented to the former imperial court in Kyoto.
-Embark on a journey to encounter the refined culture of Japanese cuisine and royal food that has been polished over a long history.
-A taste loved by history. Royal Food of Japan - Miketsukuni' where id = 'ZRVJ46pkurXAX8wYUI-rP';
-update content_bodies set title = '関西再発見の旅！「THE EXCITING KANSAI」丹波編', description = '日本を代表する世界遺産や悠久の歴史に裏打ちされた伝統・文化が息づく関西。
-ここにあるたくさんのまだ知られていない、魅力を探る、そんな楽しい旅に出ませんか？
-
-今回は、京都府と兵庫県にまたがる、大自然に囲まれた日本の原風景が広がる癒しの世界、丹波編をお届けします。' where id = 'Jl2_EGbOumd5lwIAtqNTd';
-update content_bodies set title = 'Rediscovering Kansai! ''THE EXCITING KANSAI'' Tanba Edition', description = 'Kansai, home to Japan''s representative World Heritage sites and a rich tradition and culture backed by its long history.
-
-How about embarking on a fun journey to explore the many unknown attractions here?
-
-This time, we present the Tanba edition, a healing world surrounded by nature, showcasing the original scenery of Japan that spans across Kyoto and Hyogo Prefectures.' where id = 'auKhVO59MAR6zKbWt2V22';
-update content_bodies set title = 'Exclusive Expeditions, KANSAI Japan: J trailer2/wo QR', description = 'かつて都が存在した関西には、和食、茶道、古典芸能、工芸、禅など数えきれないほどの日本文化の源流があり、今もそれらを受け継ぐ方がいます。そんな関西が誇る“宝”に出会う旅へと、今から皆さまをお連れします。あるひとつの道を極めた一流の方が、特別な空間でお届けする“体験”を、動画ではオンラインで疑似体験をすることができます。疑似体験を超えた実際の体験はここ関西で。
-https://www.the-kansai-guide.com/ja/exclusive-expeditions/
-
-https://www.youtube.com/channel/UCBOyUMbb7JVSNVzV-lmLmPA/featured' where id = 'alxv4HCTwEgwGjqekx7d5';
-update content_bodies set title = 'Exclusive Expeditions, KANSAI Japan: J trailer2/wo QR', description = 'In Kansai, where the capital once existed, there are countless sources of Japanese culture such as washoku (Japanese cuisine), tea ceremony, classical performing arts, crafts, and Zen, and there are still those who inherit them today. We will take you on a journey to encounter the ''treasures'' that Kansai proudly boasts. You can experience the ''experiences'' delivered by top professionals who have mastered a particular path in a special space through our videos online. The actual experiences that go beyond the simulated experiences await you here in Kansai.
-https://www.the-kansai-guide.com/ja/exclusive-expeditions/
-
-https://www.youtube.com/channel/UCBOyUMbb7JVSNVzV-lmLmPA/featured' where id = 'FJYj6XxTZV924nGrgatPS';
-update content_bodies set title = '関西新発見の旅！「THE EXCITING KANSAI」淡路島・徳島編', description = '日本を代表する世界遺産や悠久の歴史に裏打ちされた伝統・文化が息づく関西。
-ここにあるたくさんのまだ知られていない、魅力を探る、そんな楽しい旅に出ませんか？
-
-今回は、海の恩恵を受けながら共に歴史を育んできたエリアのオーシャントリップを満喫する 淡路島・徳島編をお届けします。' where id = 'WcnklbKUjxrx6y3IbLQY9';
-update content_bodies set title = 'Discovering Kansai! "THE EXCITING KANSAI" Awaji Island and Tokushima Edition', description = 'Kansai, where Japan''s representative World Heritage sites and traditions and culture backed by a long history thrive.
-
-How about embarking on a fun journey to explore the many unknown attractions here?
-
-This time, we bring you the Awaji Island and Tokushima edition, where you can fully enjoy an ocean trip in an area that has nurtured history together while benefiting from the sea.' where id = '5fpDw1FfadRT_wNQZzRKx';
-update content_bodies set title = '伊勢と奈良、神話からの古代の道', description = '伊勢と奈良、神話からの古代の道
-
-日本の起源の地、神話の時代から。日本の神道の頂点である伊勢神宮、相撲、日本酒、修験道、巨大な古代の墳墓など。これは、今日の政治と文化の起源を感じることができる道です。「古代日本」を体験してください。
-
-伊勢と奈良の地域は、精神性の道を導き、日本の神秘主義の起源へと至ります。
-
-関西の中心に位置する奈良は、日本で最も古い仏教寺院や神社で世界的に有名です。これらは、シカが生息する森林公園の中心にある緑豊かな草原に位置しています。8世紀の古代首都は、日本の政治と宗教の中心でした。奈良の計り知れない芸術的な富は、今なお彼女を精神性の大きな中心にしています。近くには、法隆寺の五重塔があり、世界で最も古い木造建築とされています。
-
-聖なる土地は、神聖な山々であふれる紀伊半島まで広がっています。そこでは、百年の杉の深い森の中で、神々がほぼ二千年にわたり崇拝されてきました。伊勢神宮は、日本で最も神聖で崇敬される場所の一つです。日本人はこれを「日本の魂の揺りかご」と考えています。
-
-寺院周辺の修験道の精神性と禁欲的な実践に加えて、伊勢と奈良の地域は、相撲や日本酒の蒸留など、古代の伝統を育んでいます。海側では、紀伊半島の海岸で、真珠や貝、魚、甲殻類を求めてシュノーケリングをする女性たち、あま文化が生まれました。半島とその海岸は、日本の最も古い伝統に抱かれ、集団的な想像力にとって最も印象的なものとなっています。' where id = 'skM56l3nDzTOg6KXlifyD';
-update content_bodies set title = 'ISE and NARA,Ancient paths from mythology', description = 'ISE and NARA,Ancient paths from mythology
-
-The place of origin of Japan since mythical times. Ise Jingu, the pinnacle of Japanese Shintoism, Sumo, Sake, Shugendo, giant ancient tombs, etc. This is the path where you can feel the origin of today''s politics and culture.Experience the "ancient Japan"
-
-The region of Ise and Nara leads on the paths of spirituality, to the origins of Japanese mysticism.
-
-In the heart of Kansai, Nara is world famous for its Buddhist temples and Shinto shrines, some of the oldest in Japan. They are set on lush meadows, in the heart of a wooded park populated by Sika deer. The ancient capital of the 8th century was the political and religious center of Japan. Nara''s inestimable artistic wealth still makes her a great center of spirituality. Nearby, the 5-story pagoda of Hōryū-ji Buddhist temple is considered the oldest wooden building in the world.
-
-The sacred lands extend to the Kii Peninsula, which is teeming with sacred mountains. There, in deep forests of hundred-year-old cedars, the kami have been revered for nearly two millennia. Ise-jingu (Ise Shrine) is one of the holiest and most revered sites in Japan. The Japanese consider it to be a “cradle of the Japanese soul.
-
-In addition to the spirituality and ascetic practice of shugendō around the temples, the region of Ise and Nara cultivates ancient traditions, foremost among them sumo and the distillation of sake. On the sea side, the coasts of the Kii peninsula have seen the emergence of the culture of the ama, these women who snorkel in search of pearls, shellfish, fish and crustaceans. The peninsula and its coasts are cradled by the oldest traditions of Japan, and the most striking for the collective imagination.' where id = 'xvyFul46W_zbMXq7zx-Zt';
-update content_bodies set title = '関西新発見の旅！「THE EXCITING KANSAI」福井編', description = '日本を代表する世界遺産や悠久の歴史に裏打ちされた伝統・文化が息づく関西。
-ここにあるたくさんのまだ知られていない、魅力を探る、そんな楽しい旅に出ませんか？
-
-今回は、太古には恐竜たちも練り歩き、美しい自然と豊かな水に恵まれているなど、かけがえのない資源がモノ作りへ生かされ、風土に合わせ様々な工芸品が作られてき福井編をお届けします。' where id = 'PtW1W3HOaNfm_m0C444OB';
-update content_bodies set title = 'Discovering Kansai! "THE EXCITING KANSAI" Fukui Edition', description = 'Kansai, where Japan''s world heritage sites and traditions rooted in its long history come to life.
-
-How about embarking on a fun journey to explore the many unknown attractions here?
-
-This time, we present the Fukui edition, where ancient dinosaurs once roamed, blessed with beautiful nature and abundant water, utilizing invaluable resources for craftsmanship, and creating various crafts suited to the local climate.' where id = 'H6rKBOcxztxnujxBdc4S4';
-update content_bodies set title = '関西新発見の旅！「THE EXCITING KANSAI」山陰海岸編', description = '日本を代表する世界遺産や悠久の歴史に裏打ちされた伝統・文化が息づく関西。
-ここにあるたくさんのまだ知られていない、魅力を探る、そんな楽しい旅に出ませんか？
-
-今回は、山地が直接海に接する複雑に入り組んだ海岸で、海からの豊かな恵みを受け、
-悠久の時を感じ 自然を楽しめる山陰海岸編をお届けします。' where id = '24pS9ew9juct7bc9zQZwv';
-update content_bodies set title = 'Discovering Kansai! ''THE EXCITING KANSAI'' San''in Coast Edition', description = 'Kansai, where Japan''s representative World Heritage sites and traditions and cultures backed by a long history come to life.
-
-How about embarking on a fun journey to explore the many unknown attractions here?
-
-This time, we present the San''in Coast edition, where the mountains directly meet the sea, receiving abundant blessings from the ocean, feeling the passage of time, and enjoying nature.' where id = 'SfsUnG4DPTbv8W_fLWr0p';
-update content_bodies set title = '関西新発見お旅！「THE EXCITING KANSAI」琵琶湖編', description = '日本を代表する世界遺産や悠久の歴史に裏打ちされた伝統・文化が息づく関西。
-ここにあるたくさんのまだ知られていない、魅力を探る、そんな楽しい旅に出ませんか？
-
-今回は、豊かな水と自然に抱かれた滋賀県、琵琶湖編をお届けします。' where id = 'SEdmGWx1svXdO10hvDugu';
-update content_bodies set title = 'Discovering Kansai! ''THE EXCITING KANSAI'' Lake Biwa Edition', description = 'Kansai, where Japan''s representative World Heritage sites and traditions and culture backed by a long history come to life.
-
-How about embarking on a fun journey to explore the many unknown attractions here?
-
-This time, we present the Lake Biwa edition from Shiga Prefecture, embraced by rich water and nature.' where id = 'DfJ5jleOUim5x9nhJirQJ';
-update content_bodies set title = '雪国のECO LODGES JAPAN - 100年後も雪国があることを確保する', description = '雪国のECO LODGES JAPAN
-https://ecolodge.yukigunijapan.com/
-
-雪国 - 雪によって形作られた生活
-https://yukigunijapan.com/
-
-エコロッジとして知られる宿泊施設は、世界中に存在する小規模で高品質な施設であり、通常は「環境保護」、「地域社会への貢献」、および「本物の自然と文化との交流」を重視しています。おそらく、各地域の特性を取り入れたさまざまなスタイルのエコロッジが世界中に存在すると言えるでしょう。
-
-私たちの雪国地域には、他の地域では見られない環境があり、地元の自然と密接に結びついたエコロッジがあります。これらのエコロッジは、地域社会に利益をもたらすだけでなく、地元の自然と文化を次の世代に引き継ぐことを望んでいます。
-
-100年後にも雪国が存在することを確保することを目指し、「雪と水の保護」や「雪国特有の料理や地域産業の継続」といった約40の要件を定め、エコロッジを評価します。各宿泊施設がこれらの要件にどのように適合しているかを見ることで、社会的影響を把握し、将来の改善点を明らかにすることができます。
-
-0:00 星温泉 長寿館
-0:57 翔文
-2:13 雛の宿 千歳
-3:08 星温泉 長寿館
-
-受賞歴
-テレーズ旅行祭映画 & 創造性 SOCIAL CHECK-IN - ゴールド賞
-日本世界観光映画祭 - 観光サービス国際コンペティション - 銀賞
-ART&TUR - 国際観光映画祭 - ホテル & リゾート - 2位
-アモルゴス観光映画祭 - 観光サービス - 3位
-カンヌ企業メディア & TV賞 - ファイナリスト証明書
-シラフェスト - ファイナリスト証明書
-世界最高の観光映画（CIFFT）観光サービス - 2位
-
-▼映画クレジット
-映画監督: 藤野健
-映画プロデューサー: 藤野健
-撮影: 森山久男
-編集: 森山久男
-音楽: 渡辺幸信 / Rii' where id = 'zSvi1IcidDLm9xnJDhw_1';
-update content_bodies set title = 'ECO LODGES JAPAN in YUKIGUNI - Ensuring there is a Snow Country 100 years from now', description = 'ECO LODGES JAPAN in YUKIGUNI
-https://ecolodge.yukigunijapan.com/
-
-YUKIGUNI - Lives shaped by snow
-https://yukigunijapan.com/
-
-Accommodations known as eco-lodges tend to be small, high quality facilities that exist all over the world that usually have a high regard for “environmental conservation”, “contribution to the local community”, and “interaction with genuine nature and culture”. It is probably fair to say that there are various styles of eco-lodges across the globe that each incorporate the special characteristics of their own region.
-
-In our Yukiguni region, with its environment that can’t be found in other parts of the world, there are eco-lodges that are closely entwined with the local nature. Each of these eco-lodges shares the desire to not only be a benefit to the community, but also to pass on the local nature and culture to the next generation.
-
-With the aim of ensuring that there is still a Snow Country in 100 years we have stated around forty requirements on which the eco-lodges are to be graded that encompass “the protection of snow and water”, and “the continuation of cuisine and local industries that are typical to Snow Country.” By seeing how each accommodation measures up to these requirements we will be able to see their social impact as well as highlight areas for future improvements.
-
-0:00 Hoshi Onsen Chojukan
-0:57 Syoubun
-2:13 Hinanoyado Chitose
-3:08 Hoshi Onsen Chojukan
-
-Awards
-Terres Travel Festival Films & Creativity SOCIAL CHECK-IN -Gold Award
-Japan World''s Tourism Film Festival - Tourism Services International Competition - Silver prize
-ART&TUR - International Tourism Film Festival- Hotels & Resorts -2nd prize
-Amorgos Tourism Film Festival- Tourism Services -3rd Prize
-Cannes Corporate Media & TV Awards- Finalist Certificate
-Silafest -Finalist Certificate
-World''s Best Tourism Films（CIFFT） Tourism Services - 2nd prize
-
-▼FILM CREDITS
-Film Director: Ken Fujino
-Film  Producer: Ken Fujino
-Cinematography: Hisao Moriyama
-Edit: Hisao Moriyama
-Music: Yukinobu Watanabe / Rii' where id = 'GwmMMEyd8ia5ox0ZV_rPK';
-update content_bodies set title = '温泉のポテンシャルを体感する', description = 'ひなの宿ちとせ | Hinanoyado Chitose
-
-世界でも有数の積雪量を誇る山間部に位置し、豊かな里山に囲まれた温泉宿。地域の自然や文化を体感できるアクティビティも充実。高温で自噴する温泉を活用した取り組みで地域をリードしている。
-
-https://www.ecolodge-jp.yukigunijapan.com/ecolodge/hinanoyado-chitose/' where id = 'oxSHDn1g75kaykqoiOOiz';
-update content_bodies set title = 'Experience the Potential of Hot Springs', description = 'Hinanoyado Chitose | Hinanoyado Chitose
-
-Located in a mountainous area known for its heavy snowfall, surrounded by rich satoyama landscapes. The inn offers a variety of activities that allow guests to experience the local nature and culture. It leads the region with initiatives utilizing high-temperature natural hot springs.
-
-https://www.ecolodge-jp.yukigunijapan.com/ecolodge/hinanoyado-chitose/' where id = 'hWvR4zzGbpA41qO22qUpv';
-update content_bodies set title = '21世紀の北越雪譜vol.1 猟師 阿部達也', description = '雪国を生きた先人たちは、厳しい環境の中で暮らすための知恵を語り継いできました。しかし急速に進んだ近代化により継承が途絶えようとしています。
-21世紀の北越雪譜プロジェクトは、雪国の知恵や独自性を、世代を越えて、国を越えて伝えていくことを目指しています。
-
-＜21世紀の北越雪譜vol.1 阿部達也＞
-地元の食材にこだわる料理人として山人料理をふるまう一方、猟師として山に入る暮らしを続ける阿部達也さん。
-そんな達也さんの猟を追い、山への想いに迫るショートドキュメンタリー。
-
-http://snow-country.jp
-
-YUKIGUNI - Lives shaped by snow
-https://yukigunijapan.com/' where id = 'y-K19iXVb4R3r16Y1PA-y';
-update content_bodies set title = '21st Century Hokueki Snow Chronicle vol.1 Hunter Tatsuya Abe', description = 'The ancestors who lived in the snow country have passed down their wisdom for surviving in a harsh environment. However, this inheritance is on the verge of extinction due to rapid modernization.
-The 21st Century Hokueki Snow Chronicle Project aims to convey the wisdom and uniqueness of the snow country across generations and borders.
-
-<21st Century Hokueki Snow Chronicle vol.1 Tatsuya Abe>
-As a chef who is particular about local ingredients, Tatsuya Abe serves mountain cuisine while continuing his life as a hunter in the mountains.
-This short documentary follows Tatsuya''s hunting and delves into his feelings for the mountains.
-
-http://snow-country.jp
-
-YUKIGUNI - Lives shaped by snow
-https://yukigunijapan.com/' where id = '0X0BInoHLl0zejycpzdP5';
-update content_bodies set title = '関まつり2024_あんどんみこしコンクール', description = '令和6年4月20日(土)に岐阜県関市にて開催された『関まつり』の様子です！👀🏮✨' where id = 'dJp-vlAzDdyYUF1TWyqvr';
-update content_bodies set title = 'Seki Festival 2024_Andon Mikoshi Competition', description = 'This is the scene of the ''Seki Festival'' held in Seki City, Gifu Prefecture on Saturday, April 20, 2024! 👀🏮✨' where id = 'QRwGqYjADubVYqqb8ANH9';
-update content_bodies set title = '桜の樹の下で関おどりwith郡上踊り', description = '令和6年3月31日(日)に岐阜県関市の観光施設「せきてらす」にて開催された
-『桜の樹の下で関おどりwith郡上踊り』のPVです！👀✨
-当日は関おはやし会と郡上高校の生徒たちでお囃子（おはやし）をし
-関高校の生徒も集まり会場を盛り上げました！
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
-岐阜県関市では毎年7月中旬から9月上旬にかけて
-市内で盆おどりを開催しております！🏮
-関市の盆おどりは「郡上踊り」や「田原昔踊り」など、「関おどり」以外の
-おどりもあって欲張りイイトコドリな盆おどりです！✨
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
-今年の情報は以下URLからご確認ください！
-http://sekikanko.jp/wp-content/uploads/2024/07/関盆おどりポスター20240707-1.pdf
-http://sekikanko.jp/wp-content/uploads/2024/07/関盆おどりチラシ20240707.pdf' where id = 'dhEPUurD3mo0o4WZIf2JU';
-update content_bodies set title = 'Sakura no Ki no Shita de Seki Odori with Gujo Odori', description = 'This is the promotional video for ''Sakura no Ki no Shita de Seki Odori with Gujo Odori'' held on March 31, 2024 (Sunday) at the tourist facility ''Sekiterasu'' in Seki City, Gifu Prefecture! 👀✨ On that day, the Seki Ohayashi Association and students from Gujo High School performed the music, and students from Seki High School gathered to liven up the venue! 
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌ 
-In Seki City, Gifu Prefecture, Bon Odori (traditional summer dance) is held every year from mid-July to early September! 🏮 The Bon Odori in Seki City features not only ''Seki Odori'' but also dances like ''Gujo Odori'' and ''Tahara Mukashi Odori,'' making it a delightful and diverse Bon Odori experience! ✨ 
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌ 
-Please check the information for this year at the following URLs! 
-http://sekikanko.jp/wp-content/uploads/2024/07/関盆おどりポスター20240707-1.pdf 
-http://sekikanko.jp/wp-content/uploads/2024/07/関盆おどりチラシ20240707.pdf' where id = 'YA0Y9lp-kDQhM40S_RVvd';
-update content_bodies set title = '【るろうに剣心×滋賀県】ロケ地巡り～始まりも終わりも、この地から～', description = '「るろうに剣心The Final」がいよいよ明日公開です！
-
-シリーズ１作目から６月４日公開の「るろうに剣心The Final」まで、すべての作品において滋賀県での撮影シーンがあります。
-今回は、その中でも特に映画で重要なシーンとなった６か所のロケ地をご紹介!
-
-動画を見て映画を何倍も楽しみましょう♪
-そして「るろうに剣心×滋賀県」を感じてみてください！！
-
-↓「るろうに剣心×滋賀県」の特設サイトもぜひご覧ください。
-https://ruroken-shiga.biwako-visitors.jp/
-
-＜動画でご紹介しているロケ地＞
-【三井寺】
-雪代縁との再会の地
-【彦根城】
-瀬田宗次郎襲撃の地
-【日吉大社】
-剣心の旅の始まりの地
-【八幡堀】
-薫との別れの地
-【日野城跡】
-四乃森蒼紫との対決の地
-【油日神社】
-剣心の運命を大きく変える地' where id = 'ns1R_KqeOA6Y7_WF3NcsD';
-update content_bodies set title = '[Rurouni Kenshin × Shiga Prefecture] Location Tour - From Beginning to End, This Land', description = '''Rurouni Kenshin: The Final'' is finally being released tomorrow!
-
-From the first installment of the series to ''Rurouni Kenshin: The Final'' released on June 4, there are filming scenes in Shiga Prefecture for all works.
-This time, we will introduce six filming locations that were particularly important scenes in the movie!
-
-Let''s watch the video and enjoy the movie even more!
-And feel the ''Rurouni Kenshin × Shiga Prefecture'' experience!!
-
-↓ Please also check out the special site for ''Rurouni Kenshin × Shiga Prefecture''.
-https://ruroken-shiga.biwako-visitors.jp/
-
-<Filming locations introduced in the video>
-[Mitsui-dera]
-The place of reunion with Yukishiro Enishi
-[Hikone Castle]
-The place of the attack by Seta Sojiro
-[Hiyoshi Taisha]
-The place where Kenshin''s journey begins
-[Yahata-bori]
-The place of parting with Kaoru
-[Hino Castle Ruins]
-The place of confrontation with Shinomori Aoshi
-[Aburahi Shrine]
-The place that greatly changes Kenshin''s fate' where id = 'oFXFvwp-sBY0vGKl_Y4Ug';
-update content_bodies set title = '文化財の宝庫！滋賀のおすすめロケスポット４選！', description = '滋賀県は、重要文化財の件数が全国4位であるなど、全国有数の文化財保有県であり、地域に根付いた多様な歴史文化遺産が各地に点在しています。そんな滋賀県が誇るおすすめの寺社仏閣ロケスポットを４か所紹介します。
-
-紹介スポット：兵主大社（野洲市）、金勝寺（栗東市）、金剛輪寺（愛荘町）、 胡宮神社（多賀町）' where id = 'Mx3OwBFyyNzqgJXUfYyHl';
-update content_bodies set title = 'A Treasure Trove of Cultural Heritage! 4 Recommended Filming Locations in Shiga!', description = 'Shiga Prefecture ranks 4th in the nation for the number of important cultural properties, making it one of Japan''s leading prefectures in terms of cultural heritage. Various historical and cultural assets rooted in the region are scattered throughout the area. Here, we introduce four recommended filming locations of temples and shrines that Shiga Prefecture takes pride in.
-
-Recommended Spots: Hyozu Taisha (Yasu City), Kinkatsu-ji (Ritto City), Kongorin-ji (Aisho Town), Kogu Shrine (Taga Town)' where id = '_4f4ZpCMGgcl1QViqWEmx';
-update content_bodies set title = '【東北・青森】秋旅「山彩る　弘前」', description = '秋の弘前市は、紅葉が広がる岩木山や一面が赤く染まるりんご畑、桜の紅葉が楽しめる弘前城菊と紅葉まつりなど、市内各所で秋を感じることができます。
-中でもりんごは、生産量日本一を誇り、全国の約20％が弘前市産りんごです。
-ぜひ、秋の弘前市をご堪能ください。' where id = 'tm_1rwKMkFREXE6i3X6Pr';
-update content_bodies set title = '[Tohoku/Aomori] Autumn Trip ''Colorful Mountains in Hirosaki''', description = 'In autumn, Hirosaki City offers the beauty of the colorful leaves on Mount Iwaki, apple orchards painted in red, and the Hirosaki Castle Chrysanthemum and Autumn Leaves Festival, where you can enjoy the autumn scenery throughout the city.
-Among them, apples are a point of pride, with Hirosaki City producing about 20% of Japan''s total apple production.
-Please enjoy the autumn in Hirosaki City.' where id = 'SD4UeZ2Ate-K2sRr5R01U';
-update content_bodies set title = '【東北・青森】春旅「風光る　弘前」（春編）', description = '弘前市の春は、弘前公園のさくらはもちろん、真っ白なりんごの花が畑一面に咲き誇る、とても華やかな季節となります。
-食事をしながら津軽三味線の音色を楽しんだり、明治・大正の洋風建築を巡ったり、弘前れんが倉庫美術館で現代アートが楽しめたり…
-ぜひ、弘前の春を動画でお楽しみください。' where id = 'k1bHXm3Jx-mbFkIwspsZT';
-update content_bodies set title = '[Tohoku/Aomori] Spring Trip ''Kaze Hikaru Hirosaki'' (Spring Edition)', description = 'Spring in Hirosaki City is a very vibrant season, with not only the cherry blossoms in Hirosaki Park but also the pure white apple blossoms blooming across the fields.
-You can enjoy the sounds of Tsugaru shamisen while dining, explore Western-style architecture from the Meiji and Taisho eras, and appreciate contemporary art at the Hirosaki Brick Warehouse Museum...
-Please enjoy the spring of Hirosaki through our video.' where id = 'B4vT_yEuutAWjfJTi34LO';
-update content_bodies set title = 'こさぶろうが行く！城街コレクション④～高知城編～', description = '江戸時代以前から残る現存12天守。
-
-お城の魅力はもちろん！
-城下町としてのまちの魅力をキューティーブロンズのこさぶろうさんが伝えます。' where id = 'nRsPZrPJi2oxrfJFkjVqC';
-update content_bodies set title = 'Kosaburou Goes! Castle Town Collection ④ - Kochi Castle Edition -', description = 'The existing 12 castles that have remained since before the Edo period.
-
-The charm of the castle, of course!
-Kosaburou from Cutie Bronze will convey the charm of the town as a castle town.' where id = 'mxyOB5HJ3MyoutvivlTHQ';
-update content_bodies set title = 'こさぶろうが行く！城街コレクション②～宇和島城編～', description = '江戸時代以前から残る現存12天守。
-
-お城の魅力はもちろん！
-城下町としてのまちの魅力をキューティーブロンズのこさぶろうさんが伝えます。' where id = 'CfrjxA_I848DERHlvu7_i';
-update content_bodies set title = 'Kosaburo Goes! Castle Town Collection ② - Uwajima Castle Edition -', description = 'The existing 12 castles that have remained since before the Edo period.
-
-The charm of the castle, of course!
-Kosaburo from Cutie Bronze will convey the charm of the town as a castle town.' where id = 'fxvfuoq6-EfV8Rjvkwb3i';
-update content_bodies set title = 'こさぶろうが行く！城街コレクション⑦～松江城編～', description = '江戸時代以前から残る現存12天守。
-
-お城の魅力はもちろん！
-城下町としてのまちの魅力をキューティーブロンズのこさぶろうさんが伝えます。' where id = '2VxgKuHAYy9_T8U7LIshE';
-update content_bodies set title = 'Kosaburou Goes! Castle Town Collection ⑦ - Matsue Castle Edition -', description = 'The existing 12 castles that have remained since before the Edo period.
-
-The charm of the castle, of course!
-Kosaburou from Cutie Bronze will convey the charm of the town as a castle town.' where id = 'CsvszJDY22UDn9gZvQJHM';
-update content_bodies set title = 'こさぶろうが行く！城街コレクション⑧～姫路城編～', description = '江戸時代以前から残る現存12天守。
-
-お城の魅力はもちろん！
-城下町としてのまちの魅力をキューティーブロンズのこさぶろうさんが伝えます。' where id = 'wBYb-m4xczY-VMF2B0e0C';
-update content_bodies set title = 'Kosaburou Goes! Castle Town Collection ⑧ - Himeji Castle Edition -', description = 'The existing 12 tenshu that have remained since before the Edo period.
-
-The charm of the castle, of course!
-Kosaburou from Cutie Bronze will convey the charm of the town as a castle town.' where id = 'LxUo-koe0ZtpiprhizdHr';
-update content_bodies set title = 'こさぶろうが行く！城街コレクション⑨～犬山城編～', description = '江戸時代以前から残る現存12天守。
-
-お城の魅力はもちろん！
-城下町としてのまちの魅力をキューティーブロンズのこさぶろうさんが伝えます。' where id = 'cr3Y8QBJK-pdAWphwW3nH';
-update content_bodies set title = 'Kosaburo Goes! Castle Town Collection ⑨ - Inuyama Castle Edition -', description = 'The existing 12 castles with their keep that have remained since before the Edo period.
-
-The charm of the castle, of course!
-Kosaburo from Cutie Bronze will convey the charm of the town as a castle town.' where id = 'oNVUXRaq0H6fwCLrTzehd';
-update content_bodies set title = 'こさぶろうが行く！城街コレクション⑩～彦根城編～', description = '江戸時代以前から残る現存12天守。
-
-お城の魅力はもちろん！
-城下町としてのまちの魅力をキューティーブロンズのこさぶろうさんが伝えます。' where id = 'SChnx3dNANrfiK6DA7HuQ';
-update content_bodies set title = 'Kosaburou Goes! Castle Town Collection ⑩ - Hikone Castle Edition -', description = 'The existing 12 castles that have remained since before the Edo period.
-
-The charm of the castle, of course!
-Kosaburou from Cutie Bronze will convey the charm of the town as a castle town.' where id = '6u0uWP6tGc-Ofqt_qQlcA';
-update content_bodies set title = 'こさぶろうが行く！城街コレクション⑬～エンディング編～', description = '江戸時代以前から残る現存12天守。
-
-お城の魅力はもちろん！
-城下町としてのまちの魅力をキューティーブロンズのこさぶろうさんが伝えます。' where id = 'pfU4ctE0fSZEZ_NL7fcKG';
-update content_bodies set title = 'Kosaburou Goes! Castle Town Collection ⑬ - Ending Edition -', description = 'The existing 12 castles that have remained since before the Edo period.
-
-The charm of the castle, of course!
-Kosaburou from Cutie Bronze will convey the charm of the town as a castle town.' where id = '6wfHECMwKPajeIGx2t-QD';
-update content_bodies set title = '【高知県 仁淀川エリアPR動画】 "発見の夏旅編"　高知市Ver', description = 'この動画のフルverはこちら
-▷https://youtu.be/pLdihdG0IxQ
-
-豊かな水を湛える仁淀川
-夏の陽射しは強く、水面はきらめく
-そしてこの水で流域は潤い、豊かに育む。
-新しい何かに出会えそうな場所、高知県・仁淀川
-そんなNIYODOへ旅しませんか？
-高知市からもアクセス良好！色んな高知を楽しもう！
-
-仁淀川の観光情報はこちらから
-▷https://niyodoblue.jp/
-
-【動画内にでてきたスポット詳細】
-桂浜 (高知市浦戸)
-日曜市 (高知市追手筋)
-かつお船 (高知市仁井田201-2)
-JR高知駅 (高知市栄田町2丁目1-10)' where id = '8w6klEudujf7EIoogvuiE';
-update content_bodies set title = '[Kochi Prefecture Niyodo River Area PR Video] ''Summer Travel Edition of Discovery'' Kochi City Ver', description = 'The full version of this video is here
-▷https://youtu.be/pLdihdG0IxQ
-
-The Niyodo River, rich in water
-The summer sunlight is strong, and the water surface sparkles
-And with this water, the basin is nourished and thrives.
-A place where you might encounter something new, Kochi Prefecture - Niyodo River
-Shall we travel to such NIYODO?
-Easily accessible from Kochi City! Let''s enjoy various aspects of Kochi!
-
-Tourist information about the Niyodo River can be found here
-▷https://niyodoblue.jp/
-
-[Details of spots featured in the video]
-Katsurahama (Uradō, Kochi City)
-Sunday Market (Otemachi, Kochi City)
-Bonito Boat (Nii-da, Kochi City 201-2)
-JR Kochi Station (2-1-10 Sakeda-cho, Kochi City)' where id = 'x24q1fcwyJCZf330fO7ei';
-update content_bodies set title = '【高知県 仁淀川エリアPR動画】 "発見の夏旅編"　土佐市Ver', description = 'この動画のフルverはこちら
-▷https://youtu.be/pLdihdG0IxQ
-
-豊な水を湛える仁淀川
-夏の陽射しは強く、水面はきらめく
-そしてこの水で流域は潤い、豊かに育む。
-新しい何かに出会えそうな場所、高知県・仁淀川
-そんなNIYODOへ旅しませんか？
-高知市からもアクセス良好！色んな高知を楽しもう！
-
-仁淀川の観光情報はこちらから
-▷https://niyodoblue.jp/
-
-【動画内にでてきたスポット詳細】
-宇佐しおかぜ公園（土佐市宇佐町橋田浜2752-7)
-萩の茶屋（土佐市宇佐町宇佐2739-4）' where id = 'nlubaVfwiK0jcoqjJDc1q';
-update content_bodies set title = '[Kochi Prefecture Niyodo River Area PR Video] ''Summer Travel Edition of Discovery'' Tosa City Ver', description = 'The full version of this video is here
-▷https://youtu.be/pLdihdG0IxQ
-
-The Niyodo River, rich in water
-The summer sunlight is strong, and the water surface sparkles
-And with this water, the basin is nourished and thrives.
-A place where you might encounter something new, Kochi Prefecture - Niyodo River
-Shall we travel to such NIYODO?
-Easily accessible from Kochi City! Let''s enjoy various aspects of Kochi!
-
-Tourist information about the Niyodo River can be found here
-▷https://niyodoblue.jp/
-
-[Details of spots featured in the video]
-Usa Shio Kaze Park (2752-7 Hashidahama, Usa Town, Tosa City)
-Hagi no Chaya (2739-4 Usa Town, Tosa City)' where id = 'QHemZut0Veznks1_m-Snz';
-update content_bodies set title = '【高知県 仁淀川エリアPR動画】 "発見の夏旅編"　いの町Ver', description = 'この動画のフルverはこちら
-▷https://youtu.be/pLdihdG0IxQ
-
-豊かな水を湛える仁淀川
-夏の陽射しは強く、水面はきらめく
-そしてこの水で流域は潤い、豊かに育む。
-新しい何かに出会えそうな場所、高知県・仁淀川
-そんなNIYODOへ旅しませんか？
-高知市からもアクセス良好！色んな高知を楽しもう！
-
-仁淀川の観光情報はこちらから
-▷https://niyodoblue.jp/
-
-【動画内にでてきたスポット詳細】
-土佐和紙工芸村くらうど（いの町鹿敷1226）' where id = 'd7VRo7-OhCo0TlwDN8Cvy';
-update content_bodies set title = '[Kochi Prefecture Niyodo River Area PR Video] ''Summer Travel Edition of Discovery'' Ino Town Ver', description = 'The full version of this video is here
-▷https://youtu.be/pLdihdG0IxQ
-
-The Niyodo River, rich in water
-The summer sunlight is strong, and the water surface sparkles
-And with this water, the basin is nourished and thrives.
-A place where you might encounter something new, Kochi Prefecture - Niyodo River
-Shall we travel to such NIYODO?
-Easily accessible from Kochi City! Let''s enjoy various aspects of Kochi!
-
-Tourist information about the Niyodo River can be found here
-▷https://niyodoblue.jp/
-
-[Details of spots featured in the video]
-Tosa Washi Craft Village Cloud (1226 Kashiki, Ino Town)' where id = 'C5zCIwVz27s1gk2A7F9ry';
-update content_bodies set title = '【高知県 仁淀川エリアPR動画】 "発見の夏旅編"　佐川町Ver', description = 'この動画のフルverはこちら
-▷https://youtu.be/pLdihdG0IxQ
-
-豊かな水を湛える仁淀川
-夏の陽射しは強く、水面はきらめく
-そしてこの水で流域は潤い、豊かに育む。
-新しい何かに出会えそうな場所、高知県・仁淀川
-そんなNIYODOへ旅しませんか？
-高知市からもアクセス良好！色んな高知を楽しもう！
-
-仁淀川の観光情報はこちらから
-▷https://niyodoblue.jp/
-
-【動画内にでてきたスポット詳細】
-酒ギャラリーほてい（佐川町甲1299)
-牧野公園  (佐川町甲2458)
-旧浜口邸  (佐川町甲1472-1)' where id = 'PTVcA4Ifm0D3FI5C3CB40';
-update content_bodies set title = '[Kochi Prefecture Niyodo River Area PR Video] ''Summer Travel Edition of Discovery'' Saka Town Ver', description = 'The full version of this video is here
-▷https://youtu.be/pLdihdG0IxQ
-
-The Niyodo River, rich in water
-The summer sunlight is strong, and the water surface sparkles
-And with this water, the basin is nourished and thrives.
-A place where you might encounter something new, Kochi Prefecture - Niyodo River
-Shall we travel to such NIYODO?
-Easily accessible from Kochi City! Let''s enjoy various aspects of Kochi!
-
-Tourist information about the Niyodo River can be found here
-▷https://niyodoblue.jp/
-
-[Details of spots featured in the video]
-Sake Gallery Hotei (Saka Town, Ko 1299)
-Makino Park (Saka Town, Ko 2458)
-Old Hamaguchi Residence (Saka Town, Ko 1472-1)' where id = 'TNE8PsALbYt6N3gyoT8eC';
-update content_bodies set title = '【高知県 仁淀川エリアPR動画】 "発見の夏旅編"　越知町Ver', description = 'この動画のフルverはこちら
-▷https://youtu.be/pLdihdG0IxQ
-
-豊かな水を湛える仁淀川
-夏の陽射しは強く、水面はきらめく
-そしてこの水で流域は潤い、豊かに育む。
-新しい何かに出会えそうな場所、高知県・仁淀川
-そんなNIYODOへ旅しませんか？
-高知市からもアクセス良好！色んな高知を楽しもう！
-
-仁淀川の観光情報はこちらから
-▷https://niyodoblue.jp/
-
-【動画内にでてきたスポット詳細】
-有機高揚 ZAB体験（越知町浅尾鎌井田)
-浅尾沈下橋（越知町浅尾鎌井田)' where id = 'Z4BQ-KfKLB6YxNojx1hps';

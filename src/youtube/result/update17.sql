@@ -1,3 +1,520 @@
+update content_bodies set title = '[Tokushima Tourism] 10 Recommended Accommodations You’ll Want to Stay at During Your Tokushima Trip', description = 'Please use this as a reference for your trip or sightseeing in Tokushima Prefecture.
+Tokushima Prefecture has a plethora of accommodations. Here, we introduce 10 recommended places that will make you want to stay during your Tokushima trip. No matter which facility you choose, you are guaranteed to find charm and a relaxing atmosphere.
+■ [Free] Register for the Travel Master Official LINE@ here.
+https://lin.ee/gOY9AJB
+(We regularly share ways to travel smartly, affordably, and richly!)
+
+■ Subscribe to the channel here
+http://ur0.work/6vl5
+#Tokushima #Tourism #Travel #TravelMaster
+
+▼====== Regarding Work Requests ======▼
+
+To all tourism and travel industry professionals and store managers.
+
+Travel Master will help promote your local attractions and stores.
+
+Would you like to share information you want to promote (tourist spots, store introductions, accommodations, dining...) in a video?
+
+For work requests, please contact us here.
+info@ryoko-tatsujin.com
+
+▼====== About the Travel Master Channel ======▼
+
+・What is Travel Master?
+Travel Master is a channel that delivers various travel information (sightseeing, transportation, accommodations, dining...) both domestically and internationally to make your travels more enjoyable! We provide information to make your trips more fun and comfortable.
+
+・Vision and Mission
+"I want you to enrich your life through travel." This channel is operated with that thought in mind. Our members, who spend nearly half the year traveling, supervise and manage the channel. We aim to increase opportunities for you to expand your possibilities and enrich your life through travel.
+
+・A word from the operating members
+As the saying goes, "a journey of self-discovery," traveling can help you discover new possibilities within yourself. This is because travel is an affordable tool to experience various unrealities. We hope that more people will embark on journeys, discover new possibilities, and enrich their lives. We hope this channel can be a catalyst for that.
+
+・Related Information (Please follow us!)
+
+Official Instagram
+→ https://www.instagram.com/tripmasterjt/
+
+Official Twitter
+→ https://twitter.com/tripmasterjt
+
+Official LINE Account
+→ https://lin.ee/gOY9AJB
+
+▼====== About the Video Introduced Today ======▼
+0:00 Theme
+
+Details of the places introduced today
+0:46 1. Shin Iya Onsen Hotel Kazurabashi
+https://goo.gl/maps/7WJP8o9e5cuMtB7H9
+
+1:20 2. Hotel Taiyo Farm, in front of Tokushima Prefectural Office
+https://goo.gl/maps/ygiqQZt4ERCh8wSe9
+
+1:52 3. Hotel Sunroute Tokushima
+https://goo.gl/maps/DNN8Ci3QYLwkzdo26
+
+2:22 4. Wa no Yado Hotel Iya Onsen
+https://goo.gl/maps/xn5k8vaLA4GTS3zu6
+
+2:51 5. Valley Hidden Inn Iya Bijin
+https://goo.gl/maps/NK6FbukiS9pD43eB9
+
+3:25 6. Hotel Ridge
+https://goo.gl/maps/zYeZ1HDtPLMCADMy9
+
+3:54 7. Awa Awa Naruto Resort
+https://goo.gl/maps/CSoWfBVFXfNbtkMP7
+
+4:23 8. Gorge Hot Spring Inn Ooboke Kyo Mannaka
+https://goo.gl/maps/SXhUFYZWJY6iLaw1A
+
+4:57 9. Bay Resort Hotel Naruto Kaigetsu
+https://goo.gl/maps/sJMaravgk83hkScGA
+
+5:25 10. Hotel Route Inn Anan
+https://goo.gl/maps/WcR3FqzCrb2A4Ts97
+
+Image source
+http://ryoko-tatsujin.com/tokushima004/
+
+▼====== Explanation and Precautions Regarding This Video ======▼
+
+*Precautions
+The information introduced in the video may change.
+When visiting the site, please check the details on the official website in advance.
+
+*Selection Criteria
+The selection and introduction criteria for the spots featured in the video depend on values and preferences, but we will strive to incorporate as many opinions and feedback as possible for improvement.
+
+*Copyright (Regarding Images)
+This channel is produced based on [official websites and various media information], but regarding images, we quote them without altering the photos and, under the advice of lawyers, ensure that we do not reproduce or adapt copyrighted works in the video. Of course, we are committed to ensuring that we do not inconvenience the image authors and to delivering valuable travel information to our viewers. However, if any image copyright holders wish to have their images removed from the video due to any form of disadvantage, we would appreciate it if you could contact us at the address below. We will respond promptly.
+
+Contact
+info@ryoko-tatsujin.com
+
+▼====== Recommended Videos ======▼
+
+[Tokushima Tourism] 8 Popular Souvenirs from Tokushima
+https://youtu.be/8aP4OrbZV68
+
+[Tokushima Tourism] 10 Recommended Outdoor Spots in Tokushima
+https://youtu.be/dGzTnn8WhNo
+
+[Tokushima Tourism] 10 Recommended Tourist Spots in Tokushima Prefecture
+https://youtu.be/Gf6_rRnDnHY' where id = 'Rh_sCJg69fBQzhERnnFnB';
+update content_bodies set title = '【愛媛】 愛媛旅行で訪れたい観光スポットを坊っちゃん列車で巡ろう！', description = '愛媛県への旅行や観光で参考にしてください。愛媛県には一度は訪れたい観光スポットがたくさんあります。ここでは坊っちゃん列車で巡る、愛媛のおすすめ観光スポット10選を紹介しています。この動画で紹介されてないオススメがありましたら、ぜひコメント欄でシェアしてくださいね。
+■【無料】旅行の達人 公式LINE＠の登録はこちらから。
+https://lin.ee/gOY9AJB
+（賢く、お得に、リッチに旅行する方法を随時配信！）
+
+■チャンネルの登録はコチラから
+http://ur0.work/6vl5
+#愛媛 #観光 #旅行の達人
+
+▼======お仕事の依頼について======▼
+
+観光にたずさわる観光・旅行業・店舗経営者のみなさんへ。
+
+旅行の達人ではあなたの地域の
+観光スポットや店舗のPRをお手伝いします。
+
+PRしたい情報（観光地・店舗紹介・宿泊・食事...）を
+動画でシェアしませんか？
+
+お仕事の依頼はこちらから。
+info@ryoko-tatsujin.com
+
+▼======旅行の達人チャンネルについて======▼
+
+・旅行の達人とは？
+旅行をより楽しく！旅行の達人は国内外のあらゆる旅行情報【観光・移動・宿泊・食事...】を配信するチャンネルです。あなたの旅行をより楽しくより快適にするための情報をお届けします。
+
+・ヴィジョン・ミッション
+「旅行で人生を豊かにしてほしい」当チャンネルはそんな想いで運営しています。１年の半分近くを旅しながら過ごしているメンバーが監修運営。旅行をとおして自分の可能性を広げてより豊かになるキッカケを増やします。
+
+・運営メンバーからの一言
+「自分探しの旅」という言葉があるように、旅行をすることで新しい自分の可能性を発見することがあります。それは旅行があらゆる非現実を体験できるお手頃なツールだからです。もっと多くの方が旅行に出かけ、新しい可能性を発見し、人生を豊かにする。このチャンネルがそのきっかけになれば幸いです。
+
+・関連情報（ぜひフォローください！）
+
+公式インスタグラム
+→　https://www.instagram.com/tripmasterjt/
+
+公式ツイッター
+→　https://twitter.com/tripmasterjt
+　
+公式LINEアカウント
+→　https://lin.ee/gOY9AJB
+
+▼======本日ご紹介した動画について======▼
+0:00　テーマ
+
+本日ご紹介した場所の詳細
+0:56　1.坊っちゃん列車ミュージアム
+https://goo.gl/maps/p2pRPhbcLgmbYsFVA
+
+1:28　2.松山城
+https://goo.gl/maps/oXpimJRMRmh76vVx9
+
+2:02　3.子規堂
+https://goo.gl/maps/XmHtCsz5ZG9NLq899
+
+2:33　4.道後温泉本館
+https://goo.gl/maps/nbEKmp7d3B3oJRci8
+
+3:10　5.坂の上の雲ミュージアム
+https://goo.gl/maps/HUyBJCKWiWZjHiP46
+
+3:44　6.坊っちゃんカラクリ時計
+https://goo.gl/maps/LycRCk6mmap4MEo57
+
+4:19　7.萬翠荘(ばんすいそう)
+https://goo.gl/maps/kyjZr4bEP3R3VCtn9
+
+4:53　8.道後温泉駅
+https://goo.gl/maps/hDYrG2dkQpgXHZpK6
+
+5:27　9.大観覧車くるりん
+https://goo.gl/maps/qYgDVCdW3zQx6xZj6
+
+5:59　10.松山市立子規記念博物館
+https://goo.gl/maps/DPN2MfpUUndw5gsc9
+
+画像引用元
+http://ryoko-tatsujin.com/ehime006/
+
+▼======この動画に関する説明と注意事項======▼
+
+※注意事項について
+動画で紹介した情報は変わる可能性があります。
+現地に足を運ぶ際は、事前に公式サイト等で詳細を確認をお願いします
+
+※選定基準について
+動画でご紹介したスポットの選定・紹介基準は価値観や趣向によりますが、
+できるだけ多くの方の感想やご意見を取り入れて改善につとめていきます
+
+※著作権について(画像について)
+当チャンネルでは［公式ホームページ・各メディア情報］を元に制作しておりますが、画像に関しては写真を改変することなく引用とし、弁護士のアドバイスの下、著作物の複製・翻案をしないよう動画に引用させていただいております。もちろん画像著作者の方にご迷惑をかけないうよう、また旅行に関する有益な情報を視聴者にお届けできるよう、チャンネル運営に取り組んでおります。しかしもし何かしらの不利益を被るかたちで動画の取り下げなどをご希望される画像著作権者の方は、お手数おかけしますが下記のアドレスにご連絡いただけますと幸いです。早急に対応させていただきます。
+
+お問い合わせ先
+info@ryoko-tatsujin.com
+
+▼======オススメ動画======▼
+
+【愛媛 観光】愛媛のオススメ観光スポット10選
+https://youtu.be/xoqtp4eVHfY
+
+【愛媛 観光】 愛媛の人気観光スポット【瀬戸内海をドライブ】
+https://youtu.be/EZAsC1gRgfA
+
+愛媛県の道後温泉おすすめスポット10選 【愛媛】
+https://youtu.be/lAD7IP4Gv8Q' where id = 'sDeyo7n34zv2Ix88k5DZ5';
+update content_bodies set title = '[Ehime] Let''s Explore Recommended Tourist Spots in Ehime by Botchan Train!', description = 'Please use this as a reference for your trip or sightseeing in Ehime Prefecture. Ehime has many tourist spots that you should visit at least once. Here, we introduce 10 recommended tourist spots in Ehime that you can explore by Botchan Train. If you have any recommendations that are not mentioned in this video, please feel free to share them in the comments section.
+■ [Free] Register for the Travel Master Official LINE@ here.
+https://lin.ee/gOY9AJB
+(We provide tips on how to travel smartly, affordably, and richly!)
+
+■ Subscribe to the channel here
+http://ur0.work/6vl5
+#Ehime #Tourism #TravelMaster
+
+▼====== Regarding Work Requests ======▼
+
+To all tourism and travel industry professionals and store owners.
+
+Travel Master will help promote tourist spots and stores in your area.
+
+Would you like to share information you want to promote (tourist spots, store introductions, accommodations, dining...) in a video?
+
+For work requests, please contact us here.
+info@ryoko-tatsujin.com
+
+▼====== About the Travel Master Channel ======▼
+
+・What is Travel Master?
+Travel Master is a channel that provides various travel information (sightseeing, transportation, accommodation, dining...) both domestically and internationally to make your travels more enjoyable! We deliver information to make your trips more enjoyable and comfortable.
+
+・Vision and Mission
+"I want you to enrich your life through travel." This channel is operated with that thought in mind. Our team, which spends nearly half the year traveling, supervises and manages the channel. We aim to increase opportunities for you to expand your possibilities and enrich your life through travel.
+
+・A word from the operating members
+As the saying goes, "a journey of self-discovery," traveling can help you discover new possibilities within yourself. This is because travel is an affordable tool to experience various unrealities. We hope that more people will embark on journeys, discover new possibilities, and enrich their lives. We hope this channel can be a catalyst for that.
+
+・Related Information (Please follow us!)
+
+Official Instagram
+→ https://www.instagram.com/tripmasterjt/
+
+Official Twitter
+→ https://twitter.com/tripmasterjt
+
+Official LINE Account
+→ https://lin.ee/gOY9AJB
+
+▼====== About the Video Introduced Today ======▼
+0:00 Theme
+
+Details of the places introduced today
+0:56 1. Botchan Train Museum
+https://goo.gl/maps/p2pRPhbcLgmbYsFVA
+
+1:28 2. Matsuyama Castle
+https://goo.gl/maps/oXpimJRMRmh76vVx9
+
+2:02 3. Shiki Memorial Museum
+https://goo.gl/maps/XmHtCsz5ZG9NLq899
+
+2:33 4. Dogo Onsen Honkan
+https://goo.gl/maps/nbEKmp7d3B3oJRci8
+
+3:10 5. Clouds Above the Hill Museum
+https://goo.gl/maps/HUyBJCKWiWZjHiP46
+
+3:44 6. Botchan Karakuri Clock
+https://goo.gl/maps/LycRCk6mmap4MEo57
+
+4:19 7. Bansuisou
+https://goo.gl/maps/kyjZr4bEP3R3VCtn9
+
+4:53 8. Dogo Onsen Station
+https://goo.gl/maps/hDYrG2dkQpgXHZpK6
+
+5:27 9. Great Ferris Wheel Kururin
+https://goo.gl/maps/qYgDVCdW3zQx6xZj6
+
+5:59 10. Matsuyama City Shiki Memorial Museum
+https://goo.gl/maps/DPN2MfpUUndw5gsc9
+
+Image Source
+http://ryoko-tatsujin.com/ehime006/
+
+▼====== Explanation and Precautions Regarding This Video ======▼
+
+*Regarding Precautions
+The information introduced in the video may change. Please check the official website for details before visiting the location.
+
+*Regarding Selection Criteria
+The selection and introduction criteria for the spots featured in the video depend on values and preferences, but we will strive to incorporate as many opinions and feedback as possible to improve.
+
+*Regarding Copyright (Images)
+This channel is produced based on [official websites and various media information], but regarding images, we quote them without altering the photos and, under the advice of a lawyer, ensure that we do not reproduce or adapt copyrighted works in the video. Of course, we are committed to ensuring that we do not inconvenience the image authors and to delivering valuable travel information to our viewers. However, if any copyright holders wish to have their images removed from the video due to any inconvenience, please contact us at the address below. We will respond promptly.
+
+Contact Information
+info@ryoko-tatsujin.com
+
+▼====== Recommended Videos ======▼
+
+[Ehime Tourism] 10 Recommended Tourist Spots in Ehime
+https://youtu.be/xoqtp4eVHfY
+
+[Ehime Tourism] Popular Tourist Spots in Ehime [Driving in the Seto Inland Sea]
+https://youtu.be/EZAsC1gRgfA
+
+10 Recommended Spots in Dogo Onsen, Ehime
+https://youtu.be/lAD7IP4Gv8Q' where id = 'E06atra4zkbdVWXIxZpOn';
+update content_bodies set title = '【青森 観光】青森県の人気観光地10選', description = '青森県への旅行や観光で参考にしてください。
+青森県には様々な観光スポットがあるため、どこへ行こうか迷ってしまうことも多いと思います。今回は、数ある観光スポットの中でも、季節を問わず楽しめる場所を紹介していきます。青森県の観光スポット選びの参考にしてみてください。
+この動画で紹介されてないオススメがありましたら、ぜひコメント欄でシェアしてくださいね。
+■【無料】旅行の達人 公式LINE＠の登録はこちらから。
+https://lin.ee/gOY9AJB
+（賢く、お得に、リッチに旅行する方法を随時配信！）
+
+■チャンネルの登録はコチラから
+http://ur0.work/6vl5
+#青森 #観光 #旅行 #旅行の達人
+
+▼======お仕事の依頼について======▼
+
+観光にたずさわる観光・旅行業・店舗経営者のみなさんへ。
+
+旅行の達人ではあなたの地域の
+観光スポットや店舗のPRをお手伝いします。
+
+PRしたい情報（観光地・店舗紹介・宿泊・食事...）を
+動画でシェアしませんか？
+
+お仕事の依頼はこちらから。
+info@ryoko-tatsujin.com
+
+▼======旅行の達人チャンネルについて======▼
+
+・旅行の達人とは？
+旅行をより楽しく！旅行の達人は国内外のあらゆる旅行情報【観光・移動・宿泊・食事...】を配信するチャンネルです。あなたの旅行をより楽しくより快適にするための情報をお届けします。
+
+・ヴィジョン・ミッション
+「旅行で人生を豊かにしてほしい」当チャンネルはそんな想いで運営しています。１年の半分近くを旅しながら過ごしているメンバーが監修運営。旅行をとおして自分の可能性を広げてより豊かになるキッカケを増やします。
+
+・運営メンバーからの一言
+「自分探しの旅」という言葉があるように、旅行をすることで新しい自分の可能性を発見することがあります。それは旅行があらゆる非現実を体験できるお手頃なツールだからです。もっと多くの方が旅行に出かけ、新しい可能性を発見し、人生を豊かにする。このチャンネルがそのきっかけになれば幸いです。
+
+・関連情報（ぜひフォローください！）
+
+公式インスタグラム
+→　https://www.instagram.com/tripmasterjt/
+
+公式ツイッター
+→　https://twitter.com/tripmasterjt
+　
+公式LINEアカウント
+→　https://lin.ee/gOY9AJB
+
+▼======本日ご紹介した動画について======▼
+0:00　テーマ
+
+本日ご紹介した場所の詳細
+
+1:00　①弘前市りんご公園
+https://goo.gl/maps/rbBiDV5eYksaTPBq6
+1:32　②太宰治まなびの家
+https://goo.gl/maps/Aqmq5ska4VLrYmGHA
+2:03　③津軽藩ねぷた村
+https://goo.gl/maps/A1kYtnLPkwTi1pGL8
+2:32　④弘前城
+https://goo.gl/maps/zEA57nxmTPUkPSbc6
+3:05　⑤嶽温泉
+https://goo.gl/maps/jRZ2DcWzLxAfsdaS8
+3:34　⑥道の駅いかりがせき 津軽関の庄
+https://goo.gl/maps/jVEbGNU6qfiru2op7
+4:06　⑦白神山地ビジターセンター
+https://goo.gl/maps/66JchtMSDgMMca6Z9
+4:35　⑧岩木山
+https://goo.gl/maps/HfiShr3QFCTa4Xad9
+5:02　⑨大鰐町地域交流センター 鰐come(ワニカム)
+https://goo.gl/maps/bYbeNP9zt5x9hAs3A
+5:36　⑩青森銀行記念館
+https://goo.gl/maps/DfJ158U1tHhXbwA9A
+
+画像引用元
+http://ryoko-tatsujin.com/aomori007/
+
+▼======この動画に関する説明と注意事項======▼
+
+※注意事項について
+動画で紹介した情報は変わる可能性があります。
+現地に足を運ぶ際は、事前に公式サイト等で詳細を確認をお願いします
+
+※選定基準について
+動画でご紹介したスポットの選定・紹介基準は価値観や趣向によりますが、
+できるだけ多くの方の感想やご意見を取り入れて改善につとめていきます
+
+※著作権について(画像について)
+当チャンネルでは［公式ホームページ・各メディア情報］を元に制作しておりますが、画像に関しては写真を改変することなく引用とし、弁護士のアドバイスの下、著作物の複製・翻案をしないよう動画に引用させていただいております。もちろん画像著作者の方にご迷惑をかけないうよう、また旅行に関する有益な情報を視聴者にお届けできるよう、チャンネル運営に取り組んでおります。しかしもし何かしらの不利益を被るかたちで動画の取り下げなどをご希望される画像著作権者の方は、お手数おかけしますが下記のアドレスにご連絡いただけますと幸いです。早急に対応させていただきます。
+
+お問い合わせ先
+info@ryoko-tatsujin.com
+
+▼======オススメ動画======▼
+
+【グルメ】 秋田県の激うまグルメ10選
+https://youtu.be/thbQfXTT2zE
+
+【グルメ】 秋田県の絶品グルメ（比内地鶏、稲庭うどん..）
+https://youtu.be/1oGs9NKo-r8
+
+【秋田 観光】秋田の女子旅にオススメのスポット10選
+https://youtu.be/4X5BWK_ZqxE' where id = 'XJzDAehLXGLPOWcBl-vzm';
+update content_bodies set title = '[Aomori Tourism] Top 10 Popular Tourist Spots in Aomori Prefecture', description = 'Please use this as a reference for your trip or sightseeing in Aomori Prefecture.
+
+Aomori Prefecture has various tourist spots, so it can be difficult to decide where to go. This time, we will introduce places that can be enjoyed regardless of the season among the many tourist spots. Please use this as a reference for choosing tourist spots in Aomori Prefecture.
+
+If you have any recommendations that are not mentioned in this video, please feel free to share them in the comments section.
+
+■ [Free] Register for the Travel Master Official LINE@ here.
+https://lin.ee/gOY9AJB
+(We will continuously provide ways to travel smartly, affordably, and richly!)
+
+■ Subscribe to the channel here
+http://ur0.work/6vl5
+#Aomori #Tourism #Travel #TravelMaster
+
+▼====== Regarding Work Requests ======▼
+
+To all tourism and travel industry professionals and store managers involved in tourism.
+
+Travel Master will help promote tourist spots and stores in your area.
+
+Would you like to share information you want to promote (tourist spots, store introductions, accommodations, meals...) in a video?
+
+For work requests, please contact us here.
+info@ryoko-tatsujin.com
+
+▼====== About the Travel Master Channel ======▼
+
+- What is Travel Master?
+Travel Master is a channel that provides various travel information (sightseeing, transportation, accommodation, meals...) both domestically and internationally to make your travels more enjoyable! We deliver information to make your travels more enjoyable and comfortable.
+
+- Vision and Mission
+"I want you to enrich your life through travel." This channel is operated with that thought in mind. The members who manage it spend nearly half of the year traveling. We aim to increase opportunities to broaden your possibilities and enrich your life through travel.
+
+- A word from the operating members
+As the saying goes, "a journey of self-discovery," traveling can help you discover new possibilities within yourself. This is because travel is an affordable tool to experience various unrealities. We hope that more people will go on trips, discover new possibilities, and enrich their lives. We hope this channel can be a catalyst for that.
+
+- Related Information (Please follow us!)
+
+Official Instagram
+→ https://www.instagram.com/tripmasterjt/
+
+Official Twitter
+→ https://twitter.com/tripmasterjt
+
+Official LINE Account
+→ https://lin.ee/gOY9AJB
+
+▼====== About the Video Introduced Today ======▼
+0:00 Theme
+
+Details of the places introduced today
+
+1:00 ① Hirosaki City Apple Park
+https://goo.gl/maps/rbBiDV5eYksaTPBq6
+1:32 ② Dazai Osamu Learning House
+https://goo.gl/maps/Aqmq5ska4VLrYmGHA
+2:03 ③ Tsugaru Clan Neputa Village
+https://goo.gl/maps/A1kYtnLPkwTi1pGL8
+2:32 ④ Hirosaki Castle
+https://goo.gl/maps/zEA57nxmTPUkPSbc6
+3:05 ⑤ Dake Onsen
+https://goo.gl/maps/jRZ2DcWzLxAfsdaS8
+3:34 ⑥ Roadside Station Ikari-gaseki Tsugaru Seki no Sho
+https://goo.gl/maps/jVEbGNU6qfiru2op7
+4:06 ⑦ Shirakami Sanchi Visitor Center
+https://goo.gl/maps/66JchtMSDgMMca6Z9
+4:35 ⑧ Iwaki Mountain
+https://goo.gl/maps/HfiShr3QFCTa4Xad9
+5:02 ⑨ Owani Town Community Exchange Center Wanicome
+https://goo.gl/maps/bYbeNP9zt5x9hAs3A
+5:36 ⑩ Aomori Bank Memorial Hall
+https://goo.gl/maps/DfJ158U1tHhXbwA9A
+
+Image source
+http://ryoko-tatsujin.com/aomori007/
+
+▼====== Explanation and Precautions Regarding This Video ======▼
+
+* Precautions
+The information introduced in the video may change.
+Please check the official website for details before visiting the site.
+
+* Selection Criteria
+The selection and introduction criteria for the spots introduced in the video depend on values and preferences, but we will strive to incorporate as many opinions and feedback as possible for improvement.
+
+* Copyright (Regarding Images)
+This channel is produced based on [official websites and various media information], but regarding images, we quote them without altering the photos and have included them in the video under the advice of a lawyer to avoid reproducing or adapting copyrighted works. Of course, we are committed to ensuring that we do not inconvenience the image authors and to delivering valuable travel information to our viewers. However, if any image copyright holders wish to have their images removed from the video due to any form of disadvantage, we would appreciate it if you could contact us at the address below. We will respond promptly.
+
+Contact
+info@ryoko-tatsujin.com
+
+▼====== Recommended Videos ======▼
+
+[Gourmet] Top 10 Delicious Foods in Akita Prefecture
+https://youtu.be/thbQfXTT2zE
+
+[Gourmet] Exquisite Gourmet in Akita Prefecture (Hinai Chicken, Inaniwa Udon...)
+https://youtu.be/1oGs9NKo-r8
+
+[Aomori Tourism] Recommended Spots for Girls'' Trips in Akita
+https://youtu.be/4X5BWK_ZqxE' where id = 'RXGgRTgTFoTRkpDAIAakc';
 update content_bodies set title = '【草津グルメ】人気ランチグルメ10選！群馬草津で立ち寄りたいランチを紹介♪', description = '群馬県への旅行や観光で参考にしてください。温泉といえば草津と言われるほど有名なのが群馬県の草津温泉です。ここでは群馬で人気のランチ10選として、草津温泉で美味しいお店を詳しく紹介しています。
 ■【無料】旅行の達人 公式LINE＠の登録はこちらから。
 https://lin.ee/gOY9AJB
@@ -9497,529 +10014,3 @@ https://goo.gl/maps/NCkdoiEHMc4h2midA
 （ありがとうございます！！！）
 
 #グルメ #北海道グルメ #ニセコグルメ #北海道旅行 #ニセコ旅行 #北海道 #ニセコ #倶知安 #くっちゃん #ニセコサマーステイ #harvestcafe #野菜たっぷり #カフェ' where id = 'kjT2CIAl8n2C7hofTVo5h';
-update content_bodies set title = '[Gourmet] Delicious Gourmet Vlog in Niseko, Hokkaido ''Harvest Cafe'' | Summer is Recommended in Niseko, Hokkaido! A Stay-type Trip to Experience an Extraordinary Daily Life | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido! This channel is operated by the Kutchan Tourism Association located in the Niseko area of Hokkaido.
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-[Delicious Gourmet Vlog Series] vol.2 Harvest Cafe
-''Enjoy meals rich in vegetables and actively using organic ingredients''
-●Facebook
-https://www.facebook.com/harvestcafehokkaido
-●Instagram
-https://www.instagram.com/harvest_cafe_hokkaido/
-●Map
-https://goo.gl/maps/NCkdoiEHMc4h2midA
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-The Niseko area in Hokkaido is famous for winter, but summer is also highly recommended! To convey the ''charm of summer in Niseko'', we have launched this channel. This is an introductory video, but we plan to upload more videos, so we would be happy if you could subscribe to our channel.
-
-○ Kutchan Tourism Association https://www.niseko.co.jp/
-○ Opening & Ending Video by Aaron Jamieson Photography
-http://aaronjamieson.com/
-
-We are using sound effects from OtoLogic!
-(Thank you!!!)
-
-#gourmet #HokkaidoGourmet #NisekoGourmet #HokkaidoTravel #NisekoTravel #Hokkaido #Niseko #Kutchan #Kucchan #NisekoSummerStay #harvestcafe #richinvegetables #cafe' where id = '2GWl5rn50isr-X14I1lUg';
-update content_bodies set title = '【Go To トラベル】ニセコ旅行計画編「今、ニセコ旅行を計画するなら！」| 異日常で日常を過ごす滞在型旅行｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
-このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
-
-今回は、とても大事なお話をしております。
-最後まで見ていただいて、想いが伝わればうれしいです。
-※詳細情報についてはそれぞれのサイトでご確認ください！
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-今回の動画では、
-ニセコ旅行計画編「今、ニセコ旅行を計画するなら！」です！
-withコロナの中でニセコ旅行を計画する際に、大切なポイントをご説明しています。
-
-①Go Toトラベル　旅行者向けサイト
-https://goto.jata-net.or.jp/
-②倶知安観光協会会員GoToキャンペーン参加宿泊施設リスト
-https://www.google.com/maps/d/viewer?mid=1E1eMJ7DbpKRvYt2qOl3WyYeb1UuFfuKa&ll=42.83160715526651%2C140.67870465000001&z=13
-③ニセコくっちゃん『どうみん割』ウェブサイト
-https://nisekocampaign.com/
-④新しい旅のエチケット
-https://goto.jata-net.or.jp/info/2020072704.html
-⑤北海道庁「コロナ関連」ウェブサイト
-http://www.pref.hokkaido.lg.jp/ss/ssa/singatakoronahaien.htm
-
-■撮影場所■
-管理会社：NISADE(ニセード)
-「The Vale Niseko -ザ・ヴェール・ニセコ-」
-https://nisekoalpineaccommodation.com/jp/accommodation/property/vale-niseko/
-↑↑
-お部屋の「フロアプラン」を見ながら、旅の妄想をするだけで楽しくなっちゃいます！
-＜施設管理＞NISADE(ニセード)
-https://nisekoalpineaccommodation.com/jp/
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 
-「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 
-どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
-
-○一般社団法人倶知安観光協会
- https://www.niseko.co.jp/
-
- ○オープニング＆エンディングビデオ
- Aaron Jamieson Photography
- http://aaronjamieson.com/ 
-
-#gotoトラベル #新しい旅のエチケット #北海道  #夏 #ニセコ #どうみん割  #旅行 #北海道旅行 #倶知安 #ニセコサマーステイ #コンドミニアム  #thevaleniseko #ザヴェールニセコ #NISADE #ニセード' where id = 'oSVKXcQuq6yomBcQn3cEP';
-update content_bodies set title = '[Go To Travel] Niseko Travel Planning Edition ''If You''re Planning a Trip to Niseko Now!'' | Stay-type Travel to Spend Time in an Unusual Everyday Life | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido! 
-This channel is operated by the Kutchan Tourism Association located in the Niseko area of Hokkaido.
-
-This time, we are discussing something very important. 
-We would be happy if you could watch until the end and feel our thoughts. 
-*Please check each site for detailed information!
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-In this video, 
-we present the Niseko Travel Planning Edition ''If You''re Planning a Trip to Niseko Now!'' 
-We explain important points to consider when planning a trip to Niseko during the COVID-19 pandemic.
-
-① Go To Travel Traveler''s Site 
-https://goto.jata-net.or.jp/ 
-② List of Accommodation Facilities Participating in the Kutchan Tourism Association''s GoTo Campaign 
-https://www.google.com/maps/d/viewer?mid=1E1eMJ7DbpKRvYt2qOl3WyYeb1UuFfuKa&ll=42.83160715526651%2C140.67870465000001&z=13 
-③ Niseko Kutchan ''Dōmin Warai'' Website 
-https://nisekocampaign.com/ 
-④ New Travel Etiquette 
-https://goto.jata-net.or.jp/info/2020072704.html 
-⑤ Hokkaido Government ''COVID-19 Related'' Website 
-http://www.pref.hokkaido.lg.jp/ss/ssa/singatakoronahaien.htm
-
-■Filming Location■ 
-Management Company: NISADE 
-''The Vale Niseko -ザ・ヴェール・ニセコ-'' 
-https://nisekoalpineaccommodation.com/jp/accommodation/property/vale-niseko/ 
-↑↑ 
-Just looking at the ''floor plan'' of the room makes it fun to imagine your trip! 
-<Facility Management> NISADE 
-https://nisekoalpineaccommodation.com/jp/
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-The Niseko area in Hokkaido is famous for winter, but summer is also highly recommended! 
-To convey the ''charm of summer in Niseko'', we created this channel. 
-We plan to upload videos continuously, so we would be happy if you could subscribe to our channel.
-
-○ General Incorporated Association Kutchan Tourism Association 
-https://www.niseko.co.jp/
-
-○ Opening & Ending Video 
-Aaron Jamieson Photography 
-http://aaronjamieson.com/
-
-#gotoトラベル #新しい旅のエチケット #北海道 #夏 #ニセコ #どうみん割 #旅行 #北海道旅行 #倶知安 #ニセコサマーステイ #コンドミニアム #thevaleniseko #ザヴェールニセコ #NISADE #ニセード' where id = 'up-UWIflfoSxtIpVjJ0LA';
-update content_bodies set title = '【農業女子と学ぶ】この野菜、なぁに？ー初級編ー | 夏は北海道ニセコがオススメ！異日常で日常を過ごす滞在型旅行｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
-このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-今回の動画は、
-農業女子と学ぶ！野菜クイズー初級編ー
-「野菜の葉っぱを見て、何の野菜かわかりますか？」
-今回は、初級編。
-4問中、何問わかりますか？
-
-■ご協力いただいたのは、
-『ニセコグリーンファーム』
-https://nisekogreenfarm.com/
-オーガニック野菜を栽培している農園。
-農業体験や石窯ビザづくり体験がオススメです♪
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 今回はご挨拶編ですが、どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
-
-○一般社団法人倶知安観光協会
- https://www.niseko.co.jp/
-
- ○オープニング＆エンディングビデオ
- Aaron Jamieson Photography
- http://aaronjamieson.com/ 
-
-#野菜 #農業女子 #北海道  #ニセコ #倶知安 #くっちゃん #ニセコサマーステイ' where id = 'ndNf1tL08ZkxUnhRktw0P';
-update content_bodies set title = '[Learn with Agricultural Girls] What is this vegetable? - Beginner''s Edition - | Summer in Niseko, Hokkaido is Recommended! A Stay-type Trip to Experience an Extraordinary Everyday Life | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido! 
-This channel is operated by the Kutchan Tourism Association located in the Niseko area of Hokkaido.
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-In this video, 
-Learn with Agricultural Girls! Vegetable Quiz - Beginner''s Edition - 
-"Can you tell what vegetable it is by looking at its leaves?" 
-This time, it''s the beginner''s edition. 
-How many out of 4 questions can you answer?
-
-■ We received cooperation from, 
-''Niseko Green Farm'' 
-https://nisekogreenfarm.com/ 
-A farm that cultivates organic vegetables. 
-Agricultural experiences and stone oven pizza-making experiences are recommended!  
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-The Niseko area in Hokkaido is famous for winter, but summer is also highly recommended! 
-To convey the "charm of summer in Niseko," we created this channel. 
-This is an introductory video, but we plan to upload more videos, so we would be happy if you could subscribe to our channel.
-
-○ General Incorporated Association Kutchan Tourism Association 
-https://www.niseko.co.jp/
-
-○ Opening & Ending Video 
-Aaron Jamieson Photography 
-http://aaronjamieson.com/
-
-#Vegetables #AgriculturalGirls #Hokkaido #Niseko #Kutchan #Kucchan #NisekoSummerStay' where id = '3JChXjf5HFoy5hz3vUz53';
-update content_bodies set title = '【北海道】夏はニセコがオススメ！「ニセコをざっくり理解しよう！」異日常で日常を過ごす滞在型旅行｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
-このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
-
-現在の情勢的にみると、観光に出られる状況ではありませんが、 いつかコロナウィルスが終息し「旅行に出るぞ！」というタイミングに 「北海道ニセコ」が１つの選択肢に上がっていただければ嬉しいなと思っております。
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-今回の動画では、
-「ニセコをざっくり紹介！」
-してみました！
-
-ニセコをざっくり押さえておくと、
-ガイドブックとか見るときにイメージしやすいと思います。
-
-■動画内ご紹介した○○のダウンロード■
-https://www.niseko.co.jp/uploads/files/mapwithaddress.pdf
-
-■撮影場所■
-初めてのホテルタイプのご紹介
-「ザ・グリーンリーフ・ニセコビレッジ」
-https://www.thegreenleafhotel.com/ja/
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 
-「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 
-どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
-
-○一般社団法人倶知安観光協会
- https://www.niseko.co.jp/
-
- ○オープニング＆エンディングビデオ
- Aaron Jamieson Photography
- http://aaronjamieson.com/ 
-
-#北海道 #夏 #ニセコ #旅行 #倶知安 #ニセコサマーステイ  #NISEKOsummerstay' where id = 'lRZTlKmmPAteq89HeKVME';
-update content_bodies set title = '[Hokkaido] Summer in Niseko is Recommended! ''Let''s Understand Niseko Briefly!'' A Stay-type Trip to Spend Time in an Unusual Everyday Life | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido! 
-This channel is operated by the Kutchan Tourism Association located in the Niseko area of Hokkaido.
-
-Given the current situation, it is not possible to travel for tourism, but I hope that when the coronavirus situation improves and the time comes to say ''Let''s travel!'', ''Niseko, Hokkaido'' will be one of the options.
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-In this video, 
-I briefly introduced ''Niseko''! 
-
-Having a brief understanding of Niseko will make it easier to imagine when looking at guidebooks.
-
-■ Download of the ○○ introduced in the video ■
-https://www.niseko.co.jp/uploads/files/mapwithaddress.pdf
-
-■ Filming Location ■
-Introduction of a hotel type for the first time
-''The Green Leaf Niseko Village''
-https://www.thegreenleafhotel.com/ja/
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-The Niseko area in Hokkaido is famous for winter, but summer is also highly recommended! 
-To convey the ''charm of summer in Niseko'', this channel was created. 
-We plan to upload videos continuously, so I would be happy if you could subscribe to the channel.
-
-○ General Incorporated Association Kutchan Tourism Association
-https://www.niseko.co.jp/
-
-○ Opening & Ending Video
-Aaron Jamieson Photography
-http://aaronjamieson.com/
-
-#Hokkaido #Summer #Niseko #Travel #Kutchan #NisekoSummerStay #NISEKOsummerstay' where id = 'TEQKjC60HlsxA1VfoW_RE';
-update content_bodies set title = '【北海道】夏はニセコがオススメ！「ニセコを一言でいうと？」異日常で日常を過ごす滞在型旅行｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
-このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
-
-現在の情勢的にみると、観光に出られる状況ではありませんが、 いつかコロナウィルスが終息し「旅行に出るぞ！」というタイミングに 「北海道ニセコ」が１つの選択肢に上がっていただければ嬉しいなと思っております。
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-今回の動画では、
-「ニセコを一言で表現」
-してみました！
-
-理由も2つお話しましたが、きっとご納得いただけるはずです！
-結論まで見ていただけると嬉しいです！
-
-■撮影場所■
-初めてのホテルタイプのご紹介
-「ザ・グリーンリーフ・ニセコビレッジ」
-https://www.thegreenleafhotel.com/ja/
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 
-「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 
-どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
-
-○一般社団法人倶知安観光協会
- https://www.niseko.co.jp/
-
- ○オープニング＆エンディングビデオ
- Aaron Jamieson Photography
- http://aaronjamieson.com/ 
-
-#北海道 #夏 #ニセコ #旅行 #倶知安 #ニセコサマーステイ  #NISEKOsummerstay' where id = '3hOqSAOAXdwXpxxhGB7TE';
-update content_bodies set title = '[Hokkaido] Niseko is Recommended in Summer! ''How Would You Describe Niseko in One Word?'' A Stay-type Trip to Experience an Unusual Everyday Life | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido! 
-This channel is operated by the Kutchan Tourism Association located in the Niseko area of Hokkaido.
-
-Given the current situation, it is not possible to travel for tourism, but I hope that when the coronavirus pandemic is over and the time comes to say, ''Let''s travel!'' that ''Niseko, Hokkaido'' will be one of the options.
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-In this video, I tried to ''express Niseko in one word''!
-
-I talked about two reasons, and I’m sure you will agree! 
-I would be happy if you could watch until the conclusion!
-
-■Filming Location■
-Introduction of a hotel type for the first time
-''The Green Leaf Niseko Village''
-https://www.thegreenleafhotel.com/ja/
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-The Niseko area in Hokkaido is famous for winter, but summer is also highly recommended! 
-To convey the ''charm of summer in Niseko'', I created this channel. 
-I plan to upload videos continuously, so I would be happy if you could subscribe to the channel.
-
-○ Kutchan Tourism Association
- https://www.niseko.co.jp/
-
- ○ Opening & Ending Video
- Aaron Jamieson Photography
- http://aaronjamieson.com/
-
-#Hokkaido #Summer #Niseko #Travel #Kutchan #NisekoSummerStay #NISEKOsummerstay' where id = 'Reun4TXRSGV9yec8zE_m3';
-update content_bodies set title = '【仕事紹介】観光協会のおしごとって？イベント企画編 観光業に興味ある大学生にオススメ!/ 北海道ニセコ「NISEKOくっちゃんエール飯」｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
-このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
-
-現在の情勢的にみると、観光に出られる状況ではありませんが、 いつかコロナウィルスが終息し「旅行に出るぞ！」というタイミングに 「北海道ニセコ」が１つの選択肢に上がっていただければ嬉しいなと思っております。
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-今回の動画では、観光協会のお仕事についてご紹介しています。
-みなさんの地域にもきっとある観光協会の仕事ってどんなことしてる？
-
-観光協会がイベントをどうイベントを企画するのか、
-今回は現在NISEKOくっちゃんエリアで実施中の「NISEKOくっちゃんエール飯」を使ってご紹介します。
-NISEKOくっちゃんエール飯については、前回のYoutubeをチェックしてみてくださいね！
-https://www.youtube.com/watch?v=DXc9gfYWx3c
-★NISEKOくっちゃんエール飯webサイト★
-https://www.niseko-dine-local.com/
-
-そして、今回の撮影場所は必見！
-ニセコエリアの最高級中最高級のコンドミニアムから撮影しています！
-「綾ニセコ」
-https://www.ayaniseko.com/ja/
-
-※ちなみに…
-こちらの撮影は4月中旬頃。
-羊蹄山の雪の模様は、約1か月前のものです。
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 今回はご挨拶編ですが、どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
-
-○一般社団法人倶知安観光協会
- https://www.niseko.co.jp/
-
- ○オープニング＆エンディングビデオ
- Aaron Jamieson Photography
- http://aaronjamieson.com/ 
-
-#仕事紹介 #観光協会 #北海道 #ニセコ #倶知安 #イベント #イベント企画 #コンドミニアム  #ニセコサマーステイ  #NISEKOsummerstay' where id = 'iV-ypSg9g6xlHcGVKPOYP';
-update content_bodies set title = '[Job Introduction] What is the work of a tourism association? Event Planning Edition Recommended for university students interested in the tourism industry! / Hokkaido Niseko ''NISEKO Kutchan Yell Meal'' | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Hokkaido Niseko! 
-This channel is operated by the Kutchan Tourism Association located in the Hokkaido Niseko area. 
-
-Given the current situation, it is not possible to travel, but I hope that when the coronavirus pandemic is over and the time comes to ''travel!'', ''Hokkaido Niseko'' will be one of the options. 
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ 
-
-In this video, we introduce the work of the tourism association. 
-What kind of work does the tourism association in your area do? 
-
-How does the tourism association plan events? 
-This time, we will introduce it using the ''NISEKO Kutchan Yell Meal'' currently being implemented in the NISEKO Kutchan area. 
-Please check the previous YouTube video for more information about the NISEKO Kutchan Yell Meal! 
-https://www.youtube.com/watch?v=DXc9gfYWx3c 
-★NISEKO Kutchan Yell Meal website★ 
-https://www.niseko-dine-local.com/ 
-
-And the filming location this time is a must-see! 
-We are filming from one of the highest luxury condominiums in the Niseko area! 
-''Aya Niseko'' 
-https://www.ayaniseko.com/ja/ 
-
-*By the way... 
-This filming took place around mid-April. 
-The snow pattern on Mount Yotei is from about a month ago. 
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ 
-The Hokkaido Niseko area is famous for winter, but summer is also highly recommended! 
-To convey the ''charm of summer in Niseko'', we have established this channel. 
-This is an introductory video, but we plan to upload more videos, so we would be happy if you could subscribe to our channel. 
-
-○ General Incorporated Association Kutchan Tourism Association 
-https://www.niseko.co.jp/ 
-
-○ Opening & Ending Video 
-Aaron Jamieson Photography 
-http://aaronjamieson.com/ 
-
-#JobIntroduction #TourismAssociation #Hokkaido #Niseko #Kutchan #Event #EventPlanning #Condominium #NisekoSummerStay #NISEKOsummerstay' where id = 'dW76BsNjLAluPF25sxW5y';
-update content_bodies set title = '【グルメ】北海道ニセコ「NISEKOくっちゃんエール飯」外出自粛の中での楽しみ｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
-このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
-
-現在の情勢的にみると、観光に出られる状況ではありませんが、 いつかコロナウィルスが終息し「旅行に出るぞ！」というタイミングに 「北海道ニセコ」が１つの選択肢に上がっていただければ嬉しいなと思っております。
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-今回の動画では、現在NISEKOくっちゃんエリアで実施中の「NISEKOくっちゃんエール飯」についてご紹介しております。
-○エール飯に参加する方法は？
-○事業者が参加する方法は？
-⇒　https://www.niseko.co.jp/uploads/file...
-
-★NISEKOくっちゃんエール飯webサイト★
-https://www.niseko-dine-local.com/
-
-そして、今回の撮影場所は必見！
-ニセコエリアの最高級中最高級のコンドミニアムから撮影しています！
-「綾ニセコ」
-https://www.ayaniseko.com/ja/
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 今回はご挨拶編ですが、どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
-
-○一般社団法人倶知安観光協会
- https://www.niseko.co.jp/
-
- ○オープニング＆エンディングビデオ
- Aaron Jamieson Photography
- http://aaronjamieson.com/ 
-
-#グルメ #北海道 #エール飯 #テイクアウト #イベント #コンドミニアム  #ニセコ #倶知安 #くっちゃん #ニセコサマーステイ #おうち時間 #観光協会 #NISEKOsummerstay' where id = 'HATFq64rVUJUB4MBleEYJ';
-update content_bodies set title = '[Gourmet] NISEKO Kucchan Ale Meal in Niseko, Hokkaido: Enjoyment During Self-Restriction | Niseko Summer Stay (Kucchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido!
-This channel is operated by the Kucchan Tourism Association located in the Niseko area of Hokkaido.
-
-Given the current situation, it is not possible to travel for tourism, but I hope that when the coronavirus situation improves and the time comes to "travel!", "Niseko, Hokkaido" will be one of the options.
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-In this video, we introduce the "NISEKO Kucchan Ale Meal" currently being implemented in the NISEKO Kucchan area.
-○ How to participate in the Ale Meal?
-○ How can businesses participate?
-⇒ https://www.niseko.co.jp/uploads/file...
-
-★ NISEKO Kucchan Ale Meal website ★
-https://www.niseko-dine-local.com/
-
-And the filming location this time is a must-see!
-We are filming from one of the highest luxury condominiums in the Niseko area!
-"Aya Niseko"
-https://www.ayaniseko.com/ja/
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-The Niseko area in Hokkaido is famous for winter, but summer is also highly recommended! To convey the "charm of summer in Niseko," we have established this channel. This is an introductory video, but we plan to upload more videos, so we would be happy if you could subscribe to our channel.
-
-○ General Incorporated Association Kucchan Tourism Association
- https://www.niseko.co.jp/
-
- ○ Opening & Ending Video
- Aaron Jamieson Photography
- http://aaronjamieson.com/
-
-#Gourmet #Hokkaido #AleMeal #Takeout #Event #Condominium #Niseko #Kucchan #Kucchan #NisekoSummerStay #HomeTime #TourismAssociation #NISEKOsummerstay' where id = 'XP5j2pbUUUDCgPDndmybG';
-update content_bodies set title = '【北海道ニセコ】おうち時間をニセコと共に②～自然に癒されるweb写真展Nature～。異日常で日常を過ごす滞在型旅行｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
-このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
-
-現在の情勢的にみると、観光に出られる状況ではありませんが、 いつかコロナウィルスが終息し「旅行に出るぞ！」というタイミングに 「北海道ニセコ」が１つの選択肢に上がっていただければ嬉しいなと思っております。
-
-今回の動画では、ニセコを含む後志（しりべし）エリアの自然を皆さんのお家から楽しめるweb写真展Natureをご紹介します。
-主催のSHIRIBESHI ART NEWTWORKの横山孝博さんがゲストに来てくれました！
-web写真展の目的は？
-写真をチラ見せ！
-とにかくきれいな写真に癒され度MAX！
-一見の価値ありです。
-
-web写真展Natureはこちらから↓↓↓
-https://www.facebook.com/Web%E5%86%99%E7%9C%9F%E5%B1%95-Nature-111603807180430/
-
-■期間　2020年4月25日～5月31日
-5週にわたり、公開日19時に新しい作品をUPします！
-3回の公開日が終わり、それらもご覧いただけます。
-残る2回の公開日は、5月18日・25日
-
-北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 今回はご挨拶編ですが、どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
-
-○一般社団法人倶知安観光協会
- https://www.niseko.co.jp/
-
- ○オープニング＆エンディングビデオ
- Aaron Jamieson Photography
- http://aaronjamieson.com/ 
-
-#風景写真集 #北海道 #夏 #ニセコ #ニセコサマーステイ #おうち時間 #観光協会 #NISEKOsummerstay' where id = 'l0PS4dPNLZs_yQWzkzIAU';
-update content_bodies set title = '[Niseko, Hokkaido] Home Time with Niseko ② - Nature Web Photo Exhibition Healing in Nature - A Stay-type Travel Experience in an Unusual Everyday Life | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido!
-This channel is operated by the Kutchan Tourism Association located in the Niseko area of Hokkaido.
-
-Given the current situation, it is not possible to go out for tourism, but I hope that when the coronavirus situation calms down and the time comes to say, ''Let''s travel!'' that ''Niseko, Hokkaido'' will be one of the options.
-
-In this video, we introduce the web photo exhibition Nature, where you can enjoy the nature of the Shiribeshi area, including Niseko, from your home.
-Mr. Takahiro Yokoyama from SHIRIBESHI ART NETWORK, the organizer, is our guest!
-What is the purpose of the web photo exhibition?
-A sneak peek of the photos!
-You will be healed by the incredibly beautiful photos to the MAX!
-It''s worth a look.
-
-You can find the web photo exhibition Nature here↓↓↓
-https://www.facebook.com/Web%E5%86%99%E7%9C%9F%E5%B1%95-Nature-111603807180430/
-
-■ Duration: April 25, 2020 - May 31, 2020
-New works will be uploaded every week on the public release day at 7 PM!
-After three public release days, you can also view those works.
-The remaining two public release days are May 18 and 25.
-
-The Niseko area in Hokkaido is famous for winter, but summer is also highly recommended! To convey the ''charm of summer in Niseko''! This channel was established. This is just an introductory video, but we plan to keep uploading videos, so we would be happy if you could subscribe to the channel.
-
-○ General Incorporated Association Kutchan Tourism Association
- https://www.niseko.co.jp/
-
-○ Opening & Ending Video
- Aaron Jamieson Photography
- http://aaronjamieson.com/
-
-#LandscapePhotography #Hokkaido #Summer #Niseko #NisekoSummerStay #HomeTime #TourismAssociation #NISEKOsummerstay' where id = '4AX30jY92KZbKKaC7qg8z';
-update content_bodies set title = '【北海道ニセコ】おうち時間をニセコと共に①～子供と一緒に楽しめるダルマプロジェクト～。異日常で日常を過ごす滞在型旅行｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
-このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
-
-現在の情勢的にみると、観光に出られる状況ではありませんが、 いつかコロナウィルスが終息し「旅行に出るぞ！」というタイミングに 「北海道ニセコ」が１つの選択肢に上がっていただければ嬉しいなと思っております。
-
-今回の動画では、おうち時間にニセコと一緒に楽しめるダルマプロジェクトをご紹介します。
-主催のキヨエギャラリーニセコの細川清映さんがゲストに来てくれました！
-ダルマプロジェクトって？
-ダルマの意味って？
-ダルマを見た外国人の反応は？
-そして、私も実際にやってみました！
-一緒に参加いただける方は、ぜひ↓↓
-ダウンロードして使ってくださいね♪
-https://drive.google.com/file/d/1OHNufAMMHfkz78GJsyt53ps0Fro8vbbP/view
-
-北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 今回はご挨拶編ですが、どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
-
-○ダルマプロジェクト
-https://drive.google.com/file/d/1GaYMNK-2wd8q2_2oTPzFI_qMZro-MWdF/view
-Youtube https://www.youtube.com/channel/UCrkAFvZCsqU6rFApORnjGMg
-Facebook https://www.facebook.com/kiyoegallery/
-Instagram https://www.instagram.com/daruma_project/?hl=ja 
-
-○一般社団法人倶知安観光協会
- https://www.niseko.co.jp/
-
- ○オープニング＆エンディングビデオ
- Aaron Jamieson Photography
- http://aaronjamieson.com/ 
-
-#北海道 #夏 #ニセコ #ニセコサマーステイ #おうち時間 #子供と一緒 #日本文化 #外国人 #観光協会 #NISEKOsummerstay' where id = '8o0GAwqW1yFb33pUnHpRe';

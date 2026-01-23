@@ -27,7 +27,7 @@ async function translate(lang: string, title: string, description: string) {
 		title: string;
 		description: string;
 	}>(`
-          次の title と description を${lang}に翻訳してください。翻訳は改行ごとに行い、元の文章構成を保持してください。URLが含まれる場合、そのまま残してください。
+          次の title と description を${lang}に翻訳してください。翻訳は改行ごとに行い、元の文章構成を保持してください。URLはそのまま残してください。
           \`\`\`text
           title: ${title ?? ""}
           description: ${description ?? ""}
@@ -46,18 +46,18 @@ async function translate(lang: string, title: string, description: string) {
 
 async function main() {
 	// const source = readFileSync("./src/youtube/source.csv", "utf-8");
-	// const csv1 = readCsv<{
-	// 	id: string;
-	// 	content_url: string;
-	// 	title: string;
-	// 	description: string;
-	// }>("./src/youtube/invalid_en.csv");
+	const csv1 = readCsv<{
+		id: string;
+		content_url: string;
+		title: string;
+		description: string;
+	}>("./src/youtube/invalid_en3.csv");
 	const csv2 = readCsv<{
 		id: string;
 		content_url: string;
 		title: string;
 		description: string;
-	}>("./src/youtube/invalid_ja2.csv");
+	}>("./src/youtube/invalid_ja3.csv");
 
 	const result = readCsv<ContentBoby>("./result/video/content_bodies.csv");
 
@@ -92,11 +92,17 @@ async function main() {
 	// 	csv2.map((row) => row.content_url).includes(row.url),
 	// );
 
-	const csvs = [...csv2];
+	const csvs = [...csv1, ...csv2];
+
+	console.log(csvs.length);
 
 	// 英語が日本語 / 日本語が英語
 	for (const [i, row] of csvs.entries()) {
-		if (done.has(row.content_url)) continue;
+		console.log(i, row.content_url);
+		if (done.has(row.content_url)) {
+			console.log(row.content_url);
+			continue;
+		}
 
 		const a = result.filter((a) => a.content_id === row.id);
 		const s = source.find((a) => a.url === row.content_url);
@@ -109,6 +115,7 @@ async function main() {
 		}
 
 		if (!ja || !en) {
+			console.warn("nai", ja, en, row.id);
 			// const a = readFileSync("./src/youtube/delete.txt", "utf-8")
 			// 	.replace(/\r\n/g, "\n")
 			// 	.split("\n")
@@ -147,11 +154,11 @@ async function main() {
 			};
 
 			appendFileSync(
-				"./src/youtube/tmp3.jsonl",
+				"./src/youtube/tmp4.jsonl",
 				`${JSON.stringify(jaResult)}\n`,
 			);
 			appendFileSync(
-				"./src/youtube/tmp3.jsonl",
+				"./src/youtube/tmp4.jsonl",
 				`${JSON.stringify(enResult)}\n`,
 			);
 		} catch {

@@ -3962,6 +3962,568 @@ update content_bodies set title = '【高知県】土佐の匠 「フラフ」',
 主に高知市から東部でよく見られるこの旗は、子どもの健やかな成長を願って鯉のぼり等と一緒にあげられます。' where id = 'dF4Qyt8TE1PzcfvL4Y-wg';
 update content_bodies set title = '[Kochi Prefecture] Tosa''s Artisan ''Hrafu''', description = 'A large flag ''Hrafu'' that colors the sky.
 This flag, often seen in the eastern part of Kochi City, is raised alongside carp streamers and others to wish for the healthy growth of children.' where id = 'rKk8JXnlv5CwC01y9CPcP';
+update content_bodies set title = '小倉城周辺エリア', description = '小倉北区の中心部には、小倉城、北九州市役所、勝山公園などがあります。また街の中心部を流れる「紫川」には紫川自然再生のシンボルとして自然をテーマにしてデザインされた橋が10本かかっており、都心部の風景に溶け込んでいます。' where id = 'xZq_o2_ixWva-tyWWBshq';
+update content_bodies set title = 'Kokura Castle Area', description = 'In the center of Kokura Kita Ward, there are Kokura Castle, Kitakyushu City Hall, and Katsuyama Park. Additionally, the ''Murasaki River'' flowing through the city center features 10 bridges designed with nature as a theme, symbolizing the natural restoration of the Murasaki River, blending seamlessly into the urban landscape.' where id = 'kCxjLFzwmu8PJiX2MIZAJ';
+update content_bodies set title = '若戸大橋周辺エリア', description = '洞海湾にかかる赤色の若戸大橋、市民の足「若戸渡船」は懐かしさだ漂うエリア。かつて日本一の石炭の積出港として栄えた若松南海岸通りには、石炭会館、旧古河鉱業ビルなどの近代建築があり、かつての繁栄の面影が今も残っています。' where id = 'r60U9K6nYd4BE3F25SOY_';
+update content_bodies set title = 'Wakato Bridge Area', description = 'The red Wakato Bridge spanning Dokai Bay and the citizens'' ferry ''Wakato Watashisen'' create a nostalgic atmosphere in the area. Once thriving as Japan''s top coal shipping port, the Wakamatsu Nankai Coast Road features modern architecture such as the Coal Hall and the old Furukawa Mining Building, which still bear the traces of its former prosperity.' where id = 'Gp0VBFF50XGsUMb_fyR_t';
+update content_bodies set title = '皿倉山', description = '標高６２２ｍの皿倉山。山麓駅から山頂駅まででケーブルカー、スロープカー乗継いで約10分で登ることができます。新日本三大夜景の１つで、市街地や工場群を一望できる絶景は「100億ドルの夜景」と言われています。' where id = 'nztXhm79FVnC8E6K-P-p4';
+update content_bodies set title = 'Mount Sarakura', description = 'Mount Sarakura stands at an elevation of 622 meters. You can reach the summit station from the base station in about 10 minutes by transferring between the cable car and the slope car. It is one of the New Three Great Night Views of Japan, and the breathtaking view overlooking the city and industrial complexes is said to be the ''100 Billion Dollar Night View.''' where id = 'UjLgtJQulobip8iuQxUVM';
+update content_bodies set title = 'SORATABI LIFE Hokkaido Tour♪', description = '今しかできない旅。思わずシェアしたくなる旅。
+カワイイがいっぱいのヒコーキ旅をソラタビライフで♡ 
+
+旅の情報はこちらから
+https://www.ana.co.jp/ja/jp/travel/soratabilife/' where id = 'pdE0oOnCeIhbipnRFLqpp';
+update content_bodies set title = 'SORATABI LIFE Hokkaido Tour♪', description = 'A journey that can only be experienced now. 
+A trip that you''ll want to share. 
+A cute airplane journey filled with cuteness at Soratabi Life♡ 
+
+For travel information, click here: 
+https://www.ana.co.jp/ja/jp/travel/soratabilife/' where id = '9RC681lF911OltohKgV7w';
+update content_bodies set title = '【屋久島】The Legend of Ashitaka | Yakushima (from Princess Mononoke)', description = 'A cinematic short film shot on Yakushima,  the breathtaking island that inspired *Princess Mononoke.* Recognized as a UNESCO World Heritage Site, Yakushima is one of Japan’s most beautiful and mystical places, filled with green, moss-covered forests that seem to come alive. This film was inspired by the world and spirit of Princess Mononoke, reimagining what the legend of Ashitaka might look like if it were brought to life in the real world.
+
+*Disclaimer:*  This film is not an officially licensed product. Created with support from Artlist, this film was made purely out of love and admiration for Studio Ghibli and the artistry of Mr. Hayao Miyazaki.
+
+Kazuma Ban Presents 
+''The Legend of Ashitaka''
+In association with Artlist.io
+
+Director/Editor: Kazuma Ban
+DOP: Aono Takashi (Takashi Film)
+Assistant Cinematographer: Kai Watanabe
+Production: Daruma Creative Inc
+
+@takashifilm_japan  @kwtnb  
+
+Instagram: 
+@kazumaban1022: https://www.instagram.com/kazumaban1022/
+
+@takashi.film: https://www.instagram.com/takashi.film/
+
+@kaiwatanabe: https://www.instagram.com/kaiwatanabe/
+
+Official Website:
+https://kazumaban.com/
+
+Clothing Brand 👕: 
+Website: https://identitybrandofficial.com/
+Instagram: https://www.instagram.com/identitybrandofficial/
+Youtube: https://www.youtube.com/@identitybrandofficial
+Tiktok: https://www.tiktok.com/@identitybrandofficial
+
+Thank you for watching and here is the quote of the vid: “Yet, even amidst the hatred and carnage, life is still worth living. It is possible for wonderful encounters and beautiful things to exist.”
+― Hayao Miyazaki (from Princess Mononoke)' where id = '6qMhoKqjhLFqJLSEBUWxp';
+update content_bodies set title = '[Yakushima] The Legend of Ashitaka | Yakushima (from Princess Mononoke)', description = 'A cinematic short film shot on Yakushima, the breathtaking island that inspired *Princess Mononoke.* Recognized as a UNESCO World Heritage Site, Yakushima is one of Japan’s most beautiful and mystical places, filled with green, moss-covered forests that seem to come alive. This film was inspired by the world and spirit of Princess Mononoke, reimagining what the legend of Ashitaka might look like if it were brought to life in the real world.
+
+*Disclaimer:* This film is not an officially licensed product. Created with support from Artlist, this film was made purely out of love and admiration for Studio Ghibli and the artistry of Mr. Hayao Miyazaki.
+
+Kazuma Ban Presents
+''The Legend of Ashitaka''
+In association with Artlist.io
+
+Director/Editor: Kazuma Ban
+DOP: Aono Takashi (Takashi Film)
+Assistant Cinematographer: Kai Watanabe
+Production: Daruma Creative Inc
+
+@takashifilm_japan  @kwtnb  
+
+Instagram: 
+@kazumaban1022: https://www.instagram.com/kazumaban1022/
+
+@takashi.film: https://www.instagram.com/takashi.film/
+
+@kaiwatanabe: https://www.instagram.com/kaiwatanabe/
+
+Official Website:
+https://kazumaban.com/
+
+Clothing Brand 👕: 
+Website: https://identitybrandofficial.com/
+Instagram: https://www.instagram.com/identitybrandofficial/
+Youtube: https://www.youtube.com/@identitybrandofficial
+Tiktok: https://www.tiktok.com/@identitybrandofficial
+
+Thank you for watching and here is the quote of the vid: “Yet, even amidst the hatred and carnage, life is still worth living. It is possible for wonderful encounters and beautiful things to exist.”
+― Hayao Miyazaki (from Princess Mononoke)' where id = 'diwhDKSPcq011CTlyhPwx';
+update content_bodies set title = 'SORATABI LIFE Hokkaido Tour♪', description = '今しかできない旅。思わずシェアしたくなる旅。
+カワイイがいっぱいのヒコーキ旅をソラタビライフで♡ 
+
+旅の情報はこちらから
+https://www.ana.co.jp/ja/jp/travel/soratabilife/' where id = 'KsZoI3PIdao_JIxaUXs0y';
+update content_bodies set title = 'SORATABI LIFE Hokkaido Tour♪', description = 'A journey that can only be experienced now. A trip that you''ll want to share.
+A cute airplane journey filled with cuteness at Soratabi Life♡ 
+
+For travel information, click here
+https://www.ana.co.jp/ja/jp/travel/soratabilife/' where id = '_lMQMlpPEFDpqJFjscKa9';
+update content_bodies set title = '「はしとはしのはなし」ART&FACTORY JAPAN', description = '「はしとはしのはなし」ART&FACTORY JAPAN
+楠健太郎監督' where id = 'Ar9oPmL5EHlgCqXkBj277';
+update content_bodies set title = '"Hashi to Hashi no Hanashi" ART&FACTORY JAPAN', description = '"Hashi to Hashi no Hanashi" ART&FACTORY JAPAN
+Directed by Kentaro Kusunoki' where id = '6CMBMtGmBO6XOr8kr9kZq';
+update content_bodies set title = 'SORATABI LIFE Kanazawa Tour', description = '今しかできない旅。思わずシェアしたくなる旅。
+カワイイがいっぱいのヒコーキ旅をソラタビライフで♡ 
+
+旅の情報はこちらから
+https://www.ana.co.jp/ja/jp/travel/soratabilife/' where id = 'FfWLUnC7Vt_bMeqWmg1TO';
+update content_bodies set title = 'SORATABI LIFE Kanazawa Tour', description = 'A journey that can only be experienced now. 
+A trip that you''ll want to share. 
+A cute airplane journey filled with cuteness with Soratabi Life ♡ 
+
+For travel information, click here: 
+https://www.ana.co.jp/ja/jp/travel/soratabilife/' where id = 'iJW3nDlzg7qmioQC2911n';
+update content_bodies set title = 'SORATABI LIFE Okinawa Miyako Island Tour♪', description = '今しかできない旅。思わずシェアしたくなる旅。
+カワイイがいっぱいのヒコーキ旅をソラタビライフで♡ 
+
+旅の情報はこちらから
+https://www.ana.co.jp/ja/jp/travel/soratabilife/' where id = 'l9ywbgG6kXC4VV-K1oLxI';
+update content_bodies set title = 'SORATABI LIFE Okinawa Miyako Island Tour♪', description = 'A journey that can only be experienced now. A trip that you''ll want to share.
+A cute airplane journey filled with cuteness with SORATABI LIFE ♡ 
+
+For travel information, click here
+https://www.ana.co.jp/ja/jp/travel/soratabilife/' where id = 'jXoGkIyMY8is2S_gH6YA9';
+update content_bodies set title = 'SORATABI LIFE Okinawa Ishigaki Island Tour♪', description = '今しかできない旅。思わずシェアしたくなる旅。
+カワイイがいっぱいのヒコーキ旅をソラタビライフで♡ 
+
+旅の情報はこちらから
+https://www.ana.co.jp/ja/jp/travel/soratabilife/' where id = 'FAVk7rSTcqSdBo7lcwfes';
+update content_bodies set title = 'SORATABI LIFE Okinawa Ishigaki Island Tour♪', description = 'A journey that can only be experienced now. A trip that you''ll want to share.
+A cute airplane journey filled with cuteness with Soratabi Life ♡ 
+
+For travel information, click here
+https://www.ana.co.jp/ja/jp/travel/soratabilife/' where id = 'ohuZ6oxk0SQq1WYwmyx4t';
+update content_bodies set title = '法多山 尊永寺『桜』2016 - "SAKURA" cherry blossom in HATTASAN SONEIJI-', description = 'サクラの名所としても知られる法多山では、3月下旬から4月上旬にかけて境内の約500本のソメイヨシノが開花します。
+法多山 尊永寺：http://www.hattasan.or.jp
+
+袋井市×はまぞう：http://www.hamazo.tv/_r5' where id = 'jhOmff9TAbWuRY2Sn9m0m';
+update content_bodies set title = 'Hattasan Soneiji ''Sakura'' 2016 - "SAKURA" cherry blossom in HATTASAN SONEIJI-', description = 'At Hattasan, known as a cherry blossom viewing spot, about 500 Somei Yoshino cherry trees bloom from late March to early April.
+Hattasan Soneiji: http://www.hattasan.or.jp
+
+Fukuroi City × Hamazou: http://www.hamazo.tv/_r5' where id = 'wKGZQT4ZFb-Y4JQ1JvW-I';
+update content_bodies set title = '伊勢志摩の桜（ "SAKURA" CherryBlossom in Ise Shima) 2024', description = '伊勢志摩にある桜。
+伊勢志摩には名所となる桜スポットが多くあります。
+伊勢志摩の春を感じてみるのはいかがでしょうか。
+
+The Place where blooming "SAKURA" cherry blossoms in Iseshima.
+Iseshima has beautiful spots for cherry blossoms.
+We suggest feeling the spring of ISESHIMA with "SAKURA".
+
+00:03 横輪・伊勢市（Yokowa.Ise city）
+01:10 宮川堤・伊勢市(Miyagawa River Bank.Ise city)
+02:17 横山・志摩市(Yokoyama.Shima city)
+02:39 大慈寺・志摩市(Daijiji Temple.Shima city)
+
+伊勢志摩観光ナビ（日本語）：https://www.iseshima-kanko.jp/
+Visit ISESHIMA（English）：https://www.iseshima-kanko.jp/en' where id = '1YiKFXVYx9v1uS0yqHoML';
+update content_bodies set title = 'SAKURA Cherry Blossom in Ise Shima 2024', description = 'Cherry blossoms in Ise Shima.
+There are many famous cherry blossom spots in Ise Shima.
+How about experiencing the spring of ISESHIMA with "SAKURA"?
+
+The Place where blooming "SAKURA" cherry blossoms in Iseshima.
+Iseshima has beautiful spots for cherry blossoms.
+We suggest feeling the spring of ISESHIMA with "SAKURA".
+
+00:03 Yokowa, Ise city
+01:10 Miyagawa River Bank, Ise city
+02:17 Yokoyama, Shima city
+02:39 Daijiji Temple, Shima city
+
+ISESHIMA Tourism Navigation (Japanese): https://www.iseshima-kanko.jp/
+Visit ISESHIMA (English): https://www.iseshima-kanko.jp/en' where id = '_kKt7Q4AWSBQlxPp5gQrh';
+update content_bodies set title = '【秘境と絶景】こんな場所があったのか…。異世界のような神秘的な絶景を巡る旅！福岡県の都会のイメージを覆す、日本の原風景や歴史ある神社、神秘と絶景の宝庫だった。', description = '提供 : 株式会社Jackery Japan （ジャクリ・ジャパン）
+使用した走行充電器 : Jackery drive charger 600W
+Jackeryブラックフライデーセール開催！11月21日から最大55％オフ
+非常時に欠かせないJackery ドライブチャージャー600Wが、今だけお得！
+Amazon商品ページ：https://amzn.to/4olj9uF
+公式サイト商品ページ：https://bit.ly/483smRR
+▶セール会場：https://bit.ly/3K9oXJo
+
+--------------------------------------------------
+
+今回は、都会のイメージがあって避けてた福岡県へ。
+固定概念を覆すほど、神秘の絶景の宝庫でした！
+
+訪れた場所 : 日本、福岡県
+Google map : https://maps.app.goo.gl/YoQRmMatMmha8yD96?g_st=ic（牡鹿鍾乳洞）
+Google map : https://maps.app.goo.gl/vfMbiQhectq3tFV67?g_st=ic（岩屋神社）
+Google map : https://maps.app.goo.gl/F8jVuyGLfZqvN9767?g_st=ic（高住神社）
+
+▶︎Instagram  https://www.instagram.com/watatabi.vlog/
+
+◾️この動画は字幕ボタン・CCボタンを押すとフルテロップでお楽しみいただけます。
+Google 翻訳 を使用しています。 そのため、誤字や脱字があるかもしれませんがご了承ください。
+
+◼︎使用している撮影機材
+・カメラ1 【SONY α7CII 】
+アマゾン：https://amzn.to/3TtpQPs 
+楽天市場：https://a.r10.to/h5m5QM
+・カメラ2 【dji osmo pocket 3】
+アマゾン：https://amzn.to/3Bqy9F4
+楽天市場：https://a.r10.to/hgqTUk
+・カメラ3【GoPro HERO12 Black】
+アマゾン：https://amzn.to/3DfBs2k
+楽天市場：https://a.r10.to/hFoExU
+・レンズ1 【FE 20-70mm F4 G SEL2070G】
+アマゾン：https://amzn.to/41yfMbL
+楽天市場：https://a.r10.to/hPL3PS
+・レンズ2 SONY 【FE 15mm F1.4】
+アマゾン：https://amzn.to/3ZDCYCO
+楽天市場：https://a.r10.to/hPi2ij
+・ジンバル【DJI RS 4 Pro】
+アマゾン：https://amzn.to/3ZQGon0
+楽天市場：https://a.r10.to/hPbtOT
+・ドローン 【dji mini 4 pro】 
+アマゾン：https://amzn.to/4gysR9h
+楽天市場：https://a.r10.to/hPipXb
+・ドローン【dji Air 3S】
+アマゾン： https://amzn.to/3Bvj7xM
+楽天市場：https://a.r10.to/h5Qjjy
+・ドローン【HOVERAir X1 Smart】 
+アマゾン：https://amzn.to/4fjKFEe
+楽天市場：https://a.r10.to/hkl2sQ
+・マイク【SONY ECM-M1】
+楽天市場：https://a.r10.to/hgSy83
+
+◆動画チャプター
+0:00 オープニング
+0:59 今回の目的地
+2:15 Jackery drive charger のご紹介
+3:53 取付方法
+8:51 カルスト台地の平尾台へ
+10:40 牡鹿鍾乳洞
+24:23 目的地までの絶景
+29:21 岩屋神社と熊野神社
+38:00 車中飯
+41:31 高住神社
+
+◼︎音楽
+Artlist→ https://artlist.io/referral/1d80e1ec-474c-4202-a516-2162ef4b4a98
+MOMIZizm MUSiC 
+https://youtube.com/@yumehito_bgm
+
+※当チャンネルでは楽天アフィリエイトリンク、amazonアフィリエイトリンクを使用させていただいております。
+
+#福岡 神社 #絶景ん' where id = 'tD6CN0RqbavYMsPXRDR_R';
+update content_bodies set title = '[Hidden Gems and Breathtaking Views] I never knew such a place existed... A journey through mystical landscapes that feel like another world! It overturned the urban image of Fukuoka Prefecture, revealing Japan''s original scenery, historic shrines, and a treasure trove of mystery and stunning views.', description = 'Provided by: Jackery Japan
+Charging device used: Jackery drive charger 600W
+Jackery Black Friday Sale is on! Up to 55% off starting November 21
+The essential Jackery drive charger 600W is now available at a special price!
+Amazon product page: https://amzn.to/4olj9uF
+Official site product page: https://bit.ly/483smRR
+▶ Sale venue: https://bit.ly/3K9oXJo
+
+--------------------------------------------------
+
+This time, I visited Fukuoka Prefecture, which I had avoided due to its urban image.
+It was a treasure trove of mystical and breathtaking views that overturned my preconceived notions!
+
+Places visited: Japan, Fukuoka Prefecture
+Google map: https://maps.app.goo.gl/YoQRmMatMmha8yD96?g_st=ic (Oshika Limestone Cave)
+Google map: https://maps.app.goo.gl/vfMbiQhectq3tFV67?g_st=ic (Iwaya Shrine)
+Google map: https://maps.app.goo.gl/F8jVuyGLfZqvN9767?g_st=ic (Takatsuki Shrine)
+
+▶︎ Instagram https://www.instagram.com/watatabi.vlog/
+
+◾️ You can enjoy this video with full subtitles by pressing the subtitle button or CC button.
+We are using Google Translate. Therefore, there may be typos or omissions, so please understand.
+
+◼︎ Equipment used for filming
+・Camera 1 [SONY α7CII]
+Amazon: https://amzn.to/3TtpQPs 
+Rakuten: https://a.r10.to/h5m5QM
+・Camera 2 [dji osmo pocket 3]
+Amazon: https://amzn.to/3Bqy9F4
+Rakuten: https://a.r10.to/hgqTUk
+・Camera 3 [GoPro HERO12 Black]
+Amazon: https://amzn.to/3DfBs2k
+Rakuten: https://a.r10.to/hFoExU
+・Lens 1 [FE 20-70mm F4 G SEL2070G]
+Amazon: https://amzn.to/41yfMbL
+Rakuten: https://a.r10.to/hPL3PS
+・Lens 2 SONY [FE 15mm F1.4]
+Amazon: https://amzn.to/3ZDCYCO
+Rakuten: https://a.r10.to/hPi2ij
+・Gimbal [DJI RS 4 Pro]
+Amazon: https://amzn.to/3ZQGon0
+Rakuten: https://a.r10.to/hPbtOT
+・Drone [dji mini 4 pro]
+Amazon: https://amzn.to/4gysR9h
+Rakuten: https://a.r10.to/hPipXb
+・Drone [dji Air 3S]
+Amazon: https://amzn.to/3Bvj7xM
+Rakuten: https://a.r10.to/h5Qjjy
+・Drone [HOVERAir X1 Smart]
+Amazon: https://amzn.to/4fjKFEe
+Rakuten: https://a.r10.to/hkl2sQ
+・Microphone [SONY ECM-M1]
+Rakuten: https://a.r10.to/hgSy83
+
+◆ Video Chapters
+0:00 Opening
+0:59 Destination of this time
+2:15 Introduction of Jackery drive charger
+3:53 Installation method
+8:51 To the Karst Plateau of Hiraodai
+10:40 Oshika Limestone Cave
+24:23 Breathtaking views to the destination
+29:21 Iwaya Shrine and Kumano Shrine
+38:00 In-car meal
+41:31 Takatsuki Shrine
+
+◼︎ Music
+Artlist→ https://artlist.io/referral/1d80e1ec-474c-4202-a516-2162ef4b4a98
+MOMIZizm MUSiC 
+https://youtube.com/@yumehito_bgm
+
+*This channel uses Rakuten affiliate links and Amazon affiliate links.' where id = 'e8jwPsyIWbawuqPcet-oC';
+update content_bodies set title = '【閑散期】冬の知床は楽しめるのか？秘境の絶景を求めたおバカの大冒険 / 北海道一周の旅！知床半島の絶景や温泉に道の駅 / 雪が積もる前の知床', description = '今回は北海道にある日本最大の自然遺産「知床半島」に訪れます。
+観光客のいない閑散期の知床半島は楽しめるのか？
+ということで、おバカな冒険がはじまります。
+
+・旅の情報
+場所 : オシンコシンの滝、フレペの滝、熊の湯、オロンコ岩、波切不動寺、マッカウス洞窟
+位置 : 北海道、日本
+
+👉チャンネル登録はこちら
+https://youtube.com/@watatabi 
+【Instagram】
+https://www.instagram.com/watatabi.vlog/
+
+◾️英語以外の言語は適宜 Google 翻訳 を使用しています。 そのため、誤字や脱字があるかもしれませんがご了承ください。
+
+【チャプター】
+0:00 オープニング
+0:27 今回の目的地
+1:03 オシンコシンの滝
+2:58 道の駅「うろと・シリエトク」
+4:18 オロンコ岩
+6:22 知床自然センター
+7:18 絶景「フレペの滝」
+10:15 知床半島の東側へ！
+12:15 道の駅「知床・らうす」
+13:31 熊の湯　露天風呂
+18:40 知床羅臼ビジターセンター
+20:43 瀬石温泉（野湯）
+21:50 日本最東端突端地
+23:54 波切不動寺
+25:23 ヒカリゴケとマッカウス洞窟
+26:16 閑散期の知床半島について
+
+【使用している撮影機材📷】
+メインカメラ1 【SONY α7CII 】
+https://amzn.to/3TtpQPs 
+メインカメラ2 【dji osmo pocket 3】
+https://amzn.to/3Bqy9F4
+メインカメラ3【GoPro HERO12 Black】
+https://amzn.to/3DfBs2k
+レンズ1 【FE 20-70mm F4 G SEL2070G】
+https://amzn.to/41yfMbL
+メインレンズ2 SONY 【FE 15mm F1.4】
+https://amzn.to/3ZDCYCO
+ジンバル1 https://amzn.to/3ZQGon0
+ドローン 【dji mini 4 pro】 https://amzn.to/4gysR9h
+ドローン【dji Air 3S】 https://amzn.to/3Bvj7xM
+ドローン【HOVERAir X1 Smart】 https://amzn.to/4fjKFEe
+
+【おすすめ動画】
+https://youtu.be/hLIc19DVb-s
+https://youtu.be/qR_kjOik5gk
+https://youtu.be/RiqPeuomrVo
+https://youtu.be/2pS4rNA7aYU
+
+【編集ソフト】
+Filmora
+
+【music】
+Artlist→https://artlist.io/royalty-free-music/song/reminiscence/122313
+DOVA-SYNDROME
+MOMIZizm MUSiC 
+https://youtube.com/@yumehito_bgm
+
+#北海道 #知床 #絶景' where id = 'y8R5ViJxB8RNJa4HHQFIL';
+update content_bodies set title = '[Off-Peak Season] Can You Enjoy Winter in Shiretoko? A Fool''s Great Adventure in Search of Hidden Scenic Views / A Journey Around Hokkaido! Stunning Views and Hot Springs on the Shiretoko Peninsula / Shiretoko Before the Snow Falls', description = 'This time, we will visit Japan''s largest natural heritage site, the ''Shiretoko Peninsula'' in Hokkaido.
+Can you enjoy the Shiretoko Peninsula during the off-peak season when there are no tourists?
+Thus begins a foolish adventure.
+
+・Travel Information
+Location: Oshinkoshin Falls, Furepe Falls, Kuma no Yu, Oronko Rock, Nakiri Fudo Temple, Makkausu Cave
+Position: Hokkaido, Japan
+
+👉 Subscribe to the channel here
+https://youtube.com/@watatabi
+【Instagram】
+https://www.instagram.com/watatabi.vlog/
+
+◾️ Other languages besides English are translated using Google Translate as needed. Therefore, there may be typos or omissions, so please understand.
+
+【Chapters】
+0:00 Opening
+0:27 Today''s Destination
+1:03 Oshinkoshin Falls
+2:58 Roadside Station ''Uroto・Shiretoku''
+4:18 Oronko Rock
+6:22 Shiretoko Nature Center
+7:18 Scenic View ''Furepe Falls''
+10:15 Heading to the East Side of the Shiretoko Peninsula!
+12:15 Roadside Station ''Shiretoko・Rausu''
+13:31 Kuma no Yu Open-Air Bath
+18:40 Shiretoko Rausu Visitor Center
+20:43 Seishi Onsen (Wild Hot Spring)
+21:50 Japan''s Easternmost Point
+23:54 Nakiri Fudo Temple
+25:23 Hikari Moss and Makkausu Cave
+26:16 About the Shiretoko Peninsula in the Off-Peak Season
+
+【Equipment Used📷】
+Main Camera 1 【SONY α7CII】
+https://amzn.to/3TtpQPs
+Main Camera 2 【dji osmo pocket 3】
+https://amzn.to/3Bqy9F4
+Main Camera 3【GoPro HERO12 Black】
+https://amzn.to/3DfBs2k
+Lens 1 【FE 20-70mm F4 G SEL2070G】
+https://amzn.to/41yfMbL
+Main Lens 2 SONY 【FE 15mm F1.4】
+https://amzn.to/3ZDCYCO
+Gimbal 1 https://amzn.to/3ZQGon0
+Drone 【dji mini 4 pro】 https://amzn.to/4gysR9h
+Drone【dji Air 3S】 https://amzn.to/3Bvj7xM
+Drone【HOVERAir X1 Smart】 https://amzn.to/4fjKFEe
+
+【Recommended Videos】
+https://youtu.be/hLIc19DVb-s
+https://youtu.be/qR_kjOik5gk
+https://youtu.be/RiqPeuomrVo
+https://youtu.be/2pS4rNA7aYU
+
+【Editing Software】
+Filmora
+
+【Music】
+Artlist→https://artlist.io/royalty-free-music/song/reminiscence/122313
+DOVA-SYNDROME
+MOMIZizm MUSiC 
+https://youtube.com/@yumehito_bgm
+
+#Hokkaido #Shiretoko #ScenicViews' where id = '44JlF9vLdrLSojE9SX2rP';
+update content_bodies set title = '【秘境と絶景】こんな場所があったのか…。神秘的な穴場の絶景をめぐる旅！北海道一周、神社のような異世界観や雄大な景色、穴場の温泉もご紹介！', description = '今回は北海道東部のあまり知られていない絶景や温泉を巡ります！
+探せばまだまだありそうな穴場の絶景、熊さえいなければどこまでも行けるのに…！
+
+・旅の情報
+場所 : 激流の滝、山彦の滝、夢風泉、美里洞窟、クジラの滝、越川温泉
+位置 : 北海道、日本
+
+👉チャンネル登録はこちら
+https://youtube.com/@watatabi 
+【Instagram】
+https://www.instagram.com/watatabi.vlog/
+
+◾️英語以外の言語は適宜 Google 翻訳 を使用しています。 そのため、誤字や脱字があるかもしれませんがご了承ください。
+
+【チャプター】
+0:00 オープニング
+0:27 今回の目的地
+2:37 激流の滝を目指す！
+4:20 絶景「激流の滝」
+6:16 山彦の滝まで
+7:28 まるで異世界「山彦の滝」
+14:23 無人温泉「夢風泉」
+17:34 謎の洞窟に行こう！
+20:00 美里洞窟
+24:27 絶景の滝を目指す！
+25:28 クジラの滝
+29:16 越川温泉共同浴場
+
+【使用している撮影機材📷】
+メインカメラ1 【SONY α7CII 】
+https://amzn.to/3TtpQPs 
+メインカメラ2 【dji osmo pocket 3】
+https://amzn.to/3Bqy9F4
+メインカメラ3【GoPro HERO12 Black】
+https://amzn.to/3DfBs2k
+レンズ1 【FE 20-70mm F4 G SEL2070G】
+https://amzn.to/41yfMbL
+メインレンズ2 SONY 【FE 15mm F1.4】
+https://amzn.to/3ZDCYCO
+ジンバル1 https://amzn.to/3ZQGon0
+ドローン 【dji mini 4 pro】 https://amzn.to/4gysR9h
+ドローン【dji Air 3S】 https://amzn.to/3Bvj7xM
+ドローン【HOVERAir X1 Smart】 https://amzn.to/4fjKFEe
+
+【おすすめ動画】
+https://youtu.be/hLIc19DVb-s
+https://youtu.be/qR_kjOik5gk
+https://youtu.be/RiqPeuomrVo
+https://youtu.be/2pS4rNA7aYU
+
+【編集ソフト】
+Filmora
+
+【music】
+Artlist→https://artlist.io/royalty-free-music/song/reminiscence/122313
+DOVA-SYNDROME
+MOMIZizm MUSiC 
+https://youtube.com/@yumehito_bgm
+
+#北海道 #秘境 #絶景' where id = '-sacKfXVOGnGEZqhWSGs9';
+update content_bodies set title = '[Hidden Gems and Breathtaking Views] I didn''t know such places existed... A journey to explore mystical hidden scenic spots! A round trip in Hokkaido, introducing otherworldly shrines, magnificent landscapes, and hidden hot springs!', description = 'This time, we will explore the lesser-known breathtaking views and hot springs in eastern Hokkaido! 
+If only there were no bears, we could go anywhere in search of more hidden scenic spots...!
+
+・Travel Information
+Location: Gekiryū Falls, Yamabiko Falls, Yumekaze Hot Spring, Misato Cave, Kujira Falls, Koshikawa Onsen
+Position: Hokkaido, Japan
+
+👉 Subscribe to the channel here
+https://youtube.com/@watatabi 
+【Instagram】
+https://www.instagram.com/watatabi.vlog/
+
+◾️ Other languages besides English are translated using Google Translate as needed. Therefore, there may be typos or omissions, so please understand.
+
+【Chapters】
+0:00 Opening
+0:27 Today''s destination
+2:37 Heading to Gekiryū Falls!
+4:20 Scenic view "Gekiryū Falls"
+6:16 To Yamabiko Falls
+7:28 An otherworldly experience "Yamabiko Falls"
+14:23 Unmanned hot spring "Yumekaze"
+17:34 Let''s go to the mysterious cave!
+20:00 Misato Cave
+24:27 Heading to the scenic waterfall!
+25:28 Kujira Falls
+29:16 Koshikawa Onsen public bath
+
+【Equipment Used📷】
+Main Camera 1 【SONY α7CII 】
+https://amzn.to/3TtpQPs 
+Main Camera 2 【dji osmo pocket 3】
+https://amzn.to/3Bqy9F4
+Main Camera 3【GoPro HERO12 Black】
+https://amzn.to/3DfBs2k
+Lens 1 【FE 20-70mm F4 G SEL2070G】
+https://amzn.to/41yfMbL
+Main Lens 2 SONY 【FE 15mm F1.4】
+https://amzn.to/3ZDCYCO
+Gimbal 1 https://amzn.to/3ZQGon0
+Drone 【dji mini 4 pro】 https://amzn.to/4gysR9h
+Drone【dji Air 3S】 https://amzn.to/3Bvj7xM
+Drone【HOVERAir X1 Smart】 https://amzn.to/4fjKFEe
+
+【Recommended Videos】
+https://youtu.be/hLIc19DVb-s
+https://youtu.be/qR_kjOik5gk
+https://youtu.be/RiqPeuomrVo
+https://youtu.be/2pS4rNA7aYU
+
+【Editing Software】
+Filmora
+
+【Music】
+Artlist→https://artlist.io/royalty-free-music/song/reminiscence/122313
+DOVA-SYNDROME
+MOMIZizm MUSiC 
+https://youtube.com/@yumehito_bgm
+
+#Hokkaido #HiddenGems #BreathtakingViews' where id = 'xI2ajIyi08_S8oGxEuzXt';
 update content_bodies set title = '森で産まれる（短縮版）', description = '伝統を受け継ぐ職人やクリエイターが語る生のことば。
 森の京都のモノづくりの深みに触れる。' where id = 'QZklRJvT_BKQYKr5NqSjp';
 update content_bodies set title = 'Born in the Forest (Short Version)', description = 'Words from artisans and creators who inherit tradition.
@@ -9494,508 +10056,3 @@ https://www.youtube.com/watch?v=C7MZFOD7588
 
 [Okayama Tourism/Gourmet] Classic Sightseeing Spots and Popular Gourmet in Soja City - 7 Selections
 https://www.youtube.com/watch?v=Rfh2jFRjJPw' where id = 'VWFRiZR1Ry29magvi9tov';
-update content_bodies set title = '【群馬観光】群馬で見つけた！ひっそり感動できる穴場観光スポット7選', description = '群馬県への旅行や観光で参考にしてください。今回は群馬県の穴場観光スポットをご紹介します。この動画で紹介されてないオススメがありましたら、ぜひコメント欄でシェアしてくださいね。
-
-✈️ 40代・50代からでも始められる！
-カンタン＆お得なマイル活用法をLINEで配信中✨
-▶︎ 今すぐ無料でチェック
-https://utage-system.com/line/open/kXc2L2grxMKf?mtid=xhOuLE8koO0G
-
-■チャンネルの登録はコチラから
-https://www.youtube.com/@ryokonotatsujin
-#群馬 #観光 #旅行
-
-▼======お仕事の依頼について======▼
-
-観光にたずさわる観光・旅行業・店舗経営者のみなさんへ。
-
-旅行の達人ではあなたの地域の
-観光スポットや店舗のPRをお手伝いします。
-
-PRしたい情報（観光地・店舗紹介・宿泊・食事...）を
-動画でシェアしませんか？
-
-お仕事の依頼はこちらから。
-info@ryoko-tatsujin.com
-
-▼======旅行の達人チャンネルについて======▼
-
-・旅行の達人とは？
-旅行をより楽しく！旅行の達人は国内外のあらゆる旅行情報【観光・移動・宿泊・食事...】を配信するチャンネルです。あなたの旅行をより楽しくより快適にするための情報をお届けします。
-
-・ヴィジョン・ミッション
-「旅行で人生を豊かにしてほしい」当チャンネルはそんな想いで運営しています。１年の半分近くを旅しながら過ごしているメンバーが監修運営。旅行をとおして自分の可能性を広げてより豊かになるキッカケを増やします。
-
-・運営メンバーからの一言
-「自分探しの旅」という言葉があるように、旅行をすることで新しい自分の可能性を発見することがあります。それは旅行があらゆる非現実を体験できるお手頃なツールだからです。もっと多くの方が旅行に出かけ、新しい可能性を発見し、人生を豊かにする。このチャンネルがそのきっかけになれば幸いです。
-
-・関連情報（ぜひフォローください！）
-
-公式インスタグラム
-→　https://www.instagram.com/tripmasterjt/
-
-公式ツイッター
-→　https://twitter.com/tripmasterjt
-　
-公式LINEアカウント
-→　https://lin.ee/gOY9AJB
-
-▼======本日ご紹介した動画について======▼
-0:00　テーマ
-
-本日ご紹介した場所の詳細
-
-0:45　1.不二洞
-https://maps.app.goo.gl/iVGvcMNJn4BG6qzW8
-
-2:07　2.とうもろこし街道
-https://maps.app.goo.gl/r32N6z5VpNsvzVnq8
-
-3:54　3.天空の足湯
-https://maps.app.goo.gl/34xPc9ixm3xgrRY37
-
-5:27　4.土合駅
-https://maps.app.goo.gl/UjCBbNYpPKSdUSjN6
-
-6:58　5.宝徳寺 風鈴まつり
-https://maps.app.goo.gl/orKyXb7CZFPN2HhUA
-
-8:26　6.はにわの里公園 ひまわり畑
-https://maps.app.goo.gl/FD2bTAcuK7iY8q5fA
-
-9:59　7.桐生織物記念館
-https://maps.app.goo.gl/m47W4jbECV5dV7PC9
-
-
-▼======この動画に関する説明と注意事項======▼
-
-※注意事項について
-動画で紹介した情報は変わる可能性があります。
-現地に足を運ぶ際は、事前に公式サイト等で詳細を確認をお願いします
-
-※選定基準について
-動画でご紹介したスポットの選定・紹介基準は価値観や趣向によりますが、
-できるだけ多くの方の感想やご意見を取り入れて改善につとめていきます
-
-※著作権について(画像について)
-当チャンネルでは［公式ホームページ・各メディア情報］を元に制作しておりますが、画像に関しては写真を改変することなく引用とし、弁護士のアドバイスの下、著作物の複製・翻案をしないよう動画に引用させていただいております。もちろん画像著作者の方にご迷惑をかけないうよう、また旅行に関する有益な情報を視聴者にお届けできるよう、チャンネル運営に取り組んでおります。しかしもし何かしらの不利益を被るかたちで動画の取り下げなどをご希望される画像著作権者の方は、お手数おかけしますが下記のアドレスにご連絡いただけますと幸いです。早急に対応させていただきます。
-
-お問い合わせ先
-info@ryoko-tatsujin.com
-
-▼======オススメ動画======▼
-
-【群馬観光】群馬観光のド本命！王道(定番)スポット厳選7選
-https://www.youtube.com/watch?v=YFbgQDsgryU
-
-群馬旅行するなら外せない絶対に食べたい！群馬の定番グルメ７選
-https://www.youtube.com/watch?v=v04n7jlMSuc
-
-【群馬観光】はじめて行く群馬旅行で見逃せない観光スポット７選
-https://www.youtube.com/watch?v=D-D4YiZtKSw' where id = '44HOCo3LYnwDHiTVC2l0-';
-update content_bodies set title = '[Gunma Tourism] Discovered in Gunma! 7 Hidden Tourist Spots That Will Move You Silently', description = 'Please use this as a reference for your trip or sightseeing in Gunma Prefecture. This time, we will introduce hidden tourist spots in Gunma Prefecture. If you have any recommendations that are not mentioned in this video, please feel free to share them in the comments section.
-
-✈️ You can start even in your 40s and 50s!
-Easy & economical mileage utilization methods are being delivered via LINE✨
-▶︎ Check for free right now
-https://utage-system.com/line/open/kXc2L2grxMKf?mtid=xhOuLE8koO0G
-
-■ Subscribe to the channel here
-https://www.youtube.com/@ryokonotatsujin
-#Gunma #Tourism #Travel
-
-▼====== Regarding Work Requests ======▼
-
-To all tourism and travel industry professionals and store managers involved in tourism.
-
-At Travel Master, we help promote tourist spots and stores in your area.
-
-Would you like to share information you want to promote (tourist spots, store introductions, accommodations, meals...) in a video?
-
-For work requests, please contact us here.
-info@ryoko-tatsujin.com
-
-▼====== About the Travel Master Channel ======▼
-
-・What is Travel Master?
-Travel Master is a channel that delivers various travel information (sightseeing, transportation, accommodation, meals...) both domestically and internationally to make your travels more enjoyable! We provide information to make your travels more enjoyable and comfortable.
-
-・Vision and Mission
-"I want you to enrich your life through travel." This channel is operated with that thought in mind. The members who manage it spend nearly half the year traveling. We aim to increase opportunities to broaden your possibilities and enrich your life through travel.
-
-・A word from the operating members
-As the saying goes, "a journey of self-discovery," traveling can help you discover new possibilities within yourself. This is because travel is an affordable tool to experience various unrealities. We hope that more people will go on trips, discover new possibilities, and enrich their lives. We hope this channel can be a catalyst for that.
-
-・Related Information (Please follow us!)
-
-Official Instagram
-→ https://www.instagram.com/tripmasterjt/
-
-Official Twitter
-→ https://twitter.com/tripmasterjt
-
-Official LINE Account
-→ https://lin.ee/gOY9AJB
-
-▼====== About the Video Introduced Today ======▼
-0:00 Theme
-
-Details of the places introduced today
-
-0:45 1. Fuji Cave
-https://maps.app.goo.gl/iVGvcMNJn4BG6qzW8
-
-2:07 2. Corn Road
-https://maps.app.goo.gl/r32N6z5VpNsvzVnq8
-
-3:54 3. Sky Foot Bath
-https://maps.app.goo.gl/34xPc9ixm3xgrRY37
-
-5:27 4. Doai Station
-https://maps.app.goo.gl/UjCBbNYpPKSdUSjN6
-
-6:58 5. Hōtoku-ji Wind Chime Festival
-https://maps.app.goo.gl/orKyXb7CZFPN2HhUA
-
-8:26 6. Haniwa no Sato Park Sunflower Field
-https://maps.app.goo.gl/FD2bTAcuK7iY8q5fA
-
-9:59 7. Kiryu Textile Museum
-https://maps.app.goo.gl/m47W4jbECV5dV7PC9
-
-▼====== Explanation and Precautions Regarding This Video ======▼
-
-*Regarding Precautions
-The information introduced in the video may change. Please check the official website for details before visiting the site.
-
-*Regarding Selection Criteria
-The selection and introduction criteria for the spots introduced in the video depend on values and preferences, but we will strive to incorporate as many opinions and feedback as possible for improvement.
-
-*Regarding Copyright (Images)
-This channel is produced based on [official websites and various media information], but regarding images, we quote them without altering the photos and, under the advice of a lawyer, we do not reproduce or adapt copyrighted works in the video. Of course, we are committed to ensuring that we do not inconvenience the image authors and to delivering useful travel information to our viewers. However, if any copyright holders wish to have their images removed from the video due to any form of disadvantage, we would appreciate it if you could contact us at the address below. We will respond promptly.
-
-Contact Information
-info@ryoko-tatsujin.com
-
-▼====== Recommended Videos ======▼
-
-[Gunma Tourism] The Definitive Guide to Gunma Tourism! Selected 7 Classic (Standard) Spots
-https://www.youtube.com/watch?v=YFbgQDsgryU
-
-If you''re traveling to Gunma, you can''t miss these must-try classic gourmet foods! 7 Selections
-https://www.youtube.com/watch?v=v04n7jlMSuc
-
-[Gunma Tourism] 7 Must-See Tourist Spots for Your First Trip to Gunma
-https://www.youtube.com/watch?v=D-D4YiZtKSw' where id = 'aFcqLQYt-fzU-nohtc2vd';
-update content_bodies set title = '【鳥取 観光】鳥取で人気の旅館&ホテル10選', description = '鳥取県への旅行や観光で参考にしてください。
-鳥取県には温泉地も多くあり、宿泊施設も盛りだくさん。ここでは鳥取で人気の旅館とホテル10選を紹介しています。どの施設も魅力あふれるところばかり、鳥取にお立ち寄りの際はぜひご利用ください。
-■【無料】旅行の達人 公式LINE＠の登録はこちらから。
-https://lin.ee/gOY9AJB
-（賢く、お得に、リッチに旅行する方法を随時配信！）
-
-■チャンネルの登録はコチラから
-http://ur0.work/6vl5
-#鳥取 #観光 #旅行 #旅行の達人
-
-▼======お仕事の依頼について======▼
-
-観光にたずさわる観光・旅行業・店舗経営者のみなさんへ。
-
-旅行の達人ではあなたの地域の
-観光スポットや店舗のPRをお手伝いします。
-
-PRしたい情報（観光地・店舗紹介・宿泊・食事...）を
-動画でシェアしませんか？
-
-お仕事の依頼はこちらから。
-info@ryoko-tatsujin.com
-
-▼======旅行の達人チャンネルについて======▼
-
-・旅行の達人とは？
-旅行をより楽しく！旅行の達人は国内外のあらゆる旅行情報【観光・移動・宿泊・食事...】を配信するチャンネルです。あなたの旅行をより楽しくより快適にするための情報をお届けします。
-
-・ヴィジョン・ミッション
-「旅行で人生を豊かにしてほしい」当チャンネルはそんな想いで運営しています。１年の半分近くを旅しながら過ごしているメンバーが監修運営。旅行をとおして自分の可能性を広げてより豊かになるキッカケを増やします。
-
-・運営メンバーからの一言
-「自分探しの旅」という言葉があるように、旅行をすることで新しい自分の可能性を発見することがあります。それは旅行があらゆる非現実を体験できるお手頃なツールだからです。もっと多くの方が旅行に出かけ、新しい可能性を発見し、人生を豊かにする。このチャンネルがそのきっかけになれば幸いです。
-
-・関連情報（ぜひフォローください！）
-
-公式インスタグラム
-→　https://www.instagram.com/tripmasterjt/
-
-公式ツイッター
-→　https://twitter.com/tripmasterjt
-　
-公式LINEアカウント
-→　https://lin.ee/gOY9AJB
-
-▼======本日ご紹介した動画について======▼
-0:00　テーマ
-
-本日ご紹介した場所の詳細
-0:46　1.皆生（かいけ）菊乃家
-https://goo.gl/maps/4A81uwJcyjyzu3YY8
-
-1:12　2.バラ湯を楽しめる宿 三朝館（みささかん）
-https://goo.gl/maps/neTU4nSd3nq3As8d6
-
-1:44　3.観水庭こぜにや
-https://goo.gl/maps/gsTSxA1gTytH7TSb9
-
-2:17　4.皆生温泉 湯喜望（ゆきぼう） 白扇
-https://g.page/yukibouhakusen?share
-
-2:44　5.華水亭（かすいてい）
-https://g.page/kasuitei?share
-
-3:11　6.依山楼（いざんろう）  岩崎
-https://goo.gl/maps/CMEVhMhWRRLge2iWA
-
-3:42　7.皆生シーサイドホテル 海の四季
-https://goo.gl/maps/MRXcaQ9nPgRQVxhK6
-
-4:08　8.三朝薬師の湯 万翆楼
-https://g.page/mansuirou?share
-
-4:38　9.皆生グランドホテル 天水
-https://goo.gl/maps/6hqepNaxWrEcEg7fA
-
-5:06　10.千年亭
-https://goo.gl/maps/uC6WfjkCAqrUVnyv8
-
-画像引用元
-http://ryoko-tatsujin.com/tottori002/
-
-▼======この動画に関する説明と注意事項======▼
-
-※注意事項について
-動画で紹介した情報は変わる可能性があります。
-現地に足を運ぶ際は、事前に公式サイト等で詳細を確認をお願いします
-
-※選定基準について
-動画でご紹介したスポットの選定・紹介基準は価値観や趣向によりますが、
-できるだけ多くの方の感想やご意見を取り入れて改善につとめていきます
-
-※著作権について(画像について)
-当チャンネルでは［公式ホームページ・各メディア情報］を元に制作しておりますが、画像に関しては写真を改変することなく引用とし、弁護士のアドバイスの下、著作物の複製・翻案をしないよう動画に引用させていただいております。もちろん画像著作者の方にご迷惑をかけないうよう、また旅行に関する有益な情報を視聴者にお届けできるよう、チャンネル運営に取り組んでおります。しかしもし何かしらの不利益を被るかたちで動画の取り下げなどをご希望される画像著作権者の方は、お手数おかけしますが下記のアドレスにご連絡いただけますと幸いです。早急に対応させていただきます。
-
-お問い合わせ先
-info@ryoko-tatsujin.com
-
-▼======オススメ動画======▼
-
-【兵庫 観光】姫路で訪問したい観光スポット15選
-https://youtu.be/uzjDwIB5VQc
-
-【兵庫 観光】 神戸のおすすめパワースポット15選
-https://youtu.be/D09ou-Wja2Q
-
-【兵庫 観光】 神戸で雰囲気が良いデートスポット15選
-https://youtu.be/7T2R0bP6iTw' where id = '0V9TPOg306Rx3wCiwyf7C';
-update content_bodies set title = '[Tottori Tourism] 10 Popular Ryokans & Hotels in Tottori', description = 'Please use this as a reference for your trip or sightseeing in Tottori Prefecture.
-Tottori Prefecture has many hot spring areas and a wide variety of accommodations. Here, we introduce 10 popular ryokans and hotels in Tottori. Each facility is full of charm, so please consider using them when you visit Tottori.
-■ [Free] Register for the Travel Master Official LINE@ here.
-https://lin.ee/gOY9AJB
-(We regularly share ways to travel smartly, affordably, and richly!)
-
-■ Subscribe to the channel here
-http://ur0.work/6vl5
-#Tottori #Tourism #Travel #TravelMaster
-
-▼====== Regarding Work Requests ======▼
-
-To all tourism and travel industry professionals and store managers involved in tourism.
-
-Travel Master will help promote your local tourist spots and stores.
-
-Would you like to share information you want to promote (tourist spots, store introductions, accommodations, dining...) in a video?
-
-For work requests, please contact us here.
-info@ryoko-tatsujin.com
-
-▼====== About the Travel Master Channel ======▼
-
-・What is Travel Master?
-Travel Master is a channel that delivers various travel information (sightseeing, transportation, accommodation, dining...) both domestically and internationally to make your travels more enjoyable! We provide information to make your trips more enjoyable and comfortable.
-
-・Vision and Mission
-"I want you to enrich your life through travel." This channel is operated with that thought in mind. The members, who spend nearly half the year traveling, supervise and manage the channel. We aim to increase opportunities for you to expand your possibilities and enrich your life through travel.
-
-・A word from the operating members
-As the saying goes, "the journey of self-discovery," traveling can help you discover new possibilities within yourself. This is because travel is an affordable tool to experience various unrealities. We hope that more people will embark on journeys, discover new possibilities, and enrich their lives. We hope this channel can be a catalyst for that.
-
-・Related Information (Please follow us!)
-
-Official Instagram
-→ https://www.instagram.com/tripmasterjt/
-
-Official Twitter
-→ https://twitter.com/tripmasterjt
-
-Official LINE Account
-→ https://lin.ee/gOY9AJB
-
-▼====== About the Video Introduced Today ======▼
-0:00 Theme
-
-Details of the places introduced today
-0:46 1. Kaike Kikunoya
-https://goo.gl/maps/4A81uwJcyjyzu3YY8
-
-1:12 2. Misasa-kan, a ryokan where you can enjoy the rose bath
-https://goo.gl/maps/neTU4nSd3nq3As8d6
-
-1:44 3. Kansuitei Kozeniya
-https://goo.gl/maps/gsTSxA1gTytH7TSb9
-
-2:17 4. Kaike Onsen Yukibou Hakusen
-https://g.page/yukibouhakusen?share
-
-2:44 5. Kasuitei
-https://g.page/kasuitei?share
-
-3:11 6. Izanrou Iwasaki
-https://goo.gl/maps/CMEVhMhWRRLge2iWA
-
-3:42 7. Kaike Seaside Hotel Umi no Shiki
-https://goo.gl/maps/MRXcaQ9nPgRQVxhK6
-
-4:08 8. Misasa Yakushi no Yu Mansuirou
-https://g.page/mansuirou?share
-
-4:38 9. Kaike Grand Hotel Tensui
-https://goo.gl/maps/6hqepNaxWrEcEg7fA
-
-5:06 10. Sennen-tei
-https://goo.gl/maps/uC6WfjkCAqrUVnyv8
-
-Image source
-http://ryoko-tatsujin.com/tottori002/
-
-▼====== Explanation and Notes Regarding This Video ======▼
-
-*Notes
-The information introduced in the video may change.
-When visiting the site, please check the details on the official website in advance.
-
-*Selection Criteria
-The selection and introduction criteria for the spots introduced in the video are based on values and preferences, but we will strive to incorporate as many opinions and feedback as possible to improve.
-
-*Copyright (Regarding Images)
-This channel is produced based on [official websites and various media information], but regarding images, we quote them without altering the photos and, under the advice of a lawyer, we do not reproduce or adapt copyrighted works in the video. Of course, we are committed to ensuring that we do not inconvenience the image authors and to delivering valuable information about travel to our viewers. However, if any image copyright holders wish to request the removal of the video in a way that causes them any disadvantage, we would appreciate it if you could contact us at the address below. We will respond promptly.
-
-Contact
-info@ryoko-tatsujin.com
-
-▼====== Recommended Videos ======▼
-
-[Tourism in Hyogo] 15 Tourist Spots to Visit in Himeji
-https://youtu.be/uzjDwIB5VQc
-
-[Tourism in Hyogo] 15 Recommended Power Spots in Kobe
-https://youtu.be/D09ou-Wja2Q
-
-[Tourism in Hyogo] 15 Great Date Spots in Kobe
-https://youtu.be/7T2R0bP6iTw' where id = 'XfIBzmvRKESifNUswddI1';
-update content_bodies set title = '【熊本観光/グルメ】知らなきゃ損！熊本・合志市で魅力満載の観光＆グルメ旅７選', description = '熊本県への旅行や観光で参考にしてください。今回は熊本県合志市の魅力満載おすすめスポットをご紹介します。この動画で紹介されてないオススメがありましたら、ぜひコメント欄でシェアしてくださいね。
-
-✈️ 40代・50代からでも始められる！
-カンタン＆お得なマイル活用法をLINEで配信中✨
-▶︎ 今すぐ無料でチェック
-https://utage-system.com/line/open/kXc2L2grxMKf?mtid=xhOuLE8koO0G
-
-■チャンネルの登録はコチラから
-https://www.youtube.com/@ryokonotatsujin
-#熊本 #観光 #旅行
-
-▼======お仕事の依頼について======▼
-
-観光にたずさわる観光・旅行業・店舗経営者のみなさんへ。
-
-旅行の達人ではあなたの地域の
-観光スポットや店舗のPRをお手伝いします。
-
-PRしたい情報（観光地・店舗紹介・宿泊・食事...）を
-動画でシェアしませんか？
-
-お仕事の依頼はこちらから。
-info@ryoko-tatsujin.com
-
-▼======旅行の達人チャンネルについて======▼
-
-・旅行の達人とは？
-旅行をより楽しく！旅行の達人は国内外のあらゆる旅行情報【観光・移動・宿泊・食事...】を配信するチャンネルです。あなたの旅行をより楽しくより快適にするための情報をお届けします。
-
-・ヴィジョン・ミッション
-「旅行で人生を豊かにしてほしい」当チャンネルはそんな想いで運営しています。１年の半分近くを旅しながら過ごしているメンバーが監修運営。旅行をとおして自分の可能性を広げてより豊かになるキッカケを増やします。
-
-・運営メンバーからの一言
-「自分探しの旅」という言葉があるように、旅行をすることで新しい自分の可能性を発見することがあります。それは旅行があらゆる非現実を体験できるお手頃なツールだからです。もっと多くの方が旅行に出かけ、新しい可能性を発見し、人生を豊かにする。このチャンネルがそのきっかけになれば幸いです。
-
-・関連情報（ぜひフォローください！）
-
-公式インスタグラム
-→　https://www.instagram.com/tripmasterjt/
-
-公式ツイッター
-→　https://twitter.com/tripmasterjt
-　
-公式LINEアカウント
-→　https://lin.ee/gOY9AJB
-
-▼======本日ご紹介した動画について======▼
-0:00　テーマ
-
-本日ご紹介した場所の詳細
-
-0:50　1.合志市歴史資料館
-https://maps.app.goo.gl/Gtg9u4Ho8Pdw529X7
-
-2:16　2.飯高山公園
-https://maps.app.goo.gl/tZMmiz2jETrzaan2A
-
-3:45　3.合志物産館志来菜彩
-https://maps.app.goo.gl/KMw5dBeZtBGvp7XQ9
-
-5:02　4.熊本県農業公園カントリーパーク
-https://maps.app.goo.gl/dnW3Cu9e9DcFyKxLA
-
-6:33　5.高司観光農園 レストラン「花の果樹園」　
-https://maps.app.goo.gl/EKmLFcigeUCfw6uc6
-
-8:00　6.世界の惣菜バル マルーラキッチン
-https://maps.app.goo.gl/8MHE4pJk9qjJ5TB27
-
-9:18　7.揚げたてや
-https://maps.app.goo.gl/E4p5C5KURmDSkpFGA
-
-
-▼======この動画に関する説明と注意事項======▼
-
-※注意事項について
-動画で紹介した情報は変わる可能性があります。
-現地に足を運ぶ際は、事前に公式サイト等で詳細を確認をお願いします
-
-※選定基準について
-動画でご紹介したスポットの選定・紹介基準は価値観や趣向によりますが、
-できるだけ多くの方の感想やご意見を取り入れて改善につとめていきます
-
-※著作権について(画像について)
-当チャンネルでは［公式ホームページ・各メディア情報］を元に制作しておりますが、画像に関しては写真を改変することなく引用とし、弁護士のアドバイスの下、著作物の複製・翻案をしないよう動画に引用させていただいております。もちろん画像著作者の方にご迷惑をかけないうよう、また旅行に関する有益な情報を視聴者にお届けできるよう、チャンネル運営に取り組んでおります。しかしもし何かしらの不利益を被るかたちで動画の取り下げなどをご希望される画像著作権者の方は、お手数おかけしますが下記のアドレスにご連絡いただけますと幸いです。早急に対応させていただきます。
-
-お問い合わせ先
-info@ryoko-tatsujin.com
-
-▼======オススメ動画======▼
-
-熊本旅行するなら食べないと後悔する！熊本の人気グルメ７選
-https://www.youtube.com/watch?v=5wNoKBMdVis
-
-【熊本観光】はじめて行くなら外せない熊本の観光スポット７選
-https://www.youtube.com/watch?v=wqq7rNP2G00
-
-【熊本観光/グルメ】天草市で人気の観光＆グルメスポット７選
-https://www.youtube.com/watch?v=maBBl_PRpo4' where id = 'lc7mIffIXCQLPdUpnLh7x';

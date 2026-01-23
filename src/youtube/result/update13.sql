@@ -1,3 +1,556 @@
+update content_bodies set title = '[Tokyo Sightseeing] 7 Must-Visit Classic Spots in the Metropolis of Tokyo', description = 'Please use this as a reference for your trip or sightseeing in Tokyo. This time, we will introduce the classic spots in Tokyo. If you have any recommendations that are not mentioned in this video, please feel free to share them in the comments section.
+■ [Free] Register for the Travel Master Official LINE@ here.
+https://lin.ee/gOY9AJB
+(We provide tips on how to travel smartly, affordably, and richly!)
+
+■ Subscribe to the channel here
+http://ur0.work/6vl5
+#Tokyo #Sightseeing #Travel
+
+▼====== For Business Inquiries ======▼
+
+To all tourism and travel industry professionals and store owners.
+
+Travel Master will help promote your local tourist spots and stores.
+
+Would you like to share information you want to promote (tourist attractions, store introductions, accommodations, dining...) in a video?
+
+For business inquiries, please contact us here.
+info@ryoko-tatsujin.com
+
+▼====== About the Travel Master Channel ======▼
+
+- What is Travel Master?
+Travel Master is a channel that delivers various travel information (sightseeing, transportation, accommodation, dining...) both domestically and internationally to make your travels more enjoyable! We provide information to make your trips more fun and comfortable.
+
+- Vision and Mission
+"I want you to enrich your life through travel." This channel is operated with that sentiment. Our team, which spends nearly half the year traveling, supervises and manages the content. We aim to increase opportunities for you to expand your possibilities and enrich your life through travel.
+
+- A word from the operating members
+As the saying goes, "a journey of self-discovery," traveling can help you discover new possibilities within yourself. This is because travel is an affordable tool to experience various unrealities. We hope that more people will embark on journeys, discover new possibilities, and enrich their lives. We hope this channel can be a catalyst for that.
+
+- Related Information (Please follow us!)
+
+Official Instagram
+→ https://www.instagram.com/tripmasterjt/
+
+Official Twitter
+→ https://twitter.com/tripmasterjt
+
+Official LINE Account
+→ https://lin.ee/gOY9AJB
+
+▼====== About the Video Introduced Today ======▼
+0:00 Theme
+
+Details of the places introduced today
+
+1:15 1. Senso-ji Temple
+https://goo.gl/maps/93DYcq8zUxzZFJwQ9
+
+2:11 2. Tokyo Tower
+https://goo.gl/maps/XCrWRo73r5i5gzUv8
+
+3:13 3. Tokyo Skytree
+https://g.page/TOKYOSKYTREE-official?share
+
+4:20 4. Meiji Shrine
+https://goo.gl/maps/NDMU1GG9LjCsat9d8
+
+5:24 5. Shinjuku Gyoen
+https://goo.gl/maps/tAbkCnP3MiidWaDg6
+
+6:25 6. Ameya-Yokocho Shopping Street
+https://goo.gl/maps/8Q227jQkWwugdcxv9
+
+7:31 7. Ueno Park
+https://goo.gl/maps/EceYxRvAMWne44oP7
+
+
+▼====== Explanation and Notes Regarding This Video ======▼
+
+*Notes
+The information presented in the video may change. Please check the official website for details before visiting the location.
+
+*Selection Criteria
+The selection and introduction criteria for the spots presented in the video depend on values and preferences, but we will strive to incorporate as many opinions and feedback as possible for improvement.
+
+*Copyright (Regarding Images)
+This channel is produced based on [official websites and media information], but regarding images, we quote them without alteration and, under the advice of a lawyer, refrain from reproducing or adapting copyrighted works in the video. We are committed to ensuring that we do not inconvenience the image authors and to delivering valuable travel information to our viewers. However, if any copyright holders wish to request the removal of images in a way that causes them any disadvantage, we would appreciate it if you could contact us at the address below. We will respond promptly.
+
+Contact Information
+info@ryoko-tatsujin.com
+
+▼====== Recommended Videos ======▼
+
+[Tokyo Sightseeing/Gourmet] Enjoy the Taste of Tokyo at Classic Gourmet Spots
+https://www.youtube.com/watch?v=hYps7_AbBZw
+
+[Tokyo Sightseeing] Enjoy Autumn Foliage at the Oasis of Tokyo, Mount Takao
+https://www.youtube.com/watch?v=0Va__-pCc08
+
+[Tokyo''s Autumn Foliage] Recommended Spots for Autumn Foliage from the City to the Suburbs!
+https://www.youtube.com/watch?v=5DtxQEuBn5o' where id = '6kd1C1e-sOvLtpAJR3xWr';
+update content_bodies set title = '【神奈川観光】人気観光地の鎌倉で素敵な雰囲気に浸れるホテル', description = '神奈川県への旅行や観光で参考にしてください。今回は、鎌倉をご紹介します。この動画で紹介されてないオススメがありましたら、ぜひコメント欄でシェアしてくださいね。
+■【無料】旅行の達人 公式LINE＠の登録はこちらから。
+https://lin.ee/gOY9AJB
+（賢く、お得に、リッチに旅行する方法を随時配信！）
+
+■チャンネルの登録はコチラから
+http://ur0.work/6vl5
+#神奈川 #観光 #旅行
+
+▼======お仕事の依頼について======▼
+
+観光にたずさわる観光・旅行業・店舗経営者のみなさんへ。
+
+旅行の達人ではあなたの地域の
+観光スポットや店舗のPRをお手伝いします。
+
+PRしたい情報（観光地・店舗紹介・宿泊・食事...）を
+動画でシェアしませんか？
+
+お仕事の依頼はこちらから。
+info@ryoko-tatsujin.com
+
+▼======旅行の達人チャンネルについて======▼
+
+・旅行の達人とは？
+旅行をより楽しく！旅行の達人は国内外のあらゆる旅行情報【観光・移動・宿泊・食事...】を配信するチャンネルです。あなたの旅行をより楽しくより快適にするための情報をお届けします。
+
+・ヴィジョン・ミッション
+「旅行で人生を豊かにしてほしい」当チャンネルはそんな想いで運営しています。１年の半分近くを旅しながら過ごしているメンバーが監修運営。旅行をとおして自分の可能性を広げてより豊かになるキッカケを増やします。
+
+・運営メンバーからの一言
+「自分探しの旅」という言葉があるように、旅行をすることで新しい自分の可能性を発見することがあります。それは旅行があらゆる非現実を体験できるお手頃なツールだからです。もっと多くの方が旅行に出かけ、新しい可能性を発見し、人生を豊かにする。このチャンネルがそのきっかけになれば幸いです。
+
+・関連情報（ぜひフォローください！）
+
+公式インスタグラム
+→　https://www.instagram.com/tripmasterjt/
+
+公式ツイッター
+→　https://twitter.com/tripmasterjt
+　
+公式LINEアカウント
+→　https://lin.ee/gOY9AJB
+
+▼======本日ご紹介した動画について======▼
+0:00　テーマ
+
+本日ご紹介した場所の詳細
+1:06　1.鎌倉古今
+https://g.page/kamakuracocon?share
+
+2:22　2.HOUSE MAYA
+https://goo.gl/maps/wqEj6RXzp1Mrk2SS9
+
+3:29　3.鎌倉プリンスホテル
+https://goo.gl/maps/Q49mkn1LqKUK6bAUA
+
+4:30　4.Modern Ryokan kishi-ke
+https://goo.gl/maps/VRF6JQFgschxWjzcA
+
+5:49　5.KIYAZA 鎌倉 RESORT
+https://goo.gl/maps/MofZmhgP8fzYcFrZ8
+
+6:53　6.鎌倉パークホテル
+https://goo.gl/maps/ZQ63zf7Z6vTh2Zd96
+
+▼======この動画に関する説明と注意事項======▼
+
+※注意事項について
+動画で紹介した情報は変わる可能性があります。
+現地に足を運ぶ際は、事前に公式サイト等で詳細を確認をお願いします
+
+※選定基準について
+動画でご紹介したスポットの選定・紹介基準は価値観や趣向によりますが、
+できるだけ多くの方の感想やご意見を取り入れて改善につとめていきます
+
+※著作権について(画像について)
+当チャンネルでは［公式ホームページ・各メディア情報］を元に制作しておりますが、画像に関しては写真を改変することなく引用とし、弁護士のアドバイスの下、著作物の複製・翻案をしないよう動画に引用させていただいております。もちろん画像著作者の方にご迷惑をかけないうよう、また旅行に関する有益な情報を視聴者にお届けできるよう、チャンネル運営に取り組んでおります。しかしもし何かしらの不利益を被るかたちで動画の取り下げなどをご希望される画像著作権者の方は、お手数おかけしますが下記のアドレスにご連絡いただけますと幸いです。早急に対応させていただきます。
+
+お問い合わせ先
+info@ryoko-tatsujin.com
+
+▼======オススメ動画======▼
+
+【神奈川 観光】 横浜の有名観光スポット15選
+https://youtu.be/PSda0sTSdWo
+
+【神奈川 観光】 江ノ島で訪れたい観光スポット15選
+https://youtu.be/7Zv_LQGrqJU
+
+【神奈川 観光】 神奈川の有名観光スポット15選
+https://youtu.be/r2UrzRmg5H4' where id = 'xKVQFxuXQn1xHQWbUzR4q';
+update content_bodies set title = '[Kanagawa Tourism] A Hotel Where You Can Immerse Yourself in the Wonderful Atmosphere of Kamakura, a Popular Tourist Destination', description = 'Please use this as a reference for your trip or sightseeing in Kanagawa Prefecture. This time, we will introduce Kamakura. If you have any recommendations that are not mentioned in this video, please feel free to share them in the comments section.
+■ [Free] Register for the Travel Master Official LINE@ here.
+https://lin.ee/gOY9AJB
+(We will continuously provide ways to travel smartly, affordably, and richly!)
+
+■ Subscribe to the channel here
+http://ur0.work/6vl5
+#Kanagawa #Tourism #Travel
+
+▼====== Regarding Work Requests ======▼
+
+To all tourism and travel industry professionals and store managers involved in tourism.
+
+Travel Master will help promote tourist spots and stores in your area.
+
+Would you like to share information you want to promote (tourist spots, store introductions, accommodations, dining...) in a video?
+
+For work requests, please contact us here.
+info@ryoko-tatsujin.com
+
+▼====== About the Travel Master Channel ======▼
+
+・What is Travel Master?
+Travel Master is a channel that provides various travel information (sightseeing, transportation, accommodation, dining...) both domestically and internationally to make your travels more enjoyable! We deliver information to make your travels more enjoyable and comfortable.
+
+・Vision and Mission
+"I want you to enrich your life through travel." This channel is operated with that thought in mind. The members, who spend nearly half of the year traveling, supervise and manage the channel. We aim to increase opportunities to broaden your possibilities and enrich your life through travel.
+
+・A word from the operating members
+As the saying goes, "a journey of self-discovery," traveling can help you discover new possibilities within yourself. This is because travel is an affordable tool to experience various unrealities. We hope that more people will embark on journeys, discover new possibilities, and enrich their lives. We hope this channel can be a catalyst for that.
+
+・Related Information (Please follow us!)
+
+Official Instagram
+→ https://www.instagram.com/tripmasterjt/
+
+Official Twitter
+→ https://twitter.com/tripmasterjt
+
+Official LINE Account
+→ https://lin.ee/gOY9AJB
+
+▼====== About the Video Introduced Today ======▼
+0:00 Theme
+
+Details of the places introduced today
+1:06 1. Kamakura Cocon
+https://g.page/kamakuracocon?share
+
+2:22 2. HOUSE MAYA
+https://goo.gl/maps/wqEj6RXzp1Mrk2SS9
+
+3:29 3. Kamakura Prince Hotel
+https://goo.gl/maps/Q49mkn1LqKUK6bAUA
+
+4:30 4. Modern Ryokan Kishi-ke
+https://goo.gl/maps/VRF6JQFgschxWjzcA
+
+5:49 5. KIYAZA Kamakura RESORT
+https://goo.gl/maps/MofZmhgP8fzYcFrZ8
+
+6:53 6. Kamakura Park Hotel
+https://goo.gl/maps/ZQ63zf7Z6vTh2Zd96
+
+▼====== Explanation and Precautions Regarding This Video ======▼
+
+*Regarding Precautions
+The information introduced in the video may change. Please check the official website and other details before visiting the location.
+
+*Regarding Selection Criteria
+The selection and introduction criteria for the spots introduced in the video depend on values and preferences, but we will strive to incorporate as many opinions and feedback as possible to improve.
+
+*Regarding Copyright (Images)
+This channel is produced based on [official websites and various media information], but regarding images, we quote them without altering the photos, and under the advice of a lawyer, we ensure that we do not reproduce or adapt copyrighted works in the video. Of course, we are committed to ensuring that we do not inconvenience the image authors and to delivering valuable travel information to our viewers. However, if any copyright holders wish to have their images removed from the video due to any form of disadvantage, we would appreciate it if you could contact us at the address below. We will respond promptly.
+
+Contact Information
+info@ryoko-tatsujin.com
+
+▼====== Recommended Videos ======▼
+
+[Kanagawa Tourism] 15 Famous Tourist Spots in Yokohama
+https://youtu.be/PSda0sTSdWo
+
+[Kanagawa Tourism] 15 Tourist Spots to Visit in Enoshima
+https://youtu.be/7Zv_LQGrqJU
+
+[Kanagawa Tourism] 15 Famous Tourist Spots in Kanagawa
+https://youtu.be/r2UrzRmg5H4' where id = 'wloOfFFi7QcvnFYKLYZMM';
+update content_bodies set title = '【長野観光】長野観光に行くなら素敵な温泉でリフレッシュ', description = '長野県への旅行や観光で参考にしてください。今回は長野県の素敵な温泉をご紹介します。この動画で紹介されてないオススメがありましたら、ぜひコメント欄でシェアしてくださいね。
+■【無料】旅行の達人 公式LINE＠の登録はこちらから。
+https://lin.ee/gOY9AJB
+（賢く、お得に、リッチに旅行する方法を随時配信！）
+
+■チャンネルの登録はコチラから
+http://ur0.work/6vl5
+#長野 #観光 #旅行
+
+▼======お仕事の依頼について======▼
+
+観光にたずさわる観光・旅行業・店舗経営者のみなさんへ。
+
+旅行の達人ではあなたの地域の
+観光スポットや店舗のPRをお手伝いします。
+
+PRしたい情報（観光地・店舗紹介・宿泊・食事...）を
+動画でシェアしませんか？
+
+お仕事の依頼はこちらから。
+info@ryoko-tatsujin.com
+
+▼======旅行の達人チャンネルについて======▼
+
+・旅行の達人とは？
+旅行をより楽しく！旅行の達人は国内外のあらゆる旅行情報【観光・移動・宿泊・食事...】を配信するチャンネルです。あなたの旅行をより楽しくより快適にするための情報をお届けします。
+
+・ヴィジョン・ミッション
+「旅行で人生を豊かにしてほしい」当チャンネルはそんな想いで運営しています。１年の半分近くを旅しながら過ごしているメンバーが監修運営。旅行をとおして自分の可能性を広げてより豊かになるキッカケを増やします。
+
+・運営メンバーからの一言
+「自分探しの旅」という言葉があるように、旅行をすることで新しい自分の可能性を発見することがあります。それは旅行があらゆる非現実を体験できるお手頃なツールだからです。もっと多くの方が旅行に出かけ、新しい可能性を発見し、人生を豊かにする。このチャンネルがそのきっかけになれば幸いです。
+
+・関連情報（ぜひフォローください！）
+
+公式インスタグラム
+→　https://www.instagram.com/tripmasterjt/
+
+公式ツイッター
+→　https://twitter.com/tripmasterjt
+　
+公式LINEアカウント
+→　https://lin.ee/gOY9AJB
+
+▼======本日ご紹介した動画について======▼
+0:00　テーマ
+
+本日ご紹介した場所の詳細
+
+1:07　1.湯田中渋温泉郷
+https://goo.gl/maps/5WNm6YmEX3NC7nVX9
+
+2:15　2.別所温泉
+https://goo.gl/maps/iQe8vWk8DXCmJnpg8
+
+3:04　3.沓掛温泉
+https://goo.gl/maps/gRvFtcraYqBEtNoa9
+
+3:51　4.野沢温泉
+https://goo.gl/maps/ZLGCwRzXLy9taRWP9
+
+4:47　5.白骨温泉
+https://goo.gl/maps/qWmTQ6V4J3XxFxb58
+
+5:35　6.鹿教湯温泉
+https://goo.gl/maps/QgkhXWLjfXjrrJkP8
+
+
+▼======この動画に関する説明と注意事項======▼
+
+※注意事項について
+動画で紹介した情報は変わる可能性があります。
+現地に足を運ぶ際は、事前に公式サイト等で詳細を確認をお願いします
+
+※選定基準について
+動画でご紹介したスポットの選定・紹介基準は価値観や趣向によりますが、
+できるだけ多くの方の感想やご意見を取り入れて改善につとめていきます
+
+※著作権について(画像について)
+当チャンネルでは［公式ホームページ・各メディア情報］を元に制作しておりますが、画像に関しては写真を改変することなく引用とし、弁護士のアドバイスの下、著作物の複製・翻案をしないよう動画に引用させていただいております。もちろん画像著作者の方にご迷惑をかけないうよう、また旅行に関する有益な情報を視聴者にお届けできるよう、チャンネル運営に取り組んでおります。しかしもし何かしらの不利益を被るかたちで動画の取り下げなどをご希望される画像著作権者の方は、お手数おかけしますが下記のアドレスにご連絡いただけますと幸いです。早急に対応させていただきます。
+
+お問い合わせ先
+info@ryoko-tatsujin.com
+
+▼======オススメ動画======▼
+
+【長野観光】パワースポットとしても知られる善光寺を探訪
+https://www.youtube.com/watch?v=P01myMnZpEM
+
+【長野観光】長野はおそばだけではありません、おすすめのラーメン店のご案内
+https://www.youtube.com/watch?v=T1gpcNV33wU
+
+【長野観光/グルメ】秋の絶品長野ランチ｜紅葉ついでに楽しめるグルメ集
+https://www.youtube.com/watch?v=nRlwv-VZeMA' where id = '4ijMdauC7EN2h1xAu1qy_';
+update content_bodies set title = '[Nagano Tourism] Refresh Yourself at a Wonderful Hot Spring When Visiting Nagano', description = 'Please use this as a reference for your trip or sightseeing in Nagano Prefecture. This time, we will introduce some wonderful hot springs in Nagano Prefecture. If you have any recommendations that are not mentioned in this video, please feel free to share them in the comments section.
+■ [Free] Register for the Travel Master Official LINE@ here.
+https://lin.ee/gOY9AJB
+(We will continuously provide information on how to travel smartly, affordably, and richly!)
+
+■ Subscribe to the channel here
+http://ur0.work/6vl5
+#Nagano #Tourism #Travel
+
+▼====== Regarding Work Requests ======▼
+
+To all tourism and travel industry professionals and store managers involved in tourism.
+
+Travel Master will help promote your local tourist spots and stores.
+
+Would you like to share information you want to promote (tourist spots, store introductions, accommodations, dining...) in a video?
+
+For work requests, please contact us here.
+info@ryoko-tatsujin.com
+
+▼====== About the Travel Master Channel ======▼
+
+- What is Travel Master?
+To make travel more enjoyable! Travel Master is a channel that provides all kinds of travel information both domestically and internationally [sightseeing, transportation, accommodations, dining...]. We deliver information to make your travels more enjoyable and comfortable.
+
+- Vision and Mission
+"I want you to enrich your life through travel." This channel is operated with that thought in mind. Our members, who spend nearly half the year traveling, supervise and manage the channel. We aim to increase opportunities for you to expand your possibilities and enrich your life through travel.
+
+- A word from the operating members
+As the saying goes, "a journey of self-discovery," traveling can help you discover new possibilities within yourself. This is because travel is an affordable tool to experience various unrealities. We hope that more people will embark on journeys, discover new possibilities, and enrich their lives. We hope this channel can be a catalyst for that.
+
+- Related Information (Please follow us!)
+
+Official Instagram
+→ https://www.instagram.com/tripmasterjt/
+
+Official Twitter
+→ https://twitter.com/tripmasterjt
+
+Official LINE Account
+→ https://lin.ee/gOY9AJB
+
+▼====== About the Video Introduced Today ======▼
+0:00 Theme
+
+Details of the places introduced today
+
+1:07 1. Yudanaka Shibu Onsen
+https://goo.gl/maps/5WNm6YmEX3NC7nVX9
+
+2:15 2. Bessho Onsen
+https://goo.gl/maps/iQe8vWk8DXCmJnpg8
+
+3:04 3. Kutsukake Onsen
+https://goo.gl/maps/gRvFtcraYqBEtNoa9
+
+3:51 4. Nozawa Onsen
+https://goo.gl/maps/ZLGCwRzXLy9taRWP9
+
+4:47 5. Shirahone Onsen
+https://goo.gl/maps/qWmTQ6V4J3XxFxb58
+
+5:35 6. Kakeyu Onsen
+https://goo.gl/maps/QgkhXWLjfXjrrJkP8
+
+▼====== Explanation and Precautions Regarding This Video ======▼
+
+* Regarding Precautions
+The information introduced in the video may change. Please check the official website and other details before visiting the location.
+
+* Regarding Selection Criteria
+The selection and introduction criteria for the spots featured in the video depend on values and preferences, but we will strive to incorporate as many opinions and feedback as possible for improvement.
+
+* Regarding Copyright (Images)
+This channel is produced based on [official websites and media information], but regarding images, we quote them without altering the photos, and under the advice of a lawyer, we ensure that we do not reproduce or adapt copyrighted works in the video. Of course, we are committed to ensuring that we do not inconvenience the image authors and to delivering valuable travel information to our viewers. However, if any copyright holders wish to request the removal of videos in a way that causes them any disadvantage, we would appreciate it if you could contact us at the address below. We will respond promptly.
+
+Contact Information
+info@ryoko-tatsujin.com
+
+▼====== Recommended Videos ======▼
+
+[Nagano Tourism] Exploring Zenkoji, Known as a Power Spot
+https://www.youtube.com/watch?v=P01myMnZpEM
+
+[Nagano Tourism] Nagano is not just about soba; here’s a guide to recommended ramen shops
+https://www.youtube.com/watch?v=T1gpcNV33wU
+
+[Nagano Tourism/Gourmet] Autumn''s Exquisite Nagano Lunch | A Collection of Gourmet to Enjoy Along with the Autumn Foliage
+https://www.youtube.com/watch?v=nRlwv-VZeMA' where id = 'CvOd6hMTpDWhOocm6jEiD';
+update content_bodies set title = '【富山観光】富山観光で行きたいパワースポット7選', description = '富山県への旅行や観光で参考にしてください。今回は富山のパワースポットをご紹介します。この動画で紹介されてないオススメがありましたら、ぜひコメント欄でシェアしてくださいね。
+■【無料】旅行の達人 公式LINE＠の登録はこちらから。
+https://lin.ee/gOY9AJB
+（賢く、お得に、リッチに旅行する方法を随時配信！）
+
+■チャンネルの登録はコチラから
+http://ur0.work/6vl5
+#富山 #観光 #旅行
+
+▼======お仕事の依頼について======▼
+
+観光にたずさわる観光・旅行業・店舗経営者のみなさんへ。
+
+旅行の達人ではあなたの地域の
+観光スポットや店舗のPRをお手伝いします。
+
+PRしたい情報（観光地・店舗紹介・宿泊・食事...）を
+動画でシェアしませんか？
+
+お仕事の依頼はこちらから。
+info@ryoko-tatsujin.com
+
+▼======旅行の達人チャンネルについて======▼
+
+・旅行の達人とは？
+旅行をより楽しく！旅行の達人は国内外のあらゆる旅行情報【観光・移動・宿泊・食事...】を配信するチャンネルです。あなたの旅行をより楽しくより快適にするための情報をお届けします。
+
+・ヴィジョン・ミッション
+「旅行で人生を豊かにしてほしい」当チャンネルはそんな想いで運営しています。１年の半分近くを旅しながら過ごしているメンバーが監修運営。旅行をとおして自分の可能性を広げてより豊かになるキッカケを増やします。
+
+・運営メンバーからの一言
+「自分探しの旅」という言葉があるように、旅行をすることで新しい自分の可能性を発見することがあります。それは旅行があらゆる非現実を体験できるお手頃なツールだからです。もっと多くの方が旅行に出かけ、新しい可能性を発見し、人生を豊かにする。このチャンネルがそのきっかけになれば幸いです。
+
+・関連情報（ぜひフォローください！）
+
+公式インスタグラム
+→　https://www.instagram.com/tripmasterjt/
+
+公式ツイッター
+→　https://twitter.com/tripmasterjt
+　
+公式LINEアカウント
+→　https://lin.ee/gOY9AJB
+
+▼======本日ご紹介した動画について======▼
+0:00　テーマ
+
+本日ご紹介した場所の詳細
+
+1:10　1.雨晴海岸
+https://goo.gl/maps/8aKa7BDPfsKiAhnb9
+
+2:13　2.ミクリガ池
+https://goo.gl/maps/MV1cDGkc3kbFHJbp6
+
+3:18　3.称名滝
+https://goo.gl/maps/XQZsPWytjHverxEx9
+
+4:13　4.美女杉
+https://goo.gl/maps/d43NT6wznwjKWuVu8
+
+5:14　5.潮の美
+https://goo.gl/maps/YBQAvZVveog86H3d6
+
+6:10　6.高瀬神社
+https://goo.gl/maps/fmP1DpTGGcAtTHSW8
+
+7:06　7.雄山神社
+https://goo.gl/maps/oGdyBTryKx7jZy4Y7
+
+
+▼======この動画に関する説明と注意事項======▼
+
+※注意事項について
+動画で紹介した情報は変わる可能性があります。
+現地に足を運ぶ際は、事前に公式サイト等で詳細を確認をお願いします
+
+※選定基準について
+動画でご紹介したスポットの選定・紹介基準は価値観や趣向によりますが、
+できるだけ多くの方の感想やご意見を取り入れて改善につとめていきます
+
+※著作権について(画像について)
+当チャンネルでは［公式ホームページ・各メディア情報］を元に制作しておりますが、画像に関しては写真を改変することなく引用とし、弁護士のアドバイスの下、著作物の複製・翻案をしないよう動画に引用させていただいております。もちろん画像著作者の方にご迷惑をかけないうよう、また旅行に関する有益な情報を視聴者にお届けできるよう、チャンネル運営に取り組んでおります。しかしもし何かしらの不利益を被るかたちで動画の取り下げなどをご希望される画像著作権者の方は、お手数おかけしますが下記のアドレスにご連絡いただけますと幸いです。早急に対応させていただきます。
+
+お問い合わせ先
+info@ryoko-tatsujin.com
+
+▼======オススメ動画======▼
+
+【富山 観光】富山のオシャレなカフェ10選
+https://www.youtube.com/watch?v=RoqQ_4PmIfo
+
+【富山】 黒部のグルメ旅！おすすめランチスポット10選
+https://www.youtube.com/watch?v=JCU3IVyJEg0
+
+【富山 ラーメン】 富山県のおすすめ高岡ラーメン【グルメ】
+https://www.youtube.com/watch?v=EATgsFyO_O8' where id = 'GNk9ODhu0U3TNfCa2LEVX';
 update content_bodies set title = '[Toyama Tourism] 7 Power Spots You Want to Visit in Toyama', description = 'Please use this as a reference for your trip or sightseeing in Toyama Prefecture. This time, we will introduce power spots in Toyama. If you have any recommendations that are not mentioned in this video, please feel free to share them in the comments section.
 ■ [Free] Register for the Travel Master Official LINE@ here.
 https://lin.ee/gOY9AJB
@@ -9525,543 +10078,3 @@ https://youtu.be/XwjN2qSRDK8
 
 [Shizuoka] 7 Stylish Tourist Spots in Atami
 https://youtu.be/gzMAPBtWdPc' where id = 'VRs6WxRRl9C_8Pyd03i-q';
-update content_bodies set title = '【京都観光】四条河原町で訪れたい、おすすめランチのお店をご案内', description = '京都府への旅行や観光で参考にしてください。今回は、四条河原町のランチをご紹介します。この動画で紹介されてないオススメがありましたら、ぜひコメント欄でシェアしてくださいね。
-■【無料】旅行の達人 公式LINE＠の登録はこちらから。
-https://lin.ee/gOY9AJB
-（賢く、お得に、リッチに旅行する方法を随時配信！）
-
-■チャンネルの登録はコチラから
-http://ur0.work/6vl5
-#京都 #観光 #旅行
-
-▼======お仕事の依頼について======▼
-
-観光にたずさわる観光・旅行業・店舗経営者のみなさんへ。
-
-旅行の達人ではあなたの地域の
-観光スポットや店舗のPRをお手伝いします。
-
-PRしたい情報（観光地・店舗紹介・宿泊・食事...）を
-動画でシェアしませんか？
-
-お仕事の依頼はこちらから。
-info@ryoko-tatsujin.com
-
-▼======旅行の達人チャンネルについて======▼
-
-・旅行の達人とは？
-旅行をより楽しく！旅行の達人は国内外のあらゆる旅行情報【観光・移動・宿泊・食事...】を配信するチャンネルです。あなたの旅行をより楽しくより快適にするための情報をお届けします。
-
-・ヴィジョン・ミッション
-「旅行で人生を豊かにしてほしい」当チャンネルはそんな想いで運営しています。１年の半分近くを旅しながら過ごしているメンバーが監修運営。旅行をとおして自分の可能性を広げてより豊かになるキッカケを増やします。
-
-・運営メンバーからの一言
-「自分探しの旅」という言葉があるように、旅行をすることで新しい自分の可能性を発見することがあります。それは旅行があらゆる非現実を体験できるお手頃なツールだからです。もっと多くの方が旅行に出かけ、新しい可能性を発見し、人生を豊かにする。このチャンネルがそのきっかけになれば幸いです。
-
-・関連情報（ぜひフォローください！）
-
-公式インスタグラム
-→　https://www.instagram.com/tripmasterjt/
-
-公式ツイッター
-→　https://twitter.com/tripmasterjt
-　
-公式LINEアカウント
-→　https://lin.ee/gOY9AJB
-
-▼======本日ご紹介した動画について======▼
-0:00　テーマ
-
-本日ご紹介した場所の詳細
-1:11　1.omo cafe
-https://goo.gl/maps/s6gYUtdNvTpVVNGo6
-
-2:13　2.くるみ
-https://goo.gl/maps/ZkcSPDpvRktSKXDo7
-
-3:23　3.田ごと
-https://goo.gl/maps/rHt935NvpfacYZkz9
-
-4:27　4.Re:CAFE
-https://goo.gl/maps/4XG998fKLh4sSyG2A
-
-5:29　5.アショカインディアンレストラン  京都店
-https://goo.gl/maps/PPBaa7UmL6XoFnxXA
-
-6:39　6.Bの階段
-https://g.page/b-kaidan?share
-
-▼======この動画に関する説明と注意事項======▼
-
-※注意事項について
-動画で紹介した情報は変わる可能性があります。
-現地に足を運ぶ際は、事前に公式サイト等で詳細を確認をお願いします
-
-※選定基準について
-動画でご紹介したスポットの選定・紹介基準は価値観や趣向によりますが、
-できるだけ多くの方の感想やご意見を取り入れて改善につとめていきます
-
-※著作権について(画像について)
-当チャンネルでは［公式ホームページ・各メディア情報］を元に制作しておりますが、画像に関しては写真を改変することなく引用とし、弁護士のアドバイスの下、著作物の複製・翻案をしないよう動画に引用させていただいております。もちろん画像著作者の方にご迷惑をかけないうよう、また旅行に関する有益な情報を視聴者にお届けできるよう、チャンネル運営に取り組んでおります。しかしもし何かしらの不利益を被るかたちで動画の取り下げなどをご希望される画像著作権者の方は、お手数おかけしますが下記のアドレスにご連絡いただけますと幸いです。早急に対応させていただきます。
-
-お問い合わせ先
-info@ryoko-tatsujin.com
-
-▼======オススメ動画======▼
-
-【京都 観光】京都旅行を楽しむおすすめ観光地15選
-https://youtu.be/pRIsQCB86Cg
-
-【京都 観光】 京都の絶景紅葉スポット10選
-https://youtu.be/H3GIfgznHqo
-
-【京都】運気アップ！京都のパワースポット15選
-https://youtu.be/t8buIs5OMQY' where id = '7nudpVFtH3pv7sPadGCf5';
-update content_bodies set title = '[Kyoto Tourism] Recommended Lunch Spots to Visit in Shijo Kawaramachi', description = 'Please use this as a reference for your trip or sightseeing in Kyoto Prefecture. This time, we will introduce lunch options in Shijo Kawaramachi. If you have any recommendations that are not mentioned in this video, please feel free to share them in the comments section.
-■ [Free] Register for the Travel Master Official LINE@ here.
-https://lin.ee/gOY9AJB
-(We will continuously provide information on how to travel smartly, affordably, and richly!)
-
-■ Subscribe to the channel here
-http://ur0.work/6vl5
-#Kyoto #Tourism #Travel
-
-▼====== Regarding Work Requests ======▼
-
-To all tourism and travel industry professionals and store managers involved in tourism.
-
-Travel Master will assist in promoting tourist spots and stores in your area.
-
-Would you like to share information you want to promote (tourist spots, store introductions, accommodations, meals...) in a video?
-
-For work requests, please contact us here.
-info@ryoko-tatsujin.com
-
-▼====== About the Travel Master Channel ======▼
-
-- What is Travel Master?
-Travel Master is a channel that provides various travel information (sightseeing, transportation, accommodation, meals...) both domestically and internationally to make your travels more enjoyable! We deliver information to make your travels more enjoyable and comfortable.
-
-- Vision and Mission
-"I want you to enrich your life through travel." This channel is operated with that thought in mind. Our members, who spend nearly half the year traveling, supervise and manage the channel. We aim to increase opportunities to broaden your possibilities and enrich your life through travel.
-
-- A word from the operating members
-As the saying goes, "a journey of self-discovery," traveling can help you discover new possibilities within yourself. This is because travel is an affordable tool to experience various unrealities. We hope that more people will embark on journeys, discover new possibilities, and enrich their lives. We hope this channel can be a catalyst for that.
-
-- Related Information (Please follow us!)
-
-Official Instagram
-→ https://www.instagram.com/tripmasterjt/
-
-Official Twitter
-→ https://twitter.com/tripmasterjt
-
-Official LINE Account
-→ https://lin.ee/gOY9AJB
-
-▼====== About the Video Introduced Today ======▼
-0:00 Theme
-
-Details of the places introduced today
-1:11 1. omo cafe
-https://goo.gl/maps/s6gYUtdNvTpVVNGo6
-
-2:13 2. Kurumi
-https://goo.gl/maps/ZkcSPDpvRktSKXDo7
-
-3:23 3. Tagoto
-https://goo.gl/maps/rHt935NvpfacYZkz9
-
-4:27 4. Re:CAFE
-https://goo.gl/maps/4XG998fKLh4sSyG2A
-
-5:29 5. Ashoka Indian Restaurant Kyoto
-https://goo.gl/maps/PPBaa7UmL6XoFnxXA
-
-6:39 6. B''s Stairs
-https://g.page/b-kaidan?share
-
-▼====== Explanation and Precautions Regarding This Video ======▼
-
-* Regarding Precautions
-The information introduced in the video may change. Please check the official website for details before visiting the location.
-
-* Regarding Selection Criteria
-The selection and introduction criteria for the spots featured in the video depend on values and preferences, but we will strive to incorporate as many opinions and feedback as possible for improvement.
-
-* Regarding Copyright (Images)
-This channel is produced based on [official websites and media information], but regarding images, we quote them without altering the photos, and under the advice of a lawyer, we ensure not to reproduce or adapt copyrighted works in the video. Of course, we are committed to not causing inconvenience to the image authors and to delivering valuable travel information to our viewers. However, if any copyright holders wish to have their images removed from the video due to any form of disadvantage, we would appreciate it if you could contact us at the address below. We will respond promptly.
-
-Contact Information
-info@ryoko-tatsujin.com
-
-▼====== Recommended Videos ======▼
-
-[Kyoto Tourism] 15 Recommended Tourist Spots to Enjoy Your Kyoto Trip
-https://youtu.be/pRIsQCB86Cg
-
-[Kyoto Tourism] 10 Scenic Spots for Autumn Foliage in Kyoto
-https://youtu.be/H3GIfgznHqo
-
-[Kyoto] Boost Your Luck! 15 Power Spots in Kyoto
-https://youtu.be/t8buIs5OMQY' where id = 'cI9s_7tjtm2KKYKywcIFR';
-update content_bodies set title = '【徳島観光】カップルで行きたい徳島の旅、レンタカー利用の1泊2日でドライブデート', description = '徳島県への旅行や観光で参考にしてください。今回は、カップルにおすすめの徳島ドライブデートをご紹介します。のこの動画で紹介されてないオススメがありましたら、ぜひコメント欄でシェアしてくださいね。
-■【無料】旅行の達人 公式LINE＠の登録はこちらから。
-https://lin.ee/gOY9AJB
-（賢く、お得に、リッチに旅行する方法を随時配信！）
-
-■チャンネルの登録はコチラから
-http://ur0.work/6vl5
-#徳島 #観光 #旅行
-
-▼======お仕事の依頼について======▼
-
-観光にたずさわる観光・旅行業・店舗経営者のみなさんへ。
-
-旅行の達人ではあなたの地域の
-観光スポットや店舗のPRをお手伝いします。
-
-PRしたい情報（観光地・店舗紹介・宿泊・食事...）を
-動画でシェアしませんか？
-
-お仕事の依頼はこちらから。
-info@ryoko-tatsujin.com
-
-▼======旅行の達人チャンネルについて======▼
-
-・旅行の達人とは？
-旅行をより楽しく！旅行の達人は国内外のあらゆる旅行情報【観光・移動・宿泊・食事...】を配信するチャンネルです。あなたの旅行をより楽しくより快適にするための情報をお届けします。
-
-・ヴィジョン・ミッション
-「旅行で人生を豊かにしてほしい」当チャンネルはそんな想いで運営しています。１年の半分近くを旅しながら過ごしているメンバーが監修運営。旅行をとおして自分の可能性を広げてより豊かになるキッカケを増やします。
-
-・運営メンバーからの一言
-「自分探しの旅」という言葉があるように、旅行をすることで新しい自分の可能性を発見することがあります。それは旅行があらゆる非現実を体験できるお手頃なツールだからです。もっと多くの方が旅行に出かけ、新しい可能性を発見し、人生を豊かにする。このチャンネルがそのきっかけになれば幸いです。
-
-・関連情報（ぜひフォローください！）
-
-公式インスタグラム
-→　https://www.instagram.com/tripmasterjt/
-
-公式ツイッター
-→　https://twitter.com/tripmasterjt
-　
-公式LINEアカウント
-→　https://lin.ee/gOY9AJB
-
-▼======本日ご紹介した動画について======▼
-0:00　テーマ
-
-本日ご紹介した場所の詳細
-1:16　1.鳴門公園
-https://goo.gl/maps/BQtFHCaQKyxqvggHA
-
-2:28　2.大塚国際美術館
-https://goo.gl/maps/mYCfhv3R7ZcgG92G9
-
-3:34　3.あすたむらんど徳島
-https://goo.gl/maps/jSAqGVx4ovwfjg148
-
-4:30　4.眉山
-https://goo.gl/maps/2XpEvWzNPfJdJ52AA
-
-5:29　5.うだつの町並み
-https://goo.gl/maps/YsiMYghRE82UxkcU6
-
-6:34　6.箸蔵ロープウェイ
-https://goo.gl/maps/Lk91fnd7DwCoEse16
-
-▼======この動画に関する説明と注意事項======▼
-
-※注意事項について
-動画で紹介した情報は変わる可能性があります。
-現地に足を運ぶ際は、事前に公式サイト等で詳細を確認をお願いします
-
-※選定基準について
-動画でご紹介したスポットの選定・紹介基準は価値観や趣向によりますが、
-できるだけ多くの方の感想やご意見を取り入れて改善につとめていきます
-
-※著作権について(画像について)
-当チャンネルでは［公式ホームページ・各メディア情報］を元に制作しておりますが、画像に関しては写真を改変することなく引用とし、弁護士のアドバイスの下、著作物の複製・翻案をしないよう動画に引用させていただいております。もちろん画像著作者の方にご迷惑をかけないうよう、また旅行に関する有益な情報を視聴者にお届けできるよう、チャンネル運営に取り組んでおります。しかしもし何かしらの不利益を被るかたちで動画の取り下げなどをご希望される画像著作権者の方は、お手数おかけしますが下記のアドレスにご連絡いただけますと幸いです。早急に対応させていただきます。
-
-お問い合わせ先
-info@ryoko-tatsujin.com
-
-▼======オススメ動画======▼
-
-【徳島 観光】 徳島で人気のお土産8選
-https://youtu.be/8aP4OrbZV68
-
-【徳島 観光】 徳島でおすすめのアウトドアスポット10選
-https://youtu.be/dGzTnn8WhNo
-
-【徳島 観光】 徳島県のおすすめ観光スポット10選
-https://youtu.be/Gf6_rRnDnHY' where id = 'K2r2npKQTLfd89hNAexRl';
-update content_bodies set title = '[Tokushima Tourism] A Trip to Tokushima for Couples: A 1-Night, 2-Day Drive Date Using a Rental Car', description = 'Please use this as a reference for your trip or sightseeing in Tokushima Prefecture. This time, we will introduce a recommended drive date in Tokushima for couples. If you have any recommendations that are not mentioned in this video, please feel free to share them in the comments section.
-■ [Free] Register for the Travel Master Official LINE@ here.
-https://lin.ee/gOY9AJB
-(We will continuously provide information on how to travel smartly, affordably, and richly!)
-
-■ Subscribe to the channel here
-http://ur0.work/6vl5
-#Tokushima #Tourism #Travel
-
-▼====== Regarding Work Requests ======▼
-
-To all tourism and travel industry professionals and store owners.
-
-Travel Master will help promote your local tourist spots and stores.
-
-Would you like to share information you want to promote (tourist attractions, store introductions, accommodations, dining...) in a video?
-
-For work requests, please contact us here.
-info@ryoko-tatsujin.com
-
-▼====== About the Travel Master Channel ======▼
-
-・What is Travel Master?
-Travel Master is a channel that provides various travel information (sightseeing, transportation, accommodation, dining...) both domestically and internationally to make your travels more enjoyable! We deliver information to make your travels more enjoyable and comfortable.
-
-・Vision and Mission
-"I want you to enrich your life through travel." This channel is operated with that thought in mind. Our members, who spend nearly half the year traveling, supervise and manage the channel. We aim to increase opportunities to broaden your possibilities and enrich your life through travel.
-
-・A word from the operating members
-As the saying goes, "a journey of self-discovery," traveling can help you discover new possibilities within yourself. This is because travel is an affordable tool to experience various unrealities. We hope that more people will embark on journeys, discover new possibilities, and enrich their lives. We hope this channel can be a catalyst for that.
-
-・Related Information (Please follow us!)
-
-Official Instagram
-→ https://www.instagram.com/tripmasterjt/
-
-Official Twitter
-→ https://twitter.com/tripmasterjt
-
-Official LINE Account
-→ https://lin.ee/gOY9AJB
-
-▼====== About the Video Introduced Today ======▼
-0:00 Theme
-
-Details of the places introduced today
-1:16 1. Naruto Park
-https://goo.gl/maps/BQtFHCaQKyxqvggHA
-
-2:28 2. Otsuka Museum of Art
-https://goo.gl/maps/mYCfhv3R7ZcgG92G9
-
-3:34 3. Astamurland Tokushima
-https://goo.gl/maps/jSAqGVx4ovwfjg148
-
-4:30 4. Bizan Mountain
-https://goo.gl/maps/2XpEvWzNPfJdJ52AA
-
-5:29 5. Udatsu Townscape
-https://goo.gl/maps/YsiMYghRE82UxkcU6
-
-6:34 6. Hashikura Ropeway
-https://goo.gl/maps/Lk91fnd7DwCoEse16
-
-▼====== Explanation and Precautions Regarding This Video ======▼
-
-* Regarding Precautions
-The information introduced in the video may change. Please check the official website for details before visiting the site.
-
-* Regarding Selection Criteria
-The selection and introduction criteria for the spots introduced in the video depend on values and preferences, but we will strive to incorporate as many opinions and feedback as possible to improve.
-
-* Regarding Copyright (Images)
-This channel is produced based on [official websites and various media information], but regarding images, we quote them without altering the photos and, under the advice of a lawyer, we do not reproduce or adapt copyrighted works in the video. Of course, we are committed to ensuring that we do not inconvenience the image authors and to delivering valuable information about travel to our viewers. However, if any copyright holders wish to have their images removed from the video due to any inconvenience, please feel free to contact us at the address below. We will respond promptly.
-
-Contact Information
-info@ryoko-tatsujin.com
-
-▼====== Recommended Videos ======▼
-
-[Tokushima Tourism] 8 Popular Souvenirs from Tokushima
-https://youtu.be/8aP4OrbZV68
-
-[Tokushima Tourism] 10 Recommended Outdoor Spots in Tokushima
-https://youtu.be/dGzTnn8WhNo
-
-[Tokushima Tourism] 10 Recommended Tourist Spots in Tokushima Prefecture
-https://youtu.be/Gf6_rRnDnHY' where id = 'O4OHnWwTdvZwRS5ZrLJ-t';
-update content_bodies set title = '【佐賀観光】美味しいコーヒーとスイーツで佐賀カフェを楽しむ', description = '佐賀県への旅行や観光で参考にしてください。今回は、佐賀のカフェをご紹介します。この動画で紹介されてないオススメがありましたら、ぜひコメント欄でシェアしてくださいね。
-■【無料】旅行の達人 公式LINE＠の登録はこちらから。
-https://lin.ee/gOY9AJB
-（賢く、お得に、リッチに旅行する方法を随時配信！）
-
-■チャンネルの登録はコチラから
-http://ur0.work/6vl5
-#佐賀 #観光 #旅行
-
-▼======お仕事の依頼について======▼
-
-観光にたずさわる観光・旅行業・店舗経営者のみなさんへ。
-
-旅行の達人ではあなたの地域の
-観光スポットや店舗のPRをお手伝いします。
-
-PRしたい情報（観光地・店舗紹介・宿泊・食事...）を
-動画でシェアしませんか？
-
-お仕事の依頼はこちらから。
-info@ryoko-tatsujin.com
-
-▼======旅行の達人チャンネルについて======▼
-
-・旅行の達人とは？
-旅行をより楽しく！旅行の達人は国内外のあらゆる旅行情報【観光・移動・宿泊・食事...】を配信するチャンネルです。あなたの旅行をより楽しくより快適にするための情報をお届けします。
-
-・ヴィジョン・ミッション
-「旅行で人生を豊かにしてほしい」当チャンネルはそんな想いで運営しています。１年の半分近くを旅しながら過ごしているメンバーが監修運営。旅行をとおして自分の可能性を広げてより豊かになるキッカケを増やします。
-
-・運営メンバーからの一言
-「自分探しの旅」という言葉があるように、旅行をすることで新しい自分の可能性を発見することがあります。それは旅行があらゆる非現実を体験できるお手頃なツールだからです。もっと多くの方が旅行に出かけ、新しい可能性を発見し、人生を豊かにする。このチャンネルがそのきっかけになれば幸いです。
-
-・関連情報（ぜひフォローください！）
-
-公式インスタグラム
-→　https://www.instagram.com/tripmasterjt/
-
-公式ツイッター
-→　https://twitter.com/tripmasterjt
-　
-公式LINEアカウント
-→　https://lin.ee/gOY9AJB
-
-▼======本日ご紹介した動画について======▼
-0:00　テーマ
-
-本日ご紹介した場所の詳細
-1:09　1.アトリエkamin Cafe&Shop：佐賀市大和町
-https://goo.gl/maps/r7W1ziuB7bMd1hkw6
-
-2:13　2.Out Of COFFEE：佐賀市松原
-https://goo.gl/maps/QNaD3yyX1qzsqkBK6
-
-3:09　3.LIFT COFFEE：佐賀市呉服元町
-https://goo.gl/maps/VNiWXReL8M8oAWna6
-
-4:06　4.カフェ木と本：佐賀市唐人
-https://g.page/kitohon?share
-
-5:06　5.flower style lazuli：佐賀市若宮
-https://goo.gl/maps/h4euUajgvzLvRQqk8
-
-6:05　6.こねくり家：佐賀柳町
-https://g.page/conekuriya?share
-
-▼======この動画に関する説明と注意事項======▼
-
-※注意事項について
-動画で紹介した情報は変わる可能性があります。
-現地に足を運ぶ際は、事前に公式サイト等で詳細を確認をお願いします
-
-※選定基準について
-動画でご紹介したスポットの選定・紹介基準は価値観や趣向によりますが、
-できるだけ多くの方の感想やご意見を取り入れて改善につとめていきます
-
-※著作権について(画像について)
-当チャンネルでは［公式ホームページ・各メディア情報］を元に制作しておりますが、画像に関しては写真を改変することなく引用とし、弁護士のアドバイスの下、著作物の複製・翻案をしないよう動画に引用させていただいております。もちろん画像著作者の方にご迷惑をかけないうよう、また旅行に関する有益な情報を視聴者にお届けできるよう、チャンネル運営に取り組んでおります。しかしもし何かしらの不利益を被るかたちで動画の取り下げなどをご希望される画像著作権者の方は、お手数おかけしますが下記のアドレスにご連絡いただけますと幸いです。早急に対応させていただきます。
-
-お問い合わせ先
-info@ryoko-tatsujin.com
-
-▼======オススメ動画======▼
-
-【佐賀 観光】佐賀のおすすめデートスポット10選
-https://youtu.be/lZqj5EmvauQ
-
-【佐賀 観光】 嬉野・武雄地方の観光スポット10選
-https://youtu.be/dHICF-i73Fs
-
-【佐賀 観光】佐賀のオススメホテル＆旅館10選
-https://youtu.be/7DZJ0cVUAdY' where id = 'hU4BPG2tPC1Ri289TrK5i';
-update content_bodies set title = '[Saga Tourism] Enjoying Saga Cafes with Delicious Coffee and Sweets', description = 'Please use this as a reference for your trip or sightseeing in Saga Prefecture. This time, we will introduce cafes in Saga. If you have any recommendations that are not mentioned in this video, please feel free to share them in the comments section.
-■ [Free] Register for the Travel Master Official LINE@ here.
-https://lin.ee/gOY9AJB
-(We will continuously provide ways to travel smartly, affordably, and richly!)
-
-■ Subscribe to the channel here
-http://ur0.work/6vl5
-#Saga #Tourism #Travel
-
-▼====== Regarding Work Requests ======▼
-
-To all tourism and travel industry professionals and store managers.
-
-Travel Master will help promote your local tourist spots and stores.
-
-Would you like to share information you want to promote (tourist spots, store introductions, accommodations, meals...) in a video?
-
-For work requests, please contact us here.
-info@ryoko-tatsujin.com
-
-▼====== About the Travel Master Channel ======▼
-
-・What is Travel Master?
-Travel Master is a channel that provides various travel information (sightseeing, transportation, accommodation, meals...) both domestically and internationally to make your travels more enjoyable! We deliver information to make your travels more fun and comfortable.
-
-・Vision and Mission
-"I want you to enrich your life through travel." This channel is operated with that thought in mind. The members, who spend nearly half of the year traveling, supervise and manage the channel. We aim to increase opportunities to broaden your possibilities and enrich your life through travel.
-
-・A word from the operating members
-As the saying goes, "a journey of self-discovery," traveling can help you discover new possibilities within yourself. This is because travel is an affordable tool to experience various unrealities. We hope that more people will go on trips, discover new possibilities, and enrich their lives. We hope this channel can be a catalyst for that.
-
-・Related Information (Please follow us!)
-
-Official Instagram
-→ https://www.instagram.com/tripmasterjt/
-
-Official Twitter
-→ https://twitter.com/tripmasterjt
-
-Official LINE Account
-→ https://lin.ee/gOY9AJB
-
-▼====== About the Video Introduced Today ======▼
-0:00 Theme
-
-Details of the places introduced today
-1:09 1. Atelier Kamin Cafe & Shop: Yamato Town, Saga City
-https://goo.gl/maps/r7W1ziuB7bMd1hkw6
-
-2:13 2. Out Of COFFEE: Matsubara, Saga City
-https://goo.gl/maps/QNaD3yyX1qzsqkBK6
-
-3:09 3. LIFT COFFEE: Gofuku Motomachi, Saga City
-https://goo.gl/maps/VNiWXReL8M8oAWna6
-
-4:06 4. Cafe Ki to Hon: Karajin, Saga City
-https://g.page/kitohon?share
-
-5:06 5. Flower Style Lazuli: Wakamiya, Saga City
-https://goo.gl/maps/h4euUajgvzLvRQqk8
-
-6:05 6. Conekuriya: Saga Yanagimachi
-https://g.page/conekuriya?share
-
-▼====== Explanation and Precautions Regarding This Video ======▼
-
-*Regarding Precautions
-The information introduced in the video may change. Please check the official website for details before visiting the location.
-
-*Regarding Selection Criteria
-The selection and introduction criteria for the spots featured in the video depend on values and preferences, but we will strive to incorporate as many opinions and feedback as possible for improvement.
-
-*Regarding Copyright (Images)
-This channel is produced based on [official websites and various media information], but regarding images, we quote them without alteration and, under the advice of a lawyer, refrain from reproducing or adapting copyrighted works in the video. Of course, we are committed to ensuring that we do not inconvenience the image authors and to delivering valuable travel information to our viewers. However, if any copyright holders wish to request the removal of videos in a way that causes them any disadvantage, we would appreciate it if you could contact us at the address below. We will respond promptly.
-
-Contact Information
-info@ryoko-tatsujin.com
-
-▼====== Recommended Videos ======▼
-
-[Saga Tourism] 10 Recommended Date Spots in Saga
-https://youtu.be/lZqj5EmvauQ
-
-[Saga Tourism] 10 Tourist Spots in Ureshino and Takeo Areas
-https://youtu.be/dHICF-i73Fs
-
-[Saga Tourism] 10 Recommended Hotels and Inns in Saga
-https://youtu.be/7DZJ0cVUAdY' where id = 'ydYHmHL6iAJx4bGO2XII2';

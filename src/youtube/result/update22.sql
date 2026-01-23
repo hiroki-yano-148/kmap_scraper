@@ -1,3 +1,516 @@
+update content_bodies set title = '浦村の牡蠣（三重県鳥羽市）｜観光三重｜三重県の観光・旅行情報', description = '三重県鳥羽市、冬の時期のおすすめ名物といったらカキ！テレビなどでも紹介され有名になってきた鳥羽市浦村地区の牡蠣の動画です。昔から多くの歌に詠まれた風光明媚な浦村地区では多くの牡蠣養殖場があります。そんな浦村地区では海のミルクともいわれる栄養たっぷりの牡蠣をお腹いっぱい食べられるお店がたくさん！さらに各店舗では食事の際、カキフライやカキ飯、佃煮などのサービスメニューが付くお店がありますのでチェックしてみてください。
+撮影にご協力いただいた山安（やまやす）水産さん、ありがとうございました！
+
+【三重県オススメ観光情報】
+鳥羽市浦村 美味しい牡蠣食べ放題のお店（小屋）2019-2020版！地図付きで紹介します！
+https://www.kankomie.or.jp/season/detail_110.html
+
+伊勢神宮・内宮・外宮・おかげ横丁などの伊勢鳥羽志摩の観光・旅行情報はこちら「初めてのお伊勢まいり：伊勢志摩を歩く」
+https://www.kankomie.or.jp/special/iseshima/
+
+三重県の観光、旅行、イベント、宿泊予約は、三重県観光連盟公式サイト「観光三重」！
+https://www.kankomie.or.jp/
+
+【観光三重公式SNS】
+公式Facebook：https://facebook.com/kankomie.or.jp 
+公式Instagram：https://instagram.com/kankomie/ 
+公式Twitter：https://twitter.com/kankomie' where id = 'Z7wIdA4BCW8AxXWXne2EN';
+update content_bodies set title = 'Oysters of Urakamura (Toba City, Mie Prefecture) | Tourism Mie | Mie Prefecture Travel Information', description = 'In Toba City, Mie Prefecture, the recommended specialty during the winter season is oysters! This video showcases the oysters from the Urakamura area of Toba City, which have become famous through television and other media. The picturesque Urakamura area, which has been celebrated in many songs since ancient times, is home to numerous oyster farms. In this area, there are many restaurants where you can enjoy plenty of nutritious oysters, often referred to as the milk of the sea! Additionally, many establishments offer service menus such as fried oysters, oyster rice, and tsukudani during meals, so be sure to check them out. Thank you to Yamayasu Fisheries for their cooperation in the filming!
+
+【Recommended Tourist Information for Mie Prefecture】
+Introducing restaurants (huts) in Urakamura, Toba City, where you can enjoy all-you-can-eat delicious oysters (2019-2020 version)! With a map included!
+https://www.kankomie.or.jp/season/detail_110.html
+
+For tourism and travel information about Ise Jingu, Naiku, Geku, and Okage Yokocho in Ise, Toba, and Shima, visit "First Time Visiting Ise: Walking in Ise-Shima"
+https://www.kankomie.or.jp/special/iseshima/
+
+For tourism, travel, events, and accommodation reservations in Mie Prefecture, visit the official site of the Mie Prefecture Tourism Federation, "Tourism Mie"!
+https://www.kankomie.or.jp/
+
+【Official SNS of Tourism Mie】
+Official Facebook: https://facebook.com/kankomie.or.jp 
+Official Instagram: https://instagram.com/kankomie/ 
+Official Twitter: https://twitter.com/kankomie' where id = 'J1Yqujku527QodZX5qqVB';
+update content_bodies set title = '三重県大台町の紅葉ドローン映像｜観光三重｜三重県の観光・旅行情報', description = '日本三大渓谷の一つ「大杉谷」がある三重県大台町。
+自然豊かな大台町には、美しい紅葉スポットがたくさんあります。
+ドローンで撮影した紅葉映像をお楽しみくだです。
+（動画提供：大台町地域おこし協力隊　井坂 治 氏）
+
+【撮影年月日】
+1.もみじ館（2017.11.26）
+https://www.kankomie.or.jp/spot/detail_1810.html
+
+2.北畠具教館跡（2017.11.26）
+https://www.kankomie.or.jp/spot/detail_19419.html
+
+3.宮川小学校（2018.11.21）
+
+4.相津峠（2017.11.26）
+
+5.総門山（2018.11.8）
+https://www.kankomie.or.jp/spot/detail_21341.html
+
+【三重県オススメ観光情報】
+
+多気町・大台町・大紀町の観光スポットをご紹介！
+https://www.kankomie.or.jp/season/detail_105.html
+
+三重県の観光、旅行、イベント、宿泊予約は、三重県観光連盟公式サイト「観光三重」！
+https://www.kankomie.or.jp/
+
+観光パンフレットの請求
+https://www.kankomie.or.jp/form/pamphlet.html
+
+三重観光でおさえておきたい王道スポット10選
+https://www.kankomie.or.jp/report/detail_483.html
+
+女子旅にもピッタリ！伊勢観光のおすすめスポット7選
+https://www.kankomie.or.jp/report/detail_493.html
+
+伊勢神宮、内宮、外宮、おかげ横丁などの伊勢志摩の観光・旅行情報「初めてのお伊勢まいり：伊勢志摩を歩く」
+https://www.kankomie.or.jp/special/iseshima/
+
+伊勢、鳥羽、志摩のホテル・宿泊・モデルコース
+https://www.kankomie.or.jp/special/iseshima/course/
+
+ナガシマスパーランドを徹底解説！
+https://www.kankomie.or.jp/report/detail_554.html
+
+三重県のおすすめ温泉特集
+https://www.kankomie.or.jp/season/detail_47.html
+
+【観光三重公式SNS】
+公式Facebook：https://facebook.com/kankomie.or.jp 
+公式Instagram：https://instagram.com/kankomie/ 
+公式Twitter：https://twitter.com/kankomie' where id = '6_DLz4XZ22QPLv_TdR8dn';
+update content_bodies set title = 'Autumn Leaves Drone Footage of Odaigawa Town, Mie Prefecture | Tourism Mie | Mie Prefecture Travel and Tourism Information', description = 'Odaigawa Town in Mie Prefecture, home to one of Japan''s three great gorges, ''Osugidani''.
+Odaigawa Town, rich in nature, has many beautiful spots for autumn leaves.
+Enjoy the autumn leaves footage captured by drone.
+(Video provided by Odaigawa Town Regional Revitalization Cooperation Team, Mr. Osamu Isaka)
+
+【Date of Filming】
+1. Momiji-kan (2017.11.26)
+https://www.kankomie.or.jp/spot/detail_1810.html
+
+2. Kitabatake Gunkiokan Ruins (2017.11.26)
+https://www.kankomie.or.jp/spot/detail_19419.html
+
+3. Miyagawa Elementary School (2018.11.21)
+
+4. Aizu Pass (2017.11.26)
+
+5. Sōmonzan (2018.11.8)
+https://www.kankomie.or.jp/spot/detail_21341.html
+
+【Recommended Tourist Information in Mie Prefecture】
+Introducing tourist spots in Taki Town, Odaigawa Town, and Daiki Town!
+https://www.kankomie.or.jp/season/detail_105.html
+
+For tourism, travel, events, and accommodation reservations in Mie Prefecture, visit the official site of the Mie Prefecture Tourism Federation, ''Tourism Mie''!
+https://www.kankomie.or.jp/
+
+Request for tourist brochures
+https://www.kankomie.or.jp/form/pamphlet.html
+
+10 Must-See Classic Spots in Mie for Tourism
+https://www.kankomie.or.jp/report/detail_483.html
+
+Perfect for Girls'' Trips! 7 Recommended Spots for Ise Tourism
+https://www.kankomie.or.jp/report/detail_493.html
+
+Tourism and travel information for Ise-Shima, including Ise Jingu, Naiku, Geku, and Okage Yokocho: ''First Time Visiting Ise: Walking in Ise-Shima''
+https://www.kankomie.or.jp/special/iseshima/
+
+Hotels, accommodations, and model courses in Ise, Toba, and Shima
+https://www.kankomie.or.jp/special/iseshima/course/
+
+Thorough Explanation of Nagashima Spa Land!
+https://www.kankomie.or.jp/report/detail_554.html
+
+Recommended Hot Springs in Mie Prefecture
+https://www.kankomie.or.jp/season/detail_47.html
+
+【Official SNS of Tourism Mie】
+Official Facebook: https://facebook.com/kankomie.or.jp 
+Official Instagram: https://instagram.com/kankomie/ 
+Official Twitter: https://twitter.com/kankomie' where id = 'iRNSqZAVM9oa4TsJVa4LN';
+update content_bodies set title = '松阪市総合運動公園スケートパーク（三重県松阪市）｜観光三重｜三重県の観光・旅行情報', description = '三重県内初の公共スケートパーク！全国最大規模の面積で、初心者から上級者まで楽しめるスケートパークが松阪市に誕生しました。競技エリア、ローカルエリア、プールエリアと３つの魅力あふれるエリアに分かれており、それぞれ違った楽しみ方ができます。初心者の方には、スクールも開催されているため、安心して楽しめます。
+松阪の地元スケーターの方にご協力いただき、動画を撮影させていただきました。ありがとうございました。
+
+【三重県オススメ観光情報】
+松阪を歩く　～城下町で歴史散策とグルメ旅～
+https://www.kankomie.or.jp/special/matsusaka/index.html
+
+松阪は牛だけじゃない。絶品！松阪鶏焼き肉・松阪豚特集
+https://www.kankomie.or.jp/season/article_203.html
+
+伊勢神宮・内宮・外宮・おかげ横丁などの伊勢鳥羽志摩の観光・旅行情報はこちら「初めてのお伊勢まいり：伊勢志摩を歩く」
+https://www.kankomie.or.jp/special/iseshima/
+
+三重県の観光、旅行、イベント、宿泊予約は、三重県観光連盟公式サイト「観光三重」！
+https://www.kankomie.or.jp/
+
+【観光三重公式SNS】
+公式Facebook：https://facebook.com/kankomie.or.jp 
+公式Instagram：https://instagram.com/kankomie/ 
+公式Twitter：https://twitter.com/kankomie' where id = 'FEGtrTlpQvhjEWPaftvXw';
+update content_bodies set title = 'Matsusaka City Comprehensive Sports Park Skate Park (Matsusaka City, Mie Prefecture) | Tourism Mie | Mie Prefecture''s Tourism and Travel Information', description = 'The first public skate park in Mie Prefecture! A skate park with the largest area in the country has opened in Matsusaka City, where beginners to advanced skaters can enjoy. It is divided into three attractive areas: the competition area, local area, and pool area, each offering a different way to have fun. For beginners, there are also schools held, so you can enjoy it with peace of mind.
+We collaborated with local skaters in Matsusaka to shoot a video. Thank you very much.
+
+【Recommended Tourism Information in Mie Prefecture】
+Walking in Matsusaka - A Historical and Gourmet Journey in the Castle Town -
+https://www.kankomie.or.jp/special/matsusaka/index.html
+
+Matsusaka is not just about beef. Exquisite! Matsusaka Chicken Grilled Meat & Matsusaka Pork Special
+https://www.kankomie.or.jp/season/article_203.html
+
+For tourism and travel information about Ise Jingu, Naiku, Geku, and Okage Yokocho in Ise, Toba, and Shima, visit "First Time Visiting Ise: Walking in Ise Shima"
+https://www.kankomie.or.jp/special/iseshima/
+
+For tourism, travel, events, and accommodation reservations in Mie Prefecture, visit the official site of the Mie Prefecture Tourism Federation, "Tourism Mie"!
+https://www.kankomie.or.jp/
+
+【Official SNS of Tourism Mie】
+Official Facebook: https://facebook.com/kankomie.or.jp 
+Official Instagram: https://instagram.com/kankomie/ 
+Official Twitter: https://twitter.com/kankomie' where id = '2hN-i9QZwsUVXCzOhdY_a';
+update content_bodies set title = '大自然満喫！香肌峡でカヌー体験（松阪市）｜観光三重｜三重県の観光・旅行情報', description = '松阪市飯高の香肌峡（かはだきょう）で親子でも楽しめるカヌー体験をしてきました！大自然を満喫できる香肌峡のカヌー体験は、初心者でも家族や友達・カップルで、わいわい遊べるおすすめレジャー体験です。たっぷり2時間遊べるので、自然をまったり堪能できます。緑の山々に囲まれた中、美しい櫛田川でカヌー体験をしてみませんか？
+
+【取材レポート】大自然が満喫できる香肌峡でカヌー体験！ カップルで、家族で、アクティブに遊べるレジャースポット
+https://www.kankomie.or.jp/report/detail_547.html
+
+【取材レポート】〔美し国三重　自転車道中記〕飯南・飯高・大台編 　清流沿い、上りと走りごたえ満点！地元産グルメと温泉も楽しめる欲張りコース
+https://www.kankomie.or.jp/report/detail_548.html
+
+三重県の観光、旅行、イベント、宿泊予約は、三重県観光連盟公式サイト「観光三重」！
+https://www.kankomie.or.jp/
+
+伊勢神宮・内宮・外宮・おかげ横丁などの伊勢鳥羽志摩の観光・旅行情報はこちら「初めてのお伊勢まいり：伊勢志摩を歩く」https://www.kankomie.or.jp/special/iseshima/' where id = '5QR05QXnsLKg3bptggq2t';
+update content_bodies set title = 'Experience the Great Outdoors! Canoeing in Kahadakyo (Matsusaka City) | Tourism Mie | Mie Prefecture Travel Information', description = 'We had a fun canoeing experience in Kahadakyo, Iitaka, Matsusaka City, that can be enjoyed by both parents and children! The canoeing experience in Kahadakyo, where you can fully enjoy the great outdoors, is a recommended leisure activity that can be enjoyed with family, friends, or couples, even for beginners. With a full 2 hours of playtime, you can leisurely savor nature. Surrounded by green mountains, why not try canoeing on the beautiful Kushida River?
+
+[Report] Canoeing Experience in Kahadakyo, Where You Can Enjoy the Great Outdoors! A Leisure Spot for Couples and Families to Play Actively
+https://www.kankomie.or.jp/report/detail_547.html
+
+[Report] [Beautiful Country Mie Bicycle Path Chronicles] Iinan, Iitaka, Odaichi Edition - A Rich Course Along the Clear Stream, Full of Climbing and Riding Satisfaction! Enjoy Local Gourmet and Hot Springs
+https://www.kankomie.or.jp/report/detail_548.html
+
+For tourism, travel, events, and accommodation reservations in Mie Prefecture, visit the official site of the Mie Prefecture Tourism Federation, "Tourism Mie"!
+https://www.kankomie.or.jp/
+
+For tourism and travel information about Ise Jingu, Naiku, Geku, and Okage Yokocho in the Ise-Toba-Shima area, visit here: "First Time Visiting Ise: Walking in Ise-Shima"
+https://www.kankomie.or.jp/special/iseshima/' where id = 'dNY9F2sJDMXURLydOK-ZL';
+update content_bodies set title = '伊勢忍者キングダム（伊勢安土桃山城下町）で「忍者　森のアドベンチャー」を体験！（伊勢市）｜観光三重｜三重県の観光・旅行情報', description = '安土城を中心に時代情緒ある町並みが広がり、忍者や町娘が行き交う歴史と文化を体感できるテーマパーク。忍者アクションショー「大忍者劇場」や笑いあり涙ありの「山田奉行所」などライブ感覚で楽しめる劇場が観賞できます。親子で楽しめるアスレチック「忍者森のアドベンチャー」は大盛況。ぜひ通行手形で忍者衣裳に着替えて、挑戦しましょう！
+
+【取材レポート】「伊勢忍者キングダム（旧 伊勢安土桃山城下街）」で戦国時代にタイムスリップ！
+https://www.kankomie.or.jp/report/detail_257.html
+
+【取材レポート】伊勢安土桃山城下街で2018年に新登場のアトラクションに挑戦！森の中のアスレチックは子ども達に大人気！
+https://www.kankomie.or.jp/report/detail_377.html
+
+【観光スポット】ともいきの国　伊勢忍者キングダム（旧：伊勢安土桃山城下街）
+https://www.kankomie.or.jp/spot/detail_3104.html
+
+三重県の観光、旅行、イベント、宿泊予約は、三重県観光連盟公式サイト「観光三重」！
+https://www.kankomie.or.jp/
+
+伊勢神宮・内宮・外宮・おかげ横丁などの伊勢鳥羽志摩の観光・旅行情報はこちら「初めてのお伊勢まいり：伊勢志摩を歩く」https://www.kankomie.or.jp/special/iseshima/' where id = '7-9d78qlz0FfeIHfZ8e13';
+update content_bodies set title = 'Experience ''Ninja Forest Adventure'' at Ise Ninja Kingdom (Ise Azuchi Momoyama Castle Town)! (Ise City) | Tourism Mie | Mie Prefecture Travel Information', description = 'A theme park where you can experience the history and culture of a town with a nostalgic atmosphere centered around Azuchi Castle, where ninjas and town girls come and go. You can enjoy live performances such as the ninja action show ''Great Ninja Theater'' and the emotional ''Yamada Magistrate''s Office.'' The athletic ''Ninja Forest Adventure'' is a big hit for families. Be sure to change into a ninja costume with a pass and take on the challenge!
+
+【Report】Time slip to the Sengoku period at ''Ise Ninja Kingdom (formerly Ise Azuchi Momoyama Castle Town)''! 
+https://www.kankomie.or.jp/report/detail_257.html
+
+【Report】Challenge the new attraction that debuted in 2018 at Ise Azuchi Momoyama Castle Town! The forest athletic course is very popular with children! 
+https://www.kankomie.or.jp/report/detail_377.html
+
+【Tourist Spot】Tomoi no Kuni Ise Ninja Kingdom (formerly: Ise Azuchi Momoyama Castle Town) 
+https://www.kankomie.or.jp/spot/detail_3104.html
+
+For tourism, travel, events, and accommodation reservations in Mie Prefecture, visit the official site of the Mie Prefecture Tourism Federation ''Tourism Mie''! 
+https://www.kankomie.or.jp/
+
+For tourism and travel information about Ise, Toba, and Shima, including Ise Jingu Shrine, Naiku, Geku, and Okage Yokocho, visit ''First Time Visiting Ise: Walking in Ise Shima'' here: https://www.kankomie.or.jp/special/iseshima/' where id = 'j3Dyi84QrhukXikQEOwaq';
+update content_bodies set title = '抜群の透明度！奇跡の川と呼ばれる銚子川（紀北町）｜観光三重｜三重県の観光・旅行情報', description = '日本屈指の透明度で、潜らなくても川の底まで見ることができ、泳いでいる魚の姿もはっきり見えます。上流から下流まで透明度がかわらず、その透明度の高さから奇跡の川と呼ばれることもある紀北町の川です。
+
+【取材レポート】道の駅　紀伊長島マンボウに行ってきました！人気のお土産・グルメ・周辺情報など詳しくご紹介！
+https://www.kankomie.or.jp/report/detail_274.html
+
+【取材レポート】ホテル季の座で話題の朝食に舌鼓！VIPも感激した紀伊長島の海鮮料理は一食の価値あり！
+https://www.kankomie.or.jp/report/detail_293.html
+
+三重県の観光、旅行、イベント、宿泊予約は、三重県観光連盟公式サイト「観光三重」！
+https://www.kankomie.or.jp/
+
+伊勢神宮・内宮・外宮・おかげ横丁などの伊勢鳥羽志摩の観光・旅行情報はこちら「初めてのお伊勢まいり：伊勢志摩を歩く」https://www.kankomie.or.jp/special/iseshima/' where id = 'Cw3O1JcqfGfQqhIiSKqNE';
+update content_bodies set title = 'Outstanding Transparency! The Choshi River, Known as the Miracle River (Kihoku Town) | Tourism Mie | Mie Prefecture Travel Information', description = 'With one of the highest transparencies in Japan, you can see the bottom of the river without diving, and the fish swimming are clearly visible. This river in Kihoku Town is sometimes called the Miracle River due to its consistent transparency from upstream to downstream.
+
+[Report] We visited the Roadside Station Kii Nagashima Mambo! Detailed introduction of popular souvenirs, gourmet food, and surrounding information!
+https://www.kankomie.or.jp/report/detail_274.html
+
+[Report] Enjoying the talked-about breakfast at Hotel Ki no Za! The seafood cuisine of Kii Nagashima, which even impressed VIPs, is worth a meal!
+https://www.kankomie.or.jp/report/detail_293.html
+
+For tourism, travel, events, and accommodation reservations in Mie Prefecture, visit the official site of the Mie Prefecture Tourism Federation, "Tourism Mie"!
+https://www.kankomie.or.jp/
+
+For tourism and travel information about Ise Jingu, Naiku, Geku, and Okage Yokocho in the Ise-Toba-Shima area, visit here: "First Time Visiting Ise: Walking in Ise-Shima"
+https://www.kankomie.or.jp/special/iseshima/' where id = '72e1XkBDwEZWALydZPX57';
+update content_bodies set title = '孫太郎オートキャンプ場をちょっとお散歩してきました(紀北町)｜観光三重｜三重県の観光・旅行情報', description = '紀勢自動車道の紀伊長島インターチェンジから車でわずか10分。
+三重県北牟婁郡紀北町にある「孫太郎オートキャンプ」は、海と山に囲まれた自然豊かなオートキャンプ場です。
+テントサイトは大きく分けて「テントサイト」・「シーサイドコテージ」の２種類の区画があり、テントサイトはさらにAサイトからDサイトまでとフリーサイトに分けられます。
+キャンプ場の目の前は海で釣りをすることもできます。カヤックや、SUPなどのツアーも申し込むことができ、色んなアクティビティが体験できますよ。
+
+【取材レポート】孫太郎オートキャンプの「まるごと海体験」で大人も子どもも「網上げ体験＆漁師飯体験」！
+https://www.kankomie.or.jp/report/detail_497.html
+
+【取材レポート】道の駅　紀伊長島マンボウに行ってきました！人気のお土産・グルメ・周辺情報など詳しくご紹介！
+https://www.kankomie.or.jp/report/detail_274.html
+
+【取材レポート】ホテル季の座で話題の朝食に舌鼓！VIPも感激した紀伊長島の海鮮料理は一食の価値あり！
+https://www.kankomie.or.jp/report/detail_293.html
+
+三重県の観光、旅行、イベント、宿泊予約は、三重県観光連盟公式サイト「観光三重」！
+https://www.kankomie.or.jp/
+
+伊勢神宮・内宮・外宮・おかげ横丁などの伊勢鳥羽志摩の観光・旅行情報はこちら「初めてのお伊勢まいり：伊勢志摩を歩く」https://www.kankomie.or.jp/special/iseshima/' where id = 'Bx85S4oOa59Rh9-xNInob';
+update content_bodies set title = 'I took a little walk at Magotaro Auto Campground (Kihoku Town) | Tourism Mie | Mie Prefecture Travel Information', description = 'Just a 10-minute drive from the Kii Nagashima Interchange on the Kisei Expressway.
+Magotaro Auto Camp, located in Kihoku Town, Kitamuro District, Mie Prefecture, is a nature-rich auto campground surrounded by the sea and mountains.
+The tent sites are broadly divided into two types: ''Tent Sites'' and ''Seaside Cottages'', with the tent sites further divided into A sites, B sites, C sites, D sites, and free sites.
+You can fish right in front of the campground by the sea. You can also sign up for tours such as kayaking and SUP, allowing you to experience various activities.
+
+【Report】Experience the ''All-Around Sea Experience'' at Magotaro Auto Camp, where both adults and children can enjoy ''Net Raising Experience & Fisherman''s Meal Experience''!
+https://www.kankomie.or.jp/report/detail_497.html
+
+【Report】I visited the roadside station Kii Nagashima Mambo! Detailed introduction of popular souvenirs, gourmet food, and surrounding information!
+https://www.kankomie.or.jp/report/detail_274.html
+
+【Report】Savor the popular breakfast at Hotel Ki no Za! The seafood cuisine of Kii Nagashima is worth a meal, even for VIPs!
+https://www.kankomie.or.jp/report/detail_293.html
+
+For tourism, travel, events, and accommodation reservations in Mie Prefecture, visit the official site of the Mie Prefecture Tourism Federation, ''Tourism Mie''!
+https://www.kankomie.or.jp/
+
+For tourism and travel information about Ise Jingu, Naiku, Geku, and Okage Yokocho in the Ise, Toba, and Shima area, visit ''First Time Ise Pilgrimage: Walking in Ise Shima''
+https://www.kankomie.or.jp/special/iseshima/' where id = 'zSecKPt3w-M6Wq7bRm8DB';
+update content_bodies set title = '東海道関宿～伝統を受け継ぐ～(亀山市)｜観光三重｜三重県の観光・旅行情報', description = '東海道五十三次の４７番目の宿場町として栄え、今なお当時の雰囲気が残されている関宿（せきじゅく）。
+ここには江戸時代後期から明治時代にかけて建てられた町家が２００棟以上も現存し、国の重要伝統的建造物群保存地区や日本の道百選に選定されています。
+昔ながらの伝統を受け継いできた人々を通じ、「関宿」の魅力を紹介します。
+
+【関宿の取材レポート記事】
+「東海道関宿（亀山市）を散策。お茶処も充実の宿場町！駐車場・ガイド・グルメもご紹介！」
+→https://www.kankomie.or.jp/report/detail_252.html
+
+「古きよき街並み「東海道関宿」で、「見て」「食べて」「体験」できる注目スポットをご紹介！」
+→https://www.kankomie.or.jp/report/detail_438.html
+
+【三重県オススメ観光情報】
+三重県の北勢エリア（桑名市、木曽岬町、朝日町、東員町、川越町、いなべ市、菰野町、四日市市、鈴鹿市、亀山市）のWeb観光・旅行マガジン「ふらっと北伊勢」
+https://kitaise.kankomie.or.jp/
+
+三重県の観光、旅行、イベント、宿泊予約は、三重県観光連盟公式サイト「観光三重」！
+https://www.kankomie.or.jp/
+
+伊勢神宮・内宮・外宮・おかげ横丁などの伊勢鳥羽志摩の観光・旅行情報はこちら「初めてのお伊勢まいり：伊勢志摩を歩く」https://www.kankomie.or.jp/special/iseshima/' where id = 'qskvD5KHGg7UIDvGSp7ED';
+update content_bodies set title = 'Tokaido Sekijuku - Inheriting Tradition - (Kameyama City) | Tourism Mie | Mie Prefecture Travel Information', description = 'Sekijuku, the 47th post town of the Tokaido Fifty-Three Stations, flourished and still retains the atmosphere of that time.
+Here, more than 200 townhouses built from the late Edo period to the Meiji period still exist, and it has been designated as a National Important Traditional Building Preservation District and selected as one of Japan''s Top 100 Roads.
+Through the people who have inherited the old traditions, we introduce the charm of ''Sekijuku''.
+
+【Sekijuku Coverage Report Articles】
+"Strolling through Tokaido Sekijuku (Kameyama City). A post town rich in tea shops! Introducing parking, guides, and gourmet options!"
+→https://www.kankomie.or.jp/report/detail_252.html
+
+"Introducing must-see spots where you can ''see'', ''eat'', and ''experience'' in the nostalgic townscape of ''Tokaido Sekijuku''!"
+→https://www.kankomie.or.jp/report/detail_438.html
+
+【Recommended Tourism Information for Mie Prefecture】
+Web tourism and travel magazine ''Flat North Ise'' for the Hokusei area of Mie Prefecture (Kuwana City, Kisozaki Town, Asahi Town, Toin Town, Kawagoe Town, Inabe City, Komono Town, Yokkaichi City, Suzuka City, Kameyama City)
+https://kitaise.kankomie.or.jp/
+
+For tourism, travel, events, and accommodation reservations in Mie Prefecture, visit the official site of the Mie Prefecture Tourism Federation ''Tourism Mie''!
+https://www.kankomie.or.jp/
+
+For tourism and travel information about Ise Jingu, Naiku, Geku, and Okage Yokocho in Ise, Toba, and Shima, visit ''First Time Visiting Ise: Walking in Ise Shima''
+https://www.kankomie.or.jp/special/iseshima/' where id = '3XHnWBYX0Tje7Ufx_lids';
+update content_bodies set title = 'フォレストアドベンチャー湯の山(菰野町)・ダブルジップスライド体験｜観光三重｜三重県の観光・旅行情報', description = '三重県初のフォレストアドベンチャーが菰野町に2019年3月16日（土）OPEN！
+最終コースのダブルジップスライドを体験させていただきました。一緒に頑張った家族、友達、カップルで爽快感・達成感を共有できる楽しいアトラクションです！
+
+【詳しい取材レポートはコチラ】
+『三重県初！フォレストアドベンチャー・湯の山を徹底取材！2019年3月16日オープンに先駆けて体験してきました！（三重県菰野町）』
+https://www.kankomie.or.jp/report/detail_439.html
+
+【三重県オススメ観光情報】
+三重県の北勢エリア（桑名市、木曽岬町、朝日町、東員町、川越町、いなべ市、菰野町、四日市市、鈴鹿市、亀山市）のWeb観光・旅行マガジン「ふらっと北伊勢」
+https://kitaise.kankomie.or.jp/
+
+菰野町の定番・穴場・おすすめ観光・旅行スポット情報
+『四日市と菰野町のおすすめ定番観光スポット特集　最近できた場所から穴場までご紹介！』
+https://www.kankomie.or.jp/season/detail_120.html
+
+三重県の観光、旅行、イベント、宿泊予約は、三重県観光連盟公式サイト「観光三重」！
+https://www.kankomie.or.jp/
+
+伊勢神宮・内宮・外宮・おかげ横丁などの伊勢鳥羽志摩の観光・旅行情報はこちら「初めてのお伊勢まいり：伊勢志摩を歩く」
+https://www.kankomie.or.jp/special/iseshima/' where id = '4sOrCPwhxFeOvYdrGDZoa';
+update content_bodies set title = 'Forest Adventure Yunoyama (Komono Town) - Double Zip Slide Experience | Tourism Mie | Mie Prefecture Travel Information', description = 'The first Forest Adventure in Mie Prefecture opened in Komono Town on March 16, 2019 (Saturday)! 
+I had the opportunity to experience the final course, the Double Zip Slide. 
+It''s a fun attraction where families, friends, and couples can share the exhilaration and sense of achievement together!
+
+【For detailed coverage report, click here】
+''First in Mie Prefecture! Thorough coverage of Forest Adventure Yunoyama! I experienced it ahead of the opening on March 16, 2019! (Komono Town, Mie Prefecture)'' 
+https://www.kankomie.or.jp/report/detail_439.html
+
+【Recommended tourism information in Mie Prefecture】
+Web tourism and travel magazine ''Flat North Ise'' for the Hokusei area of Mie Prefecture (Kuwana City, Kisosaki Town, Asahi Town, Toin Town, Kawagoe Town, Inabe City, Komono Town, Yokkaichi City, Suzuka City, Kameyama City) 
+https://kitaise.kankomie.or.jp/
+
+Information on standard, hidden gem, and recommended tourist and travel spots in Komono Town 
+''Feature on recommended standard tourist spots in Yokkaichi and Komono Town - Introducing places from recent openings to hidden gems!'' 
+https://www.kankomie.or.jp/season/detail_120.html
+
+For tourism, travel, events, and accommodation reservations in Mie Prefecture, visit the official site of the Mie Prefecture Tourism Federation ''Tourism Mie''! 
+https://www.kankomie.or.jp/
+
+For tourism and travel information on Ise Jingu, Naiku, Geku, and Okage Yokocho in Ise, Toba, and Shima, click here ''First Time Visiting Ise: Walking in Ise Shima'' 
+https://www.kankomie.or.jp/special/iseshima/' where id = 'wMrTyeQn_grgmZPA33_dh';
+update content_bodies set title = '熊野大花火大会2018(熊野市)スターマイン（１）｜観光三重｜三重県の観光・旅行情報', description = '熊野大花火大会のスターマイン動画です。
+視野におさまりきらない打ち上げ花火は圧巻です！
+
+熊野大花火大会のイベント情報
+https://www.kankomie.or.jp/event/detail_5207.html
+
+【観光三重YouTubeチャンネル】
+三重県内の観光や旅行の動画をアップしていくので、ぜひチャンネル登録してくださいね♪
+https://www.youtube.com/user/kankomie
+
+【三重県オススメ観光情報】
+心、身体、魂を癒やす よみがえりの聖地「熊野」。神々に導かれる一生ものの旅
+https://www.kankomie.or.jp/special/kumano/
+
+熊野古道伊勢路の観光・旅行情報はこちら「初めての熊野古道 伊勢路を歩く」
+https://www.kankomie.or.jp/special/kumanokodo/index.html
+
+伊勢神宮・内宮・外宮・おかげ横丁などの伊勢鳥羽志摩の観光・旅行情報はこちら「初めてのお伊勢まいり：伊勢志摩を歩く」
+https://www.kankomie.or.jp/special/iseshima/
+
+三重県の観光、旅行、イベント、宿泊予約は、三重県観光連盟公式サイト「観光三重」！
+https://www.kankomie.or.jp/
+
+【観光三重 公式SNSのご紹介】
+それぞれ違った切り口で三重県の魅力をお伝えしています♪ぜひのぞいてみて下さい😊🎵
+〇Facebook
+https://www.facebook.com/kankomie.or.jp/
+〇Twitter
+https://twitter.com/kankomie
+〇インスタグラム 
+https://www.instagram.com/kankomie/
+〇YouTube
+https://www.youtube.com/user/kankomie
+〇LINE　　 
+友だち追加→ID検索→@kankomie で検索' where id = '6zcenkM53lKUO7gw4aS-3';
+update content_bodies set title = 'Kumano Grand Fireworks Festival 2018 (Kumano City) Star Mine (1) | Tourism Mie | Mie Prefecture Travel Information', description = 'This is a video of the star mine at the Kumano Grand Fireworks Festival.
+The fireworks that cannot fit into your field of vision are breathtaking!
+
+Event information for the Kumano Grand Fireworks Festival
+https://www.kankomie.or.jp/event/detail_5207.html
+
+[Tourism Mie YouTube Channel]
+We will be uploading videos of sightseeing and travel in Mie Prefecture, so please subscribe to our channel! ♪
+https://www.youtube.com/user/kankomie
+
+[Recommended Travel Information in Mie Prefecture]
+A sacred place of revival that heals the heart, body, and soul: "Kumano." A once-in-a-lifetime journey guided by the gods.
+https://www.kankomie.or.jp/special/kumano/
+
+For sightseeing and travel information on the Kumano Kodo Iseji, click here: "Walking the Kumano Kodo Iseji for the First Time"
+https://www.kankomie.or.jp/special/kumanokodo/index.html
+
+For sightseeing and travel information on Ise Jingu, Naiku, Geku, and Okage Yokocho in Ise Toba Shima, click here: "First Time Visiting Ise: Walking in Ise Shima"
+https://www.kankomie.or.jp/special/iseshima/
+
+For tourism, travel, events, and accommodation reservations in Mie Prefecture, visit the official site of the Mie Prefecture Tourism Federation, "Tourism Mie"!
+https://www.kankomie.or.jp/
+
+[Introduction to Official SNS of Tourism Mie]
+We convey the charm of Mie Prefecture from different perspectives! Please take a look 😊🎵
+〇Facebook
+https://www.facebook.com/kankomie.or.jp/
+〇Twitter
+https://twitter.com/kankomie
+〇Instagram
+https://www.instagram.com/kankomie/
+〇YouTube
+https://www.youtube.com/user/kankomie
+〇LINE
+Add friends → Search by ID → Search @kankomie' where id = 'M5rT19pnzNER-BQlv1OhN';
+update content_bodies set title = '熊野大花火大会2018(熊野市)スターマイン（２）｜観光三重｜三重県の観光・旅行情報', description = '熊野大花火大会のスターマイン動画です。
+視野におさまりきらない打ち上げ花火は圧巻です！
+
+熊野大花火大会のイベント情報
+https://www.kankomie.or.jp/event/detail_5207.html
+
+【観光三重YouTubeチャンネル】
+三重県内の観光や旅行の動画をアップしていくので、ぜひチャンネル登録してくださいね♪
+https://www.youtube.com/user/kankomie
+
+【三重県オススメ観光情報】
+心、身体、魂を癒やす よみがえりの聖地「熊野」。神々に導かれる一生ものの旅
+https://www.kankomie.or.jp/special/kumano/
+
+熊野古道伊勢路の観光・旅行情報はこちら「初めての熊野古道 伊勢路を歩く」
+https://www.kankomie.or.jp/special/kumanokodo/index.html
+
+伊勢神宮・内宮・外宮・おかげ横丁などの伊勢鳥羽志摩の観光・旅行情報はこちら「初めてのお伊勢まいり：伊勢志摩を歩く」
+https://www.kankomie.or.jp/special/iseshima/
+
+三重県の観光、旅行、イベント、宿泊予約は、三重県観光連盟公式サイト「観光三重」！
+https://www.kankomie.or.jp/
+
+【観光三重 公式SNSのご紹介】
+それぞれ違った切り口で三重県の魅力をお伝えしています♪ぜひのぞいてみて下さい😊🎵
+〇Facebook
+https://www.facebook.com/kankomie.or.jp/
+〇Twitter
+https://twitter.com/kankomie
+〇インスタグラム 
+https://www.instagram.com/kankomie/
+〇YouTube
+https://www.youtube.com/user/kankomie
+〇LINE　　 
+友だち追加→ID検索→@kankomie で検索' where id = 'c3rYBvxBX3O2xK7msn4ox';
+update content_bodies set title = 'Kumano Grand Fireworks Festival 2018 (Kumano City) Star Mine (2) | Tourism Mie | Mie Prefecture Travel Information', description = 'This is a video of the star mine at the Kumano Grand Fireworks Festival.
+The fireworks that cannot fit into your field of vision are truly spectacular!
+
+Event information for the Kumano Grand Fireworks Festival
+https://www.kankomie.or.jp/event/detail_5207.html
+
+【Tourism Mie YouTube Channel】
+We will be uploading videos of sightseeing and travel in Mie Prefecture, so please subscribe to our channel! ♪
+https://www.youtube.com/user/kankomie
+
+【Recommended Tourist Information in Mie Prefecture】
+A sacred place of revival that heals the heart, body, and soul: "Kumano." A once-in-a-lifetime journey guided by the gods.
+https://www.kankomie.or.jp/special/kumano/
+
+For sightseeing and travel information on the Kumano Kodo Iseji, click here: "Walking the Kumano Kodo Iseji for the First Time"
+https://www.kankomie.or.jp/special/kumanokodo/index.html
+
+For sightseeing and travel information on Ise Jingu, Naiku, Geku, and Okage Yokocho in Ise Toba Shima, click here: "First Time Visiting Ise: Walking in Ise Shima"
+https://www.kankomie.or.jp/special/iseshima/
+
+For tourism, travel, events, and accommodation reservations in Mie Prefecture, visit the official site of the Mie Prefecture Tourism Federation, "Tourism Mie"!
+https://www.kankomie.or.jp/
+
+【Introduction to Official SNS of Tourism Mie】
+We convey the charm of Mie Prefecture from different perspectives! Please take a look 😊🎵
+〇Facebook
+https://www.facebook.com/kankomie.or.jp/
+〇Twitter
+https://twitter.com/kankomie
+〇Instagram
+https://www.instagram.com/kankomie/
+〇YouTube
+https://www.youtube.com/user/kankomie
+〇LINE
+Add friends → Search by ID → Search for @kankomie' where id = 'T5Dk1yNNyoUsqti-edihV';
 update content_bodies set title = '観光三重NEWS 2018 夏のオススメ観光20セレクション｜観光三重｜三重県の観光・旅行情報', description = '夏休みの予定はもうお決まりですか?
 三重県内各地では楽しいイベントが目白押し!
 お薦めスポットをご紹介します。
@@ -9501,512 +10014,3 @@ Facebook : https://www.facebook.com/profile.php?id=100078342158372
 Instagram : https://www.instagram.com/fantastique_toba/
  
 Want to know more about what you can do in Toba ? Check out our website in English Dive into Toba : http://toba.gr.jp/en/' where id = 'tWzA_YDEdSok5JK5FmAKq';
-update content_bodies set title = 'Fantastique Toba', description = '"Fantastique Toba"
-
-Come and discover the city of Toba.
-Here, women and men have built a unique bond with the sea, like the Ama divers and their ancestral tradition of sustainable fishing.
-More than just a stopover, it''s an invitation to rethink our relationship with nature.
-
-Toba Sea-Folk Museum 0:56
-Toba City Fisheries Research Institute 1:51
-Oyster Farm 3:01
-Mikimoto Pearl Island 4:29
-Ama Hut Experience (Hachiman Kamado) 5:43
-Tōshijima island 6:49
-Ama hut 8:40
-
-Facebook : https://www.facebook.com/profile.php?id=100078342158372
-
-Instagram : https://www.instagram.com/fantastique_toba/
-
-Want to know more about what you can do in Toba? Check out our website in English Dive into Toba : http://toba.gr.jp/en/' where id = '-8blN5DAarBAIc-BvNgBy';
-update content_bodies set title = 'with the turning seasons : Winter', description = '鳥羽の春夏秋冬を「心に響く四季がある」というタイトルで四季を感情に表した作品に表現しました。
-春→始まり
-夏→思い出
-秋→豊かさ
-冬→温もり
-
-The spring, summer, fall, and winter of Toba are represented by the four seasons, which “have four seasons that resonate in the heart” as an emotional expression.
-Spring → Beginning
-Summer → Memories
-Autumn → Richness
-Winter → Warmth' where id = 'YBvX5RVWU9IQDbn5GejfB';
-update content_bodies set title = 'with the turning seasons : Winter', description = 'The spring, summer, fall, and winter of Toba are represented by the four seasons, which “have four seasons that resonate in the heart” as an emotional expression.
-Spring → Beginning
-Summer → Memories
-Autumn → Richness
-Winter → Warmth' where id = 'ZCykmUMYl76yG669Or9Z5';
-update content_bodies set title = '鳥羽散歩', description = '​鳥羽散歩。
-カモメの散歩道からドルフィン公園、サザエストリート、岩崎通り、めだかの学校、城山公園。鳥羽の市街地を散策してみました。新緑がきれいな季節。思わずシャッターを切りたくなるスポットがたくさんありました。' where id = 'EFGEv27rpiAYXB3RUsu4_';
-update content_bodies set title = 'Toba Walk', description = 'Toba Walk.
-From the seagull promenade to Dolphin Park, Sazae Street, Iwasaki Street, Medaka School, and Shiroyama Park. I took a stroll through the city of Toba. It''s a season with beautiful fresh greenery. There were many spots that made me want to press the shutter.' where id = 'bC0pIuRYPQoalDRdJvE3O';
-update content_bodies set title = 'パノラマ大湊 宮川流域案内人 奥野拓也', description = '伊勢志摩ビデオサークルの奥野拓也氏が手掛ける映像は、彼の自然に対する深い愛情とそこに住む人々の暮らしに対するやさしい眼差しが読み取れる。
-本作は伊勢市大湊町から見える風景の単なる紹介ビデオではなく、伊勢志摩に住まい、この地で自然とともに生きる人々の底辺に流れる繊細な心の在りようを語った民俗学的プロモーションの動画である。ぜひ、彼の語る一語一語に耳を傾けていただきたい。' where id = '8SsDsSxVU31zqtf8N6I5z';
-update content_bodies set title = 'Panorama Ominato Takeya Okuno, Guide of the Miyagawa Basin', description = 'The videos created by Takeya Okuno of the Ise-Shima Video Circle reflect his deep love for nature and his gentle gaze towards the lives of the people who inhabit it.
-This work is not merely an introduction video of the scenery visible from Ominato Town in Ise City, but rather a folkloric promotional video that narrates the delicate essence of the hearts of the people who live in Ise-Shima and coexist with nature. I hope you will listen closely to each word he speaks.' where id = '6pI1Blwzz-tGRIrCRD6fL';
-update content_bodies set title = '白瀧大明神', description = '行者山全体をご神体とする白瀧大明神は、かつて修験者たちが修行した聖地です。空海が座禅を組んだといわれる弘法岩や、役行者の地蔵など、修験僧ゆかりのスポットが多数残っています。
-白瀧大明神奉賛会は、現代の複雑化した社会のなかで疲れた心を癒し、再起したいと訪れる方に、滝行や行者山の山歩きを通じて自然に触れる体験を提案しています。皆様の心の平安が保たれ、再生の心が育まれますことをお祈り致します。
-ＨＰ：https://shiratakisan.jp/
-MB01XAXASMZ1DSV' where id = '3rCRLjQdsjRRvEkCzmCue';
-update content_bodies set title = 'Shirataki Daimyojin', description = 'Shirataki Daimyojin, which regards the entire Mount Gyōja as its sacred body, is a holy place where ascetics once practiced. There are many spots associated with ascetic monks, such as Kōbō Rock, where Kūkai is said to have meditated, and the Jizō of Yakushimaru.
-The Shirataki Daimyojin Support Association proposes experiences that connect visitors with nature through waterfall training and mountain walking on Mount Gyōja, aiming to heal tired hearts and help them rejuvenate in today''s complex society. We pray that your peace of mind is maintained and that the spirit of rebirth is nurtured.
-HP: https://shiratakisan.jp/
-MB01XAXASMZ1DSV' where id = 'lmFibw6Gbotfk3h7L5-_A';
-update content_bodies set title = '大垣市観光PR　「水の都」 篇', description = '上田定行さんのナレーションでお届けする観光ＰＲ動画です。
-
-ナレーター　上田　定行
-ディレクター　遠藤　輝一
-プロデューサー　山崎　淳也　日比野　允
-制作　名古屋テレビ映像
-
-～大垣観光協会の公式チャンネルです～
-自然や歴史、文化など大垣の様々な魅力を動画でご紹介します。
-
-【大垣市のご紹介】
-岐阜県の西部、西美濃の中心に位置する人口16万人のまちで、古くから「水の都大垣」と称されるほど、豊富な地下水に恵まれています。
-俳人松尾芭蕉の紀行文「奥の細道」のむすびの地として知られ、関ケ原合戦の際に西軍石田三成の本拠地となった大垣城や、豊臣秀吉が一夜で築いたとされる墨俣一夜城などもあり、自然と歴史が共存したまちです。
-3月下旬から5月には、舟下りやたらい舟、平成28年にユネスコ無形文化遺産にも登録された大垣まつりが開催され、多くの観光客で賑わいます。
-◆大垣観光協会HP
-https://www.ogakikanko.jp/
-
-◆インスタグラム
-https://www.instagram.com/i_love_ogaki/
-
-◆facebook
-https://www.facebook.com/ogakikanko/
-
-◆大垣フィルムコミッション（大垣観光協会内）
-http://www.ogaki-fc.jp/' where id = '4IPIEpUSk9cyQXcuxzH0q';
-update content_bodies set title = 'Ogaki City Tourism PR: ''City of Water'' Edition', description = 'This is a tourism PR video narrated by Sadaaki Ueda.
-
-Narrator: Sadaaki Ueda
-Director: Keiichi Endo
-Producer: Junya Yamazaki, Masaru Hibino
-Production: Nagoya Television Video
-
-~This is the official channel of the Ogaki Tourism Association~
-We introduce various attractions of Ogaki, including nature, history, and culture, through videos.
-
-【Introduction to Ogaki City】
-Located in the western part of Gifu Prefecture, in the center of Nishi-Mino, Ogaki is a city with a population of 160,000, blessed with abundant underground water, and has long been known as ''the City of Water, Ogaki.''
-It is known as the ending point of Matsuo Basho''s travelogue ''The Narrow Road to the Deep North'' and features Ogaki Castle, which served as the base for Ishida Mitsunari of the Western Army during the Battle of Sekigahara, as well as the Sumiyoshi Castle, said to have been built in a single night by Toyotomi Hideyoshi. It is a city where nature and history coexist.
-From late March to May, boat rides, tarai boats, and the Ogaki Festival, which was registered as a UNESCO Intangible Cultural Heritage in 2016, are held, attracting many tourists.
-◆ Ogaki Tourism Association HP
-https://www.ogakikanko.jp/
-
-◆ Instagram
-https://www.instagram.com/i_love_ogaki/
-
-◆ Facebook
-https://www.facebook.com/ogakikanko/
-
-◆ Ogaki Film Commission (within the Ogaki Tourism Association)
-http://www.ogaki-fc.jp/' where id = '6cxw0vuOx1_6n2bQYZMKq';
-update content_bodies set title = '筑前若松火まつり行事　夏の記録', description = '令和５年７月３０日（日）開催の「火まつり行事」の動画です。
-
-この祭りは、若松区出身の芥川賞作家　火野葦平が、戦後のすさんだ世の中を明るく照らし、世の中の平和と安全を願って、昭和２９年に始めた祭りです。
-久岐の浜広場（JR若松駅横）でかっぱの徳を讃える祭典を行ったあと、参加者がたいまつを掲げ、高塔山の「かっぱ封じ地蔵」まで行進します。' where id = 'V0a2aJFfPoqUllJQWdEVB';
-update content_bodies set title = 'Chikuzen Wakamatsu Fire Festival Event - Summer Record', description = 'This is a video of the ''Fire Festival Event'' held on July 30, 2023 (Sunday).
-
-This festival was started in 1954 by Akutagawa Prize-winning author Hino Ashihei, who was born in Wakamatsu Ward, to brightly illuminate the desolate post-war world and to wish for peace and safety in society.
-After a ceremony praising the virtues of the kappa at Kuki no Hama Square (next to JR Wakamatsu Station), participants march with torches to the ''Kappa Sealing Jizo'' on Mount Takato.' where id = 'dVqokHDbuJG_whfBXen-5';
-update content_bodies set title = '【Tourisz PV】A thousand years, a hidden hamlet', description = 'Tourisz PV of Miyoshi City,Tokushima
-徳島県三好市の観光PR動画
-Shikoku Tokushima Miyoshi NishiAwa IyaValley' where id = '4mD0pUNeWyb8xEb2n0_By';
-update content_bodies set title = '[Tourisz PV] A thousand years, a hidden hamlet', description = 'Tourisz PV of Miyoshi City, Tokushima
-Tourism PR video of Miyoshi City, Tokushima
-Shikoku Tokushima Miyoshi NishiAwa IyaValley' where id = 'szjzH7K0o-k-0SYcuMXN6';
-update content_bodies set title = '祖谷の旅', description = 'アレックス・カー氏が三好市の祖谷渓谷を紹介します。
-近年、欧米中心に世界中から多くの訪日観光客が訪れる徳島の秘境・祖谷を、東洋文化研究社アレックス・カー氏が紹介する動画が完成しました。
-「未だ知られていない、新たな祖谷地方の魅力に触れる旅」として、祖谷地方に残る歴史や伝統文化をアレックス氏がご案内します。
-ワンランク上の「祖谷の旅」をお楽しみください。' where id = 'umqjDhb8fWQ4-GkJ68mus';
-update content_bodies set title = 'TRAVELS in IYA', description = 'Alex Kerr introduces Iya Valley in Miyoshi City.
-近年、欧米中心に世界中から多くの訪日観光客が訪れる徳島の秘境・祖谷を、東洋文化研究社アレックス・カー氏が紹介する動画が完成しました。
-「未だ知られていない、新たな祖谷地方の魅力に触れる旅」として、祖谷地方に残る歴史や伝統文化をアレックス氏がご案内します。
-ワンランク上の「祖谷の旅」をお楽しみください。' where id = 'foNeq6dUjzgmMYCQ7U1ny';
-update content_bodies set title = 'ShikokuLocalCharm  Route 01', description = '四国の地方の魅力を紹介（Route 01）' where id = 'DQroogMYQqybfam3ZceJq';
-update content_bodies set title = 'ShikokuLocalCharm Route 01', description = 'Introducing the local charm of Shikoku (Route 01)' where id = 'pfaD0J6IHiZofwZ9bVv0W';
-update content_bodies set title = 'ShikokuLocalCharm  Route 02', description = '四国の地方の魅力を紹介（Route 02）' where id = 'iZVTtoXWiSqp6r0CYtafe';
-update content_bodies set title = 'ShikokuLocalCharm Route 02', description = 'Introducing the local charm of Shikoku (Route 02)' where id = 'd_7gUdHeJIjwdCLV-LR0q';
-update content_bodies set title = 'Four seasons Mt.Tsurugi', description = '剣山の四季を紹介
-
-制作：にし阿波観光圏' where id = 'r_TcyTuvFzNBhG83CzG_n';
-update content_bodies set title = 'Four seasons Mt.Tsurugi', description = 'Introducing the four seasons of Mt. Tsurugi
-
-Produced by: Nishi-Awa Tourism Area' where id = 'PZ-9ygUNyf29yHB79niZy';
-update content_bodies set title = '自然資源を活かした徳島県三好市のスポーツツーリズム', description = 'スポーツ庁 公式WEB広報マガジン「デポルターレ」にて公開中の動画です。
-
-人口3万人に満たない地域が「アウトドアスポーツ」の聖地に！ 
-～自然資源を活かした徳島県三好市のスポーツツーリズム～
-https://sports.go.jp/movie/report/3.html' where id = 'Ok1Qyd0x8ce3NG5JzsNrd';
-update content_bodies set title = 'Sports Tourism in Miyoshi City, Tokushima Prefecture Utilizing Natural Resources', description = 'This is a video currently published in the official web magazine of the Japan Sports Agency, ''Deportare''.
-
-A region with a population of less than 30,000 has become a holy land for ''outdoor sports''!
-~ Sports tourism in Miyoshi City, Tokushima Prefecture utilizing natural resources ~
-https://sports.go.jp/movie/report/3.html' where id = 'tTsn-05IhgK55wOyuQx5k';
-update content_bodies set title = 'MIYOCINEMATIC VLOG 　三好市日帰り女子旅編', description = '秋の一日に三好市を日帰りドライブ
-日常のちょこっと旅を映画のワンシーンのように切り取りました
-
-訪問先：道の駅大歩危、大歩危峡まんなか、歩危マート、祖谷のかずら橋、琵琶の滝
-
-映像制作：池田ケーブルネットワーク
-https://ikedacable.co.jp/' where id = '6elD_ow5jOA948zTygQ0R';
-update content_bodies set title = 'MIYOCINEMATIC VLOG - A Day Trip to Miyoshi City', description = 'A day trip drive to Miyoshi City on an autumn day
-Captured a little journey of everyday life like a scene from a movie
-
-Places visited: Roadside Station Ooboke, Ooboke Gorge Manaka, Boke Mart, Iya Kazurabashi, Biwa Falls
-
-Video production: Ikeda Cable Network
-https://ikedacable.co.jp/' where id = 'igc4B9HhNZznLNBNrn42_';
-update content_bodies set title = '斜めの旅もいいんじゃない？【にし阿波傾斜地農業＊キャンプ・徳島県三好市＆東みよし町】', description = '世界農業遺産の認定地「にし阿波」で、昔ながらの傾斜地での農業を体験！
-夜は、人気のキャンプ場「美濃田の淵」で傾斜地で作られた野菜を使ってのキャンプ飯を堪能♪
-農業とアウトドア、徳島県にし阿波の自然や文化を体験できる「斜めの旅」がオススメです！
-
-【制作：徳島剣山世界農業遺産推進協議会】' where id = '0RtKNFMONgekF5r1E-vzW';
-update content_bodies set title = 'How about a diagonal journey? 【Nishi-Awa Sloped Agriculture * Camping in Miyoshi City & Higashi-Miyoshi Town, Tokushima Prefecture】', description = 'Experience traditional sloped agriculture in the certified World Agricultural Heritage site of ''Nishi-Awa''! 
-At night, enjoy camp meals made with vegetables grown on the slopes at the popular campsite ''Minoda no Fuchi''♪ 
-A ''diagonal journey'' that allows you to experience agriculture and the outdoors, as well as the nature and culture of Nishi-Awa in Tokushima Prefecture, is highly recommended! 
-
-【Produced by: Tokushima Keran World Agricultural Heritage Promotion Council】' where id = '1xkFehKl3JFqJoa22SC-p';
-update content_bodies set title = '「若狭小浜の伝統美、心に彩りを。」30秒', description = '#伝統工芸 #小浜市 #若狭塗箸 #若狭工房 #若狭めのう細工 #若狭めのう    #wakasaobama #obamacity #伝統工芸品 #伝統文化 #伝統工芸士 #手仕事 #御食国#加福漆器店 #宗助工房#japan #japanese #chopsticks #暮らしを楽しむ  #小浜#若狭塗箸 #伝統工芸#ものづくり #青々吉日 #青々吉日tsurugawakasa 
-
-Production support:
-制作支援　
-小浜市／福井県
-
-撮影協力
-若狭工房／羽田漆器店／古川若狭塗店／宗助工房／加福漆器店／飯盛寺／ 若狭めのう細工 宗助工房／四季彩館 酔月／チャンネルO／若狭おばま観光協会
-
-主催
-若狭工房
-
-若狭工房
-〒917-0081　福井県小浜市川崎3丁目4番
-御食国若狭おばま食文化館2階
-TEL：0770-53-1034　　FAX：0770-53-1036
-http://wakasa-koubou.com
-
-楽曲提供：アキラノスケ
-
-Cinematographer
-小川　浩之(Photo＆Movie Create Augusta)
-
-@wakasa_koubou 
-@sikkiyayondaime 
-@wakasa_agate' where id = '9aQt-x7HVoo8g190Ig-Bd';
-update content_bodies set title = 'The Traditional Beauty of Wakasa Obama, Coloring the Heart.', description = '#TraditionalCraft #ObamaCity #WakasaLacquerChopsticks #WakasaKoubou #WakasaAgateCraft #WakasaAgate    #wakasaobama #obamacity #TraditionalCrafts #TraditionalCulture #TraditionalCraftsman #Handwork #FoodNation #KafukuLacquerStore #SousukeKoubou #japan #japanese #chopsticks #EnjoyingLife  #Obama #WakasaLacquerChopsticks #TraditionalCraft #Monozukuri #AoiAoiKichijitsu #AoiAoiKichijitsuTsurugawakasa
-
-Production support:
-Production Support
-Obama City / Fukui Prefecture
-
-Filming Cooperation
-Wakasa Koubou / Haneda Lacquer Store / Furukawa Wakasa Lacquer Store / Sousuke Koubou / Kafuku Lacquer Store / Iimori Temple / Wakasa Agate Craft Sousuke Koubou / Shikisai-kan Suigetsu / Channel O / Wakasa Obama Tourism Association
-
-Organizer
-Wakasa Koubou
-
-Wakasa Koubou
-〒917-0081 Fukui Prefecture, Obama City, Kawasaki 3-4
-2nd Floor, Food Culture Hall of the Food Nation Wakasa Obama
-TEL: 0770-53-1034 FAX: 0770-53-1036
-http://wakasa-koubou.com
-
-Music Provided by: Akiranosuke
-
-Cinematographer
-Hiroyuki Ogawa (Photo & Movie Create Augusta)
-
-@wakasa_koubou 
-@sikkiyayondaime 
-@wakasa_agate' where id = '0Bs173lzTG_-5HOVLVXFs';
-update content_bodies set title = '「若狭小浜の伝統美、心に彩りを。」15秒', description = '#伝統工芸 #小浜市 #若狭塗箸 #若狭工房 #若狭めのう細工 #若狭めのう    #wakasaobama #obamacity #伝統工芸品 #伝統文化 #伝統工芸士 #手仕事 #御食国#加福漆器店 #宗助工房#japan #japanese #chopsticks #暮らしを楽しむ  #小浜#若狭塗箸 #伝統工芸#ものづくり #青々吉日 #青々吉日tsurugawakasa 
-
-Production support:
-制作支援　
-小浜市／福井県
-
-撮影協力
-若狭工房／羽田漆器店／古川若狭塗店／宗助工房／加福漆器店／飯盛寺／ 若狭めのう細工 宗助工房／四季彩館 酔月／チャンネルO／若狭おばま観光協会
-
-主催
-若狭工房
-
-若狭工房
-〒917-0081　福井県小浜市川崎3丁目4番
-御食国若狭おばま食文化館2階
-TEL：0770-53-1034　　FAX：0770-53-1036
-http://wakasa-koubou.com
-
-楽曲提供：アキラノスケ
-
-Cinematographer
-小川　浩之(Photo＆Movie Create Augusta)
-
-@wakasa_koubou 
-@sikkiyayondaime 
-@wakasa_agate' where id = 'JDcpwPd4UHksRMlK1PIkU';
-update content_bodies set title = 'The Traditional Beauty of Wakasa Obama, Coloring the Heart.', description = '#TraditionalCraft #ObamaCity #WakasaLacquerChopsticks #WakasaWorkshop #WakasaAgateCraft #WakasaAgate    #wakasaobama #obamacity #TraditionalCrafts #TraditionalCulture #TraditionalCraftsman #Handwork #Mikuni #KafukuLacquerShop #SosukeWorkshop #japan #japanese #chopsticks #EnjoyingLife  #Obama #WakasaLacquerChopsticks #TraditionalCraft #Monozukuri #AoiAoiKichijitsu #AoiAoiKichijitsuTsurugawakasa
-
-Production support:
-Production Support
-Obama City / Fukui Prefecture
-
-Filming Cooperation
-Wakasa Workshop / Haneda Lacquer Shop / Furukawa Wakasa Lacquer Shop / Sosuke Workshop / Kafuku Lacquer Shop / Iimori Temple / Wakasa Agate Craft Sosuke Workshop / Shikisai-kan Suigetsu / Channel O / Wakasa Obama Tourism Association
-
-Organizer
-Wakasa Workshop
-
-Wakasa Workshop
-〒917-0081 Fukui Prefecture, Obama City, Kawasaki 3-4
-Mikuni Wakasa Obama Food Culture Center 2nd Floor
-TEL: 0770-53-1034 FAX: 0770-53-1036
-http://wakasa-koubou.com
-
-Music Provided by: Akiranosuke
-
-Cinematographer
-Hiroyuki Ogawa (Photo & Movie Create Augusta)
-
-@wakasa_koubou 
-@sikkiyayondaime 
-@wakasa_agate' where id = '3dc_1DxsLDeeKrvCwLPM4';
-update content_bodies set title = '大垣市観光PR　「四季」 篇', description = '上田定行さんのナレーションでお届けする観光ＰＲ動画です。
-
-ナレーター　上田　定行
-ディレクター　遠藤　輝一
-プロデューサー　山崎　淳也　日比野　允
-制作　名古屋テレビ映像
-
-～大垣観光協会の公式チャンネルです～
-自然や歴史、文化など大垣の様々な魅力を動画でご紹介します。
-
-【大垣市のご紹介】
-岐阜県の西部、西美濃の中心に位置する人口16万人のまちで、古くから「水の都大垣」と称されるほど、豊富な地下水に恵まれています。
-俳人松尾芭蕉の紀行文「奥の細道」のむすびの地として知られ、関ケ原合戦の際に西軍石田三成の本拠地となった大垣城や、豊臣秀吉が一夜で築いたとされる墨俣一夜城などもあり、自然と歴史が共存したまちです。
-3月下旬から5月には、舟下りやたらい舟、平成28年にユネスコ無形文化遺産にも登録された大垣まつりが開催され、多くの観光客で賑わいます。
-◆大垣観光協会HP
-https://www.ogakikanko.jp/
-
-◆インスタグラム
-https://www.instagram.com/i_love_ogaki/
-
-◆facebook
-https://www.facebook.com/ogakikanko/
-
-◆大垣フィルムコミッション（大垣観光協会内）
-http://www.ogaki-fc.jp/' where id = 'cX5UFy-cTHMeU_Ziq4Jbq';
-update content_bodies set title = 'Ogaki City Tourism PR ''Seasons'' Edition', description = 'This is a tourism PR video presented with narration by Sadaaki Ueda.
-
-Narrator: Sadaaki Ueda
-Director: Keiichi Endo
-Producers: Junya Yamazaki, Masaru Hibino
-Production: Nagoya Television Video
-
-~This is the official channel of the Ogaki Tourism Association~
-We introduce various attractions of Ogaki, including nature, history, and culture, through videos.
-
-【Introduction to Ogaki City】
-Located in the western part of Gifu Prefecture, in the center of Nishi-Mino, Ogaki is a city with a population of 160,000, blessed with abundant underground water, and has long been known as the ''Water City Ogaki.''
-It is known as the ending point of Matsuo Basho''s travelogue ''The Narrow Road to the Deep North'' and features historical sites such as Ogaki Castle, which served as the base for Ishida Mitsunari of the Western Army during the Battle of Sekigahara, and the Sumiyoshi Castle, said to have been built in a single night by Toyotomi Hideyoshi. It is a city where nature and history coexist.
-From late March to May, the Ogaki Festival, which includes boat rides and was registered as a UNESCO Intangible Cultural Heritage in 2016, is held, attracting many tourists.
-◆ Ogaki Tourism Association HP
-https://www.ogakikanko.jp/
-
-◆ Instagram
-https://www.instagram.com/i_love_ogaki/
-
-◆ Facebook
-https://www.facebook.com/ogakikanko/
-
-◆ Ogaki Film Commission (within the Ogaki Tourism Association)
-http://www.ogaki-fc.jp/' where id = 'wZTxZCb-19MaydFKwkZno';
-update content_bodies set title = '福井の冬は蟹やスキー場だけじゃない！あたたかい故郷に会いに行こう！【地味にすごい、福井動画コンテスト入賞作品】', description = '本作品は、「地味にすごい、福井」をテーマに、福井県が実施した動画コンテストの入賞作品です。
-
-【制作者からのコメント】
-自然豊かで四季の移ろいも美しい福井県。
-しかし認知度や魅力度ランキングでは例年下位にランクイン…。
-そんな地味な福井の中でも観光客数が減少する、
-さらに地味な“冬”の魅力をぎゅっと動画に凝縮！
-メディアでもよく取り上げられる「華やかな部分」と、
-普段脚光を浴びない「住民の暮らし」の双方にフォーカスを当てました。
-北陸新幹線の福井・敦賀開業でグルメや観光はもちろん、
-控えめでやさしい福井県民に会いに、
-たくさんの方が来福してくれることを願っています。
-ココロのふるさと、福井に会いにきとっけの。
-
-製作者：Studio libre' where id = '5BUg9RPbFtalqKUlqRx0X';
-update content_bodies set title = 'Fukui''s winter is not just about crabs and ski resorts! Let''s visit the warm hometown! [Award-winning work of the ''Surprisingly Amazing Fukui'' Video Contest]', description = 'This work is an award-winning entry in a video contest held by Fukui Prefecture, themed ''Surprisingly Amazing Fukui.''
-
-[Comment from the creator]
-Fukui Prefecture is rich in nature and the changing seasons are beautiful.
-However, it consistently ranks low in recognition and attractiveness rankings...
-Amidst this understated Fukui, we have condensed the charm of the even more understated ''winter,'' where the number of tourists is decreasing, into this video!
-We focused on both the ''glamorous aspects'' often highlighted in the media and the ''lives of the residents'' that usually go unnoticed.
-With the opening of the Hokuriku Shinkansen to Fukui and Tsuruga, we hope many people will come to Fukui not only for gourmet food and sightseeing but also to meet the modest and kind people of Fukui Prefecture.
-Come and visit your heartfelt hometown, Fukui.
-
-Creator: Studio libre' where id = '4-QGp0JgyFKGjLWyLlSl5';
-update content_bodies set title = '映画『ふくいけん』予告編【地味にすごい、福井動画コンテスト入賞作品】', description = '本作品は、「地味にすごい、福井」をテーマに、福井県が実施した動画コンテストの入賞作品です。
-【制作者からのコメント】
-とある古いバーのマスターが、福井での思い出を語り始める。
-カニとメガネと、やっぱりあの崖も登場！
-恐竜に蹂躙される街の行く末は―
-
-ハリウッド映画予告風に福井の”地味にすごい見どころ”をご紹介します。
-
-Sober but amazing Japanese countryside "Fukui .Pref"
-
-福井県の観光情報こちらから↓
-https://www.fuku-e.com/
-（（公社）福井県観光連盟webサイト）
-
-#恐竜
-#福井
-#映画
-
-
-製作者：ごとんとん' where id = 'OA4JK-OKDqKVsskGyERdD';
-update content_bodies set title = 'Movie ''Fukuiden'' Trailer [Subtly Amazing, Award-Winning Work of Fukui Video Contest]', description = 'This work is an award-winning piece from a video contest held by Fukui Prefecture, themed ''Subtly Amazing, Fukui.''
-
-[Comment from the Creator]
-A master of an old bar begins to recount memories of Fukui.
-Crabs, glasses, and of course, that cliff also makes an appearance!
-What will become of the town ravaged by dinosaurs—
-
-Introducing Fukui''s ''subtly amazing highlights'' in a Hollywood movie trailer style.
-
-Sober but amazing Japanese countryside ''Fukui .Pref''
-
-For tourism information about Fukui Prefecture, click here:
-https://www.fuku-e.com/
-(Website of the Fukui Prefectural Tourism Federation)
-
-#Dinosaur
-#Fukui
-#Movie
-
-Creator: Gotonton' where id = 'qmISt1fSQ5TG8RBqpqFlX';
-update content_bodies set title = '【歌詞付き】大垣城ＰＲアニメーション動画「カモン大垣」', description = '呂布カルマが歌うラップにのせて大垣城をＰＲするプロモーション動画歌詞付きバージョンです。
-
-
-================================
-大垣市 岐阜県No.1の住み良さ
-知っといた方がいい
-大人からガキまで幅広く包み込む歴史の深い街
-松尾芭蕉も奥の細道
-旅を終わらせた結びの地
-はいチーズ 絵になるあっちこっち
-関ヶ原じゃ西軍の本拠地
-石田三成最後の居城
-お前の四畳半と比べんなよ
-大垣城 またの名を麋城 またの名巨鹿城
-一度はどうぞ
-================================
-この事業は岐阜県清流の国ぎふ推進補助金を受けています
-
-
-～大垣観光協会の公式チャンネルです～
-自然や歴史、文化など大垣の様々な魅力を動画でご紹介します。
-
-【大垣市のご紹介】
-岐阜県の西部、西美濃の中心に位置する人口16万人のまちで、古くから「水の都大垣」と称されるほど、豊富な地下水に恵まれています。
-俳人松尾芭蕉の紀行文「奥の細道」のむすびの地として知られ、関ケ原合戦の際に西軍石田三成の本拠地となった大垣城や、豊臣秀吉が一夜で築いたとされる墨俣一夜城などもあり、自然と歴史が共存したまちです。
-3月下旬から5月には、舟下りやたらい舟、平成28年にユネスコ無形文化遺産にも登録された大垣まつりが開催され、多くの観光客で賑わいます。
-◆大垣観光協会HP
-https://www.ogakikanko.jp/
-
-◆インスタグラム
-https://www.instagram.com/i_love_ogaki/
-
-◆facebook
-https://www.facebook.com/ogakikanko/
-
-◆大垣フィルムコミッション（大垣観光協会内）
-http://www.ogaki-fc.jp/' where id = 'tAYXWTFnL-l183BJuQAsX';
-update content_bodies set title = '[With Lyrics] Ogaki Castle PR Animation Video ''Come on Ogaki''', description = 'This is a promotional video featuring Ogaki Castle, set to a rap song by Rofu Karma, with lyrics included.
-
-================================
-Ogaki City, Gifu Prefecture No.1 for livability
-You should know this
-A city with deep history that embraces everyone from adults to kids
-Matsuo Basho also traveled the Narrow Road to the Deep North
-The place where his journey concluded
-Say cheese, picturesque everywhere
-At Sekigahara, the stronghold of the Western Army
-Ishida Mitsunari''s last castle
-Don''t compare it to your four-and-a-half tatami mat room
-Ogaki Castle, also known as Bijo, also known as Kyoka Castle
-You should visit at least once
-================================
-This project is supported by the Gifu Prefecture Clear Stream Country Promotion Subsidy
-
-~This is the official channel of the Ogaki Tourism Association~
-We introduce various attractions of Ogaki, such as nature, history, and culture, through videos.
-
-[Introduction to Ogaki City]
-Located in the western part of Gifu Prefecture, in the center of Nishi Mino, this city has a population of 160,000 and has long been known as ''the water city of Ogaki'' due to its abundant underground water.
-It is known as the concluding place of Matsuo Basho''s travelogue ''The Narrow Road to the Deep North'' and is home to Ogaki Castle, which served as the stronghold of Ishida Mitsunari during the Battle of Sekigahara, as well as the Suimon Castle, said to have been built by Toyotomi Hideyoshi in a single night. It is a city where nature and history coexist.
-From late March to May, boat rides and tarai boats are available, and the Ogaki Festival, registered as a UNESCO Intangible Cultural Heritage in 2016, is held, attracting many tourists.
-◆ Ogaki Tourism Association HP
-https://www.ogakikanko.jp/
-
-◆ Instagram
-https://www.instagram.com/i_love_ogaki/
-
-◆ Facebook
-https://www.facebook.com/ogakikanko/
-
-◆ Ogaki Film Commission (within the Ogaki Tourism Association)
-http://www.ogaki-fc.jp/' where id = 'EXjusxz_zN6hp7jZuhtUf';
-update content_bodies set title = 'ムキムキがむきむきに目覚める！超高級「越前がに」', description = 'モッくんとハンターが福井県の「皇室献上級越前がに」と初めて出会った！！
-そこで待ち受ける「むきむきみっちゃん」とは一体・・・！？
-
-筋肉ムキムキなら負けないハンターがみっちゃんに挑む！！
-二人は無事に超高級越前がにを食べることができるのか！？
-
-現在はコロナウイルスの影響で県外への旅行・観光が難しい状況ではありますが落ち着いた折には、ぜひ福井へお越しください！
-
-★次回
-目と胃袋が幸せに！癒しと香ばしの若狭旅
-https://youtu.be/On9JyUTRk3k
-
-★動画「きてみね～の福井！」シリーズはこちら
-https://bit.ly/2O52rnI
-
-★Official MV『きてみね～の！』～福井県民下手ラップ～
-https://youtu.be/xngljkMjOY4
-
-★女子旅プレス　　福井県特設ページ
-https://travel.mdpr.jp/fukui_jyoshitabi?trflg=1
-
-★Ｊタウンネット　福井県特設ページ
-https://j-town.net/fukui/feature/fukui.html
-
-#グルメ #福井 #カニ' where id = 'WzjyYsK-JYqpKHyURsbIM';
-update content_bodies set title = 'Muscle Awakens! Ultra-Luxury ''Echizen Crab''', description = 'Mokkun and Hunter have their first encounter with the ''Imperial Gift Grade Echizen Crab'' in Fukui Prefecture!!
-What awaits them is ''Mikuchan''...!?
-
-The muscle-bound Hunter challenges Mikuchan, who won''t back down!!
-Will they be able to enjoy the ultra-luxury Echizen Crab safely?!
-
-Currently, due to the impact of the coronavirus, traveling and sightseeing outside the prefecture is difficult, but when things settle down, please come to Fukui!
-
-★Next time
-A journey to Wakasa that brings joy to the eyes and stomach! Healing and fragrant experiences
-https://youtu.be/On9JyUTRk3k
-
-★Check out the ''Come Visit Fukui!'' video series here
-https://bit.ly/2O52rnI
-
-★Official MV ''Come Visit!'' - Fukui Prefecture Residents'' Amateur Rap
-https://youtu.be/xngljkMjOY4
-
-★Girls'' Trip Press - Fukui Prefecture Special Page
-https://travel.mdpr.jp/fukui_jyoshitabi?trflg=1
-
-★J Town Net - Fukui Prefecture Special Page
-https://j-town.net/fukui/feature/fukui.html
-
-#Gourmet #Fukui #Crab' where id = 'PjAb1ZkyhnNOhX0CWRRgl';

@@ -1,3 +1,529 @@
+update content_bodies set title = '[Gourmet] Delicious Gourmet Vlog in Niseko, Hokkaido ''Harvest Cafe'' | Summer is Recommended in Niseko, Hokkaido! A Stay-type Trip to Experience an Extraordinary Daily Life | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido! This channel is operated by the Kutchan Tourism Association located in the Niseko area of Hokkaido.
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+[Delicious Gourmet Vlog Series] vol.2 Harvest Cafe
+''Enjoy meals rich in vegetables and actively using organic ingredients''
+●Facebook
+https://www.facebook.com/harvestcafehokkaido
+●Instagram
+https://www.instagram.com/harvest_cafe_hokkaido/
+●Map
+https://goo.gl/maps/NCkdoiEHMc4h2midA
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+The Niseko area in Hokkaido is famous for winter, but summer is also highly recommended! To convey the ''charm of summer in Niseko'', we have launched this channel. This is an introductory video, but we plan to upload more videos, so we would be happy if you could subscribe to our channel.
+
+○ Kutchan Tourism Association https://www.niseko.co.jp/
+○ Opening & Ending Video by Aaron Jamieson Photography
+http://aaronjamieson.com/
+
+We are using sound effects from OtoLogic!
+(Thank you!!!)
+
+#gourmet #HokkaidoGourmet #NisekoGourmet #HokkaidoTravel #NisekoTravel #Hokkaido #Niseko #Kutchan #Kucchan #NisekoSummerStay #harvestcafe #richinvegetables #cafe' where id = '2GWl5rn50isr-X14I1lUg';
+update content_bodies set title = '【Go To トラベル】ニセコ旅行計画編「今、ニセコ旅行を計画するなら！」| 異日常で日常を過ごす滞在型旅行｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
+このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
+
+今回は、とても大事なお話をしております。
+最後まで見ていただいて、想いが伝わればうれしいです。
+※詳細情報についてはそれぞれのサイトでご確認ください！
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+今回の動画では、
+ニセコ旅行計画編「今、ニセコ旅行を計画するなら！」です！
+withコロナの中でニセコ旅行を計画する際に、大切なポイントをご説明しています。
+
+①Go Toトラベル　旅行者向けサイト
+https://goto.jata-net.or.jp/
+②倶知安観光協会会員GoToキャンペーン参加宿泊施設リスト
+https://www.google.com/maps/d/viewer?mid=1E1eMJ7DbpKRvYt2qOl3WyYeb1UuFfuKa&ll=42.83160715526651%2C140.67870465000001&z=13
+③ニセコくっちゃん『どうみん割』ウェブサイト
+https://nisekocampaign.com/
+④新しい旅のエチケット
+https://goto.jata-net.or.jp/info/2020072704.html
+⑤北海道庁「コロナ関連」ウェブサイト
+http://www.pref.hokkaido.lg.jp/ss/ssa/singatakoronahaien.htm
+
+■撮影場所■
+管理会社：NISADE(ニセード)
+「The Vale Niseko -ザ・ヴェール・ニセコ-」
+https://nisekoalpineaccommodation.com/jp/accommodation/property/vale-niseko/
+↑↑
+お部屋の「フロアプラン」を見ながら、旅の妄想をするだけで楽しくなっちゃいます！
+＜施設管理＞NISADE(ニセード)
+https://nisekoalpineaccommodation.com/jp/
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 
+「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 
+どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
+
+○一般社団法人倶知安観光協会
+ https://www.niseko.co.jp/
+
+ ○オープニング＆エンディングビデオ
+ Aaron Jamieson Photography
+ http://aaronjamieson.com/ 
+
+#gotoトラベル #新しい旅のエチケット #北海道  #夏 #ニセコ #どうみん割  #旅行 #北海道旅行 #倶知安 #ニセコサマーステイ #コンドミニアム  #thevaleniseko #ザヴェールニセコ #NISADE #ニセード' where id = 'oSVKXcQuq6yomBcQn3cEP';
+update content_bodies set title = '[Go To Travel] Niseko Travel Planning Edition ''If You''re Planning a Trip to Niseko Now!'' | Stay-type Travel to Spend Time in an Unusual Everyday Life | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido! 
+This channel is operated by the Kutchan Tourism Association located in the Niseko area of Hokkaido.
+
+This time, we are discussing something very important. 
+We would be happy if you could watch until the end and feel our thoughts. 
+*Please check each site for detailed information!
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+In this video, 
+we present the Niseko Travel Planning Edition ''If You''re Planning a Trip to Niseko Now!'' 
+We explain important points to consider when planning a trip to Niseko during the COVID-19 pandemic.
+
+① Go To Travel Traveler''s Site 
+https://goto.jata-net.or.jp/ 
+② List of Accommodation Facilities Participating in the Kutchan Tourism Association''s GoTo Campaign 
+https://www.google.com/maps/d/viewer?mid=1E1eMJ7DbpKRvYt2qOl3WyYeb1UuFfuKa&ll=42.83160715526651%2C140.67870465000001&z=13 
+③ Niseko Kutchan ''Dōmin Warai'' Website 
+https://nisekocampaign.com/ 
+④ New Travel Etiquette 
+https://goto.jata-net.or.jp/info/2020072704.html 
+⑤ Hokkaido Government ''COVID-19 Related'' Website 
+http://www.pref.hokkaido.lg.jp/ss/ssa/singatakoronahaien.htm
+
+■Filming Location■ 
+Management Company: NISADE 
+''The Vale Niseko -ザ・ヴェール・ニセコ-'' 
+https://nisekoalpineaccommodation.com/jp/accommodation/property/vale-niseko/ 
+↑↑ 
+Just looking at the ''floor plan'' of the room makes it fun to imagine your trip! 
+<Facility Management> NISADE 
+https://nisekoalpineaccommodation.com/jp/
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+The Niseko area in Hokkaido is famous for winter, but summer is also highly recommended! 
+To convey the ''charm of summer in Niseko'', we created this channel. 
+We plan to upload videos continuously, so we would be happy if you could subscribe to our channel.
+
+○ General Incorporated Association Kutchan Tourism Association 
+https://www.niseko.co.jp/
+
+○ Opening & Ending Video 
+Aaron Jamieson Photography 
+http://aaronjamieson.com/
+
+#gotoトラベル #新しい旅のエチケット #北海道 #夏 #ニセコ #どうみん割 #旅行 #北海道旅行 #倶知安 #ニセコサマーステイ #コンドミニアム #thevaleniseko #ザヴェールニセコ #NISADE #ニセード' where id = 'up-UWIflfoSxtIpVjJ0LA';
+update content_bodies set title = '【農業女子と学ぶ】この野菜、なぁに？ー初級編ー | 夏は北海道ニセコがオススメ！異日常で日常を過ごす滞在型旅行｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
+このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+今回の動画は、
+農業女子と学ぶ！野菜クイズー初級編ー
+「野菜の葉っぱを見て、何の野菜かわかりますか？」
+今回は、初級編。
+4問中、何問わかりますか？
+
+■ご協力いただいたのは、
+『ニセコグリーンファーム』
+https://nisekogreenfarm.com/
+オーガニック野菜を栽培している農園。
+農業体験や石窯ビザづくり体験がオススメです♪
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 今回はご挨拶編ですが、どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
+
+○一般社団法人倶知安観光協会
+ https://www.niseko.co.jp/
+
+ ○オープニング＆エンディングビデオ
+ Aaron Jamieson Photography
+ http://aaronjamieson.com/ 
+
+#野菜 #農業女子 #北海道  #ニセコ #倶知安 #くっちゃん #ニセコサマーステイ' where id = 'ndNf1tL08ZkxUnhRktw0P';
+update content_bodies set title = '[Learn with Agricultural Girls] What is this vegetable? - Beginner''s Edition - | Summer in Niseko, Hokkaido is Recommended! A Stay-type Trip to Experience an Extraordinary Everyday Life | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido! 
+This channel is operated by the Kutchan Tourism Association located in the Niseko area of Hokkaido.
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+In this video, 
+Learn with Agricultural Girls! Vegetable Quiz - Beginner''s Edition - 
+"Can you tell what vegetable it is by looking at its leaves?" 
+This time, it''s the beginner''s edition. 
+How many out of 4 questions can you answer?
+
+■ We received cooperation from, 
+''Niseko Green Farm'' 
+https://nisekogreenfarm.com/ 
+A farm that cultivates organic vegetables. 
+Agricultural experiences and stone oven pizza-making experiences are recommended!  
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+The Niseko area in Hokkaido is famous for winter, but summer is also highly recommended! 
+To convey the "charm of summer in Niseko," we created this channel. 
+This is an introductory video, but we plan to upload more videos, so we would be happy if you could subscribe to our channel.
+
+○ General Incorporated Association Kutchan Tourism Association 
+https://www.niseko.co.jp/
+
+○ Opening & Ending Video 
+Aaron Jamieson Photography 
+http://aaronjamieson.com/
+
+#Vegetables #AgriculturalGirls #Hokkaido #Niseko #Kutchan #Kucchan #NisekoSummerStay' where id = '3JChXjf5HFoy5hz3vUz53';
+update content_bodies set title = '【北海道】夏はニセコがオススメ！「ニセコをざっくり理解しよう！」異日常で日常を過ごす滞在型旅行｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
+このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
+
+現在の情勢的にみると、観光に出られる状況ではありませんが、 いつかコロナウィルスが終息し「旅行に出るぞ！」というタイミングに 「北海道ニセコ」が１つの選択肢に上がっていただければ嬉しいなと思っております。
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+今回の動画では、
+「ニセコをざっくり紹介！」
+してみました！
+
+ニセコをざっくり押さえておくと、
+ガイドブックとか見るときにイメージしやすいと思います。
+
+■動画内ご紹介した○○のダウンロード■
+https://www.niseko.co.jp/uploads/files/mapwithaddress.pdf
+
+■撮影場所■
+初めてのホテルタイプのご紹介
+「ザ・グリーンリーフ・ニセコビレッジ」
+https://www.thegreenleafhotel.com/ja/
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 
+「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 
+どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
+
+○一般社団法人倶知安観光協会
+ https://www.niseko.co.jp/
+
+ ○オープニング＆エンディングビデオ
+ Aaron Jamieson Photography
+ http://aaronjamieson.com/ 
+
+#北海道 #夏 #ニセコ #旅行 #倶知安 #ニセコサマーステイ  #NISEKOsummerstay' where id = 'lRZTlKmmPAteq89HeKVME';
+update content_bodies set title = '[Hokkaido] Summer in Niseko is Recommended! ''Let''s Understand Niseko Briefly!'' A Stay-type Trip to Spend Time in an Unusual Everyday Life | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido! 
+This channel is operated by the Kutchan Tourism Association located in the Niseko area of Hokkaido.
+
+Given the current situation, it is not possible to travel for tourism, but I hope that when the coronavirus situation improves and the time comes to say ''Let''s travel!'', ''Niseko, Hokkaido'' will be one of the options.
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+In this video, 
+I briefly introduced ''Niseko''! 
+
+Having a brief understanding of Niseko will make it easier to imagine when looking at guidebooks.
+
+■ Download of the ○○ introduced in the video ■
+https://www.niseko.co.jp/uploads/files/mapwithaddress.pdf
+
+■ Filming Location ■
+Introduction of a hotel type for the first time
+''The Green Leaf Niseko Village''
+https://www.thegreenleafhotel.com/ja/
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+The Niseko area in Hokkaido is famous for winter, but summer is also highly recommended! 
+To convey the ''charm of summer in Niseko'', this channel was created. 
+We plan to upload videos continuously, so I would be happy if you could subscribe to the channel.
+
+○ General Incorporated Association Kutchan Tourism Association
+https://www.niseko.co.jp/
+
+○ Opening & Ending Video
+Aaron Jamieson Photography
+http://aaronjamieson.com/
+
+#Hokkaido #Summer #Niseko #Travel #Kutchan #NisekoSummerStay #NISEKOsummerstay' where id = 'TEQKjC60HlsxA1VfoW_RE';
+update content_bodies set title = '【北海道】夏はニセコがオススメ！「ニセコを一言でいうと？」異日常で日常を過ごす滞在型旅行｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
+このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
+
+現在の情勢的にみると、観光に出られる状況ではありませんが、 いつかコロナウィルスが終息し「旅行に出るぞ！」というタイミングに 「北海道ニセコ」が１つの選択肢に上がっていただければ嬉しいなと思っております。
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+今回の動画では、
+「ニセコを一言で表現」
+してみました！
+
+理由も2つお話しましたが、きっとご納得いただけるはずです！
+結論まで見ていただけると嬉しいです！
+
+■撮影場所■
+初めてのホテルタイプのご紹介
+「ザ・グリーンリーフ・ニセコビレッジ」
+https://www.thegreenleafhotel.com/ja/
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 
+「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 
+どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
+
+○一般社団法人倶知安観光協会
+ https://www.niseko.co.jp/
+
+ ○オープニング＆エンディングビデオ
+ Aaron Jamieson Photography
+ http://aaronjamieson.com/ 
+
+#北海道 #夏 #ニセコ #旅行 #倶知安 #ニセコサマーステイ  #NISEKOsummerstay' where id = '3hOqSAOAXdwXpxxhGB7TE';
+update content_bodies set title = '[Hokkaido] Niseko is Recommended in Summer! ''How Would You Describe Niseko in One Word?'' A Stay-type Trip to Experience an Unusual Everyday Life | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido! 
+This channel is operated by the Kutchan Tourism Association located in the Niseko area of Hokkaido.
+
+Given the current situation, it is not possible to travel for tourism, but I hope that when the coronavirus pandemic is over and the time comes to say, ''Let''s travel!'' that ''Niseko, Hokkaido'' will be one of the options.
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+In this video, I tried to ''express Niseko in one word''!
+
+I talked about two reasons, and I’m sure you will agree! 
+I would be happy if you could watch until the conclusion!
+
+■Filming Location■
+Introduction of a hotel type for the first time
+''The Green Leaf Niseko Village''
+https://www.thegreenleafhotel.com/ja/
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+The Niseko area in Hokkaido is famous for winter, but summer is also highly recommended! 
+To convey the ''charm of summer in Niseko'', I created this channel. 
+I plan to upload videos continuously, so I would be happy if you could subscribe to the channel.
+
+○ Kutchan Tourism Association
+ https://www.niseko.co.jp/
+
+ ○ Opening & Ending Video
+ Aaron Jamieson Photography
+ http://aaronjamieson.com/
+
+#Hokkaido #Summer #Niseko #Travel #Kutchan #NisekoSummerStay #NISEKOsummerstay' where id = 'Reun4TXRSGV9yec8zE_m3';
+update content_bodies set title = '【仕事紹介】観光協会のおしごとって？イベント企画編 観光業に興味ある大学生にオススメ!/ 北海道ニセコ「NISEKOくっちゃんエール飯」｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
+このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
+
+現在の情勢的にみると、観光に出られる状況ではありませんが、 いつかコロナウィルスが終息し「旅行に出るぞ！」というタイミングに 「北海道ニセコ」が１つの選択肢に上がっていただければ嬉しいなと思っております。
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+今回の動画では、観光協会のお仕事についてご紹介しています。
+みなさんの地域にもきっとある観光協会の仕事ってどんなことしてる？
+
+観光協会がイベントをどうイベントを企画するのか、
+今回は現在NISEKOくっちゃんエリアで実施中の「NISEKOくっちゃんエール飯」を使ってご紹介します。
+NISEKOくっちゃんエール飯については、前回のYoutubeをチェックしてみてくださいね！
+https://www.youtube.com/watch?v=DXc9gfYWx3c
+★NISEKOくっちゃんエール飯webサイト★
+https://www.niseko-dine-local.com/
+
+そして、今回の撮影場所は必見！
+ニセコエリアの最高級中最高級のコンドミニアムから撮影しています！
+「綾ニセコ」
+https://www.ayaniseko.com/ja/
+
+※ちなみに…
+こちらの撮影は4月中旬頃。
+羊蹄山の雪の模様は、約1か月前のものです。
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 今回はご挨拶編ですが、どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
+
+○一般社団法人倶知安観光協会
+ https://www.niseko.co.jp/
+
+ ○オープニング＆エンディングビデオ
+ Aaron Jamieson Photography
+ http://aaronjamieson.com/ 
+
+#仕事紹介 #観光協会 #北海道 #ニセコ #倶知安 #イベント #イベント企画 #コンドミニアム  #ニセコサマーステイ  #NISEKOsummerstay' where id = 'iV-ypSg9g6xlHcGVKPOYP';
+update content_bodies set title = '[Job Introduction] What is the work of a tourism association? Event Planning Edition Recommended for university students interested in the tourism industry! / Hokkaido Niseko ''NISEKO Kutchan Yell Meal'' | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Hokkaido Niseko! 
+This channel is operated by the Kutchan Tourism Association located in the Hokkaido Niseko area. 
+
+Given the current situation, it is not possible to travel, but I hope that when the coronavirus pandemic is over and the time comes to ''travel!'', ''Hokkaido Niseko'' will be one of the options. 
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ 
+
+In this video, we introduce the work of the tourism association. 
+What kind of work does the tourism association in your area do? 
+
+How does the tourism association plan events? 
+This time, we will introduce it using the ''NISEKO Kutchan Yell Meal'' currently being implemented in the NISEKO Kutchan area. 
+Please check the previous YouTube video for more information about the NISEKO Kutchan Yell Meal! 
+https://www.youtube.com/watch?v=DXc9gfYWx3c 
+★NISEKO Kutchan Yell Meal website★ 
+https://www.niseko-dine-local.com/ 
+
+And the filming location this time is a must-see! 
+We are filming from one of the highest luxury condominiums in the Niseko area! 
+''Aya Niseko'' 
+https://www.ayaniseko.com/ja/ 
+
+*By the way... 
+This filming took place around mid-April. 
+The snow pattern on Mount Yotei is from about a month ago. 
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ 
+The Hokkaido Niseko area is famous for winter, but summer is also highly recommended! 
+To convey the ''charm of summer in Niseko'', we have established this channel. 
+This is an introductory video, but we plan to upload more videos, so we would be happy if you could subscribe to our channel. 
+
+○ General Incorporated Association Kutchan Tourism Association 
+https://www.niseko.co.jp/ 
+
+○ Opening & Ending Video 
+Aaron Jamieson Photography 
+http://aaronjamieson.com/ 
+
+#JobIntroduction #TourismAssociation #Hokkaido #Niseko #Kutchan #Event #EventPlanning #Condominium #NisekoSummerStay #NISEKOsummerstay' where id = 'dW76BsNjLAluPF25sxW5y';
+update content_bodies set title = '【グルメ】北海道ニセコ「NISEKOくっちゃんエール飯」外出自粛の中での楽しみ｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
+このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
+
+現在の情勢的にみると、観光に出られる状況ではありませんが、 いつかコロナウィルスが終息し「旅行に出るぞ！」というタイミングに 「北海道ニセコ」が１つの選択肢に上がっていただければ嬉しいなと思っております。
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+今回の動画では、現在NISEKOくっちゃんエリアで実施中の「NISEKOくっちゃんエール飯」についてご紹介しております。
+○エール飯に参加する方法は？
+○事業者が参加する方法は？
+⇒　https://www.niseko.co.jp/uploads/file...
+
+★NISEKOくっちゃんエール飯webサイト★
+https://www.niseko-dine-local.com/
+
+そして、今回の撮影場所は必見！
+ニセコエリアの最高級中最高級のコンドミニアムから撮影しています！
+「綾ニセコ」
+https://www.ayaniseko.com/ja/
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 今回はご挨拶編ですが、どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
+
+○一般社団法人倶知安観光協会
+ https://www.niseko.co.jp/
+
+ ○オープニング＆エンディングビデオ
+ Aaron Jamieson Photography
+ http://aaronjamieson.com/ 
+
+#グルメ #北海道 #エール飯 #テイクアウト #イベント #コンドミニアム  #ニセコ #倶知安 #くっちゃん #ニセコサマーステイ #おうち時間 #観光協会 #NISEKOsummerstay' where id = 'HATFq64rVUJUB4MBleEYJ';
+update content_bodies set title = '[Gourmet] NISEKO Kucchan Ale Meal in Niseko, Hokkaido: Enjoyment During Self-Restriction | Niseko Summer Stay (Kucchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido!
+This channel is operated by the Kucchan Tourism Association located in the Niseko area of Hokkaido.
+
+Given the current situation, it is not possible to travel for tourism, but I hope that when the coronavirus situation improves and the time comes to "travel!", "Niseko, Hokkaido" will be one of the options.
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+In this video, we introduce the "NISEKO Kucchan Ale Meal" currently being implemented in the NISEKO Kucchan area.
+○ How to participate in the Ale Meal?
+○ How can businesses participate?
+⇒ https://www.niseko.co.jp/uploads/file...
+
+★ NISEKO Kucchan Ale Meal website ★
+https://www.niseko-dine-local.com/
+
+And the filming location this time is a must-see!
+We are filming from one of the highest luxury condominiums in the Niseko area!
+"Aya Niseko"
+https://www.ayaniseko.com/ja/
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+The Niseko area in Hokkaido is famous for winter, but summer is also highly recommended! To convey the "charm of summer in Niseko," we have established this channel. This is an introductory video, but we plan to upload more videos, so we would be happy if you could subscribe to our channel.
+
+○ General Incorporated Association Kucchan Tourism Association
+ https://www.niseko.co.jp/
+
+ ○ Opening & Ending Video
+ Aaron Jamieson Photography
+ http://aaronjamieson.com/
+
+#Gourmet #Hokkaido #AleMeal #Takeout #Event #Condominium #Niseko #Kucchan #Kucchan #NisekoSummerStay #HomeTime #TourismAssociation #NISEKOsummerstay' where id = 'XP5j2pbUUUDCgPDndmybG';
+update content_bodies set title = '【北海道ニセコ】おうち時間をニセコと共に②～自然に癒されるweb写真展Nature～。異日常で日常を過ごす滞在型旅行｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
+このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
+
+現在の情勢的にみると、観光に出られる状況ではありませんが、 いつかコロナウィルスが終息し「旅行に出るぞ！」というタイミングに 「北海道ニセコ」が１つの選択肢に上がっていただければ嬉しいなと思っております。
+
+今回の動画では、ニセコを含む後志（しりべし）エリアの自然を皆さんのお家から楽しめるweb写真展Natureをご紹介します。
+主催のSHIRIBESHI ART NEWTWORKの横山孝博さんがゲストに来てくれました！
+web写真展の目的は？
+写真をチラ見せ！
+とにかくきれいな写真に癒され度MAX！
+一見の価値ありです。
+
+web写真展Natureはこちらから↓↓↓
+https://www.facebook.com/Web%E5%86%99%E7%9C%9F%E5%B1%95-Nature-111603807180430/
+
+■期間　2020年4月25日～5月31日
+5週にわたり、公開日19時に新しい作品をUPします！
+3回の公開日が終わり、それらもご覧いただけます。
+残る2回の公開日は、5月18日・25日
+
+北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 今回はご挨拶編ですが、どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
+
+○一般社団法人倶知安観光協会
+ https://www.niseko.co.jp/
+
+ ○オープニング＆エンディングビデオ
+ Aaron Jamieson Photography
+ http://aaronjamieson.com/ 
+
+#風景写真集 #北海道 #夏 #ニセコ #ニセコサマーステイ #おうち時間 #観光協会 #NISEKOsummerstay' where id = 'l0PS4dPNLZs_yQWzkzIAU';
+update content_bodies set title = '[Niseko, Hokkaido] Home Time with Niseko ② - Nature Web Photo Exhibition Healing in Nature - A Stay-type Travel Experience in an Unusual Everyday Life | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido!
+This channel is operated by the Kutchan Tourism Association located in the Niseko area of Hokkaido.
+
+Given the current situation, it is not possible to go out for tourism, but I hope that when the coronavirus situation calms down and the time comes to say, ''Let''s travel!'' that ''Niseko, Hokkaido'' will be one of the options.
+
+In this video, we introduce the web photo exhibition Nature, where you can enjoy the nature of the Shiribeshi area, including Niseko, from your home.
+Mr. Takahiro Yokoyama from SHIRIBESHI ART NETWORK, the organizer, is our guest!
+What is the purpose of the web photo exhibition?
+A sneak peek of the photos!
+You will be healed by the incredibly beautiful photos to the MAX!
+It''s worth a look.
+
+You can find the web photo exhibition Nature here↓↓↓
+https://www.facebook.com/Web%E5%86%99%E7%9C%9F%E5%B1%95-Nature-111603807180430/
+
+■ Duration: April 25, 2020 - May 31, 2020
+New works will be uploaded every week on the public release day at 7 PM!
+After three public release days, you can also view those works.
+The remaining two public release days are May 18 and 25.
+
+The Niseko area in Hokkaido is famous for winter, but summer is also highly recommended! To convey the ''charm of summer in Niseko''! This channel was established. This is just an introductory video, but we plan to keep uploading videos, so we would be happy if you could subscribe to the channel.
+
+○ General Incorporated Association Kutchan Tourism Association
+ https://www.niseko.co.jp/
+
+○ Opening & Ending Video
+ Aaron Jamieson Photography
+ http://aaronjamieson.com/
+
+#LandscapePhotography #Hokkaido #Summer #Niseko #NisekoSummerStay #HomeTime #TourismAssociation #NISEKOsummerstay' where id = '4AX30jY92KZbKKaC7qg8z';
+update content_bodies set title = '【北海道ニセコ】おうち時間をニセコと共に①～子供と一緒に楽しめるダルマプロジェクト～。異日常で日常を過ごす滞在型旅行｜ニセコサマーステイ（倶知安観光協会）', description = '北海道ニセコでのサマーステイをオススメするチャンネルです！
+このチャンネルは、北海道ニセコエリアにある倶知安観光協会（くっちゃんかんこうきょうかい）が運営しています。 
+
+現在の情勢的にみると、観光に出られる状況ではありませんが、 いつかコロナウィルスが終息し「旅行に出るぞ！」というタイミングに 「北海道ニセコ」が１つの選択肢に上がっていただければ嬉しいなと思っております。
+
+今回の動画では、おうち時間にニセコと一緒に楽しめるダルマプロジェクトをご紹介します。
+主催のキヨエギャラリーニセコの細川清映さんがゲストに来てくれました！
+ダルマプロジェクトって？
+ダルマの意味って？
+ダルマを見た外国人の反応は？
+そして、私も実際にやってみました！
+一緒に参加いただける方は、ぜひ↓↓
+ダウンロードして使ってくださいね♪
+https://drive.google.com/file/d/1OHNufAMMHfkz78GJsyt53ps0Fro8vbbP/view
+
+北海道ニセコエリアは、冬が有名ですが夏もとってもオススメです！ 「ニセコの夏の魅力」をお伝えするべく！ このチャンネルを開設しました。 今回はご挨拶編ですが、どんどん動画をＵＰしていく予定ですので、 チャンネル登録いただけると嬉しいです。
+
+○ダルマプロジェクト
+https://drive.google.com/file/d/1GaYMNK-2wd8q2_2oTPzFI_qMZro-MWdF/view
+Youtube https://www.youtube.com/channel/UCrkAFvZCsqU6rFApORnjGMg
+Facebook https://www.facebook.com/kiyoegallery/
+Instagram https://www.instagram.com/daruma_project/?hl=ja 
+
+○一般社団法人倶知安観光協会
+ https://www.niseko.co.jp/
+
+ ○オープニング＆エンディングビデオ
+ Aaron Jamieson Photography
+ http://aaronjamieson.com/ 
+
+#北海道 #夏 #ニセコ #ニセコサマーステイ #おうち時間 #子供と一緒 #日本文化 #外国人 #観光協会 #NISEKOsummerstay' where id = '8o0GAwqW1yFb33pUnHpRe';
 update content_bodies set title = '[Niseko, Hokkaido] Enjoying Home Time with Niseko ① - The Daruma Project Fun for Kids - A Staycation in an Unusual Everyday Life | Niseko Summer Stay (Kutchan Tourism Association)', description = 'This is a channel recommending summer stays in Niseko, Hokkaido!
 This channel is operated by the Kutchan Tourism Association located in the Niseko area of Hokkaido.
 
@@ -9478,527 +10004,3 @@ https://okayama-kanko.net/8910/
 ＃足守メロン　＃パフェ　＃フルーツパフェの街おかやま　
 ＃おかやま白桃パフェDays　＃レシピ　＃岡山　＃岡山県　
 ＃岡山市　＃岡山観光' where id = 'O5vqe8orbpUJpNJ02rRzh';
-update content_bodies set title = 'Easy at Home! How to Make a Refreshing Summer Parfait Full of Fruits from Okayama!', description = '[Let''s Enjoy Parfaits at Home Using Okayama Fruits!] 
-
-This parfait is made using Okayama''s specialty fruits: white peaches, Shine Muscat grapes, and Asahi melons, allowing you to fully savor the summer flavors of the fruit kingdom Okayama! 
-Since it only uses ingredients available at supermarkets, please give it a try at home! 
-
-Parfait Ingredients [00:06] 
-
-♥ Okayama White Peach Parfait Days 
-https://okayama-kanko.net/8910/ 
-
-#Fruits #OkayamaFruits #WhitePeach #ShineMuscat #AsahiMelon #Parfait #FruitParfaitCityOkayama #OkayamaWhitePeachParfaitDays #Recipe #Okayama #OkayamaPrefecture #OkayamaCity #OkayamaTourism' where id = 'weh70qzHPLjo7lNX_PI0g';
-update content_bodies set title = '体験！桃太郎伝説（日本遺産「桃太郎伝説の生まれたまち　おかやま」プロモーション動画）', description = '★日本遺産「桃太郎伝説の生まれたまち　おかやま」プロモーション動画
-【体験！桃太郎伝説編】
-
-平成30年５月、岡山市、倉敷市、総社市、赤磐市で共同申請した「桃太郎伝説の生まれたまち　おかやま」が日本遺産に認定されました。
-日本遺産とは地域の歴史的魅力や特色を通じて我が国の文化・伝統を語るストーリーを文化庁が認定するもので、平成30年度までに全国で67のストーリーが認定されています。
-
-おかやまには桃太郎と鬼のモデルになったと言われる「吉備津彦と温羅」の物語に登場する場所が今もなお多く残っており、古くから地域の方々によって大切に保存されてきました。
-
-このたび、日本遺産「桃太郎伝説の生まれたまち　おかやま」の魅力をわかりやすくお伝えするプロモーション動画が完成しましたので、ぜひご覧ください！
-
-古代吉備の遺産群があなたを鬼退治の物語に誘ってくれますよ。
-
-【本編】
-https://www.youtube.com/watch?v=Bq4VmjFf9ao&t=3s
-
-【桃太郎伝説と古代吉備の古墳群編】
-https://www.youtube.com/watch?v=-zusdHlXfLk
-
-◆ホームページ
-https://momotaro-ura.jp/
-
-
-#岡山 #岡山市 #日本遺産  #桃太郎伝説' where id = 'UgO3304SSgoZg8oNPENeh';
-update content_bodies set title = 'Experience! Momotaro Legend (Promotional Video for the Japanese Heritage ''The Town Where the Momotaro Legend Was Born - Okayama'')', description = '★Promotional video for the Japanese Heritage ''The Town Where the Momotaro Legend Was Born - Okayama''
-[Experience! Momotaro Legend Edition]
-
-In May 2018, the cities of Okayama, Kurashiki, Soja, and Akaiwa jointly applied for and were recognized as a Japanese Heritage site for ''The Town Where the Momotaro Legend Was Born - Okayama''.
-Japanese Heritage is a designation by the Agency for Cultural Affairs that tells the story of Japan''s culture and traditions through the historical charm and characteristics of a region. As of the fiscal year 2018, 67 stories have been recognized nationwide.
-
-Okayama still has many locations that are said to be associated with the story of ''Kibitsuhiko and Ura'', which served as the model for Momotaro and the demons, and these have been carefully preserved by the local community for a long time.
-
-We have completed a promotional video that clearly conveys the charm of the Japanese Heritage ''The Town Where the Momotaro Legend Was Born - Okayama'', so please take a look!
-
-The ancient heritage of Kibi invites you into the story of demon-slaying.
-
-[Main Video]
-https://www.youtube.com/watch?v=Bq4VmjFf9ao&t=3s
-
-[Momotaro Legend and Ancient Kibi Burial Mounds Edition]
-https://www.youtube.com/watch?v=-zusdHlXfLk
-
-◆Website
-https://momotaro-ura.jp/
-
-#Okayama #OkayamaCity #JapaneseHeritage #MomotaroLegend' where id = 'Yvm1J07SjMH5YFAo4ydzs';
-update content_bodies set title = '日本遺産「桃太郎伝説の生まれたまち　おかやま」プロモーション動画', description = '★日本遺産「桃太郎伝説の生まれたまち　おかやま」プロモーション動画
-【本編】
-
-
-平成30年５月、岡山市、倉敷市、総社市、赤磐市で共同申請した「桃太郎伝説の生まれたまち　おかやま」が日本遺産に認定されました。
-日本遺産とは地域の歴史的魅力や特色を通じて我が国の文化・伝統を語るストーリーを文化庁が認定するもので、平成30年度までに全国で67のストーリーが認定されています。
-
-おかやまには桃太郎と鬼のモデルになったと言われる「吉備津彦と温羅」の物語に登場する場所が今もなお多く残っており、古くから地域の方々によって大切に保存されてきました。
-
-このたび、日本遺産「桃太郎伝説の生まれたまち　おかやま」の魅力をわかりやすくお伝えするプロモーション動画が完成しましたので、ぜひご覧ください！
-
-古代吉備の遺産群があなたを鬼退治の物語に誘ってくれますよ。
-
-☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
-※この動画の1分13秒に　≪ 総社市の「鬼城山」には、»　という日本語字幕が出てきますが、
-　「鬼城山」（きのうじょうざん）ではなく、正しくは「鬼城山」（きのじょうざん）です。
-☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
-
-【体験！桃太郎伝説編】
-https://www.youtube.com/watch?v=fjSYOgJ-W8o&t=12s
-
-【桃太郎伝説と古代吉備の古墳群編】
-https://www.youtube.com/watch?v=-zusdHlXfLk
-
-◆ホームページ
-https://momotaro-ura.jp/
-
-
-
-#岡山 #岡山市 #日本遺産  #桃太郎伝説' where id = '4_8LLlaEFYBrV8erwEOhf';
-update content_bodies set title = 'Japan Heritage ''The Town Where the Momotaro Legend Was Born - Okayama'' Promotional Video', description = '★Japan Heritage ''The Town Where the Momotaro Legend Was Born - Okayama'' Promotional Video
-【Main Content】
-
-In May 2018, ''The Town Where the Momotaro Legend Was Born - Okayama,'' jointly applied by Okayama City, Kurashiki City, Soja City, and Akaiwa City, was certified as a Japan Heritage.
-Japan Heritage is a designation by the Agency for Cultural Affairs that recognizes stories that convey the culture and traditions of our country through the historical charm and characteristics of regions. As of the fiscal year 2018, 67 stories have been certified nationwide.
-
-Okayama still has many locations associated with the story of ''Kibitsuhiko and Ura,'' which is said to have inspired the characters of Momotaro and the demons, and these have been carefully preserved by the local community for a long time.
-
-We have completed a promotional video that clearly conveys the charm of Japan Heritage ''The Town Where the Momotaro Legend Was Born - Okayama,'' so please take a look!
-
-The ancient heritage of Kibi invites you into the story of demon-slaying.
-
-☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
-*At 1 minute and 13 seconds into this video, the Japanese subtitle ''In Soja City''s ' where id = 'bsW20STMKOkaujmaq39e-';
-update content_bodies set title = '古代吉備国の声が聞こえる 造山古墳', description = '国内4番目の大きさを誇り、『日本遺産「桃太郎伝説」の生まれたまち おかやま～古代吉備の遺産が誘う鬼退治の物語～』の構成文化財の一つである、造山古墳をテーマとした映像です。
-小学校高学年をメインターゲットとしていますが、大人にも分かりやすく、楽しく、造山古墳及びその背景にある古代吉備国の繁栄について知っていただける内容となっています。
-
-
-
-#岡山市  #日本遺産 #古墳 #造山古墳 #岡山 #岡山県#岡山旅行 #岡山観光 #日本 #観光 #古墳 #歴史 #古墳時代 #古墳巡り #古代 #古代吉備国 #吉備国 #前方後円墳#桃太郎伝説 #文化財
-#造山古墳ビジターセンター #okayama #japan #japantour #sightseeing' where id = 'X0vytr8B03GQY6fWu3QyL';
-update content_bodies set title = 'The Voice of Ancient Kibi Can Be Heard: Zōsankofun', description = 'This is a video themed around Zōsankofun, which boasts the fourth largest size in Japan and is one of the cultural properties that make up the Japanese heritage "The Town Where the Legend of Momotaro Was Born: Okayama - The Story of Demon Slaying Invoked by the Ancient Kibi Heritage." 
-The main target audience is upper-grade elementary school students, but it is designed to be easy to understand and enjoyable for adults as well, providing insights into Zōsankofun and the prosperity of the ancient Kibi region.' where id = '2BnsS2rj39g2c2ZvUTCkA';
-update content_bodies set title = '【旭川さくらみち・岡山後楽園】 2021桜 ～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市の桜スポットを空から眺めるドローン映像です。
-新型コロナウイルスの影響で花見を自粛された方、花見に行けなかった方々も、岡山市内で咲き誇る桜を見ていただき、お花見気分を満喫してください！
-
-岡山を代表するお花見スポットといえば、旭川さくらみち。岡山後楽園の東岸、約1.3kmに連なるソメイヨシノは、全国に名だたる桜の名所として知られています。桜の季節には、毎年多くのお花見客でにぎわいます。
-
-上空から眺める岡山後楽園にも、見事な桜が咲いています。
-
-
-＃岡山 ＃岡山県 ＃岡山市 ＃岡山旅行 ＃岡山観光 ＃日本 ＃観光 ＃ドローン ＃空撮  ＃桜  ＃さくら
-#okayama #japan #japantour #sightseeing #cherryblossoms
-
-▼岡山市公式観光情報サイト【おかやま観光ネット】
-https://okayama-kanko.net/sightseeing/
-
-▼おかやま観光コンベンション協会【公式】Instagram
-https://www.instagram.com/okayama_cit...
-
-▼おかやま観光コンベンション協会【公式】Facebook
-https://www.facebook.com/okayama.kanko
-
-▼岡山市ももたろう観光センター Twitter
-https://twitter.com/momokan36/' where id = '0c_Ywtor91IFNB7uys0em';
-update content_bodies set title = '[Asahikawa Sakura Road & Okayama Korakuen] 2021 Cherry Blossoms ~Sky Travel Time~ A Skywalk to Experience Okayama City', description = 'This is a drone video capturing the cherry blossom spots in Okayama City from the sky.
-Due to the impact of the COVID-19 pandemic, those who refrained from hanami and those who couldn''t go out to enjoy cherry blossoms can still see the beautiful sakura blooming in Okayama City and enjoy the hanami atmosphere!
-
-When it comes to representative cherry blossom viewing spots in Okayama, Asahikawa Sakura Road is a must-visit. The Somei Yoshino cherry trees lining the eastern bank of Okayama Korakuen stretch about 1.3 km and are known as one of the famous cherry blossom spots in the country. During the cherry blossom season, it is bustling with many hanami visitors every year.
-
-There are also magnificent cherry blossoms blooming in Okayama Korakuen, viewed from above.
-
-#Okayama #OkayamaPrefecture #OkayamaCity #OkayamaTravel #OkayamaSightseeing #Japan #Tourism #Drone #AerialPhotography #CherryBlossoms #Sakura
-#okayama #japan #japantour #sightseeing #cherryblossoms
-
-▼ Okayama City Official Tourism Information Site [Okayama Tourism Net]
-https://okayama-kanko.net/sightseeing/
-
-▼ Okayama Tourism Convention Association [Official] Instagram
-https://www.instagram.com/okayama_cit...
-
-▼ Okayama Tourism Convention Association [Official] Facebook
-https://www.facebook.com/okayama.kanko
-
-▼ Okayama City Momotaro Tourism Center Twitter
-https://twitter.com/momokan36/' where id = 'EYIK3hxlqBf20dqT_HHGB';
-update content_bodies set title = '【金川桜並木・百間川せせらぎ広場】2021桜 ～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市の桜スポットを空から眺めるドローン映像です。
-新型コロナウイルスの影響で花見を自粛された方、花見に行けなかった方々も、岡山市内で咲き誇る桜を見ていただき、お花見気分を満喫してください！
-
-
-●金川桜並木
-岡山市北区御津金川の宇甘川堤防にある約200mの桜並木。
-
-●百間川せせらぎ広場
-岡山市中消防署の南西にある河川敷には約100本のソメイヨシノが植えられており、満開時には河川敷一帯がピンク色に染まります。豊かな自然の中、開放的な気分でお花見を楽しむことできます。天気の良い日には、家族や友達とお弁当を広げて過ごすのにぴったり！
-
-
-＃岡山＃岡山県＃岡山市＃岡山旅行＃岡山観光＃日本＃観光＃ドローン＃空撮＃桜＃さくら#okayama ​#japan #japantour #sightseeing #cherryblossoms
-
-
-▼岡山市公式観光情報サイト【おかやま観光ネット】
-https://okayama-kanko.net/sightseeing/
-
-▼おかやま観光コンベンション協会【公式】Instagram
-https://www.instagram.com/okayama_cit...
-
-▼おかやま観光コンベンション協会【公式】Facebook
-https://www.facebook.com/okayama.kanko
-
-▼岡山市ももたろう観光センター Twitter
-https://twitter.com/momokan36/' where id = 'hQAMHcOUcMgVzuXiAvDf0';
-update content_bodies set title = '[Kanagawa Cherry Blossom Avenue & Hyakken River Serenity Square] 2021 Cherry Blossoms ~Sky Travel Time~ A Skywalk to Experience Okayama City', description = 'This is a drone video capturing the cherry blossom spots in Okayama City.
-For those who refrained from hanami due to the impact of the COVID-19 pandemic or couldn''t go out for cherry blossom viewing, please enjoy the beautiful cherry blossoms blooming in Okayama City and indulge in the hanami atmosphere!
-
-● Kanagawa Cherry Blossom Avenue
-A 200-meter cherry blossom avenue located on the Ugan River embankment in Mitsu Kanagawa, Okayama City.
-
-● Hyakken River Serenity Square
-About 100 Somei Yoshino cherry trees are planted in the riverbed southwest of the Okayama City Fire Department, and during full bloom, the entire riverbed area is dyed pink. You can enjoy hanami in a rich natural setting with an open and relaxed feeling. On sunny days, it''s perfect for spreading out a picnic with family and friends!
-
-#Okayama #OkayamaPrefecture #OkayamaCity #OkayamaTravel #OkayamaSightseeing #Japan #Tourism #Drone #AerialPhotography #CherryBlossoms #Sakura #okayama #japan #japantour #sightseeing #cherryblossoms
-
-▼ Okayama City Official Tourism Information Site [Okayama Tourism Net]
-https://okayama-kanko.net/sightseeing/
-
-▼ Okayama Tourism Convention Association [Official] Instagram
-https://www.instagram.com/okayama_cit...
-
-▼ Okayama Tourism Convention Association [Official] Facebook
-https://www.facebook.com/okayama.kanko
-
-▼ Okayama City Momotaro Tourism Center Twitter
-https://twitter.com/momokan36/' where id = '6nhLUN1Ok-l5Zb1v-g2gQ';
-update content_bodies set title = '【宗堂桜】 2021桜 ～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市の桜スポットを空から眺めるドローン映像です。
-新型コロナウイルスの影響で花見を自粛された方、花見に行けなかった方々も、岡山市内で咲き誇る桜を見ていただき、お花見気分を満喫してください！
-
-岡山市東区瀬戸町にある「宗堂の桜」。八重桜の一種で、花弁の数が約60枚もあり、花弁の内側の20枚ほどは反転してカール状になっており、非常に豪華な見栄えのする名花です。桜を愛した同地の住職の死を嘆いて、それ以後花弁を開ききらなくなったという言い伝えが残っています。
-
-
-＃岡山＃岡山県＃岡山市＃岡山旅行＃岡山観光＃日本＃観光＃ドローン＃空撮＃桜＃さくら#okayama ​#japan #japantour #sightseeing #cherryblossoms
-
-▼岡山市公式観光情報サイト【おかやま観光ネット】
-https://okayama-kanko.net/sightseeing/
-
-▼おかやま観光コンベンション協会【公式】Instagram
-https://www.instagram.com/okayama_cit...
-
-▼おかやま観光コンベンション協会【公式】Facebook
-https://www.facebook.com/okayama.kanko
-
-▼岡山市ももたろう観光センター Twitter
-https://twitter.com/momokan36/' where id = 'hetR_lmHbTia44syWprbJ';
-update content_bodies set title = '[Soudou Sakura] 2021 Cherry Blossoms ~Sky Travel Time~ Skywalk to Experience Okayama City', description = 'This is a drone video capturing the cherry blossom spots in Okayama City from the sky.
-For those who refrained from hanami due to the impact of the COVID-19 pandemic, and for those who couldn''t go out for cherry blossom viewing, please enjoy the beautiful cherry blossoms blooming in Okayama City and indulge in the hanami spirit!
-
-''Soudou no Sakura'' located in Seto Town, Higashi Ward, Okayama City. It is a type of double-flowered cherry blossom with about 60 petals, and around 20 of the inner petals are inverted and curled, making it a remarkably luxurious and beautiful flower. There is a legend that after the death of the local priest who loved the cherry blossoms, the petals stopped fully blooming.
-
-#Okayama #OkayamaPrefecture #OkayamaCity #OkayamaTravel #OkayamaSightseeing #Japan #Tourism #Drone #AerialPhotography #CherryBlossoms #Sakura #okayama #japan #japantour #sightseeing #cherryblossoms
-
-▼ Okayama City Official Tourism Information Site [Okayama Tourism Net]
-https://okayama-kanko.net/sightseeing/
-
-▼ Okayama Convention & Visitors Bureau [Official] Instagram
-https://www.instagram.com/okayama_cit...
-
-▼ Okayama Convention & Visitors Bureau [Official] Facebook
-https://www.facebook.com/okayama.kanko
-
-▼ Okayama City Momotaro Tourism Center Twitter
-https://twitter.com/momokan36/' where id = 'dmmeuPSTDky79RZBpF9vW';
-update content_bodies set title = '【忍者が本気で歌ってみた】さらば岡山城　Amazing Ninja Singing - Goodbye Okayama Castle', description = 'さらば岡山城サイト　https://kin-ujo.jp/
-
-岡山城、ついに閉館。そしてリニューアルへ。
-その事実を日本全国へと伝えるため、いま「岡山忍者」の暗躍がはじまる――。
-
-黒の忍者、金の忍者。ふたりの忍が黒と金のマイクを握りしめバラードを熱唱します。
-甘く切ない歌声は、岡山の街から世界を揺さぶるでしょうか。
-
-かつて岡山城には本当に忍者がいました。忍者なのに、しっかりと記録も残っているのです。
-律儀でうっかりな忍者の末裔は、今もこの街のどこかにいるのかもしれません。
-
-閉館は2021年5月31日。リニューアルオープンは2022年11月の予定です。
-岡山市出身の歴史学者・磯田道史氏の展示監修により、岡山城が大きく生まれ変わります。ご期待ください。
-
-------
-
-■「さらば岡山城」
-うた：岡山忍者
-作詞：黒戸金也
-作曲・編曲：ツキダタダシ
-
-
-あのとき秀吉が言うたんじゃ
-この丘に城をつくれ言うて
-
-ウキウキと宇喜多は張り切って
-黒と金の城を建てたんじゃ
-
-400年以上見守ってきた
-岡山の街に突然の知らせが
-閉館！
-
-さらば岡山城
-またいつか会いましょう
-どんな時代になったって
-わしらの城はここにある
-
-さらば岡山城
-みんなでさぁ集まりましょう
-だって新しゅうなるんよ
-2022年 リニューアル
-オープンするんじゃ
-
-ところで拙者は忍者なんじゃ
-岡山城にもおったんじゃ
-
-じゃじゃじゃじゃ忍者　岡山忍者
-岡山城の岡山忍者
-
-
-#ninja #ninjutsu #japanesecastle
-#japan #japanesesong #japaneseculture
-#Japanesecommercial #okayama
-
-ーーーーーーーーーーーーーーーーーーーーー' where id = 'U4HxD9PPmNbFu7YtIGGN3';
-update content_bodies set title = '[Ninja Singing Seriously] Goodbye Okayama Castle - Amazing Ninja Singing', description = 'Goodbye Okayama Castle site https://kin-ujo.jp/
-
-Okayama Castle has finally closed its doors. And it is set for renewal.
-To convey this fact to the entire nation of Japan, the ''Okayama Ninja'' is now beginning its covert operations――.
-
-The black ninja and the gold ninja. The two ninjas grip black and gold microphones and passionately sing a ballad.
-Will their sweet and bittersweet voices shake the world from Okayama city?
-
-Once, there were indeed ninjas at Okayama Castle. Despite being ninjas, they left behind solid records.
-The diligent yet careless descendants of the ninjas may still be somewhere in this city.
-
-The closing date is May 31, 2021. The renewal opening is scheduled for November 2022.
-With the exhibition supervision of historian Michifumi Isoda from Okayama City, Okayama Castle will undergo a significant transformation. Please look forward to it.
-
-------
-
-■ ''Goodbye Okayama Castle''
-Song: Okayama Ninja
-Lyrics: Kuroto Kanya
-Composition & Arrangement: Tsukida Tadashi
-
-At that time, Hideyoshi said,
-''Build a castle on this hill.''
-
-Excitedly, Ukita was eager,
-And built a black and gold castle.
-
-For over 400 years, it has watched over,
-The city of Okayama, suddenly receiving the news:
-Closing down!
-
-Goodbye Okayama Castle,
-Let’s meet again someday.
-No matter what era it becomes,
-Our castle will always be here.
-
-Goodbye Okayama Castle,
-Everyone, let’s gather together.
-Because it will become new,
-In 2022, it will be renewed
-And open again.
-
-By the way, I am a ninja.
-I was also at Okayama Castle.
-
-Ja ja ja ja ninja, Okayama Ninja,
-Okayama Ninja of Okayama Castle.
-
-#ninja #ninjutsu #japanesecastle
-#japan #japanesesong #japaneseculture
-#Japanesecommercial #okayama
-
-ーーーーーーーーーーーーーーーーーーーーー' where id = '7MX5c28NT_4KlpAUPzJkm';
-update content_bodies set title = '【安仁神社】～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市のあの有名な名所や実は知らなかったあのスポット。
-空から旅してみませんか？
-
-西大寺一宮の宮城山（みやしろやま、別名、鶴山）にある神社で、もと国弊中社。主祭神は五瀬命（いつせのみこと）で、他に稲氷命（いなひのみこと）、御毛沼命（みけぬのみこと）を祀っています。社名の「安仁」は神武天皇の「兄」を仮名書きしたことに由来するといわれています。毎年7月11日には、無病息災を祈る「茅の輪くぐり」の行事が行われます。
-
-＃岡山＃岡山県＃岡山市＃安仁神社＃岡山旅行＃岡山観光＃神社＃神社巡り＃日本＃観光＃ドローン＃空撮＃okayama＃japan＃japanshrine＃japantour＃sightseeing
-
-▼岡山市公式観光情報サイト【おかやま観光ネット】
-https://okayama-kanko.net/sightseeing/
-
-▼おかやま観光コンベンション協会【公式】Instagram
-https://www.instagram.com/okayama_city_kanko/
-
-▼おかやま観光コンベンション協会【公式】Facebook
-https://www.facebook.com/okayama.kanko
-
-▼岡山市ももたろう観光センター Twitter
-https://twitter.com/momokan36/' where id = 'KAKNIq_ptk2stgZ-MQ83g';
-update content_bodies set title = '[Anin Shrine] ~Sky Travel Time~ A Skywalk to Experience Okayama City', description = 'The famous landmarks of Okayama City and those spots you may not have known about. 
-Why not travel from the sky?
-
-Located on Miyashiroyama (also known as Tsuruyama), the Ichinomiya of Nishi-Okayama, this shrine was once a national shrine. The main deity is Itsuse no Mikoto, along with Inahime no Mikoto and Mikenu no Mikoto. The name ''Anin'' is said to be derived from the phonetic writing of ''brother'' of Emperor Jimmu. Every year on July 11th, a ceremony called ''Chinowa Kuguri'' is held to pray for good health and safety.
-
-#Okayama #OkayamaPrefecture #OkayamaCity #AninShrine #OkayamaTravel #OkayamaSightseeing #Shrine #ShrineTour #Japan #Tourism #Drone #AerialPhotography #okayama #japan #japanshrine #japantour #sightseeing
-
-▼ Okayama City Official Tourism Information Site [Okayama Tourism Net] 
-https://okayama-kanko.net/sightseeing/
-
-▼ Okayama Tourism Convention Association [Official] Instagram 
-https://www.instagram.com/okayama_city_kanko/
-
-▼ Okayama Tourism Convention Association [Official] Facebook 
-https://www.facebook.com/okayama.kanko
-
-▼ Okayama City Momotaro Tourism Center Twitter 
-https://twitter.com/momokan36/' where id = '0Njw5N7HlJTuz7BDApkzJ';
-update content_bodies set title = '【高嶋神社】～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市のあの有名な名所や実は知らなかったあのスポット。
-空から旅してみませんか？
-
-児島湾に浮かぶ「高島」に鎮座する社。神武天皇が御東遷の砌（みぎり）、当地に行宮（あんぐう）を創設されたのにはじまると伝えられています。神社の秋祭りでは、豊作祈願をこめて、宮浦郷土芸能保存会により伝えられている獅子舞が奉納されます。
-
-＃岡山＃岡山県＃岡山市＃高嶋神社＃岡山旅行＃岡山観光＃神社＃神社巡り＃日本＃観光＃ドローン＃空撮＃okayama＃japan＃japanshrine＃japantour＃sightseeing
-
-▼岡山市公式観光情報サイト【おかやま観光ネット】
-https://okayama-kanko.net/sightseeing/
-
-▼おかやま観光コンベンション協会【公式】Instagram
-https://www.instagram.com/okayama_city_kanko/
-
-▼おかやま観光コンベンション協会【公式】Facebook
-https://www.facebook.com/okayama.kanko
-
-▼岡山市ももたろう観光センター Twitter
-https://twitter.com/momokan36/' where id = 'UJkBtHuHxOoTPlfMpMC6_';
-update content_bodies set title = '[Takahama Shrine] ~Sky Travel Time~ A Skywalk to Experience Okayama City', description = 'Famous landmarks in Okayama City and spots you may not have known about. 
-Why not travel from the sky?
-
-A shrine located on ''Takahama'' floating in Kojima Bay. It is said to have begun when Emperor Jimmu established a temporary palace here during his eastern expedition. During the autumn festival at the shrine, a lion dance, passed down by the Miyauura Local Performing Arts Preservation Society, is dedicated with prayers for a bountiful harvest.
-
-#Okayama #OkayamaPrefecture #OkayamaCity #TakahamaShrine #OkayamaTravel #OkayamaSightseeing #Shrine #ShrineTour #Japan #Tourism #Drone #AerialPhotography #okayama #japan #japanshrine #japantour #sightseeing
-
-▼ Okayama City Official Tourism Information Site [Okayama Tourism Net] 
-https://okayama-kanko.net/sightseeing/
-
-▼ Okayama Convention & Visitors Bureau [Official] Instagram 
-https://www.instagram.com/okayama_city_kanko/
-
-▼ Okayama Convention & Visitors Bureau [Official] Facebook 
-https://www.facebook.com/okayama.kanko
-
-▼ Okayama City Momotaro Tourism Center Twitter 
-https://twitter.com/momokan36/' where id = 'wnBmwLtfcgl9Aws80GtDw';
-update content_bodies set title = '【近水園】～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市のあの有名な名所や実は知らなかったあのスポット。
-空から旅してみませんか？
-
-近水園は足守藩主木下家の庭園で、池庭は単純な地割がなされ、モミジやサクラ、エノキが池を囲み、池中に鶴島・亀島の二島を巧に配しています。そして、山のふもとから池面にのり出すように、吟風閣が建ち、水面に影を映しています。池畔にあるこの吟風閣の造りなど、地方まれな情緒をたたえており、吟風閣からの眺めが一番美しいとされます。
-
-＃岡山市＃岡山県＃岡山市＃近水園＃岡山旅行#岡山観光＃日本＃観光＃ドローン＃空撮＃okayama＃japan＃japantour＃sightseeing
-
-▼岡山市公式観光情報サイト【おかやま観光ネット】
-https://okayama-kanko.net/sightseeing/
-
-▼おかやま観光コンベンション協会【公式】Instagram
-https://www.instagram.com/okayama_city_kanko/
-
-▼おかやま観光コンベンション協会【公式】Facebook
-https://www.facebook.com/okayama.kanko
-
-▼岡山市ももたろう観光センター Twitter
-https://twitter.com/momokan36/' where id = 'YprLKh70doRGKdO59JtUp';
-update content_bodies set title = '[Kinsui-en] ~Sky Travel Time~ A Skywalk to Experience Okayama City', description = 'The famous landmarks of Okayama City and those spots you may not have known about. 
-Why not travel from the sky?
-
-Kinsui-en is a garden of the Ashimori domain''s Kinoshita family, featuring a simple layout with a pond surrounded by maple, cherry, and hackberry trees, and skillfully arranged with two islands, Tsuru Island and Kame Island, in the pond. The Ginpuu Pavilion is built to extend from the foot of the mountain over the pond''s surface, casting its shadow on the water. The structure of this Ginpuu Pavilion, located by the pond, embodies a rare local charm, and the view from the Ginpuu Pavilion is considered the most beautiful.
-
-#OkayamaCity #OkayamaPrefecture #OkayamaCity #KinsuiEn #OkayamaTravel #OkayamaSightseeing #Japan #Tourism #Drone #AerialPhotography #okayama #japan #japantour #sightseeing
-
-▼ Okayama City Official Tourism Information Site [Okayama Tourism Net] 
-https://okayama-kanko.net/sightseeing/
-
-▼ Okayama Tourism Convention Association [Official] Instagram 
-https://www.instagram.com/okayama_city_kanko/
-
-▼ Okayama Tourism Convention Association [Official] Facebook 
-https://www.facebook.com/okayama.kanko
-
-▼ Okayama City Momotaro Tourism Center Twitter 
-https://twitter.com/momokan36/' where id = '34WDv_DdhZTeENruThvFT';
-update content_bodies set title = '【旧足守藩侍屋敷】～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市のあの有名な名所や実は知らなかったあのスポット。
-空から旅してみませんか？
-
-白壁の長屋門と土塀に囲まれた家老杉原家旧宅。明治維新後急速に姿を消した武家屋敷ですが、それだけに保存状態の良いこの邸は、武家の生活様式を知る上で貴重な存在です。母屋は伝統的な武家書院造の構造を持ち、今日の和風住宅の原型とも言われています。
-
-＃岡山＃岡山県＃岡山市＃旧足守藩侍屋敷＃岡山旅行＃岡山観光＃日本＃ドローン＃空撮＃okayama＃japan＃japantour＃sightseeing
-
-▼岡山市公式観光情報サイト【おかやま観光ネット】
-https://okayama-kanko.net/sightseeing/
-
-▼おかやま観光コンベンション協会【公式】Instagram
-https://www.instagram.com/okayama_city_kanko/
-
-▼おかやま観光コンベンション協会【公式】Facebook
-https://www.facebook.com/okayama.kanko
-
-▼岡山市ももたろう観光センター Twitter
-https://twitter.com/momokan36/' where id = '7PlK--C_vuMxUluByOvnr';
-update content_bodies set title = 'Old Asahi Domain Samurai Residence - Sky Travel Time - A Skywalk to Experience Okayama City', description = 'The famous landmarks of Okayama City and those spots you may not have known about. 
-Why not travel from the sky?
-
-The former residence of the chief retainer Sugihara, surrounded by a white-walled Nagaya gate and earthen walls. This samurai residence rapidly disappeared after the Meiji Restoration, but this well-preserved estate is a valuable resource for understanding the lifestyle of the samurai. The main house features a traditional samurai study-style structure, which is said to be the prototype of today''s Japanese-style homes.
-
-#Okayama #OkayamaPrefecture #OkayamaCity #OldAsahiDomainSamuraiResidence #OkayamaTravel #OkayamaSightseeing #Japan #Drone #AerialPhotography #okayama #japan #japantour #sightseeing
-
-▼ Okayama City Official Tourism Information Site [Okayama Tourism Net] 
-https://okayama-kanko.net/sightseeing/
-
-▼ Okayama Tourism Convention Association [Official] Instagram 
-https://www.instagram.com/okayama_city_kanko/
-
-▼ Okayama Tourism Convention Association [Official] Facebook 
-https://www.facebook.com/okayama.kanko
-
-▼ Okayama City Momotaro Tourism Center Twitter 
-https://twitter.com/momokan36/' where id = 'm4lU23HgKK-4SdXF4-q04';
-update content_bodies set title = '【備中高松城址】～空旅時間～ 岡山市を感じるスカイウォーク', description = '岡山市のあの有名な名所や実は知らなかったあのスポット。
-空から旅してみませんか？
-
-かつて毛利氏の堅固な要塞だった備中高松城は、羽柴秀吉（豊臣秀吉）の参謀・黒田官兵衛の奇策「水攻め」にあい、城主・清水宗治の自刃とともに落城しました。現在は歴史公園として整備され、公園内の本丸跡には清水宗治の首塚があるほか、資料館には水攻めの資料などが展示されています。夏には花菖蒲や宗治蓮（むねはるはす）が咲き、来園者を楽しませています。
-
-＃岡山＃岡山県＃岡山市＃備中高松城址＃岡山旅行＃岡山観光＃日本＃観光＃ドローン＃空撮＃麒麟が来る＃備中高松城＃水攻め＃明智光秀＃okayama＃japan＃japantour＃sightseeing
-
-▼岡山市公式観光情報サイト【おかやま観光ネット】
-https://okayama-kanko.net/sightseeing/
-
-▼おかやま観光コンベンション協会【公式】Instagram
-https://www.instagram.com/okayama_city_kanko/
-
-▼おかやま観光コンベンション協会【公式】Facebook
-https://www.facebook.com/okayama.kanko
-
-▼岡山市ももたろう観光センター Twitter
-https://twitter.com/momokan36/' where id = 'Q36P03J5LJ7vlXFJu57cA';
-update content_bodies set title = 'Bichu Takamatsu Castle Ruins - Sky Travel Time - A Skywalk to Experience Okayama City', description = 'The famous landmarks of Okayama City and those spots you may not have known about. 
-Why not travel from the sky?
-
-Once a stronghold of the Mouri clan, Bichu Takamatsu Castle fell to the clever strategy of ''water attack'' by Kuroda Kanbei, a strategist for Toyotomi Hideyoshi, leading to the castle''s downfall along with the seppuku of its lord, Shimizu Munenari. Today, it has been developed into a historical park, where the main keep ruins house the grave of Shimizu Munenari, and the museum displays materials related to the water attack. In summer, irises and Muneharu lotus flowers bloom, delighting visitors.
-
-#Okayama #OkayamaPrefecture #OkayamaCity #BichuTakamatsuCastleRuins #OkayamaTravel #OkayamaSightseeing #Japan #Tourism #Drone #AerialPhotography #KirinGaKuru #BichuTakamatsuCastle #WaterAttack #AkechiMitsuhide #okayama #japan #japantour #sightseeing
-
-▼ Okayama City Official Tourism Information Site [Okayama Tourism Net] 
-https://okayama-kanko.net/sightseeing/
-
-▼ Okayama Tourism Convention Association [Official] Instagram 
-https://www.instagram.com/okayama_city_kanko/
-
-▼ Okayama Tourism Convention Association [Official] Facebook 
-https://www.facebook.com/okayama.kanko
-
-▼ Okayama City Momotaro Tourism Center Twitter 
-https://twitter.com/momokan36/' where id = '1sJF9wQQg4CclL8cSs91n';

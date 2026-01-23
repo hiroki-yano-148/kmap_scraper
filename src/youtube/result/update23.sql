@@ -1,3 +1,512 @@
+update content_bodies set title = 'Fantastique Toba', description = '"Fantastique Toba"
+
+Come and discover the city of Toba.
+Here, women and men have built a unique bond with the sea, like the Ama divers and their ancestral tradition of sustainable fishing.
+More than just a stopover, it''s an invitation to rethink our relationship with nature.
+
+Toba Sea-Folk Museum 0:56
+Toba City Fisheries Research Institute 1:51
+Oyster Farm 3:01
+Mikimoto Pearl Island 4:29
+Ama Hut Experience (Hachiman Kamado) 5:43
+Tōshijima island 6:49
+Ama hut 8:40
+
+Facebook : https://www.facebook.com/profile.php?id=100078342158372
+
+Instagram : https://www.instagram.com/fantastique_toba/
+
+Want to know more about what you can do in Toba? Check out our website in English Dive into Toba : http://toba.gr.jp/en/' where id = '-8blN5DAarBAIc-BvNgBy';
+update content_bodies set title = 'with the turning seasons : Winter', description = '鳥羽の春夏秋冬を「心に響く四季がある」というタイトルで四季を感情に表した作品に表現しました。
+春→始まり
+夏→思い出
+秋→豊かさ
+冬→温もり
+
+The spring, summer, fall, and winter of Toba are represented by the four seasons, which “have four seasons that resonate in the heart” as an emotional expression.
+Spring → Beginning
+Summer → Memories
+Autumn → Richness
+Winter → Warmth' where id = 'YBvX5RVWU9IQDbn5GejfB';
+update content_bodies set title = 'with the turning seasons : Winter', description = 'The spring, summer, fall, and winter of Toba are represented by the four seasons, which “have four seasons that resonate in the heart” as an emotional expression.
+Spring → Beginning
+Summer → Memories
+Autumn → Richness
+Winter → Warmth' where id = 'ZCykmUMYl76yG669Or9Z5';
+update content_bodies set title = '鳥羽散歩', description = '​鳥羽散歩。
+カモメの散歩道からドルフィン公園、サザエストリート、岩崎通り、めだかの学校、城山公園。鳥羽の市街地を散策してみました。新緑がきれいな季節。思わずシャッターを切りたくなるスポットがたくさんありました。' where id = 'EFGEv27rpiAYXB3RUsu4_';
+update content_bodies set title = 'Toba Walk', description = 'Toba Walk.
+From the seagull promenade to Dolphin Park, Sazae Street, Iwasaki Street, Medaka School, and Shiroyama Park. I took a stroll through the city of Toba. It''s a season with beautiful fresh greenery. There were many spots that made me want to press the shutter.' where id = 'bC0pIuRYPQoalDRdJvE3O';
+update content_bodies set title = 'パノラマ大湊 宮川流域案内人 奥野拓也', description = '伊勢志摩ビデオサークルの奥野拓也氏が手掛ける映像は、彼の自然に対する深い愛情とそこに住む人々の暮らしに対するやさしい眼差しが読み取れる。
+本作は伊勢市大湊町から見える風景の単なる紹介ビデオではなく、伊勢志摩に住まい、この地で自然とともに生きる人々の底辺に流れる繊細な心の在りようを語った民俗学的プロモーションの動画である。ぜひ、彼の語る一語一語に耳を傾けていただきたい。' where id = '8SsDsSxVU31zqtf8N6I5z';
+update content_bodies set title = 'Panorama Ominato Takeya Okuno, Guide of the Miyagawa Basin', description = 'The videos created by Takeya Okuno of the Ise-Shima Video Circle reflect his deep love for nature and his gentle gaze towards the lives of the people who inhabit it.
+This work is not merely an introduction video of the scenery visible from Ominato Town in Ise City, but rather a folkloric promotional video that narrates the delicate essence of the hearts of the people who live in Ise-Shima and coexist with nature. I hope you will listen closely to each word he speaks.' where id = '6pI1Blwzz-tGRIrCRD6fL';
+update content_bodies set title = '白瀧大明神', description = '行者山全体をご神体とする白瀧大明神は、かつて修験者たちが修行した聖地です。空海が座禅を組んだといわれる弘法岩や、役行者の地蔵など、修験僧ゆかりのスポットが多数残っています。
+白瀧大明神奉賛会は、現代の複雑化した社会のなかで疲れた心を癒し、再起したいと訪れる方に、滝行や行者山の山歩きを通じて自然に触れる体験を提案しています。皆様の心の平安が保たれ、再生の心が育まれますことをお祈り致します。
+ＨＰ：https://shiratakisan.jp/
+MB01XAXASMZ1DSV' where id = '3rCRLjQdsjRRvEkCzmCue';
+update content_bodies set title = 'Shirataki Daimyojin', description = 'Shirataki Daimyojin, which regards the entire Mount Gyōja as its sacred body, is a holy place where ascetics once practiced. There are many spots associated with ascetic monks, such as Kōbō Rock, where Kūkai is said to have meditated, and the Jizō of Yakushimaru.
+The Shirataki Daimyojin Support Association proposes experiences that connect visitors with nature through waterfall training and mountain walking on Mount Gyōja, aiming to heal tired hearts and help them rejuvenate in today''s complex society. We pray that your peace of mind is maintained and that the spirit of rebirth is nurtured.
+HP: https://shiratakisan.jp/
+MB01XAXASMZ1DSV' where id = 'lmFibw6Gbotfk3h7L5-_A';
+update content_bodies set title = '大垣市観光PR　「水の都」 篇', description = '上田定行さんのナレーションでお届けする観光ＰＲ動画です。
+
+ナレーター　上田　定行
+ディレクター　遠藤　輝一
+プロデューサー　山崎　淳也　日比野　允
+制作　名古屋テレビ映像
+
+～大垣観光協会の公式チャンネルです～
+自然や歴史、文化など大垣の様々な魅力を動画でご紹介します。
+
+【大垣市のご紹介】
+岐阜県の西部、西美濃の中心に位置する人口16万人のまちで、古くから「水の都大垣」と称されるほど、豊富な地下水に恵まれています。
+俳人松尾芭蕉の紀行文「奥の細道」のむすびの地として知られ、関ケ原合戦の際に西軍石田三成の本拠地となった大垣城や、豊臣秀吉が一夜で築いたとされる墨俣一夜城などもあり、自然と歴史が共存したまちです。
+3月下旬から5月には、舟下りやたらい舟、平成28年にユネスコ無形文化遺産にも登録された大垣まつりが開催され、多くの観光客で賑わいます。
+◆大垣観光協会HP
+https://www.ogakikanko.jp/
+
+◆インスタグラム
+https://www.instagram.com/i_love_ogaki/
+
+◆facebook
+https://www.facebook.com/ogakikanko/
+
+◆大垣フィルムコミッション（大垣観光協会内）
+http://www.ogaki-fc.jp/' where id = '4IPIEpUSk9cyQXcuxzH0q';
+update content_bodies set title = 'Ogaki City Tourism PR: ''City of Water'' Edition', description = 'This is a tourism PR video narrated by Sadaaki Ueda.
+
+Narrator: Sadaaki Ueda
+Director: Keiichi Endo
+Producer: Junya Yamazaki, Masaru Hibino
+Production: Nagoya Television Video
+
+~This is the official channel of the Ogaki Tourism Association~
+We introduce various attractions of Ogaki, including nature, history, and culture, through videos.
+
+【Introduction to Ogaki City】
+Located in the western part of Gifu Prefecture, in the center of Nishi-Mino, Ogaki is a city with a population of 160,000, blessed with abundant underground water, and has long been known as ''the City of Water, Ogaki.''
+It is known as the ending point of Matsuo Basho''s travelogue ''The Narrow Road to the Deep North'' and features Ogaki Castle, which served as the base for Ishida Mitsunari of the Western Army during the Battle of Sekigahara, as well as the Sumiyoshi Castle, said to have been built in a single night by Toyotomi Hideyoshi. It is a city where nature and history coexist.
+From late March to May, boat rides, tarai boats, and the Ogaki Festival, which was registered as a UNESCO Intangible Cultural Heritage in 2016, are held, attracting many tourists.
+◆ Ogaki Tourism Association HP
+https://www.ogakikanko.jp/
+
+◆ Instagram
+https://www.instagram.com/i_love_ogaki/
+
+◆ Facebook
+https://www.facebook.com/ogakikanko/
+
+◆ Ogaki Film Commission (within the Ogaki Tourism Association)
+http://www.ogaki-fc.jp/' where id = '6cxw0vuOx1_6n2bQYZMKq';
+update content_bodies set title = '筑前若松火まつり行事　夏の記録', description = '令和５年７月３０日（日）開催の「火まつり行事」の動画です。
+
+この祭りは、若松区出身の芥川賞作家　火野葦平が、戦後のすさんだ世の中を明るく照らし、世の中の平和と安全を願って、昭和２９年に始めた祭りです。
+久岐の浜広場（JR若松駅横）でかっぱの徳を讃える祭典を行ったあと、参加者がたいまつを掲げ、高塔山の「かっぱ封じ地蔵」まで行進します。' where id = 'V0a2aJFfPoqUllJQWdEVB';
+update content_bodies set title = 'Chikuzen Wakamatsu Fire Festival Event - Summer Record', description = 'This is a video of the ''Fire Festival Event'' held on July 30, 2023 (Sunday).
+
+This festival was started in 1954 by Akutagawa Prize-winning author Hino Ashihei, who was born in Wakamatsu Ward, to brightly illuminate the desolate post-war world and to wish for peace and safety in society.
+After a ceremony praising the virtues of the kappa at Kuki no Hama Square (next to JR Wakamatsu Station), participants march with torches to the ''Kappa Sealing Jizo'' on Mount Takato.' where id = 'dVqokHDbuJG_whfBXen-5';
+update content_bodies set title = '【Tourisz PV】A thousand years, a hidden hamlet', description = 'Tourisz PV of Miyoshi City,Tokushima
+徳島県三好市の観光PR動画
+Shikoku Tokushima Miyoshi NishiAwa IyaValley' where id = '4mD0pUNeWyb8xEb2n0_By';
+update content_bodies set title = '[Tourisz PV] A thousand years, a hidden hamlet', description = 'Tourisz PV of Miyoshi City, Tokushima
+Tourism PR video of Miyoshi City, Tokushima
+Shikoku Tokushima Miyoshi NishiAwa IyaValley' where id = 'szjzH7K0o-k-0SYcuMXN6';
+update content_bodies set title = '祖谷の旅', description = 'アレックス・カー氏が三好市の祖谷渓谷を紹介します。
+近年、欧米中心に世界中から多くの訪日観光客が訪れる徳島の秘境・祖谷を、東洋文化研究社アレックス・カー氏が紹介する動画が完成しました。
+「未だ知られていない、新たな祖谷地方の魅力に触れる旅」として、祖谷地方に残る歴史や伝統文化をアレックス氏がご案内します。
+ワンランク上の「祖谷の旅」をお楽しみください。' where id = 'umqjDhb8fWQ4-GkJ68mus';
+update content_bodies set title = 'TRAVELS in IYA', description = 'Alex Kerr introduces Iya Valley in Miyoshi City.
+近年、欧米中心に世界中から多くの訪日観光客が訪れる徳島の秘境・祖谷を、東洋文化研究社アレックス・カー氏が紹介する動画が完成しました。
+「未だ知られていない、新たな祖谷地方の魅力に触れる旅」として、祖谷地方に残る歴史や伝統文化をアレックス氏がご案内します。
+ワンランク上の「祖谷の旅」をお楽しみください。' where id = 'foNeq6dUjzgmMYCQ7U1ny';
+update content_bodies set title = 'ShikokuLocalCharm  Route 01', description = '四国の地方の魅力を紹介（Route 01）' where id = 'DQroogMYQqybfam3ZceJq';
+update content_bodies set title = 'ShikokuLocalCharm Route 01', description = 'Introducing the local charm of Shikoku (Route 01)' where id = 'pfaD0J6IHiZofwZ9bVv0W';
+update content_bodies set title = 'ShikokuLocalCharm  Route 02', description = '四国の地方の魅力を紹介（Route 02）' where id = 'iZVTtoXWiSqp6r0CYtafe';
+update content_bodies set title = 'ShikokuLocalCharm Route 02', description = 'Introducing the local charm of Shikoku (Route 02)' where id = 'd_7gUdHeJIjwdCLV-LR0q';
+update content_bodies set title = 'Four seasons Mt.Tsurugi', description = '剣山の四季を紹介
+
+制作：にし阿波観光圏' where id = 'r_TcyTuvFzNBhG83CzG_n';
+update content_bodies set title = 'Four seasons Mt.Tsurugi', description = 'Introducing the four seasons of Mt. Tsurugi
+
+Produced by: Nishi-Awa Tourism Area' where id = 'PZ-9ygUNyf29yHB79niZy';
+update content_bodies set title = '自然資源を活かした徳島県三好市のスポーツツーリズム', description = 'スポーツ庁 公式WEB広報マガジン「デポルターレ」にて公開中の動画です。
+
+人口3万人に満たない地域が「アウトドアスポーツ」の聖地に！ 
+～自然資源を活かした徳島県三好市のスポーツツーリズム～
+https://sports.go.jp/movie/report/3.html' where id = 'Ok1Qyd0x8ce3NG5JzsNrd';
+update content_bodies set title = 'Sports Tourism in Miyoshi City, Tokushima Prefecture Utilizing Natural Resources', description = 'This is a video currently published in the official web magazine of the Japan Sports Agency, ''Deportare''.
+
+A region with a population of less than 30,000 has become a holy land for ''outdoor sports''!
+~ Sports tourism in Miyoshi City, Tokushima Prefecture utilizing natural resources ~
+https://sports.go.jp/movie/report/3.html' where id = 'tTsn-05IhgK55wOyuQx5k';
+update content_bodies set title = 'MIYOCINEMATIC VLOG 　三好市日帰り女子旅編', description = '秋の一日に三好市を日帰りドライブ
+日常のちょこっと旅を映画のワンシーンのように切り取りました
+
+訪問先：道の駅大歩危、大歩危峡まんなか、歩危マート、祖谷のかずら橋、琵琶の滝
+
+映像制作：池田ケーブルネットワーク
+https://ikedacable.co.jp/' where id = '6elD_ow5jOA948zTygQ0R';
+update content_bodies set title = 'MIYOCINEMATIC VLOG - A Day Trip to Miyoshi City', description = 'A day trip drive to Miyoshi City on an autumn day
+Captured a little journey of everyday life like a scene from a movie
+
+Places visited: Roadside Station Ooboke, Ooboke Gorge Manaka, Boke Mart, Iya Kazurabashi, Biwa Falls
+
+Video production: Ikeda Cable Network
+https://ikedacable.co.jp/' where id = 'igc4B9HhNZznLNBNrn42_';
+update content_bodies set title = '斜めの旅もいいんじゃない？【にし阿波傾斜地農業＊キャンプ・徳島県三好市＆東みよし町】', description = '世界農業遺産の認定地「にし阿波」で、昔ながらの傾斜地での農業を体験！
+夜は、人気のキャンプ場「美濃田の淵」で傾斜地で作られた野菜を使ってのキャンプ飯を堪能♪
+農業とアウトドア、徳島県にし阿波の自然や文化を体験できる「斜めの旅」がオススメです！
+
+【制作：徳島剣山世界農業遺産推進協議会】' where id = '0RtKNFMONgekF5r1E-vzW';
+update content_bodies set title = 'How about a diagonal journey? 【Nishi-Awa Sloped Agriculture * Camping in Miyoshi City & Higashi-Miyoshi Town, Tokushima Prefecture】', description = 'Experience traditional sloped agriculture in the certified World Agricultural Heritage site of ''Nishi-Awa''! 
+At night, enjoy camp meals made with vegetables grown on the slopes at the popular campsite ''Minoda no Fuchi''♪ 
+A ''diagonal journey'' that allows you to experience agriculture and the outdoors, as well as the nature and culture of Nishi-Awa in Tokushima Prefecture, is highly recommended! 
+
+【Produced by: Tokushima Keran World Agricultural Heritage Promotion Council】' where id = '1xkFehKl3JFqJoa22SC-p';
+update content_bodies set title = '「若狭小浜の伝統美、心に彩りを。」30秒', description = '#伝統工芸 #小浜市 #若狭塗箸 #若狭工房 #若狭めのう細工 #若狭めのう    #wakasaobama #obamacity #伝統工芸品 #伝統文化 #伝統工芸士 #手仕事 #御食国#加福漆器店 #宗助工房#japan #japanese #chopsticks #暮らしを楽しむ  #小浜#若狭塗箸 #伝統工芸#ものづくり #青々吉日 #青々吉日tsurugawakasa 
+
+Production support:
+制作支援　
+小浜市／福井県
+
+撮影協力
+若狭工房／羽田漆器店／古川若狭塗店／宗助工房／加福漆器店／飯盛寺／ 若狭めのう細工 宗助工房／四季彩館 酔月／チャンネルO／若狭おばま観光協会
+
+主催
+若狭工房
+
+若狭工房
+〒917-0081　福井県小浜市川崎3丁目4番
+御食国若狭おばま食文化館2階
+TEL：0770-53-1034　　FAX：0770-53-1036
+http://wakasa-koubou.com
+
+楽曲提供：アキラノスケ
+
+Cinematographer
+小川　浩之(Photo＆Movie Create Augusta)
+
+@wakasa_koubou 
+@sikkiyayondaime 
+@wakasa_agate' where id = '9aQt-x7HVoo8g190Ig-Bd';
+update content_bodies set title = 'The Traditional Beauty of Wakasa Obama, Coloring the Heart.', description = '#TraditionalCraft #ObamaCity #WakasaLacquerChopsticks #WakasaKoubou #WakasaAgateCraft #WakasaAgate    #wakasaobama #obamacity #TraditionalCrafts #TraditionalCulture #TraditionalCraftsman #Handwork #FoodNation #KafukuLacquerStore #SousukeKoubou #japan #japanese #chopsticks #EnjoyingLife  #Obama #WakasaLacquerChopsticks #TraditionalCraft #Monozukuri #AoiAoiKichijitsu #AoiAoiKichijitsuTsurugawakasa
+
+Production support:
+Production Support
+Obama City / Fukui Prefecture
+
+Filming Cooperation
+Wakasa Koubou / Haneda Lacquer Store / Furukawa Wakasa Lacquer Store / Sousuke Koubou / Kafuku Lacquer Store / Iimori Temple / Wakasa Agate Craft Sousuke Koubou / Shikisai-kan Suigetsu / Channel O / Wakasa Obama Tourism Association
+
+Organizer
+Wakasa Koubou
+
+Wakasa Koubou
+〒917-0081 Fukui Prefecture, Obama City, Kawasaki 3-4
+2nd Floor, Food Culture Hall of the Food Nation Wakasa Obama
+TEL: 0770-53-1034 FAX: 0770-53-1036
+http://wakasa-koubou.com
+
+Music Provided by: Akiranosuke
+
+Cinematographer
+Hiroyuki Ogawa (Photo & Movie Create Augusta)
+
+@wakasa_koubou 
+@sikkiyayondaime 
+@wakasa_agate' where id = '0Bs173lzTG_-5HOVLVXFs';
+update content_bodies set title = '「若狭小浜の伝統美、心に彩りを。」15秒', description = '#伝統工芸 #小浜市 #若狭塗箸 #若狭工房 #若狭めのう細工 #若狭めのう    #wakasaobama #obamacity #伝統工芸品 #伝統文化 #伝統工芸士 #手仕事 #御食国#加福漆器店 #宗助工房#japan #japanese #chopsticks #暮らしを楽しむ  #小浜#若狭塗箸 #伝統工芸#ものづくり #青々吉日 #青々吉日tsurugawakasa 
+
+Production support:
+制作支援　
+小浜市／福井県
+
+撮影協力
+若狭工房／羽田漆器店／古川若狭塗店／宗助工房／加福漆器店／飯盛寺／ 若狭めのう細工 宗助工房／四季彩館 酔月／チャンネルO／若狭おばま観光協会
+
+主催
+若狭工房
+
+若狭工房
+〒917-0081　福井県小浜市川崎3丁目4番
+御食国若狭おばま食文化館2階
+TEL：0770-53-1034　　FAX：0770-53-1036
+http://wakasa-koubou.com
+
+楽曲提供：アキラノスケ
+
+Cinematographer
+小川　浩之(Photo＆Movie Create Augusta)
+
+@wakasa_koubou 
+@sikkiyayondaime 
+@wakasa_agate' where id = 'JDcpwPd4UHksRMlK1PIkU';
+update content_bodies set title = 'The Traditional Beauty of Wakasa Obama, Coloring the Heart.', description = '#TraditionalCraft #ObamaCity #WakasaLacquerChopsticks #WakasaWorkshop #WakasaAgateCraft #WakasaAgate    #wakasaobama #obamacity #TraditionalCrafts #TraditionalCulture #TraditionalCraftsman #Handwork #Mikuni #KafukuLacquerShop #SosukeWorkshop #japan #japanese #chopsticks #EnjoyingLife  #Obama #WakasaLacquerChopsticks #TraditionalCraft #Monozukuri #AoiAoiKichijitsu #AoiAoiKichijitsuTsurugawakasa
+
+Production support:
+Production Support
+Obama City / Fukui Prefecture
+
+Filming Cooperation
+Wakasa Workshop / Haneda Lacquer Shop / Furukawa Wakasa Lacquer Shop / Sosuke Workshop / Kafuku Lacquer Shop / Iimori Temple / Wakasa Agate Craft Sosuke Workshop / Shikisai-kan Suigetsu / Channel O / Wakasa Obama Tourism Association
+
+Organizer
+Wakasa Workshop
+
+Wakasa Workshop
+〒917-0081 Fukui Prefecture, Obama City, Kawasaki 3-4
+Mikuni Wakasa Obama Food Culture Center 2nd Floor
+TEL: 0770-53-1034 FAX: 0770-53-1036
+http://wakasa-koubou.com
+
+Music Provided by: Akiranosuke
+
+Cinematographer
+Hiroyuki Ogawa (Photo & Movie Create Augusta)
+
+@wakasa_koubou 
+@sikkiyayondaime 
+@wakasa_agate' where id = '3dc_1DxsLDeeKrvCwLPM4';
+update content_bodies set title = '大垣市観光PR　「四季」 篇', description = '上田定行さんのナレーションでお届けする観光ＰＲ動画です。
+
+ナレーター　上田　定行
+ディレクター　遠藤　輝一
+プロデューサー　山崎　淳也　日比野　允
+制作　名古屋テレビ映像
+
+～大垣観光協会の公式チャンネルです～
+自然や歴史、文化など大垣の様々な魅力を動画でご紹介します。
+
+【大垣市のご紹介】
+岐阜県の西部、西美濃の中心に位置する人口16万人のまちで、古くから「水の都大垣」と称されるほど、豊富な地下水に恵まれています。
+俳人松尾芭蕉の紀行文「奥の細道」のむすびの地として知られ、関ケ原合戦の際に西軍石田三成の本拠地となった大垣城や、豊臣秀吉が一夜で築いたとされる墨俣一夜城などもあり、自然と歴史が共存したまちです。
+3月下旬から5月には、舟下りやたらい舟、平成28年にユネスコ無形文化遺産にも登録された大垣まつりが開催され、多くの観光客で賑わいます。
+◆大垣観光協会HP
+https://www.ogakikanko.jp/
+
+◆インスタグラム
+https://www.instagram.com/i_love_ogaki/
+
+◆facebook
+https://www.facebook.com/ogakikanko/
+
+◆大垣フィルムコミッション（大垣観光協会内）
+http://www.ogaki-fc.jp/' where id = 'cX5UFy-cTHMeU_Ziq4Jbq';
+update content_bodies set title = 'Ogaki City Tourism PR ''Seasons'' Edition', description = 'This is a tourism PR video presented with narration by Sadaaki Ueda.
+
+Narrator: Sadaaki Ueda
+Director: Keiichi Endo
+Producers: Junya Yamazaki, Masaru Hibino
+Production: Nagoya Television Video
+
+~This is the official channel of the Ogaki Tourism Association~
+We introduce various attractions of Ogaki, including nature, history, and culture, through videos.
+
+【Introduction to Ogaki City】
+Located in the western part of Gifu Prefecture, in the center of Nishi-Mino, Ogaki is a city with a population of 160,000, blessed with abundant underground water, and has long been known as the ''Water City Ogaki.''
+It is known as the ending point of Matsuo Basho''s travelogue ''The Narrow Road to the Deep North'' and features historical sites such as Ogaki Castle, which served as the base for Ishida Mitsunari of the Western Army during the Battle of Sekigahara, and the Sumiyoshi Castle, said to have been built in a single night by Toyotomi Hideyoshi. It is a city where nature and history coexist.
+From late March to May, the Ogaki Festival, which includes boat rides and was registered as a UNESCO Intangible Cultural Heritage in 2016, is held, attracting many tourists.
+◆ Ogaki Tourism Association HP
+https://www.ogakikanko.jp/
+
+◆ Instagram
+https://www.instagram.com/i_love_ogaki/
+
+◆ Facebook
+https://www.facebook.com/ogakikanko/
+
+◆ Ogaki Film Commission (within the Ogaki Tourism Association)
+http://www.ogaki-fc.jp/' where id = 'wZTxZCb-19MaydFKwkZno';
+update content_bodies set title = '福井の冬は蟹やスキー場だけじゃない！あたたかい故郷に会いに行こう！【地味にすごい、福井動画コンテスト入賞作品】', description = '本作品は、「地味にすごい、福井」をテーマに、福井県が実施した動画コンテストの入賞作品です。
+
+【制作者からのコメント】
+自然豊かで四季の移ろいも美しい福井県。
+しかし認知度や魅力度ランキングでは例年下位にランクイン…。
+そんな地味な福井の中でも観光客数が減少する、
+さらに地味な“冬”の魅力をぎゅっと動画に凝縮！
+メディアでもよく取り上げられる「華やかな部分」と、
+普段脚光を浴びない「住民の暮らし」の双方にフォーカスを当てました。
+北陸新幹線の福井・敦賀開業でグルメや観光はもちろん、
+控えめでやさしい福井県民に会いに、
+たくさんの方が来福してくれることを願っています。
+ココロのふるさと、福井に会いにきとっけの。
+
+製作者：Studio libre' where id = '5BUg9RPbFtalqKUlqRx0X';
+update content_bodies set title = 'Fukui''s winter is not just about crabs and ski resorts! Let''s visit the warm hometown! [Award-winning work of the ''Surprisingly Amazing Fukui'' Video Contest]', description = 'This work is an award-winning entry in a video contest held by Fukui Prefecture, themed ''Surprisingly Amazing Fukui.''
+
+[Comment from the creator]
+Fukui Prefecture is rich in nature and the changing seasons are beautiful.
+However, it consistently ranks low in recognition and attractiveness rankings...
+Amidst this understated Fukui, we have condensed the charm of the even more understated ''winter,'' where the number of tourists is decreasing, into this video!
+We focused on both the ''glamorous aspects'' often highlighted in the media and the ''lives of the residents'' that usually go unnoticed.
+With the opening of the Hokuriku Shinkansen to Fukui and Tsuruga, we hope many people will come to Fukui not only for gourmet food and sightseeing but also to meet the modest and kind people of Fukui Prefecture.
+Come and visit your heartfelt hometown, Fukui.
+
+Creator: Studio libre' where id = '4-QGp0JgyFKGjLWyLlSl5';
+update content_bodies set title = '映画『ふくいけん』予告編【地味にすごい、福井動画コンテスト入賞作品】', description = '本作品は、「地味にすごい、福井」をテーマに、福井県が実施した動画コンテストの入賞作品です。
+【制作者からのコメント】
+とある古いバーのマスターが、福井での思い出を語り始める。
+カニとメガネと、やっぱりあの崖も登場！
+恐竜に蹂躙される街の行く末は―
+
+ハリウッド映画予告風に福井の”地味にすごい見どころ”をご紹介します。
+
+Sober but amazing Japanese countryside "Fukui .Pref"
+
+福井県の観光情報こちらから↓
+https://www.fuku-e.com/
+（（公社）福井県観光連盟webサイト）
+
+#恐竜
+#福井
+#映画
+
+
+製作者：ごとんとん' where id = 'OA4JK-OKDqKVsskGyERdD';
+update content_bodies set title = 'Movie ''Fukuiden'' Trailer [Subtly Amazing, Award-Winning Work of Fukui Video Contest]', description = 'This work is an award-winning piece from a video contest held by Fukui Prefecture, themed ''Subtly Amazing, Fukui.''
+
+[Comment from the Creator]
+A master of an old bar begins to recount memories of Fukui.
+Crabs, glasses, and of course, that cliff also makes an appearance!
+What will become of the town ravaged by dinosaurs—
+
+Introducing Fukui''s ''subtly amazing highlights'' in a Hollywood movie trailer style.
+
+Sober but amazing Japanese countryside ''Fukui .Pref''
+
+For tourism information about Fukui Prefecture, click here:
+https://www.fuku-e.com/
+(Website of the Fukui Prefectural Tourism Federation)
+
+#Dinosaur
+#Fukui
+#Movie
+
+Creator: Gotonton' where id = 'qmISt1fSQ5TG8RBqpqFlX';
+update content_bodies set title = '【歌詞付き】大垣城ＰＲアニメーション動画「カモン大垣」', description = '呂布カルマが歌うラップにのせて大垣城をＰＲするプロモーション動画歌詞付きバージョンです。
+
+
+================================
+大垣市 岐阜県No.1の住み良さ
+知っといた方がいい
+大人からガキまで幅広く包み込む歴史の深い街
+松尾芭蕉も奥の細道
+旅を終わらせた結びの地
+はいチーズ 絵になるあっちこっち
+関ヶ原じゃ西軍の本拠地
+石田三成最後の居城
+お前の四畳半と比べんなよ
+大垣城 またの名を麋城 またの名巨鹿城
+一度はどうぞ
+================================
+この事業は岐阜県清流の国ぎふ推進補助金を受けています
+
+
+～大垣観光協会の公式チャンネルです～
+自然や歴史、文化など大垣の様々な魅力を動画でご紹介します。
+
+【大垣市のご紹介】
+岐阜県の西部、西美濃の中心に位置する人口16万人のまちで、古くから「水の都大垣」と称されるほど、豊富な地下水に恵まれています。
+俳人松尾芭蕉の紀行文「奥の細道」のむすびの地として知られ、関ケ原合戦の際に西軍石田三成の本拠地となった大垣城や、豊臣秀吉が一夜で築いたとされる墨俣一夜城などもあり、自然と歴史が共存したまちです。
+3月下旬から5月には、舟下りやたらい舟、平成28年にユネスコ無形文化遺産にも登録された大垣まつりが開催され、多くの観光客で賑わいます。
+◆大垣観光協会HP
+https://www.ogakikanko.jp/
+
+◆インスタグラム
+https://www.instagram.com/i_love_ogaki/
+
+◆facebook
+https://www.facebook.com/ogakikanko/
+
+◆大垣フィルムコミッション（大垣観光協会内）
+http://www.ogaki-fc.jp/' where id = 'tAYXWTFnL-l183BJuQAsX';
+update content_bodies set title = '[With Lyrics] Ogaki Castle PR Animation Video ''Come on Ogaki''', description = 'This is a promotional video featuring Ogaki Castle, set to a rap song by Rofu Karma, with lyrics included.
+
+================================
+Ogaki City, Gifu Prefecture No.1 for livability
+You should know this
+A city with deep history that embraces everyone from adults to kids
+Matsuo Basho also traveled the Narrow Road to the Deep North
+The place where his journey concluded
+Say cheese, picturesque everywhere
+At Sekigahara, the stronghold of the Western Army
+Ishida Mitsunari''s last castle
+Don''t compare it to your four-and-a-half tatami mat room
+Ogaki Castle, also known as Bijo, also known as Kyoka Castle
+You should visit at least once
+================================
+This project is supported by the Gifu Prefecture Clear Stream Country Promotion Subsidy
+
+~This is the official channel of the Ogaki Tourism Association~
+We introduce various attractions of Ogaki, such as nature, history, and culture, through videos.
+
+[Introduction to Ogaki City]
+Located in the western part of Gifu Prefecture, in the center of Nishi Mino, this city has a population of 160,000 and has long been known as ''the water city of Ogaki'' due to its abundant underground water.
+It is known as the concluding place of Matsuo Basho''s travelogue ''The Narrow Road to the Deep North'' and is home to Ogaki Castle, which served as the stronghold of Ishida Mitsunari during the Battle of Sekigahara, as well as the Suimon Castle, said to have been built by Toyotomi Hideyoshi in a single night. It is a city where nature and history coexist.
+From late March to May, boat rides and tarai boats are available, and the Ogaki Festival, registered as a UNESCO Intangible Cultural Heritage in 2016, is held, attracting many tourists.
+◆ Ogaki Tourism Association HP
+https://www.ogakikanko.jp/
+
+◆ Instagram
+https://www.instagram.com/i_love_ogaki/
+
+◆ Facebook
+https://www.facebook.com/ogakikanko/
+
+◆ Ogaki Film Commission (within the Ogaki Tourism Association)
+http://www.ogaki-fc.jp/' where id = 'EXjusxz_zN6hp7jZuhtUf';
+update content_bodies set title = 'ムキムキがむきむきに目覚める！超高級「越前がに」', description = 'モッくんとハンターが福井県の「皇室献上級越前がに」と初めて出会った！！
+そこで待ち受ける「むきむきみっちゃん」とは一体・・・！？
+
+筋肉ムキムキなら負けないハンターがみっちゃんに挑む！！
+二人は無事に超高級越前がにを食べることができるのか！？
+
+現在はコロナウイルスの影響で県外への旅行・観光が難しい状況ではありますが落ち着いた折には、ぜひ福井へお越しください！
+
+★次回
+目と胃袋が幸せに！癒しと香ばしの若狭旅
+https://youtu.be/On9JyUTRk3k
+
+★動画「きてみね～の福井！」シリーズはこちら
+https://bit.ly/2O52rnI
+
+★Official MV『きてみね～の！』～福井県民下手ラップ～
+https://youtu.be/xngljkMjOY4
+
+★女子旅プレス　　福井県特設ページ
+https://travel.mdpr.jp/fukui_jyoshitabi?trflg=1
+
+★Ｊタウンネット　福井県特設ページ
+https://j-town.net/fukui/feature/fukui.html
+
+#グルメ #福井 #カニ' where id = 'WzjyYsK-JYqpKHyURsbIM';
+update content_bodies set title = 'Muscle Awakens! Ultra-Luxury ''Echizen Crab''', description = 'Mokkun and Hunter have their first encounter with the ''Imperial Gift Grade Echizen Crab'' in Fukui Prefecture!!
+What awaits them is ''Mikuchan''...!?
+
+The muscle-bound Hunter challenges Mikuchan, who won''t back down!!
+Will they be able to enjoy the ultra-luxury Echizen Crab safely?!
+
+Currently, due to the impact of the coronavirus, traveling and sightseeing outside the prefecture is difficult, but when things settle down, please come to Fukui!
+
+★Next time
+A journey to Wakasa that brings joy to the eyes and stomach! Healing and fragrant experiences
+https://youtu.be/On9JyUTRk3k
+
+★Check out the ''Come Visit Fukui!'' video series here
+https://bit.ly/2O52rnI
+
+★Official MV ''Come Visit!'' - Fukui Prefecture Residents'' Amateur Rap
+https://youtu.be/xngljkMjOY4
+
+★Girls'' Trip Press - Fukui Prefecture Special Page
+https://travel.mdpr.jp/fukui_jyoshitabi?trflg=1
+
+★J Town Net - Fukui Prefecture Special Page
+https://j-town.net/fukui/feature/fukui.html
+
+#Gourmet #Fukui #Crab' where id = 'PjAb1ZkyhnNOhX0CWRRgl';
 update content_bodies set title = '美女2人が温泉へ！？あわら温泉で遊び倒す!', description = '「関西の奥座敷」と呼ばれる福井県屈指の温泉地「あわら温泉」をイタリア出身のダニエラと南アフリカ出身のプリスカが堪能！
 
 足湯にマッサージ湯、よりどりみどりの温泉に大はしゃぎの二人・・・。
@@ -9494,542 +10003,3 @@ You can spend an incredibly luxurious time, so I highly recommend everyone to vi
 #AkitaTravel
 #OgaPeninsula
 #Yamato' where id = 'aso3R_yY5D3d55CI5GZb-';
-update content_bodies set title = 'いつかの日常が蘇る場所　茂木町', description = '懐かしい「あの頃」がそのまま残る、茂木町。
-たまにはいつもの日常から離れて、昭和の情緒を感じに来ませんか。
-いつもの調子で進まない生活。でも、ここでは急ぐ必要はありません。
-
-「便利じゃないけど、心地よく温かい」
-
-そんな空気を味わうために、そんな時代に思いを馳せに、栃木県茂木町へ。
-
-◇茂木町観光協会HP（長倉線、昭和レトロ「もてぎ昭和館」についてはこちらから！）
-　→https://motegi-k.com/
-◇茂木町HP
-　→https://www.town.motegi.tochigi.jp/
-◇道の駅もてぎ
-　→https://www.motegiplaza.com/
-
-（2024.12.11追記更新）
-（一財）地域活性化センターが開催する地域プロモーションアワード2024　第６回動画大賞において、木川剛志賞を受賞しました。
-↓↓
-◇（一財）地域活性化センター　地域プロモーションアワード2024のページはこちら！
-https://www.jcrd.jp/publications/pamphlet/2024/6/' where id = 'L8Xgp3NLPSUqUVymreCFz';
-update content_bodies set title = 'A Place Where Everyday Life Resurfaces Someday - Motegi Town', description = 'Nostalgic ''those days'' remain just as they were in Motegi Town.
-Why not take a break from your usual routine and come to feel the atmosphere of the Showa era?
-Life doesn''t progress in the usual way here. But there''s no need to rush.
-
-''It''s not convenient, but it''s comfortably warm.''
-
-To savor such an atmosphere and to reflect on those times, come to Motegi Town in Tochigi Prefecture.
-
-◇ Motegi Town Tourism Association HP (For information about Nagakura Line and the Showa Retro ''Motegi Showa Museum'', click here!)
-　→https://motegi-k.com/
-◇ Motegi Town HP
-　→https://www.town.motegi.tochigi.jp/
-◇ Roadside Station Motegi
-　→https://www.motegiplaza.com/
-
-(Updated on December 11, 2024)
-The Regional Revitalization Center has awarded the Kagawa Tsuyoshi Prize at the 6th Video Awards of the Regional Promotion Award 2024.
-↓↓
-◇ For the page of the Regional Promotion Award 2024 by the Regional Revitalization Center, click here!
-https://www.jcrd.jp/publications/pamphlet/2024/6/' where id = '_Pk3rbm_jNzOLLNv0Zxa2';
-update content_bodies set title = '茂木町で、過ごす今日（春ver）', description = '◎道の駅もてぎ：http://www.motegiplaza.com/
-◎茂木町観光協会：https://motegi-k.com/
-◎茂木町：https://www.town.motegi.tochigi.jp/' where id = 'hpm9FyTcFQptHMGSHHJm7';
-update content_bodies set title = 'Today in Motegi Town (Spring ver)', description = '◎Michi no Eki Motegi: http://www.motegiplaza.com/
-◎Motegi Town Tourism Association: https://motegi-k.com/
-◎Motegi Town: https://www.town.motegi.tochigi.jp/' where id = 'OcGwmNcb1eWoLBBG13qQT';
-update content_bodies set title = '茂木町で、過ごす今日（冬ver）', description = '◎道の駅もてぎ：http://www.motegiplaza.com/
-◎茂木町観光協会：https://motegi-k.com/
-◎茂木町：https://www.town.motegi.tochigi.jp/' where id = '4mWuJ0mPekrPdaCwEr9SO';
-update content_bodies set title = 'Today in Motegi Town (Winter ver)', description = '◎Michi no Eki Motegi: http://www.motegiplaza.com/
-◎Motegi Town Tourism Association: https://motegi-k.com/
-◎Motegi Town: https://www.town.motegi.tochigi.jp/' where id = 'hy6n7WsIc5UoyfHLJzwrB';
-update content_bodies set title = '茂木町で、過ごす今日（夏ver）', description = '◎道の駅もてぎ：http://www.motegiplaza.com/
-◎茂木町観光協会：https://motegi-k.com/
-◎茂木町：https://www.town.motegi.tochigi.jp/' where id = 'DvSnFJ2Kntr-YhSoBfP2T';
-update content_bodies set title = 'Today in Motegi Town (Summer Version)', description = '◎Michi no Eki Motegi: http://www.motegiplaza.com/
-◎Motegi Town Tourism Association: https://motegi-k.com/
-◎Motegi Town: https://www.town.motegi.tochigi.jp/' where id = '1Gz0QF3cw2ljFnYPW7ae0';
-update content_bodies set title = '茂木町で、過ごす今日（秋ver.）', description = '茂木町の秋を紹介する素敵な動画が完成しました。
-秋だからこそ出会えるもてぎのステキがいっぱい！
-
-
-◎茂木町HP→https://www.town.motegi.tochigi.jp/
-◎茂木町公式Instagram→https://www.instagram.com/motegitown/
-◎茂木町観光協会→https://motegi-k.com/
-◎道の駅もてぎ→http://www.motegiplaza.com/
-◎棚田の郷かぶと→https://www.town.motegi.tochigi.jp/motegi/nextpage.php?cd=269&syurui=2' where id = 'J19y-mU5Y0HD1Uo0hOMAO';
-update content_bodies set title = 'Today in Motegi Town (Autumn ver.)', description = 'A wonderful video introducing autumn in Motegi Town has been completed.
-There are so many amazing things to discover in Motegi, especially in autumn!
-
-◎ Motegi Town HP→https://www.town.motegi.tochigi.jp/
-◎ Motegi Town Official Instagram→https://www.instagram.com/motegitown/
-◎ Motegi Town Tourism Association→https://motegi-k.com/
-◎ Roadside Station Motegi→http://www.motegiplaza.com/
-◎ Tanada no Sato Kabuto→https://www.town.motegi.tochigi.jp/motegi/nextpage.php?cd=269&syurui=2' where id = 'qfIpgh4mX7WQMr6SD5aIu';
-update content_bodies set title = '季節の風景⑦（馬門の滝）', description = 'もてぎあいあいチャンネルで放送している季節の風景です。
-今回は、ツインリンクもてぎ北ゲート近くの「馬門の滝」をお届けします。
-
-馬門の滝は、茂木３名瀑の一つで、昔は水力発電にも利用されていたそうです。
-
-
-#茂木町 #ツインリンクもてぎ' where id = '3lE5TKuVYE6dGlu1C1QAv';
-update content_bodies set title = 'Seasonal Scenery ⑦ (Umamon Falls)', description = 'This is the seasonal scenery broadcasted on the Motegi Ai Ai Channel.
-This time, we present ''Umamon Falls'' near the North Gate of Twin Ring Motegi.
-
-Umamon Falls is one of the three famous waterfalls in Motegi, and it is said that it was once used for hydroelectric power generation.
-
-#MotegiTown #TwinRingMotegi' where id = '2jM3oAXQTC1zXGGodDmSC';
-update content_bodies set title = '季節の風景⑦（城山公園・ヤマボウシ）', description = 'もてぎあいあいチャンネルで放送している季節の風景です。
-今回は、茂木町市街地にある城山公園のヤマボウシをお届けします。
-
-城山公園は、桜、彼岸花など茂木町の花の名所の一つです。
-自然いっぱいの公園には四季を通じて様々な花が来る人の目を楽しませてくれます。
-頂上には駐車場、トイレもありますので、天気のいい日には、のんびりお散歩が最高です！
-頂上までの道は狭いので、運転には十分注意してお越しください。
-
-花がない時期でも、茂木町の市街地を一望できます。' where id = 'xTi2F22elvy1kd1GdD14e';
-update content_bodies set title = 'Seasonal Scenery ⑦ (Shiroyama Park - Yamaboushi)', description = 'This is the seasonal scenery broadcasted on the Motegi Ai Ai Channel.
-This time, we present the Yamaboushi at Shiroyama Park located in the city of Motegi.
-
-Shiroyama Park is one of the famous flower spots in Motegi Town, featuring cherry blossoms, higanbana, and more.
-The park, full of nature, delights visitors with various flowers throughout the seasons.
-At the top, there is a parking lot and restrooms, making it perfect for a leisurely stroll on a nice day!
-Please be cautious while driving as the road to the top is narrow.
-
-Even during times when flowers are not in bloom, you can enjoy a panoramic view of the city of Motegi.' where id = 'pRMYVFZRpZpR1Mj-cS6KG';
-update content_bodies set title = '季節の風景⑥（城山公園　ボタンザクラ）', description = 'もてぎあいあいチャンネルで放送している季節の風景です。
-今回は、茂木町市街地にある城山公園のボタンサクラをお届けします。
-
-城山公園は、桜、彼岸花など茂木町の花の名所の一つです。
-頂上までの道は狭いので、運転には十分注意してお越しください。
-
-花がない時期でも、茂木町の市街地を一望できますよ。' where id = 'ePgYbV7jqeMusMx6nPn0I';
-update content_bodies set title = 'Seasonal Scenery ⑥ (Shiroyama Park - Botan Cherry Blossom)', description = 'This is a seasonal scenery broadcasted on the Motegi Ai Ai Channel.
-This time, we present the Botan Cherry Blossoms at Shiroyama Park located in the city of Motegi.
-
-Shiroyama Park is one of the famous flower spots in Motegi Town, known for its cherry blossoms and higanbana (red spider lilies).
-Please be careful while driving as the road to the top is narrow.
-
-Even during the off-season for flowers, you can enjoy a panoramic view of the city of Motegi.' where id = '1wll0n0n9-iEf_Lez4iu8';
-update content_bodies set title = '今治市+CYCLEプロモーション動画『Sea Area Activities』ver', description = '今治市には、緑豊かな山間・里山エリアから世界有数の多島美を誇る瀬戸内しまなみ海道・とびしま海道エリアまで変化に富んだ地勢であり、近年では、瀬戸内しまなみ海道が｢サイクリストの聖地｣として国のナショナルサイクルルートの指定を受けるなど、世界ブランド化に向けた取組みが進められています。
-
-　一方で、しまなみ海道エリア等を含む本市には、豊かな自然を活用した様々なアウトドア＆アクティビティフィールドや観光資源が点在しており、これらの資源に本市観光の主軸であるサイクリングを組み合わせた｢＋CYCLE（プラスサイクル）事業｣により、自転車愛好家のみならず他アクティビティ愛好家にもサイクリングに興味を持ってもらうなど双方向の取組みを推進することで、本市全体の新たな魅力の創出を図るとともに滞在型観光及び誘客促進に繋げることを事業目的としています。
-
-　この動画は、Sea Area（海エリア）の観光イメージ映像です。是非ご覧ください。' where id = 'GqE5uqmai45WcBIplCWNI';
-update content_bodies set title = 'Imabari City + CYCLE Promotional Video ''Sea Area Activities'' ver', description = 'Imabari City features a diverse topography, ranging from lush mountainous and satoyama areas to the world-renowned scenic beauty of the Setouchi Shimanami Kaido and Tobishima Kaido areas. In recent years, the Setouchi Shimanami Kaido has been designated as a ''sacred place for cyclists'' as part of the national cycle route initiative, promoting efforts towards becoming a global brand.
-
-On the other hand, our city, which includes the Shimanami Kaido area, is dotted with various outdoor and activity fields and tourism resources that utilize its rich natural environment. Through the ''+CYCLE'' project, which combines cycling—our city''s main tourism focus—with these resources, we aim to promote mutual engagement not only among cycling enthusiasts but also among other activity lovers, thereby creating new attractions for the entire city and contributing to stay-type tourism and visitor promotion.
-
-This video is a promotional image of the Sea Area. Please take a look.' where id = 'P2aeQUqZn9YrLw59dGZ0z';
-update content_bodies set title = '今治市+CYCLEプロモーション動画『Land Area Activities』ver', description = '今治市には、緑豊かな山間・里山エリアから世界有数の多島美を誇る瀬戸内しまなみ海道・とびしま海道エリアまで変化に富んだ地勢であり、近年では、瀬戸内しまなみ海道が｢サイクリストの聖地｣として国のナショナルサイクルルートの指定を受けるなど、世界ブランド化に向けた取組みが進められています。
-
-　一方で、しまなみ海道エリア等を含む本市には、豊かな自然を活用した様々なアウトドア＆アクティビティフィールドや観光資源が点在しており、これらの資源に本市観光の主軸であるサイクリングを組み合わせた｢＋CYCLE（プラスサイクル）事業｣により、自転車愛好家のみならず他アクティビティ愛好家にもサイクリングに興味を持ってもらうなど双方向の取組みを推進することで、本市全体の新たな魅力の創出を図るとともに滞在型観光及び誘客促進に繋げることを事業目的としています。
-
-　この動画は、Land Area（陸地部エリア）の観光イメージ映像です。是非ご覧ください。' where id = 'c2-58KiwmxkuEsGzjFiGG';
-update content_bodies set title = 'Imabari City + CYCLE Promotional Video ''Land Area Activities'' ver', description = 'Imabari City features a diverse topography, ranging from lush mountainous and satoyama areas to the world-renowned scenic beauty of the Setouchi Shimanami Kaido and Tobishima Kaido areas. In recent years, the Setouchi Shimanami Kaido has been designated as a ''sacred place for cyclists'' as part of the national cycle route initiative, promoting efforts towards becoming a global brand.
-
-On the other hand, our city, which includes the Shimanami Kaido area, is dotted with various outdoor and activity fields and tourism resources that utilize its rich natural environment. Through the ''+CYCLE'' project, which combines cycling—our city''s main tourism focus—with these resources, we aim to promote mutual engagement not only among cycling enthusiasts but also among fans of other activities, thereby creating new attractions for the entire city and contributing to stay-type tourism and visitor promotion.
-
-This video is a promotional image of the Land Area. Please take a look.' where id = '1uDCRaKPdnUuUQfsRjTin';
-update content_bodies set title = '春の観光スポット（群馬県甘楽町）', description = '毎年４月頃から見ごろを迎える甘楽町の自然あふれる春の絶景をドローン（４K映像）で撮影しました。
-群馬県甘楽町内の桜の名所（観光スポット）を集めました。
-実際に、お花見やウォーキングをゆっくりとお楽しみください。
-
-
-所在地：群馬県甘楽郡甘楽町 
-
-「甘楽町」ホームページはこちら　→　https://www.town.kanra.lg.jp
-
-「雄川堰」ページホームページはこちら　→　https://www.town.kanra.lg.jp/kyouiku/bunkazai/bunkazai/kanra/38.html
-
-「旧小幡藩武家屋敷（松浦氏屋敷）」ホームページはこちら　→　https://www.town.kanra.lg.jp/kyouiku/bunkazai/bunkazai/gunma/06.html
-
-「甘楽町の観光情報」ホームページはこちら　→　https://www.town.kanra.lg.jp/kanko/index.html
-
-
-撮影機材　DJI PHANTOM 4 PRO  V2.0
-
-#甘楽町
-#観光 
-#桜 
-#4k 
-
-Cherry Blossom Spot in Japan
-Kanra-town, Kanra-gun, Gumma-prefecture
-
-0:00 甘楽町総合公園
-0:36 旧小幡藩武家屋敷（松浦氏屋敷）
-1:22 桜並木（雄川堰）
-2:32 小幡八幡山公園' where id = 'KKzjjgpGUA_CVFNNPX_q7';
-update content_bodies set title = 'Spring Tourist Spots (Kanra Town, Gunma Prefecture)', description = 'We captured the breathtaking natural scenery of spring in Kanra Town, which reaches its peak around April, using a drone (4K footage).
-We have gathered famous cherry blossom spots (tourist attractions) within Kanra Town.
-Please take your time to enjoy cherry blossom viewing and walking.
-
-Location: Kanra Town, Kanra District, Gunma Prefecture
-
-Visit the ''Kanra Town'' homepage here → https://www.town.kanra.lg.jp
-
-Visit the ''Yugawa Dam'' page here → https://www.town.kanra.lg.jp/kyouiku/bunkazai/bunkazai/kanra/38.html
-
-Visit the ''Former Obata Clan Samurai Residence (Matsuura Residence)'' homepage here → https://www.town.kanra.lg.jp/kyouiku/bunkazai/bunkazai/gunma/06.html
-
-Visit the ''Kanra Town Tourism Information'' homepage here → https://www.town.kanra.lg.jp/kanko/index.html
-
-Filming Equipment: DJI PHANTOM 4 PRO V2.0
-
-#KanraTown
-#Tourism
-#CherryBlossom
-#4k
-
-Cherry Blossom Spot in Japan
-Kanra-town, Kanra-gun, Gumma-prefecture
-
-0:00 Kanra Town General Park
-0:36 Former Obata Clan Samurai Residence (Matsuura Residence)
-1:22 Cherry Blossom Avenue (Yugawa Dam)
-2:32 Obata Hachiman Mountain Park' where id = 'XsmomD7LYuP3Imw4bhmfD';
-update content_bodies set title = '織田公公園（群馬県甘楽町）', description = '所在地：甘楽町大字小幡１４１６
-甘楽町指定史跡：昭和３８年６月２０日   
-
-甘楽町ホームページはこちら　→　https://www.town.kanra.lg.jp/index.html
-
-崇福寺に、小幡藩主織田信雄から信富に至る７代の墓がある。
-　元和元年（1615）信雄（織田信長の二男）は、大和松山（奈良県宇陀市）と上野（群馬県）小幡合わせて五万石の領主となり、子の信良が入封して小幡織田氏の藩政が始まった。
-　３代信昌は、祖父信雄の遺命（死に際してのこした命令）により、松山三万石を後見役であった叔父の織田高長に譲り、小幡二万石のみとなった。
-　その後、明和４年（1767）の事件で、出羽高畠（山形県高畠町）に移封されるまで、８代１５２年にわたり小幡藩を統治した。
-　織田氏の墓石はいずれも五輪塔で、初代信雄から、信良－信昌－信久－信就－信右－信富の歴代順に並んでいて、大名家の墓所らしい風格を見せている。　
-　織田氏は初め、轟の宝積寺を菩提寺（先祖の墓や位牌をまつる寺）としていたが、４代信久の時、崇福寺に移している。崇福寺は宝暦８年（1758）と明治４年（1871）の火災により、５代以下の墓石は火炎を受け破損している。
-
-撮影機材　DJI PHANTOM 4 PRO  V2.0
-#甘楽町
-#ドローン
-#織田信雄
-#織田家
-#空撮' where id = 'ZGqvSW417nQxVfagbkv3e';
-update content_bodies set title = 'Oda Koen Park (Kanra Town, Gunma Prefecture)', description = 'Location: 1416 Obata, Kanra Town
-Designated Historical Site of Kanra Town: June 20, 1963
-
-Visit the Kanra Town website here → https://www.town.kanra.lg.jp/index.html
-
-At Suifukuji Temple, there are the graves of seven generations from Oda Nobuhiro, the lord of the Obata domain, to Nobutomi.
-In the first year of Genna (1615), Nobuhiro (the second son of Oda Nobunaga) became the lord of a combined 50,000 koku in Yamato Matsuyama (Uda City, Nara Prefecture) and Obata (Gunma Prefecture), and his son Nobuyoshi entered the domain, marking the beginning of the Obata Oda clan''s rule.
-The third generation, Nobumasa, following the last wishes (orders left at the time of death) of his grandfather Nobuhiro, ceded 30,000 koku of Matsuyama to his uncle Oda Takanaga, becoming the lord of only 20,000 koku in Obata.
-After that, until the incident in the fourth year of Meiwa (1767), they governed the Obata domain for 152 years across eight generations.
-The gravestones of the Oda clan are all five-ring pagodas, arranged in order from the first generation Nobuhiro to Nobuyoshi, Nobumasa, Nobuhisa, Nobushige, Nobuemon, and Nobutomi, showcasing the dignified appearance typical of a feudal lord''s burial site.
-Initially, the Oda clan used the Hojuji Temple in Todoroki as their family temple (a temple for ancestral graves and memorial tablets), but during the time of the fourth generation Nobuhisa, they moved to Suifukuji Temple. Due to fires in the 8th year of Hōreki (1758) and the 4th year of Meiji (1871), the gravestones of the fifth generation and beyond were damaged by flames.
-
-Camera Equipment: DJI PHANTOM 4 PRO V2.0
-#KanraTown
-#Drone
-#OdaNobuhiro
-#OdaFamily
-#AerialPhotography' where id = 'p7-c2ca4r1loBLpVf0Gfn';
-update content_bodies set title = '【Drone空撮映像】甘楽町紅葉山を空から撮影しました！', description = '甘楽町役場公式ホームページはこちら：https://www.town.kanra.lg.jp/
-「空から町を見てみて新たな魅力発見を！」、そんなコンセプトのもと映像を撮影していきます。まずは第一弾、紅葉シーズンの紅葉山を撮りました！時期は少しくだっていたころですが、夕日にかすむ山あいがなんともきれいです。
-
-撮影機体：【DJI】Phantom 4 Pro V2.0
-編集：DJI GO4
-ビューポイント：甘楽町紅葉山公園
-〒370-2206 群馬県甘楽郡甘楽町大字善慶寺　418-2
-
-チャンネル登録お願いします！：https://www.youtube.com/channel/UCUQ2TeS_4eysYlNDHObQubw
-
-#甘楽町
-#ドローン
-#空撮' where id = 'ViM0Xw89Pqyhequyukl12';
-update content_bodies set title = '[Drone Aerial Footage] We filmed Momijiyama in Kanra Town from the sky!', description = 'Official website of Kanra Town Hall: https://www.town.kanra.lg.jp/
-"Discover new charms by viewing the town from the sky!" With this concept, we will be filming various scenes. This is the first installment, capturing Momijiyama during the autumn foliage season! Although the timing was a bit past peak, the mountains shrouded in the evening sun are truly beautiful.
-
-Filming drone: [DJI] Phantom 4 Pro V2.0
-Editing: DJI GO4
-Viewpoint: Kanra Town Momijiyama Park
-Address: 418-2 Zenkeiji, Kanra Town, Kanra District, Gunma Prefecture, 370-2206
-
-Please subscribe to our channel! : https://www.youtube.com/channel/UCUQ2TeS_4eysYlNDHObQubw
-
-#KanraTown
-#Drone
-#AerialPhotography' where id = 'yQbQoq3cq2OG98ewPGG1b';
-update content_bodies set title = '串柿', description = 'http://www.katsuragi-kanko.jp/kusigakinosato.html
-
-串柿の里として400年の昔から歴史と伝統を育んできた四郷(しごう)。 のどかな山里からは紀ノ川の清流を眼下に国道24号沿いの町並みを見渡して、はるか雨引山、龍門山、高野山、大峰山を遠望できます。
-
-東谷、平、滝、広口の四つの村を総称して四郷(しごう)といいます。
-400年の昔から串柿の特産地として、現在に引き継がれています。
-
-11月も秋が深まり、串柿作りが始まると農家の軒先や周囲の干場に柿の玉のれんが一斉に吊るされ山里は柿一色に染まります。
-その見事な風景は晩秋の風物詩として全国に知られ、訪れる人々を楽しませています。また山沿いに点在する村からの展望は息をのむほど美しく、春から夏にかけての新緑の季節は心までも緑に染まります…' where id = 'QJMSV6yuoEumPAvE14ifN';
-update content_bodies set title = 'Kushigaki', description = 'http://www.katsuragi-kanko.jp/kusigakinosato.html
-
-Shigō has nurtured its history and tradition as a place of kushigaki (dried persimmons) for 400 years. From this tranquil mountain village, one can overlook the clear stream of the Kinokawa River below and gaze at the town along National Route 24, with distant views of Mount Amabiki, Mount Ryūmon, Mount Kōya, and Mount Ōmine.
-
-The four villages of Higashitani, Hira, Taki, and Hirokuchi are collectively referred to as Shigō. For 400 years, it has been passed down as a specialty area for kushigaki.
-
-As November deepens into autumn and the production of kushigaki begins, the eaves of farmers'' houses and the surrounding drying areas are adorned with hanging strings of persimmons, dyeing the mountain village in shades of orange. This magnificent scenery is known nationwide as an autumnal spectacle, delighting visitors. Additionally, the views from the scattered villages along the mountains are breathtakingly beautiful, and the fresh green season from spring to summer colors the heart in green...' where id = 'dRHJ2h4YmuVtvTOL9W18r';
-update content_bodies set title = '天野の風景', description = 'http://www.katsuragi-kanko.jp/amanonosato.html
-
-■登場する風景
-　・田園
-　・丹生都比売神社
-　・二つ鳥居
-　・二つ鳥居から見た天野
-
-標高450mの天野盆地は、四季折々の田園風景がひろがります。
-また「歴史の里　天野」は1700年前の丹生明神や1200年前の
-空海にまつわる史跡が数多く点在します。「にほんの里100選」にも
-選ばれた天野は、まさに「癒しの里」です。
-
-天野の里は、和歌山県北東部のかつらぎ町南部にあり、国道２４号線より南へ車で１５分、高野山のふもと標高約４５０ｍに
-位置しています。四季折々のどかな田園風景が広がる天野盆地は、『にほんの里100選』にも選ばれています。
-１９９８（平成元年）年には、環境庁（現環境省）から『ふるさと生きものの里』に認定され、初夏、
-今なお清い流れを守る真国川では源氏ボタルの乱舞が見られ、豊かな自然に恵まれた地域です。
-「日本の原風景」と謳われる地は多いですが、特に天野は四季折々の変化に富み、ことに
-春の新緑、秋のまばゆいばかりの稲穂の波は美しく、まさに桃源郷を想わせます。
-
-白洲正子さんは、著書「かくれ里」の一節で…
-「まだかまだかと思ううち、峠を二つばかり越えたところで下り坂となり、
-いきなり目の前が明るくなった。見渡す限り、まばゆいばかりの稲の波だ。
-こんな山の天辺に、田圃があろうとは想像もしなかったが、それはまことに
-「天野」の名にふさわしい天の一角に開けた広大な野原であった。もしかすると
-高天原も、こういう地形のところを　いったのかも知れない」「ずいぶん方々旅を
-したが、こんなに閑でうっとりするような山村を私は知らない」「できることなら
-ここに隠居したい。桃源郷とは正にこういう所をいうのだろう」と記されました。
-
-かつて空海を高野山にみちびいたとされる真言密教の守り神、
-丹生都比売神社が鎮座する天野は、開山後、高野のかくれ里と呼ばれました。
-高野山が女人禁制であったことから出家していつの日か逢えることを楽しみに、
-高野の麓、天野に移り住む人も多く、それにまつわる多くの史跡が点在します。
-また、源平時代の史跡もあり、まさに歴史ロマンの里・信仰の里
-でもあります。' where id = 'E-37B50mVL72O3Ghtg8hr';
-update content_bodies set title = 'Amano Landscape', description = 'http://www.katsuragi-kanko.jp/amanonosato.html
-
-■Scenery Appearing
-　・Rural Landscape
-　・Niu Tohime Shrine
-　・Two Torii Gates
-　・Amano as Seen from the Two Torii Gates
-
-At an elevation of 450m, the Amano Basin offers a rural landscape that changes with the seasons. 
-Moreover, "Historical Village Amano" is dotted with numerous historical sites related to Niu Myojin from 1700 years ago and Kukai from 1200 years ago. Selected as one of the "100 Best Villages in Japan," Amano is truly a "Healing Village."
-
-Amano is located in the southern part of Katsuragi Town in the northeastern part of Wakayama Prefecture, about 15 minutes by car south of National Route 24, at the foot of Mount Koya at an elevation of approximately 450m. The Amano Basin, with its tranquil rural scenery throughout the seasons, has also been selected as one of the "100 Best Villages in Japan." In 1998, it was certified as a "Hometown of Living Creatures" by the Environment Agency (now the Ministry of the Environment), and in early summer, the Genji Fireflies can be seen dancing in the still pure waters of the Makuni River, making it a region blessed with rich nature. 
-While many places are praised as "Japan''s Original Scenery," Amano, in particular, is rich in seasonal changes, especially the fresh greenery of spring and the dazzling waves of rice ears in autumn, evoking the image of a paradise.
-
-Masako Shirase wrote in her book "Hidden Village":
-"As I wondered when it would come, after crossing a couple of mountain passes, the descent began, and suddenly the view brightened. As far as the eye could see, there were dazzling waves of rice. I never imagined there would be rice fields at the top of such a mountain, but it was indeed a vast field that opened up in a corner of heaven worthy of the name ''Amano.'' Perhaps Takamagahara was also a place with such terrain."
-"I have traveled quite a bit, but I have never known such a quiet and enchanting mountain village. If possible, I would like to retire here. This is precisely what is meant by a paradise."
-
-Amano, where the guardian deity of Shingon Esoteric Buddhism, Niu Tohime Shrine, is enshrined, is said to have guided Kukai to Mount Koya. After its establishment, it was called the hidden village of Koya. Since Mount Koya was off-limits to women, many people moved to Amano at the foot of Koya, looking forward to the day they could meet again, and many historical sites related to this can be found scattered throughout the area. Additionally, there are historical sites from the Genpei era, making it a place rich in historical romance and faith.' where id = 'IUC9eOWrerFlrMdnKVFVv';
-update content_bodies set title = 'Feelings -Kamijima EcoTourism-', description = '上島町観光協会が主催する「かみじまエコツーリズム」のPRイメージ動画です。かみじまエコツーリズムは、シーカヤック、SUP、ファミリーキャンプ、電動キックボード、ハイキング、ポタリングなどのアウトドアアクティビティを中心に、さまざまなプログラムをご用意しています。
-上島町の美しい自然、島に流れる時間・空気感、素朴でありのままの魅力をぜひ体感してみてください。
-https://kamijima.info/ecotour/' where id = 'hg8zWo_3omyUI18i4pueZ';
-update content_bodies set title = 'Feelings -Kamijima EcoTourism-', description = 'This is a promotional image video for "Kamijima EcoTourism" organized by the Kamijima Town Tourism Association. Kamijima EcoTourism offers a variety of programs centered around outdoor activities such as sea kayaking, SUP, family camping, electric kickboarding, hiking, and cycling.
-Please experience the beautiful nature of Kamijima Town, the flow of time and atmosphere on the island, and its simple, authentic charm.
-https://kamijima.info/ecotour/' where id = 'EjWVQTQZ3UwWc1iJgag2q';
-update content_bodies set title = 'feelings -Kamijima Eco Tourism-', description = '上島町観光協会が主催する上島エコツーリズムのコンセプト動画です。
-上島エコツーリズムは、シーカヤック、SUP、ファミリーキャンプ、電動キックボード、ハイキング、ポタリングなどのアウトドアアクティビティを中心に、さまざまなプログラムをご用意しています。
-上島町の美しい自然、島に流れる時間・空気感、素朴でありのままの魅力をぜひ体感してみてください。
-https://kamijima-ecotourism.com/' where id = 'jI8acfwU9C6H3ibCSkFnr';
-update content_bodies set title = 'feelings -Kamijima Eco Tourism-', description = 'This is a concept video for Kamijima Eco Tourism organized by the Kamijima Town Tourism Association.
-Kamijima Eco Tourism offers a variety of programs centered around outdoor activities such as sea kayaking, SUP, family camping, electric kickboarding, hiking, and cycling.
-Please experience the beautiful nature of Kamijima Town, the flow of time and atmosphere on the island, and its simple, authentic charm.
-https://kamijima-ecotourism.com/' where id = '397NXP_WEppZMLVH-HLgQ';
-update content_bodies set title = 'feelings -Kamijima Eco Tourism-  60sec. Short ver.', description = '上島町観光協会が主催する「かみじまエコツーリズム」のPRイメージ動画のダイジェスト版です。かみじまエコツーリズムは、シーカヤック、SUP、ファミリーキャンプ、電動キックボード、ハイキング、ポタリングなどのアウトドアアクティビティを中心に、さまざまなプログラムをご用意しています。
-上島町の美しい自然、島に流れる時間・空気感、素朴でありのままの魅力をぜひ体感してみてください。
-https://kamijima-ecotourism.com/' where id = 'bz5-CBcpymwsmiHtWWA5G';
-update content_bodies set title = 'feelings -Kamijima Eco Tourism-  60sec. Short ver.', description = 'This is a digest version of the PR image video for ''Kamijima Eco Tourism'' organized by the Kamijima Town Tourism Association.
-Kamijima Eco Tourism offers a variety of programs centered around outdoor activities such as sea kayaking, SUP, family camping, electric kickboarding, hiking, and cycling.
-Please experience the beautiful nature of Kamijima Town, the flow of time and atmosphere on the island, and its simple, authentic charm.
-https://kamijima-ecotourism.com/' where id = 'talbsqtaoi0d6nr57OlhH';
-update content_bodies set title = 'autumn -Kamijima Eco Tourism-', description = '上島エコツーリズムの秋におすすめのアクティビティをメインとするイメージ動画です。
-https://kamijima-ecotourism.com/' where id = '8fzgpXs0I4zDxIGgUq618';
-update content_bodies set title = 'autumn -Kamijima Eco Tourism-', description = 'This is an image video mainly featuring recommended activities for autumn in Kamijima Eco Tourism.
-https://kamijima-ecotourism.com/' where id = '6_q8rNi47EQVT1VXHqXvH';
-update content_bodies set title = 'Sunset Kayak', description = '上島町離島エコツーリズム「シーカヤック サンセットツアー」
-https://kamijima.info/ecotour/kayak/' where id = 'yf4xTh4w9By4lJX1S57lA';
-update content_bodies set title = 'Sunset Kayak', description = 'Kamijima Town Remote Island Ecotourism ''Sea Kayak Sunset Tour''
-https://kamijima.info/ecotour/kayak/' where id = 'Yde2-ws4_mVNKtR5mLDGv';
-update content_bodies set title = '「夢、つながる！ゆめしまエール」CM', description = '愛媛県越智郡上島町を旅するならキャンペーン「夢、つながる！ゆめしまエール」をご利用ください。対象施設をご利用で弓削のりをプレゼントいたします。泊まって、食べて、遊んで、お得に上島町を満喫してください。詳しくはこちらから→　https://yumeshimayell.net/' where id = 'aSwSRl4xeJ17Y2upn__-G';
-update content_bodies set title = 'Dreams Connect! Yumeshima Yell CM', description = 'If you''re traveling to Kamijima Town, Ochi District, Ehime Prefecture, please take advantage of the campaign ''Dreams Connect! Yumeshima Yell.''
-You will receive a gift of Yuge nori when you use the eligible facilities.
-Stay, eat, play, and enjoy Kamijima Town at a great value.
-For more details, click here → https://yumeshimayell.net/' where id = 'bSAZcnD_nlexWJb2RaUal';
-update content_bodies set title = '【2024冬旅】高知県 香南市・香美市の激推しスポット【おすすめ】', description = '#高知観光 #高知旅 #高知県 #高知  #香南市 #香美市 #四国観光 #四国旅行 #観光スポット #冬旅 #旅行 #旅好きな人と繋がりたい #旅行好きと繋がりたい #旅行記 #国内旅行 #winter #kochi #art_of_japan
-
-今回は、高知県香南市・香美市エリアで
-冬におすすめの観光スポットをご紹介します！
-
-動物🦁、アート🖼️、ごめん🚃🙏🏻
-ディープで楽しい高知が盛りだくさんです！
-
-皆さんもぜひ行ってみてくださいね〜〜！
-
-*******************************************************
-0:00 龍河洞
-0:27 高知県立のいち動物公園
-0:56 井上ワイナリー株式会社 のいち醸造所＆SHOP
-1:20 手結港可動橋
-1:39 手結の夫婦岩
-1:53 絵金蔵
-*******************************************************
-
-[取材協力]
-龍河洞
-　高知県香美市土佐山田町逆川1424
-
-高知県立のいち動物公園
-　高知県香南市野市町大谷738
-
-井上ワイナリー のいち醸造所＆SHOP
-　高知県香南市野市町大谷1424-31
-
-手結港可動橋
-　高知県香南市夜須町手結
-
-手結の夫婦岩
-　高知県香南市夜須町手結山
-
-絵金蔵
-　高知県香南市赤岡町538
-
-各スポットの位置情報はこちらからチェック！▼
-https://www.google.com/maps/d/u/1/edit?mid=1PRYqKz92WDQFSJs2u-grsJ1No38BcBw&usp=sharing' where id = 'PZ06khhPyRaOOGI0IcNEQ';
-update content_bodies set title = '[Winter Trip 2024] Recommended Spots in Konan City and Kami City, Kochi Prefecture [Must-See]', description = '#KochiTourism #KochiTravel #KochiPrefecture #Kochi #KonanCity #KamiCity #ShikokuTourism #ShikokuTravel #TouristSpots #WinterTrip #Travel #ConnectWithTravelLovers #ConnectWithTravelEnthusiasts #TravelDiary #DomesticTravel #winter #kochi #art_of_japan
-
-This time, we will introduce recommended tourist spots for winter in the Konan City and Kami City area of Kochi Prefecture!
-
-Animals 🦁, Art 🖼️, Gomen 🚃🙏🏻
-A deep and fun Kochi awaits you!
-
-Be sure to check it out!
-
-*******************************************************
-0:00 Ryugado Cave
-0:27 Kochi Prefectural Noichi Zoo
-0:56 Inoue Winery Noichi Brewery & SHOP
-1:20 Teui Port Movable Bridge
-1:39 Teui''s Couple Rocks
-1:53 Ekincu
-*******************************************************
-
-[Interview Cooperation]
-Ryugado Cave
-　1424 Sakakawa, Tosayamada-cho, Kami City, Kochi Prefecture
-
-Kochi Prefectural Noichi Zoo
-　738 Otani, Noichi-cho, Konan City, Kochi Prefecture
-
-Inoue Winery Noichi Brewery & SHOP
-　1424-31 Otani, Noichi-cho, Konan City, Kochi Prefecture
-
-Teui Port Movable Bridge
-　Teui, Yasu-cho, Konan City, Kochi Prefecture
-
-Teui''s Couple Rocks
-　Teuiyama, Yasu-cho, Konan City, Kochi Prefecture
-
-Ekincu
-　538 Akaoka-cho, Konan City, Kochi Prefecture
-
-Check the location information for each spot here! ▼
-https://www.google.com/maps/d/u/1/edit?mid=1PRYqKz92WDQFSJs2u-grsJ1No38BcBw&usp=sharing' where id = 'R9yGnf-uvtJL6CSwXY-j1';
-update content_bodies set title = '【おすすめ】高知市内で絶対行ってほしいスポット【2023高知】', description = '#高知 #高知県 #高知旅行 #高知観光 #高知グルメ #いも天 #高知市 #日曜市 #ひろめ市場 #高知城 #桂浜公園 #桂浜 #桂浜水族館 #高知県立牧野植物園 #牧野富太郎 #朝ドラらんまん #らんまん #旅行 #日曜日の過ごし方 #国内旅行 #kochi 
-
-
-高知市内の観光スポットをご紹介！
-
-グルメを堪能して歴史を学べる追手筋・帯屋町エリア🍺🍠
-
-龍馬と一緒に海を眺め、
-水族館で可愛い海の生き物に癒される桂浜エリア🌊
-
-牧野博士が愛した草花が風にそよぐ心地よい空間、五台山エリア🌬️🌱
-
-食べる・遊ぶ・学ぶを一気に楽しんじゃいましょう〜〜🥰
-
-*******************************************************
-0:00 日曜市
-0:32 ひろめ市場
-0:55 高知城
-1:21 桂浜公園
-1:47 桂浜水族館
-2:13 牧野植物園
-*******************************************************
-
-[取材協力]
-◾️日曜市（街路市）
-Instagram：@tosano.gairoiti
-Facebook：https://www.facebook.com/tosano.gairoich/
-🏠高知県高知市追手筋1丁目 ・2丁目
-
-◾️ひろめ市場
-X（旧Twitter）：@hiromemarket_co
-Instagram：@hiromemarket_co
-🏠高知県高知市帯屋町2丁目3-1
-
-◾️高知城
-Instagram：＠kochijyo_official
-🏠高知県高知市丸ノ内1丁目2-1
-
-◾️桂浜公園
-🏠高知市浦戸
-
-◾️桂浜水族館
-X（旧Twitter）：@katurahama_aq
-Instagram：@katurahama_aqua
-🏠高知市浦戸778（桂浜公園内）
-
-◾️高知県立牧野植物園
-Instagram：＠makinobotanicalgarden
-🏠高知県高知市五台山4200-6' where id = 'y3SucMqDQZXJHcv7qqAZV';
-update content_bodies set title = '[Recommended] Must-Visit Spots in Kochi City [2023 Kochi]', description = '#Kochi #KochiPrefecture #KochiTravel #KochiSightseeing #KochiGourmet #ImoTen #KochiCity #SundayMarket #HiromeMarket #KochiCastle #KatsurahamaPark #Katsurahama #KatsurahamaAquarium #KochiPrefecturalMakinoBotanicalGarden #MakinoTomitaro #AsaDoraRanman #Ranman #Travel #HowToSpendSunday #DomesticTravel #kochi
-
-Introducing sightseeing spots in Kochi City!
-
-Enjoy gourmet food and learn about history in the Otesuji and Obiyamachi area 🍺🍠
-
-Gaze at the sea with Ryoma and be healed by cute sea creatures at Katsurahama area 🌊
-
-A pleasant space where the flowers loved by Dr. Makino sway in the wind, the Godaisan area 🌬️🌱
-
-Let''s enjoy eating, playing, and learning all at once~~ 🥰
-
-*******************************************************
-0:00 Sunday Market
-0:32 Hirome Market
-0:55 Kochi Castle
-1:21 Katsurahama Park
-1:47 Katsurahama Aquarium
-2:13 Makino Botanical Garden
-*******************************************************
-
-[Interview Cooperation]
-◾️ Sunday Market (Street Market)
-Instagram: @tosano.gairoiti
-Facebook: https://www.facebook.com/tosano.gairoich/
-🏠 1-2 Otesuji, Kochi City, Kochi Prefecture
-
-◾️ Hirome Market
-X (formerly Twitter): @hiromemarket_co
-Instagram: @hiromemarket_co
-🏠 2-3-1 Obiyamachi, Kochi City, Kochi Prefecture
-
-◾️ Kochi Castle
-Instagram: @kochijyo_official
-🏠 1-2-1 Marunouchi, Kochi City, Kochi Prefecture
-
-◾️ Katsurahama Park
-🏠 Urado, Kochi City
-
-◾️ Katsurahama Aquarium
-X (formerly Twitter): @katurahama_aq
-Instagram: @katurahama_aqua
-🏠 778 Urado, Kochi City (inside Katsurahama Park)
-
-◾️ Kochi Prefectural Makino Botanical Garden
-Instagram: @makinobotanicalgarden
-🏠 4200-6 Godaisan, Kochi City, Kochi Prefecture' where id = 'Kr9V-9P-A_syUR3797Dgv';
