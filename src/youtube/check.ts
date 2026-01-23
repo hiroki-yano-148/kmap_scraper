@@ -109,13 +109,13 @@ async function main() {
 		}
 
 		if (!ja || !en) {
-			const a = readFileSync("./src/youtube/delete.txt", "utf-8")
-				.replace(/\r\n/g, "\n")
-				.split("\n")
-				.filter(Boolean);
-			if (!a.includes(row.id)) {
-				appendFileSync("./src/youtube/delete.txt", `${row.id}\n`);
-			}
+			// const a = readFileSync("./src/youtube/delete.txt", "utf-8")
+			// 	.replace(/\r\n/g, "\n")
+			// 	.split("\n")
+			// 	.filter(Boolean);
+			// if (!a.includes(row.id)) {
+			// 	appendFileSync("./src/youtube/delete.txt", `${row.id}\n`);
+			// }
 			continue;
 		}
 
@@ -147,11 +147,11 @@ async function main() {
 			};
 
 			appendFileSync(
-				"./src/youtube/tmp.jsonl",
+				"./src/youtube/tmp2.jsonl",
 				`${JSON.stringify(jaResult)}\n`,
 			);
 			appendFileSync(
-				"./src/youtube/tmp.jsonl",
+				"./src/youtube/tmp2.jsonl",
 				`${JSON.stringify(enResult)}\n`,
 			);
 		} catch {

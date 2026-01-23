@@ -416,7 +416,7 @@ export function readCsv<T>(path: string) {
 		header: true,
 		skipEmptyLines: true,
 	});
-	if (errors) {
+	if (errors.length) {
 		console.error(errors);
 	}
 	return data;

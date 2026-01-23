@@ -1,27 +1,36 @@
-import { existsSync, readFileSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import Papa from "papaparse";
 import { readCsv } from "../helpers.js";
 
 function main() {
+	const result = readCsv<{ id: string; title: string; description: string }>(
+		"./result/video/content_bodies.csv",
+	);
+
+	mkdirSync("./src/youtube/result", { recursive: true });
+
 	if (existsSync("./src/youtube/delete.txt")) {
 		const d = readFileSync("./src/youtube/delete.txt", "utf-8")
+			.replace(/\r\n/g, "\n")
 			.split("\n")
-			.filter(Boolean)
-			.join(",");
+			.filter(Boolean);
+
+		for (const id of d) {
+			const index = result.findIndex((a) => a.id === id);
+			result.splice(index, 1);
+		}
 
 		writeFileSync(
-			"./src/youtube/delete.sql",
+			"./src/youtube/result/delete.sql",
 			`
-delete from contents where id in (${d})
+delete from contents where id in (${d.map((d) => `'${d}'`).join(",")})
     `,
 		);
 	}
 
-	const result = readCsv<{ id: string; title: string; description: string }>(
-		"./result/video/content_bodies.csv",
-	);
 	const tmp: { id: string; title: string; description: string }[] =
 		readFileSync("./src/youtube/tmp.jsonl", "utf-8")
+			.replace(/\r\n/g, "\n")
 			.split("\n")
 			.filter(Boolean)
 			.map((data) => JSON.parse(data));
@@ -42,7 +51,23 @@ delete from contents where id in (${d})
 	const csv = Papa.unparse(result);
 	writeFileSync("./result/video/content_bodies.csv", csv);
 
-	writeFileSync("./src/youtube/update.sql", sqls.join("\n"));
+	let count = 0;
+	let index = 0;
+	const q: string[][] = [];
+
+	for (const sql of sqls) {
+		count += sql.replace(/\r\n/g, "\n").split("\n").length;
+		if (!q[index]) q[index] = [];
+		q[index]?.push(sql);
+		if (count > 9999) {
+			index += 1;
+			count = 0;
+		}
+	}
+
+	for (const [i, sql] of q.entries()) {
+		writeFileSync(`./src/youtube/result/update${i + 1}.sql`, sql.join("\n"));
+	}
 }
 
 main();
