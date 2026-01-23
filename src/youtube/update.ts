@@ -7,7 +7,7 @@ function main() {
 		"./result/video/content_bodies.csv",
 	);
 
-	mkdirSync("./src/youtube/result", { recursive: true });
+	mkdirSync("./src/youtube/result3", { recursive: true });
 
 	if (existsSync("./src/youtube/delete.txt")) {
 		const d = readFileSync("./src/youtube/delete.txt", "utf-8")
@@ -29,7 +29,7 @@ delete from contents where id in (${d.map((d) => `'${d}'`).join(",")})
 	}
 
 	const tmp: { id: string; title: string; description: string }[] =
-		readFileSync("./src/youtube/tmp.jsonl", "utf-8")
+		readFileSync("./src/youtube/tmp3.jsonl", "utf-8")
 			.replace(/\r\n/g, "\n")
 			.split("\n")
 			.filter(Boolean)
@@ -66,7 +66,7 @@ delete from contents where id in (${d.map((d) => `'${d}'`).join(",")})
 	}
 
 	for (const [i, sql] of q.entries()) {
-		writeFileSync(`./src/youtube/result/update${i + 1}.sql`, sql.join("\n"));
+		writeFileSync(`./src/youtube/result3/update${i + 1}.sql`, sql.join("\n"));
 	}
 }
 
