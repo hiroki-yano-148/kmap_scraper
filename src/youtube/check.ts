@@ -134,8 +134,6 @@ async function main() {
 
 			// console.log(lang, s.title, title, s.description, description);
 
-			appendFileSync("./result/video/done.txt", `${row.content_url}\n`);
-
 			const jaResult = {
 				id: ja.id,
 				title: lang === "ja" ? s.title : title,
@@ -149,6 +147,8 @@ async function main() {
 				description: lang === "en" ? s.description : description,
 				url: s.url,
 			};
+
+			appendFileSync("./result/video/done.txt", `${row.content_url}\n`);
 
 			appendFileSync(
 				"./src/youtube/tmp4.jsonl",

@@ -3,11 +3,18 @@ import Papa from "papaparse";
 import { readCsv } from "../helpers.js";
 
 function main() {
-	const result = readCsv<{ id: string; title: string; description: string }>(
-		"./result/video/content_bodies.csv",
+	const result = readCsv<{
+		id: string;
+		title: string;
+		description: string;
+		content_id: string;
+	}>("./result/video/content_bodies.csv");
+
+	const result2 = readCsv<{ id: string; metadata: string }>(
+		"./result/video/contents.csv",
 	);
 
-	mkdirSync("./src/youtube/result3", { recursive: true });
+	mkdirSync("./src/youtube/result_empty", { recursive: true });
 
 	if (existsSync("./src/youtube/delete.txt")) {
 		const d = readFileSync("./src/youtube/delete.txt", "utf-8")
@@ -29,7 +36,7 @@ delete from contents where id in (${d.map((d) => `'${d}'`).join(",")})
 	}
 
 	const tmp: { id: string; title: string; description: string }[] =
-		readFileSync("./src/youtube/tmp3.jsonl", "utf-8")
+		readFileSync("./src/youtube/tmp_empty.jsonl", "utf-8")
 			.replace(/\r\n/g, "\n")
 			.split("\n")
 			.filter(Boolean)
@@ -40,8 +47,15 @@ delete from contents where id in (${d.map((d) => `'${d}'`).join(",")})
 	for (const data of tmp) {
 		const index = result.findIndex((a) => a.id === data.id);
 		if (index === -1 || !result[index]) continue;
+		const index2 = result2.findIndex((a) => a.id === result[index]?.content_id);
+		if (index2 === -1 || !result2[index2]) continue;
 		result[index].title = data.title;
 		result[index].description = data.description;
+		const metadata = {
+			...JSON.parse(result2[index2].metadata),
+			based_on_title: true,
+		};
+		result2[index2].metadata = JSON.stringify(metadata);
 
 		sqls.push(
 			`update content_bodies set title = '${data.title.replace(/'/g, "''")}', description = '${data.description.replace(/'/g, "''")}' where id = '${data.id}';`,

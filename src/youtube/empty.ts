@@ -20,11 +20,11 @@ async function detect(title: string) {
 	return result;
 }
 
-async function createDescription(title: string) {
+async function createDescription(lang: "ja" | "en", title: string) {
 	const result = await requestOpenAI<{
 		description: string;
 	}>(`
-          次のテキストはある動画のタイトルです。タイトルから「～について説明しています」という形式の説明文を生成してください。ただし、タイトル以上の情報は追加・推測しないでください。絶対にです。
+          次のテキストはある動画のタイトルです。タイトルから「${lang === "ja" ? "この動画は～について紹介しています。" : "This video introduces ~"}」という形式の説明文を生成してください。ただし、タイトル以上の情報は追加・推測しないでください。絶対にです。
           \`\`\`text
           ${title ?? ""}
           \`\`\`
@@ -43,7 +43,7 @@ async function translate(lang: string, title: string, description: string) {
 		title: string;
 		description: string;
 	}>(`
-          次の title と description を${lang}に翻訳してください。翻訳は改行ごとに行い、元の文章構成を保持してください。URLはそのまま残してください。
+          次の title と description を${lang}に翻訳してください。翻訳は改行ごとに行い、元の文章構成を保持してください。日本語の固有名詞だと思われるものはそのままアルファベットに変換してください。URLはそのまま残してください。
           \`\`\`text
           title: ${title ?? ""}
           description: ${description ?? ""}
@@ -113,6 +113,7 @@ async function main() {
 
 		const { lang } = await detect(s.title);
 		const { description: descriptionFromTitle } = await createDescription(
+			lang,
 			s.title,
 		);
 		// console.log(lang, s.title, s.description);
@@ -123,7 +124,13 @@ async function main() {
 				descriptionFromTitle,
 			);
 
-			appendFileSync("./result/video/done.txt", `${row.content_url}\n`);
+			// console.log({
+			// 	lang,
+			// 	ftitle: s.title,
+			// 	title,
+			// 	descriptionFromTitle,
+			// 	description,
+			// });
 
 			const jaResult = {
 				id: ja.id,
@@ -138,6 +145,8 @@ async function main() {
 				description: lang === "en" ? descriptionFromTitle : description,
 				url: s.url,
 			};
+
+			appendFileSync("./result/video/done.txt", `${row.content_url}\n`);
 
 			appendFileSync(
 				"./src/youtube/tmp_empty.jsonl",
