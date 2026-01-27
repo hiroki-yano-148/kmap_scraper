@@ -1,9 +1,7 @@
 import { appendFileSync } from "node:fs";
 import {
 	createDetectPrompt,
-	createSummarizePrompt,
 	createTranslateAndSummarizePrompt,
-	createTranslatePrompt,
 	readCsv,
 	readLines,
 	requestOpenAI,
@@ -17,13 +15,13 @@ async function detect(title: string, description: string) {
 	return result;
 }
 
-async function summarize(lang: "ja" | "en", description: string) {
-	const result = await requestOpenAI<{
-		description: string;
-	}>(createSummarizePrompt(lang, description));
+// async function summarize(lang: "ja" | "en", description: string) {
+// 	const result = await requestOpenAI<{
+// 		description: string;
+// 	}>(createSummarizePrompt(lang, description));
 
-	return result;
-}
+// 	return result;
+// }
 
 async function createDescription(lang: "ja" | "en", title: string) {
 	const result = await requestOpenAI<{
@@ -43,20 +41,20 @@ ${title ?? ""}
 	return result;
 }
 
-async function translate(title: string, description: string) {
-	const result = await requestOpenAI<{
-		en: {
-			title: string;
-			description: string;
-		};
-		ja: {
-			title: string;
-			description: string;
-		};
-	}>(createTranslatePrompt(title, description));
+// async function translate(title: string, description: string) {
+// 	const result = await requestOpenAI<{
+// 		en: {
+// 			title: string;
+// 			description: string;
+// 		};
+// 		ja: {
+// 			title: string;
+// 			description: string;
+// 		};
+// 	}>(createTranslatePrompt(title, description));
 
-	return result;
-}
+// 	return result;
+// }
 
 async function translateAndSummarize(title: string, description: string) {
 	const result = await requestOpenAI<{
@@ -117,6 +115,12 @@ async function main() {
 			continue;
 		}
 
+		// const { lang } = await detect(s.title, s.description);
+		// console.log(lang, s.title, s.description);
+		// const summarized = s.description
+		// 	? await summarize(lang, removeUrls(s.description))
+		// 	: await createDescription(lang, s.title);
+
 		if (!s.description) {
 			const b = readLines("./src/youtube/based_on_title.txt");
 			if (!b.includes(row.id)) {
@@ -125,16 +129,6 @@ async function main() {
 					`${target[0]?.content_id}\n`,
 				);
 			}
-			continue;
-		}
-
-		// const { lang } = await detect(s.title, s.description);
-		// console.log(lang, s.title, s.description);
-		// const summarized = s.description
-		// 	? await summarize(lang, removeUrls(s.description))
-		// 	: await createDescription(lang, s.title);
-
-		if (!s.description) {
 			const { lang } = await detect(s.title, s.description);
 			s.description = await createDescription(lang, s.title).then(
 				({ description }) => description,

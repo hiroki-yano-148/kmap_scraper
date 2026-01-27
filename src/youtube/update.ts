@@ -91,7 +91,7 @@ delete from contents where id in (${d.map((d) => `'${d}'`).join(",")})
 	}
 
 	for (const [i, sql] of q.entries()) {
-		writeFileSync(`./src/youtube/result3/update${i + 1}.sql`, sql.join("\n"));
+		writeFileSync(`./src/youtube/result/update${i + 1}.sql`, sql.join("\n"));
 	}
 }
 

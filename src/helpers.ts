@@ -547,7 +547,7 @@ export function createTranslateAndSummarizePrompt(
 	description: string,
 ) {
 	return `
-次の title と description を参照し、それぞれ日本語と英語の要約を作ってください。日本語の場合、400文字程度、英語の場合、200語程度で要約してください。
+次の title と description を参照し、それぞれ日本語と英語の要約を作ってください。日本語の場合、400文字程度、英語の場合、200語程度で要約してください。ただし、元の文章が短ければ、無理に増やす必要はありません。憶測で情報を追加しないでください。絶対にです。
 \`\`\`text
 title: ${title ?? ""}
 description: ${description ?? ""}
@@ -562,8 +562,8 @@ description: ${description ?? ""}
 	}
 	"ja": {
 		"title": "タイトル",
-		"description": "説明"							
+		"description": "説明"
 	}
 }
-	`;
+`;
 }
