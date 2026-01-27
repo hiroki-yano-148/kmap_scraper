@@ -121,10 +121,10 @@ async function main() {
 			continue;
 		}
 
-		const a = result.filter((a) => a.content_id === row.id);
+		const target = result.filter((a) => a.content_id === row.id);
 		const s = source.find((a) => a.url === row.content_url);
-		const ja = a.find((a) => a.language === "JA");
-		const en = a.find((a) => a.language === "EN");
+		const ja = target.find((a) => a.language === "JA");
+		const en = target.find((a) => a.language === "EN");
 
 		if (!s) {
 			console.warn(row.content_url, "not found");
@@ -145,7 +145,7 @@ async function main() {
 			if (!b.includes(row.id)) {
 				appendFileSync(
 					"./src/youtube/based_on_title.txt",
-					`${a[0]?.content_id}\n`,
+					`${target[0]?.content_id}\n`,
 				);
 			}
 			continue;
