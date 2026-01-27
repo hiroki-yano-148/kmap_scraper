@@ -9,6 +9,7 @@ import {
 	chunk,
 	detectLanguage,
 	getCoodinates,
+	readLines,
 	requestOpenAI,
 } from "../helpers.js";
 
@@ -130,9 +131,7 @@ async function main() {
 		mkdirSync("./result/bokun/backup");
 	}
 
-	const completedText = readFileSync("./result/bokun/done.txt", "utf-8");
-
-	const completed = completedText.split("\r\n").filter(Boolean);
+	const completed = readLines("./result/bokun/done.txt");
 
 	const id1 = new Set<{ id: string; prod: string }>();
 	const id2 = new Set<{ id: string; prod: string }>();

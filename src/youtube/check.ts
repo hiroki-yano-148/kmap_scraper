@@ -1,32 +1,79 @@
-import { appendFileSync, readFileSync } from "node:fs";
-import { readCsv, requestOpenAI } from "../helpers.js";
+import { appendFileSync } from "node:fs";
+import { readCsv, readLines, requestOpenAI } from "../helpers.js";
 import type { ContentBoby } from "../types.js";
 
 async function detect(title: string, description: string) {
 	const result = await requestOpenAI<{
 		lang: "ja" | "en";
 	}>(`
-          次のテキストが「英語」か「日本語」か判定してください。アルファベットで表記された日本語は英語と考えてよいです。1文字でも日本語が含まれる場合は、日本語判定にしてください。
+          次のテキストが「英語」か「日本語」か判定してください。1文字でも日本語が含まれる場合は、日本語判定にしてください。
           \`\`\`text
           title: ${title ?? ""}
-          description: ${description.slice(0, 20) ?? ""}
+          description: ${description.slice(0, title.length) ?? ""}
           \`\`\`
       
           出力は必ずJSON形式で行ってください。
           例：
           {
-            "lang": "ja" // or "en",s
+            "lang": "ja" // or "en",
           }
       `);
 	return result;
 }
 
-async function translate(lang: string, title: string, description: string) {
+async function summarize(lang: "ja" | "en", description: string) {
 	const result = await requestOpenAI<{
-		title: string;
 		description: string;
 	}>(`
-          次の title と description を${lang}に翻訳してください。翻訳は改行ごとに行い、元の文章構成を保持してください。URLはそのまま残してください。
+          次の description を ${
+						lang === "ja"
+							? "日本語で400文字程度で要約してください。"
+							: "英語で200語程度で要約してください。"
+					}
+          \`\`\`text
+          description: ${description ?? ""}
+          \`\`\`
+
+          出力は必ずJSON形式で行ってください。
+          例：
+          {
+						"description": "desc"
+          }
+      `);
+
+	return result;
+}
+
+async function createDescription(lang: "ja" | "en", title: string) {
+	const result = await requestOpenAI<{
+		description: string;
+	}>(`
+          次のテキストはある動画のタイトルです。タイトルから「${lang === "ja" ? "この動画は～について紹介しています。" : "This video introduces ~"}」という形式の説明文を生成してください。ただし、タイトル以上の情報は追加・推測しないでください。絶対にです。
+          \`\`\`text
+          ${title ?? ""}
+          \`\`\`
+      
+          出力は必ずJSON形式で行ってください。
+          例：
+          {
+            "description": "desc"
+          }
+      `);
+	return result;
+}
+
+async function translate(title: string, description: string) {
+	const result = await requestOpenAI<{
+		en: {
+			title: string;
+			description: string;
+		};
+		ja: {
+			title: string;
+			description: string;
+		};
+	}>(`
+          次の title と description を英語と日本語に翻訳してください。
           \`\`\`text
           title: ${title ?? ""}
           description: ${description ?? ""}
@@ -35,8 +82,14 @@ async function translate(lang: string, title: string, description: string) {
           出力は必ずJSON形式で行ってください。
           例：
           {
-						"title": "title",
-						"description": "desc"
+						"en": {
+							"title": "title",
+							"description": "desc"
+						}
+						"ja": {
+							"title": "タイトル",
+							"description": "説明"							
+						}
           }
       `);
 
@@ -44,58 +97,25 @@ async function translate(lang: string, title: string, description: string) {
 }
 
 async function main() {
-	// const source = readFileSync("./src/youtube/source.csv", "utf-8");
-	const csv1 = readCsv<{
+	const csv = readCsv<{
 		id: string;
 		content_url: string;
 		title: string;
 		description: string;
-	}>("./src/youtube/invalid_en3.csv");
-	const csv2 = readCsv<{
-		id: string;
-		content_url: string;
-		title: string;
-		description: string;
-	}>("./src/youtube/invalid_ja3.csv");
+	}>("./src/youtube/source2.csv");
 
 	const result = readCsv<ContentBoby>("./result/video/content_bodies.csv");
 
 	const source = readCsv<{ title: string; description: string; url: string }>(
-		"./src/youtube/source.csv",
+		"./src/youtube/source1.csv",
 	);
-
-	// 5574件
-	// const urls = [...urls1, ...urls2];
 
 	// 10516件
-	const done = new Set(
-		readFileSync("./result/video/done.txt", "utf-8")
-			.replace(/\r\n/g, "\n")
-			.split("\n")
-			.filter(Boolean),
-	);
-
-	// 4942件
-	// writeFileSync(
-	// 	"./result/video/done.txt",
-	// 	done.filter((d) => !urls.includes(d)).join("\n"),
-	// );
-
-	// // 1711件
-	// const a = csv.filter((row) =>
-	// 	csv1.map((row) => row.content_url).includes(row.url),
-	// );
-
-	// // 3376件
-	// const b = csv.filter((row) =>
-	// 	csv2.map((row) => row.content_url).includes(row.url),
-	// );
-
-	const csvs = [...csv1, ...csv2];
+	const done = new Set(readLines("./result/video/done.txt"));
 
 	// 英語が日本語 / 日本語が英語
-	for (const [i, row] of csvs.entries()) {
-		console.log(i, row.content_url);
+	for (const [i, row] of csv.slice(0, 10).entries()) {
+		// console.log(i, row.content_url);
 		if (done.has(row.content_url)) {
 			console.log(row.content_url);
 			continue;
@@ -113,56 +133,59 @@ async function main() {
 
 		if (!ja || !en) {
 			console.warn("nai", ja, en, row.id);
-			// const a = readFileSync("./src/youtube/delete.txt", "utf-8")
-			// 	.replace(/\r\n/g, "\n")
-			// 	.split("\n")
-			// 	.filter(Boolean);
-			// if (!a.includes(row.id)) {
-			// 	appendFileSync("./src/youtube/delete.txt", `${row.id}\n`);
-			// }
+			const a = readLines("./src/youtube/delete.txt");
+			if (!a.includes(row.id)) {
+				appendFileSync("./src/youtube/delete.txt", `${row.id}\n`);
+			}
+			continue;
+		}
+
+		if (!s.description) {
+			const b = readLines("./src/youtube/based_on_title.txt");
+			if (!b.includes(row.id)) {
+				appendFileSync(
+					"./src/youtube/based_on_title.txt",
+					`${a[0]?.content_id}\n`,
+				);
+			}
 			continue;
 		}
 
 		const { lang } = await detect(s.title, s.description);
 		// console.log(lang, s.title, s.description);
+		const summarized = s.description
+			? await summarize(lang, s.description)
+			: await createDescription(lang, s.description);
 		try {
-			const { title, description } = await translate(
-				lang === "en" ? "日本語" : "英語",
-				s.title,
-				s.description,
-			);
+			const translated = await translate(s.title, summarized.description);
 
-			// console.log(lang, s.title, title, s.description, description);
+			console.log(lang, s.description, { summarized }, { translated });
 
 			const jaResult = {
 				id: ja.id,
-				title: lang === "ja" ? s.title : title,
-				description: lang === "ja" ? s.description : description,
+				title: translated.ja.title,
+				description: translated.ja.description,
 				url: s.url,
 			};
 
 			const enResult = {
 				id: en.id,
-				title: lang === "en" ? s.title : title,
-				description: lang === "en" ? s.description : description,
+				title: translated.en.title,
+				description: translated.en.description,
 				url: s.url,
 			};
 
 			appendFileSync("./result/video/done.txt", `${row.content_url}\n`);
 
 			appendFileSync(
-				"./src/youtube/tmp4.jsonl",
-				`${JSON.stringify(jaResult)}\n`,
-			);
-			appendFileSync(
-				"./src/youtube/tmp4.jsonl",
-				`${JSON.stringify(enResult)}\n`,
+				"./src/youtube/tmp.jsonl",
+				`${JSON.stringify(jaResult)}\n${JSON.stringify(enResult)}\n`,
 			);
 		} catch {
 			continue;
 		}
 
-		console.info("\n", "completed:", i + 1, "/", csvs.length);
+		console.info("\n", "completed:", i + 1, "/", csv.length);
 
 		// sleep(1000);
 	}

@@ -1,4 +1,3 @@
-import { v2 } from "@google-cloud/translate";
 import { Readability } from "@mozilla/readability";
 import * as cheerio from "cheerio";
 import "dotenv/config";
@@ -14,10 +13,10 @@ const client = new OpenAI({
 	apiKey: process.env.OPENAI_API_KEY,
 	timeout: 30000,
 });
-const translator = new v2.Translate({
-	// biome-ignore lint/style/noNonNullAssertion: not null
-	key: process.env.GOOGLE_TRANSLATION_API_KEY!,
-});
+// const translator = new v2.Translate({
+// 	// biome-ignore lint/style/noNonNullAssertion: not null
+// 	key: process.env.GOOGLE_TRANSLATION_API_KEY!,
+// });
 
 export async function requestOpenAI<T>(prompt: string): Promise<T> {
 	const start = performance.now();
@@ -378,10 +377,7 @@ export async function fetchImage(url: string): Promise<File | undefined> {
 
 export function readJsonlToCsv(path: string) {
 	try {
-		const input = readFileSync(path, "utf-8")
-			.split("\n")
-			.filter(Boolean)
-			.map((line) => JSON.parse(line));
+		const input = readJsonl(path);
 		return Papa.unparse(input);
 		// biome-ignore lint/suspicious/noExplicitAny: allow any
 	} catch (e: any) {
@@ -466,4 +462,15 @@ export async function translate(
       `);
 
 	return result;
+}
+
+export function readLines(path: string) {
+	return readFileSync(path, "utf-8")
+		.replace(/\r\n/g, "\n")
+		.split("\n")
+		.filter(Boolean);
+}
+
+export function readJsonl<T>(path: string) {
+	return readLines(path).map((line) => JSON.parse(line)) as Array<T>;
 }

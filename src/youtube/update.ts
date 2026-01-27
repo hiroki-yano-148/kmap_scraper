@@ -1,6 +1,6 @@
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, writeFileSync } from "node:fs";
 import Papa from "papaparse";
-import { readCsv } from "../helpers.js";
+import { readCsv, readJsonl, readLines } from "../helpers.js";
 
 function main() {
 	const result = readCsv<{
@@ -14,13 +14,10 @@ function main() {
 		"./result/video/contents.csv",
 	);
 
-	mkdirSync("./src/youtube/result_empty", { recursive: true });
+	mkdirSync("./src/youtube/result", { recursive: true });
 
 	if (existsSync("./src/youtube/delete.txt")) {
-		const d = readFileSync("./src/youtube/delete.txt", "utf-8")
-			.replace(/\r\n/g, "\n")
-			.split("\n")
-			.filter(Boolean);
+		const d = readLines("./src/youtube/delete.txt");
 
 		for (const id of d) {
 			const index = result.findIndex((a) => a.id === id);
@@ -35,27 +32,38 @@ delete from contents where id in (${d.map((d) => `'${d}'`).join(",")})
 		);
 	}
 
-	const tmp: { id: string; title: string; description: string }[] =
-		readFileSync("./src/youtube/tmp_empty.jsonl", "utf-8")
-			.replace(/\r\n/g, "\n")
-			.split("\n")
-			.filter(Boolean)
-			.map((data) => JSON.parse(data));
+	if (existsSync("./src/youtube/based_on_title.txt")) {
+		const d = readLines("./src/youtube/based_on_title.txt");
+
+		const sqls2: string[] = [];
+
+		for (const id of d) {
+			const index = result2.findIndex((a) => a.id === id);
+			if (!result2[index]) continue;
+			const metadata = {
+				...JSON.parse(result2[index].metadata),
+				based_on_title: true,
+			};
+			result2[index].metadata = JSON.stringify(metadata);
+			sqls2.push(
+				`update contents set metadata = '${JSON.stringify(metadata)}' where id = '${result[index]?.content_id}';`,
+			);
+		}
+
+		writeFileSync("./src/youtube/result/based_on_title.sql", sqls2.join("\n"));
+	}
+
+	const tmp = readJsonl<{ id: string; title: string; description: string }>(
+		"./src/youtube/tmp.jsonl",
+	);
 
 	const sqls: string[] = [];
 
 	for (const data of tmp) {
 		const index = result.findIndex((a) => a.id === data.id);
 		if (index === -1 || !result[index]) continue;
-		const index2 = result2.findIndex((a) => a.id === result[index]?.content_id);
-		if (index2 === -1 || !result2[index2]) continue;
 		result[index].title = data.title;
 		result[index].description = data.description;
-		const metadata = {
-			...JSON.parse(result2[index2].metadata),
-			based_on_title: true,
-		};
-		result2[index2].metadata = JSON.stringify(metadata);
 
 		sqls.push(
 			`update content_bodies set title = '${data.title.replace(/'/g, "''")}', description = '${data.description.replace(/'/g, "''")}' where id = '${data.id}';`,
@@ -64,6 +72,9 @@ delete from contents where id in (${d.map((d) => `'${d}'`).join(",")})
 
 	const csv = Papa.unparse(result);
 	writeFileSync("./result/video/content_bodies.csv", csv);
+
+	const csv2 = Papa.unparse(result2);
+	writeFileSync("./result/video/contents.csv", csv2);
 
 	let count = 0;
 	let index = 0;

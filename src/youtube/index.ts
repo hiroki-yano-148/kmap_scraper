@@ -13,7 +13,9 @@ import { CATEGORY_MAPPING, CATEGORY_MAPPING2 } from "../data.js";
 import {
 	fetchImage,
 	getCoodinates,
+	readJsonl,
 	readJsonlToCsv,
+	readLines,
 	requestOpenAI,
 	toJsonl,
 	toUpperCase,
@@ -63,10 +65,9 @@ async function main() {
 		if (!existsSync(inputPath)) {
 			writeFileSync(inputPath, "");
 		}
-		const invalidUrls = readFileSync(inputPath, "utf-8")
-			.split("\n")
-			.filter(Boolean)
-			.map((value) => JSON.parse(value).url);
+		const invalidUrls = readJsonl<{ url: string }>(inputPath).map(
+			(line) => line.url,
+		);
 
 		if (invalidUrls.includes(url)) return;
 
@@ -89,9 +90,7 @@ async function main() {
 	}
 
 	const doneSet = new Set(
-		existsSync(doneTxtPath)
-			? readFileSync(doneTxtPath, "utf-8").split("\n").filter(Boolean)
-			: [],
+		existsSync(doneTxtPath) ? readLines(doneTxtPath) : [],
 	);
 
 	const csv = readFileSync("./src/youtube/source.csv", "utf-8");

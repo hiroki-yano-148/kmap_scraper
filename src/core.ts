@@ -1,13 +1,7 @@
 import type { CheerioAPI } from "cheerio";
 import * as cheerio from "cheerio";
 import { nanoid } from "nanoid";
-import {
-	appendFileSync,
-	existsSync,
-	mkdirSync,
-	readFileSync,
-	writeFileSync,
-} from "node:fs";
+import { appendFileSync, existsSync, mkdirSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { chromium } from "playwright";
@@ -22,6 +16,7 @@ import {
 	getTextInfo,
 	guessInfo,
 	readJsonlToCsv,
+	readLines,
 	sleep,
 	toJsonl,
 	toUpperCase,
@@ -80,10 +75,9 @@ export async function scrape(config: {
 		if (!existsSync(inputPath)) {
 			writeFileSync(inputPath, "");
 		}
-		const invalidUrls = readFileSync(inputPath, "utf-8")
-			.split("\n")
-			.filter(Boolean)
-			.map((value) => JSON.parse(value).url);
+		const invalidUrls = readLines(inputPath).map(
+			(value) => JSON.parse(value).url,
+		);
 
 		if (invalidUrls.includes(url)) return;
 
@@ -106,9 +100,7 @@ export async function scrape(config: {
 	}
 
 	const doneSet = new Set(
-		existsSync(doneTxtPath)
-			? readFileSync(doneTxtPath, "utf-8").split("\n").filter(Boolean)
-			: [],
+		existsSync(doneTxtPath) ? readLines(doneTxtPath) : [],
 	);
 
 	const storage = await SupabaseStorage.init();
