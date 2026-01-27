@@ -474,3 +474,96 @@ export function readLines(path: string) {
 export function readJsonl<T>(path: string) {
 	return readLines(path).map((line) => JSON.parse(line)) as Array<T>;
 }
+
+export function removeUrls(text: string) {
+	const urlRegex = /\b((https?:\/\/|www\.)[^\s<>"']+)/gi;
+
+	return text
+		.replace(urlRegex, "")
+		.replace(/\s{2,}/g, " ")
+		.trim();
+}
+
+export function createDetectPrompt(title: string, description: string) {
+	return `
+次のテキストが「英語」か「日本語」か判定してください。1文字でも日本語が含まれる場合は、日本語判定にしてください。
+\`\`\`text
+title: ${title ?? ""}
+description: ${description.slice(0, Math.max(title.length, 20)) ?? ""}
+\`\`\`
+
+出力は必ずJSON形式で行ってください。
+例：
+{
+	"lang": "ja" // or "en",
+}
+`;
+}
+
+export function createSummarizePrompt(lang: "ja" | "en", description: string) {
+	return `
+次の description を ${
+		lang === "ja"
+			? "日本語で400文字程度で要約してください。"
+			: "英語で200語程度で要約してください。"
+	}
+\`\`\`text
+description: ${description ?? ""}
+\`\`\`
+
+出力は必ずJSON形式で行ってください。
+例：
+{
+	"description": "desc"
+}
+`;
+}
+
+export function createTranslatePrompt(title: string, description: string) {
+	return `
+次の title と description を英語と日本語に翻訳してください。
+\`\`\`text
+title: ${title ?? ""}
+description: ${description ?? ""}
+\`\`\`
+
+出力は必ずJSON形式で行ってください。
+例：
+{
+	"en": {
+		"title": "title",
+		"description": "desc"
+	}
+	"ja": {
+		"title": "タイトル",
+		"description": "説明"							
+	}
+}
+`;
+}
+
+export function createTranslateAndSummarizePrompt(
+	title: string,
+	description: string,
+) {
+	return `
+次の title と description を参照し、それぞれ日本語と英語の要約を作ってください。日本語の場合、400文字程度、英語の場合、200語程度で要約してください。
+\`\`\`text
+title: ${title ?? ""}
+description: ${description ?? ""}
+\`\`\`
+
+出力は必ずJSON形式で行ってください。
+例：
+{
+	"en": {
+		"title": "title",
+		"description": "desc"
+	}
+	"ja": {
+		"title": "タイトル",
+		"description": "説明"							
+	}
+}
+	`;
+}
