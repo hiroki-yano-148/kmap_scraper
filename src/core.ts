@@ -17,6 +17,7 @@ import {
 	guessInfo,
 	readJsonlToCsv,
 	readLines,
+	removeUrls,
 	sleep,
 	toJsonl,
 	toUpperCase,
@@ -146,6 +147,7 @@ export async function scrape(config: {
 			}
 
 			const title = convertTitle(info.title);
+			const description = removeUrls(info.description).slice(0,2000)
 
 			const photoUrls = config.getPhotos($$);
 
@@ -168,7 +170,7 @@ export async function scrape(config: {
 
 			const lang =
 				config.lang ??
-				(await detectLanguage(title, info.description.slice(0, 200)).then(
+				(await detectLanguage(title, description).then(
 					({ lang }) => lang,
 				));
 

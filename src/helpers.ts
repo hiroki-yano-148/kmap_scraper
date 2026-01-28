@@ -421,19 +421,7 @@ export function readCsv<T>(path: string) {
 export async function detectLanguage(title: string, description: string) {
 	const result = await requestOpenAI<{
 		lang: "ja" | "en";
-	}>(`
-          次のテキストが「英語」か「日本語」か判定してください。1文字でも日本語が含まれる場合は、日本語判定にしてください。
-          \`\`\`text
-          title: ${title ?? ""}
-          description: ${description.slice(0, 20) ?? ""}
-          \`\`\`
-      
-          出力は必ずJSON形式で行ってください。
-          例：
-          {
-            "lang": "ja" // or "en",
-          }
-      `);
+	}>(createDetectPrompt(title, description));
 
 	return result;
 }

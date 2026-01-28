@@ -138,7 +138,7 @@ async function main() {
 		try {
 			const translated = await translateAndSummarize(s.title, s.description);
 
-			console.log({ translated });
+			// console.log({ translated });
 
 			const jaResult = {
 				id: ja.id,
