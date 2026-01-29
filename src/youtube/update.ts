@@ -84,7 +84,7 @@ delete from contents where id in (${d.map((d) => `'${d}'`).join(",")})
 		count += sql.replace(/\r\n/g, "\n").split("\n").length;
 		if (!q[index]) q[index] = [];
 		q[index]?.push(sql);
-		if (count > 9999) {
+		if (count > 999) {
 			index += 1;
 			count = 0;
 		}
