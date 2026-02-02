@@ -24,7 +24,10 @@ export async function requestOpenAI<T>(prompt: string): Promise<T> {
 	console.info("input:", prompt.length, "char ->", tokens.length, "token");
 	const response = await client.chat.completions.create({
 		model: "gpt-4o-mini",
-		messages: [{ role: "user", content: prompt }],
+		messages: [
+			{ role: "system", content: "あなたは観光業に精通した翻訳家です。" },
+			{ role: "user", content: prompt },
+		],
 		temperature: 0,
 		response_format: { type: "json_object" },
 	});
@@ -535,7 +538,28 @@ export function createTranslateAndSummarizePrompt(
 	description: string,
 ) {
 	return `
-次の title と description を参照し、それぞれ日本語と英語の要約を作ってください。日本語の場合、400文字程度、英語の場合、200語程度で要約してください。ただし、元の文章が短ければ、無理に増やす必要はありません。憶測で情報を追加しないでください。絶対にです。
+- 次の title を日本語と英語に翻訳してください。
+- 次の description の日本語と英語の要約を作ってください。日本語の場合、400文字程度、英語の場合、200語程度で要約してください。ただし、以下の点に注意してください。
+	- メタ表現（「この動画／記事／テキストは…」「これは…です」など）で始めない。
+	　→ 主題、場所、体験を直接的に書き始める。
+
+	- 自然な、読者を引き込む旅行記事調で書く。
+	　説明的表現やメタデータ的な表現（「情報を提供します」「目的は」「役割は」など）は避ける。
+
+	- 原文に忠実であること。
+	　原文に明確に存在しない雰囲気、物語性、感情、背景を創作しない。
+
+	- 行動喚起、誇大表現、絵文字は使用しない。
+	　「素晴らしい」「信じられない」「必見」などの表現を避ける。
+
+	- 日本語用語：
+	　- 英語、ローマ字表記（日本語）は、明確化が必要な場合のみ使用すること。
+	　- 読み方を推測しない。不明な場合は日本語表記をそのまま残すこと。
+
+	- 名称と施設：
+	　- 利用可能な場合は、一般的に認知されている英語名またはローマ字表記を使用すること。
+	　- 標準的な略称は許容される。
+
 \`\`\`text
 title: ${title ?? ""}
 description: ${description ?? ""}
