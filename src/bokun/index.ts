@@ -120,7 +120,11 @@ async function main() {
 
 		const csv = XLSX.utils.sheet_to_csv(ws, { blankrows: false });
 		if (!csv) return;
-		writeFileSync(path.join(outputDir, `merged.csv`), csv);
+		const filePath = path.join(outputDir, `merged.csv`);
+		if (!existsSync(outputDir)) {
+			mkdirSync(outputDir, { recursive: true });
+		}
+		writeFileSync(filePath, csv);
 	}
 
 	if (!existsSync("./result")) {
@@ -139,7 +143,7 @@ async function main() {
 	const id4 = new Set<{ id: string; prod: string }>();
 	const id5 = new Set<{ id: string; prod: string }>();
 
-	const entries = await readdir("./source", { withFileTypes: true });
+	const entries = await readdir("./src/bokun/source", { withFileTypes: true });
 
 	const result: Result[][] = [];
 	let total2 = 0;
@@ -149,7 +153,7 @@ async function main() {
 		} else {
 			// await mkdir("./result");
 			const dir = path.join("./result/bokun", entry.name.replace(".xlsx", ""));
-			await convertExcelToCsv(path.join("./source", entry.name), dir);
+			await convertExcelToCsv(path.join("./src/bokun/source", entry.name), dir);
 		}
 
 		// const externalId = entry.name.replace(".xlsx", "");
